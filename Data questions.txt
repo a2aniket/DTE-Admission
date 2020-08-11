@@ -1,0 +1,19 @@
+Basic questions:
+1.Total no of applications.
+2.No of male/female application.
+3.Reservations percentage against available seats.
+4.Most popular course.(popularity of courses).Demand for a course and availability of seats.
+5.No of seats for each course.
+6.District popularity.
+7.Which college is most sought after for a particular course.
+8.Compare the final merit list with cap 3 data to find out how many student were'nt alloted a seat.(DSE id from final merit list is compared with Cap3) 
+Vaccant Seats:
+1.Show the vaccancy of seats for a particular course from cap1 to cap3.
+2.Vacant seats data sorted district wise,college wise,course wise,seat type for every cap round.
+
+Main questions:
+1.Does a student change his course after cap1 ?
+2.Given info:percentage,seat type,gender,district.Output a college name most likely to be alloted in cap3 after iterations.(trained model required)
+3.print out a list for given parameter with best proability containing 5 college with proaability percentage.(if a computer was to fill out the form). 
+4.A student gives a dummy list print out the chances  for each of the college on the list.
+5.
