@@ -1,13 +1,13 @@
 Basic questions:
-1.Total no of applications.
-2.No of male/female application.
-3.Reservations percentage against available seats.
-4.Most popular course.(popularity of courses).Demand for a course and availability of seats.
-5.No of seats for each course.
-6.District popularity.
+1.Total no of applications.  done
+2.No of male/female application.  done
+3.Reservations percentage against available seats.  done
+4.Most popular course.(popularity of courses).Demand for a course and availability of seats.  done
+5.No of seats for each course.  done
+6.District popularity.  done
 7.Which college is most sought after for a particular course.
 8.Compare the final merit list with cap 3 data to find out how many student were'nt alloted a seat.(DSE id from final merit list is compared with Cap3) 
-Vaccant Seats:
+Vaccant Seats:  done
 1.Show the vaccancy of seats for a particular course from cap1 to cap3.
 2.Vacant seats data sorted district wise,college wise,course wise,seat type for every cap round.
 
