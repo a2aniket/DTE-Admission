@@ -1,0 +1,374 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+2,120,4151,85.4,19105447,SABNE SANKET SUDHAKAR,M,SC,4,GSC,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+9,127,12893,77.88,19105376,NARNAWARE MRUNALI NARENDRA,F,SC,4,LOPEN,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",#,2.0
+13,131,48859,60.0,19111511,TAWALE SAMATA SADANAND,F,SC,4,LSC,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+17,135,6569,83.0,19128174,PAWAR RAJIV SANDIP,M,SC,4,GOPEN,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+38,156,46151,61.52,19113992,YADAV ANIKET RAJENDRA,M,SC,4,GSC,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+47,165,51739,57.7,19114487,KAMBLE PRANAV BALASAHEB,M,SC,4,GSC,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+69,187,42501,63.27,19128963,CHOPDE VAIBHAV GAUTAM,M,SC,4,GSC,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+77,195,52159,57.21,19129564,BHALERAO AKSHAY SUNIL,M,SC,4,GSC,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+80,198,53349,55.33,19136663,SAWANT ADITYA SUNIL,M,SC,4,GSC,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+82,200,53489,55.03,19123103,DOIPHODE VINOD SHIVAJI,M,SC,4,GSC,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+86,204,54525,47.64,19123224,CHAVAN ANIKET YUVRAJ,M,SC,4,LSC,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+93,2806,4110,85.45,19128091,WAGHMARE DHONDIRAM VIJAYKUMAR,M,SC,4,GSC,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+94,2807,4439,85.09,19104046,BAVISKAR PRAFULLA DNYANEWAR,M,SC,4,PHSC,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+99,2812,13846,77.21,19120887,LANDAGE PRADNYA CHITRAGUN,F,SC,4,LSC,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+140,2853,11810,78.67,19101591,BALID SIDDHANT ANIL,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+144,2857,12133,78.42,19100796,SWAPNIL OMKAR KHARAT,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+164,2877,16432,75.52,19139774,BIJORE AVINASH BABULAL,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+165,2878,16497,75.45,19107753,PRATHAMESH BHAGWAN TAMBE,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+166,2879,17070,75.09,19115137,NEHA RAMESH CHAVAN,F,SC,4,LSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+168,2881,18147,74.88,19144213,SHERE AJIT GAUTAM,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+173,2886,20265,73.27,19109472,WAGHMARE SHUBHAM SUBHASH,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+174,2887,21078,72.86,19112626,SHUBHAM ASHOK TAPASE,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+176,2889,22422,72.18,19102034,SAWANT DEVENDRA JAYWANT,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+177,2890,25094,70.85,19105290,JADHAV KOMAL ANIL,F,SC,4,LSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+181,2894,30569,68.34,19104166,LOKHANDE SONIYA SANJAY,F,SC,4,LSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+218,2932,22282,72.24,19102876,ROHAN DADASAHEB HAJARE,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+220,2934,25387,70.73,19104719,BHISE SWARAJ SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",&,4.0
+221,2935,28137,69.43,19101366,AMARTYA KAILAS RANDIVE,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+222,2936,29283,68.91,19102394,RUSHIKESH JAISHIV KHANDAGALE,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+223,2937,29288,68.91,19100168,AVCHARE LALIT APPASAHEB,M,SC,4,GSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+230,2944,34424,66.67,19108512,KAMBLE NIKITA SHIVAJI,F,SC,4,LSC,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+237,2952,3864,85.73,19159002,MANE SAMPAT BHAGAVAN,M,SC,4,GOPEN,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+247,2962,10755,79.39,19112748,MALGUNKAR MANJIRI MOHAN,F,SC,4,LSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+248,2963,11714,78.73,19103962,PAGARE TANUSHKA VILAS,F,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+256,2971,18680,74.18,19152165,GAIKWAD AMOL EKNATH,M,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+257,2972,20278,73.27,19132345,TAYADE SUMIT VIJAY,M,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+268,2983,13660,77.33,19102912,GAWALE VISHAL SURESH,M,SC,4,GOPEN,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+288,3003,24563,71.1,19149945,JADHAV SIDDHANT RAMESH,M,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+293,3008,26757,70.06,19150430,SONKAMBLE AKASH PRAKASH,M,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+295,3010,30192,68.48,19123356,JADHAV SHUBHAM SURENDRA,M,SC,4,GSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+300,3015,36548,65.79,19123024,BHOIR MANASI GANESH,F,SC,4,LSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+301,3016,37888,65.21,19110340,WAGHMARE SANTOSHI RAJU,F,SC,4,LSC,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+354,3528,25967,70.42,19102454,MORE ROSHAN SUBHASH,M,SC,4,MIMH,,201,Civil,201,Civil,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",*-,3.0
+357,3531,27289,69.82,19145182,GHODKE SHREEDHAR RAMESH RAGHUNATH,M,SC,4,MIMH,,201,Civil,201,Civil,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^-,
+364,3538,29256,68.91,19104367,PAWAR ANIRUDDHA SHASHIKANT,M,SC,4,MIMH,,201,Civil,201,Civil,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^-,
+394,3568,23695,71.52,19135600,GHEVADE RUSHABH SANJAY,M,SC,4,GOPEN,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+400,3574,36770,65.7,19129134,KAMBLE MIHIR ANAND,M,SC,4,GOPEN,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+402,3576,39631,64.48,19108045,KHADE MANSI JAHINDRA,F,SC,4,GSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",*,3.0
+404,3578,40248,64.24,19155429,KAMBLE ROSHAN SAMBHAJI,M,SC,4,GOPEN,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+405,3579,40600,64.06,19100450,LOKHANDE ARNAV SHAKINDRA,M,SC,4,GSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+411,3585,43517,62.79,19134016,SHIRSATH DHANASHRI VINOD,F,SC,4,LOPEN,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+416,3590,44870,62.14,19125200,PAWAR SAHIL SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+417,3591,45091,62.06,19112799,SUSVIRKAR SHRITEJ UTTAM,M,SC,4,GSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+419,3593,45263,61.94,19108897,TELURE VAIBHAVI RAMESH,F,SC,4,LSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+422,3596,45893,61.64,19157343,SARDAR VAIBHAVI DEEPAKKUMAR,F,SC,4,LSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+425,3599,46885,61.15,19129935,NIKALAJE SHUBHAM JAGANNATH,M,SC,4,GSC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+428,3602,47437,60.85,19157351,SONAWANE KALPESH SUDHAKAR,M,SC,4,LNTC,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+445,3684,11465,78.91,19132688,KHADSE ASMITA RAJU,F,SC,4,LOPEN,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+480,3719,35951,66.06,19101603,WAGHMARE NILESH SHIVAJI,M,SC,4,GSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+484,3723,39894,64.36,19146158,PANDIT RAHUL VILAS,M,SC,4,GSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+485,3724,40058,64.3,19101131,MORE RAHUL SUDHAKAR,M,SC,4,PHSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+487,3726,40375,64.18,19112212,WAGHODE SNEHAL DHARMAPAL,F,SC,4,LSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",*,3.0
+488,3727,40792,64.0,19105860,SAWANT JANHVI SANTOSH,F,SC,4,LSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+490,3729,42353,63.33,19113256,ZALTE ROHIT RAVINDRA,M,SC,4,GSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+493,3732,43021,63.03,19146044,SIRSATH SHWETA KAILAS,F,SC,4,LSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+494,3733,43373,62.85,19114792,BAGADE SIDDANT SUNIL,M,SC,4,GSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+497,3736,44834,62.18,19117609,PAWAR BUDHABHUSHAN RAJARAM,M,SC,4,GSC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+503,3887,11286,79.03,19104364,KHARAT PRAJAKTA MALHARI,F,SC,4,LOPEN,,201,Civil,201,Civil,3439,Raigad,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",#,2.0
+584,4105,41217,63.82,19134600,NIJAMPURKAR SHUBHAM SANTOSH,M,SC,4,GOPEN,,1,,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+588,4109,44857,62.18,19141664,JADHAV SHREYASH ANIL,M,SC,4,GOPEN,,1,,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+590,4111,45660,61.76,19144131,PATOLE AJIT BALAJI,M,SC,4,GOPEN,,1,,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+591,4112,45787,61.7,19141102,WAGHMARE PRATHAMESH VILAS,M,SC,4,GOPEN,,1,,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+599,4121,51410,58.03,19156716,SONKAMBLE KHILESH NANA,M,SC,4,GSC,,201,Civil,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+600,4122,51627,57.82,19145066,KSHIRSAGAR VINOD TAYAPPA,M,SC,4,GSC,,201,Civil,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+603,4125,52716,56.36,19127964,SALVI RAHUL SADANAND,M,SC,4,GSC,,201,Civil,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",&,4.0
+611,4133,54296,51.64,19140971,MORE PRATIK DILIP,M,SC,4,GSC,,201,Civil,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",&,4.0
+615,4335,7940,81.7,19149143,BHALERAO MAYURI RAJU,F,SC,4,LOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+620,4340,18348,74.36,19146268,KAPURE SUDEEP KESHAV,M,SC,4,GOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+650,4370,35430,66.24,19125778,LILADHAR NAGESH KADAM,M,SC,4,GOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+655,4375,36018,66.0,19105359,BAGUL OM DILIP,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+661,4381,38494,64.97,19149677,KAMBLE SONALI DEEPAK,F,SC,4,LOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",&,4.0
+671,4391,43665,62.73,19142866,JADHAV RAJENDRA PANDURANG,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+676,4396,46416,61.39,19145571,PATIL MAHESH KASHINATH,M,SC,4,LSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",&,4.0
+677,4397,46859,61.15,19127750,SURYAVANSHI AMOL ANURATHRAO,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+682,4402,48596,60.18,19112136,GUJAR ADITYA DNYANESHWAR,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+683,4403,48620,60.18,19116647,GAIKWAD KETAN RAJESH,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+684,4404,48681,60.12,19158727,KADAM PRANAY PRAMOD,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+689,4409,49980,59.27,19145342,GAIKWAD TEJASHREE GANESH,F,SC,4,LSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+690,4410,50023,59.21,19107727,SONAWANE RUPALI RANGANATH,F,SC,4,LSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+704,4424,53486,55.03,19154281,KAMBLE AKSHAY SUDHAKAR,M,SC,4,GSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+708,4428,54196,52.36,19113196,GAIKWAD SHUBHAM ANANTA,M,SC,4,LSC,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+712,4516,10460,79.64,19140563,FULE SHRUTI PURUSHOTTAM,F,SC,4,LOPEN,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+738,4542,31434,67.94,19110432,KADAM KAUSTUBH VILAS,M,SC,4,GOPEN,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+740,4544,31864,67.76,19123760,VRISHABH GANESH GHODKE,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",*,3.0
+744,4548,32459,67.52,19107147,SAWANT SHUBHAM SUHAS,M,SC,4,GOPEN,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+745,4549,32706,67.39,19122175,RUHI AJAY REVANSIHADA,M,SC,4,GOPEN,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+749,4553,33453,67.09,19100282,JADHAV VIRAJ CHANDRAKANT,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+755,4559,34708,66.55,19109497,WAGHMARE TUSHAR BHAGWAN,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+760,4564,35323,66.3,19138131,SOLANKI AKSHAY NAGESH,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",&,4.0
+766,4570,36306,65.88,19103949,KAMBLE SURAJ DIPAK,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+768,4572,36381,65.88,19112231,SAWANT PRANAY RAMCHANDRA,M,SC,4,DFSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",&,4.0
+770,4574,36797,65.7,19141631,KAMBLE ROHIT RAJU,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+781,4585,39246,64.67,19154525,SONAWANE ASHWINI ASHOK,F,SC,4,LSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",@,5.0
+784,4588,39513,64.55,19108724,MUNTODE NIKHIL RAMESH,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+786,4590,40522,64.12,19114049,KADAM ROHAN SUDHAKAR,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+789,4593,41618,63.64,19103686,NIKAM SWARAJ SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+798,4602,42976,63.03,19135341,KAMBLE SHREYAS SHASHIKANT,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+808,4612,44555,62.3,19110636,PRAJWAL PANDHARI WAGHMARE,M,SC,4,GSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+809,4613,45047,62.06,19125132,SHINDE SUPRIYA DATTATRAY,F,SC,4,LOPEN,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+812,4616,46639,61.27,19124346,MALWE RAHUL BHARATBHUSHAN,M,SC,4,LSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+813,4617,46733,61.21,19104147,KAMBLE SATYASHEEL VIJAY,M,SC,4,LSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+815,4619,46887,61.15,19120438,PRANAY SANJAY JADHAV,M,SC,4,LSC,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+845,14824,9422,80.44,19101187,INGLE PRAMOD ASHOK,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+848,14827,13975,77.12,19101625,GOURAV KIRAN KOLHATKAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",#,2.0
+849,14828,18418,74.3,19123290,THALKAR SHREYA RAJESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",#,2.0
+858,14837,6890,82.69,19100631,CHIPLUNKAR MANASI PANDURANG,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+867,14846,20099,73.38,19149350,SURYAVANSHI SANGMALA RAMESGH,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",*,3.0
+882,14939,15854,75.86,19138113,KAMBLE AGNIVESH RAJKUMAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",&,4.0
+894,14951,14708,76.6,19101295,KAMBLE SHUBHANGI VIJAY,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+900,14957,24417,71.18,19109760,JAGDHANE SHWETA SANTOSH,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",#,2.0
+901,14958,24924,70.94,19102755,KAMBLE SHUBHAM SATYAWAN,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+912,14997,8663,81.06,19102665,VANMORE ANUSHKA ANIL,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+915,15000,12070,78.47,19132918,TUPE RAJ DILIP,M,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+917,15002,14756,76.56,19138161,SONAWANE DHANASHREE DEEPAK,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+935,15020,9981,80.0,19124770,PANDIRKAR SRUSHTI SHYAM,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+940,15025,13876,77.18,19112960,KAMBLE VISHAL NAMDEO,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+943,15028,15610,76.0,19115738,GAMARE SHLOK GAUTAM,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+945,15030,19474,73.71,19109050,AAWALE NILESH PRAKASH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+971,15096,11686,78.75,19111400,AHIRE GAYATRI ANIL,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",@,5.0
+973,15098,12145,78.41,19136987,JAGTAP SIDDHESH VIJAYANAND,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",&,4.0
+984,15109,14680,76.63,19111448,DAHATE SOURABH RAMESHCHANDRA,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+989,15114,15503,76.06,19132569,KAMBLE VARSHA NANDU,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+993,15118,16422,75.52,19124784,KAMBLE ANKITA SANJIVAN,F,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+995,15120,16809,75.25,19135454,JADHAV MAYURI DILIP,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1002,15127,22791,72.0,19111179,ADITYA SOMNATH KHARAT,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1008,15133,25350,70.75,19105950,TASTODE PRATIK PRAKASH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1010,15135,27097,69.94,19112051,BHALSHANKAR PRITI MUNJA,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1013,15138,28537,69.25,19132553,WANKHEDE SHRIKANT KHUSHAL,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1015,15140,29993,68.59,19109930,UPARWAT TANVI RAMCHANDRA,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1047,15172,21269,72.76,19105300,JADHAV NITIN NARESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1049,15174,23754,71.48,19121597,KHAIRE SHUBHANGI RAMESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+1053,15178,26705,70.07,19100915,JADHAV SAHIL SANTOSH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1054,15179,30577,68.31,19132244,RAMRAJE SHUBHAM DINESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+1074,15589,29182,68.94,19110201,BANGAR PRASHANT SUNIL,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+1077,15592,37955,65.19,19156593,BHOIR RUTUJA BABAN,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+1081,15596,52534,56.69,19130395,NARAYANKAR PRAJAKTA MALLINATH,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+1084,15599,15549,76.06,19124053,JAGTAP PRANALI JIBHAU,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",*,3.0
+1095,15610,28060,69.47,19107110,BHOSALE TUSHAR SHAILESH,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+1102,15617,34763,66.53,19100144,TURALKAR PRITAM RATAN,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+1109,15624,39850,64.41,19113039,SALVE PRANAV MUKUNDRAJ,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+1112,15627,43732,62.71,19113998,TAMBE SACHIN SURESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+1174,16172,17149,75.06,19112974,KAMBLE GIRISH BHIWA,M,SC,4,MIMH,,301,Computer & IT,301,Computer & IT,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^-,
+1211,16209,19973,73.44,19108390,MOHITE POOJA VILAS,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",&,4.0
+1217,16215,24772,71.0,19107711,TAMBE PRANJALI MANORANJAN,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",&,4.0
+1219,16217,29720,68.71,19125040,ANIRUDHA M LOKHANDE,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",&,4.0
+1228,16226,34664,66.56,19107594,WALHEKAR ASHWINI BALASAHEB,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",&,4.0
+1234,16232,40709,64.06,19133412,WAGHMARE PRITAM MARUTI,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+1244,16242,52129,57.25,19157325,GAIKWAD AKASH VILAS,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+1262,16306,24938,70.94,19110229,SHINDE ANKITA NARAYAN,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",&,4.0
+1268,16312,30148,68.52,19131804,JADHAV KOMAL SANTOSH,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",&,4.0
+1273,16317,35265,66.31,19157936,KADAM KAJAL BABU,F,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",&,4.0
+1279,16323,42226,63.38,19102167,DOLAS TEJAS BHAGWAN,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1285,16329,44505,62.31,19151468,SHINDE NIKITA BALAJI,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1288,16332,45361,61.88,19143201,KAMBLE SANCHIT DEEPAK,M,SC,4,GSC,,401,Machanical,301,Computer & IT,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+1311,16525,32767,67.38,19116008,JADHAV ROHIT RAJENDRA,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+1312,16526,33175,67.2,19108816,CHANDORKAR NIDHI ARUN,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",#,2.0
+1334,16548,53582,54.75,19117852,DIKSHA ANIL KHOPKAR,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",&,4.0
+1335,16675,10965,79.27,19124082,JATIN SUNIL MORE,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1341,16681,37573,65.35,19124279,HITESH SATISH HOLKAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+1356,16745,17628,75.0,19113201,NAGAONKAR SHRISH GANESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+1361,16750,23031,71.86,19108758,DOMKONDWAR ANJALI PRADEEP,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",*,3.0
+1384,16773,37431,65.41,19103891,SHINDE NITISH SANTOSH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+1385,16774,38094,65.13,19157327,WAGHMARE PRAGATI SANJIV,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+1386,16775,38837,64.82,19111946,SHINDE RUSHIKESH RAJENDRA,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+1391,16780,47037,61.06,19142545,PAWAR MANISHA SANTOSH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+1395,16784,53967,53.5,19125023,GAIKWAD MEERA BHAGWAN,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+1400,26781,7964,81.69,19119593,ALTE SHWETA DASHRATH,F,SC,4,LOPEN,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",*,3.0
+1409,26790,16441,75.5,19104161,BHASME SRUSHTI MOTISING,F,SC,4,LSC,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1415,26796,25443,70.71,19131410,PRANITA PANDURANG KOKANE,F,SC,4,GSC,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1423,26804,30921,68.18,19101872,HIMANSHU NILESH KAMBLE,M,SC,4,PHNTA,,301,Computer & IT,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1424,26805,31955,67.71,19105027,SHINDE PIYUSH SANTOSHKUMAR,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1428,26809,38606,64.94,19149621,ADMANE VIJAYKUMAR MANIK,M,SC,4,GSC,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1438,26819,51640,57.8,19129740,BHUTALE SHITAL SURYAKANT,F,SC,4,GSC,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1443,26824,53890,53.8,19153780,MORE SUDESH SURYAKANT,M,SC,4,GSC,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1446,26987,32212,67.59,19117249,SONAWANE YASH KIRAN,M,SC,4,GOPEN,,304,Electrical,302,ENTC,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",*,3.0
+1457,26998,51110,58.35,19101869,NANDGAONKAR NIKET SUBHASH,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1487,28610,13621,77.37,19115216,DEOKAR ANKITA JALINDAR,F,SC,4,LOPEN,,302,ENTC,302,ENTC,3207,Raigad,"Mahatma Education Society's Pillai College of Engineering, New Panvel",^,1.0
+1496,28619,26459,70.18,19125033,JADHAV ABHA VIKAS,F,SC,4,LOPEN,,302,ENTC,302,ENTC,3207,Raigad,"Mahatma Education Society's Pillai College of Engineering, New Panvel",^,1.0
+1507,28630,39580,64.53,19114155,SALVE MAYURI SHARAD,F,SC,4,LOPEN,,302,ENTC,302,ENTC,3207,Raigad,"Mahatma Education Society's Pillai College of Engineering, New Panvel",^,1.0
+1519,28658,51820,57.63,19150071,ADSUL SWAPNIL PRADEEP,M,SC,4,MIMH,,302,ENTC,302,ENTC,3207,Raigad,"Mahatma Education Society's Pillai College of Engineering, New Panvel",^-,
+1520,28659,27122,69.9,19120136,TAYADE ADARSH JANARDHAN,M,SC,4,GOPEN,,304,Electrical,302,ENTC,3207,Raigad,"Mahatma Education Society's Pillai College of Engineering, New Panvel",^,1.0
+1536,28919,19139,73.94,19113532,SHINDE SUBODH SANJAY,M,SC,4,MIMH,,302,ENTC,302,ENTC,3211,Raigad,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai",^-,
+1547,29340,44990,62.12,19131366,LANDGE AMIT ANIL,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^,1.0
+1553,29390,38297,65.06,19119484,RAJGURU NISHANT DILIP,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+1574,29896,18684,74.18,19111314,SAURABH SUBHASH SONAWALE,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1586,40885,22894,71.94,19101142,DABHADE SIDDHANT SANJAY,M,SC,4,GSC,,303, Medical Electronics,303, Medical Electronics,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1588,40887,29343,68.88,19151090,JOHARE SHUBHANGI VITTHALRAO,F,SC,4,LSC,,303, Medical Electronics,303, Medical Electronics,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1593,42704,1573,89.1,19146871,MORE TRIVENI SURESH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1604,42715,15681,75.94,19135408,RAMTAKKE MAYA GOVINDRAO,F,SC,4,GSC,,304,Electrical,304,Electrical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",*,3.0
+1607,42718,31809,67.76,19117151,KAMBLE PRAJAKTA MANIK,F,SC,4,GSC,,304,Electrical,304,Electrical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",*,3.0
+1618,42729,4998,84.5,19105245,WADATE VIGHNESH VINAY,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1625,42736,7461,82.18,19119035,GAIKWAD SHUBHAM PRASHANT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1627,42738,7828,81.8,19128588,GAIKWAD PRATIKSHA RAMESH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1629,42740,8509,81.2,19111589,AHIRE SANCHIT BIRJU,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",#,2.0
+1637,42748,10690,79.45,19110149,AHIRE SAKSHI ATULCHANDRA,F,SC,4,LSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1642,42753,13009,77.77,19125151,SHIRSAT JEEWAK ARUN,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1651,42762,15959,75.8,19105392,ETAM ROHIT RAJESH,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1657,42768,16626,75.38,19113923,YADAV SANKET SANTOSH,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1660,42771,19517,73.7,19130700,SURWADE KIRAN RAJENDRA,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1661,42772,19755,73.58,19100769,TELHURE ROSHAN VIJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1663,42774,20746,73.03,19106088,MOHITE SAHIL RAJENDRA,M,SC,4,GSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1667,42778,25971,70.42,19105976,WAGHMARE TRUPTI SUCHIWARTA,F,SC,4,LSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1672,42783,43554,62.79,19124609,PRADNYA SUBHASH HIWALE,F,SC,4,LSC,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",#,2.0
+1700,42812,27988,69.52,19107512,BODADE PRAFUL PRAKASH,M,SC,4,GSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+1707,42819,34853,66.48,19101085,SHINDE SHUBHAM RAJANAND,M,SC,4,GSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1709,42821,38033,65.15,19153396,SURYAWANSHI RAJSHRI MADHAV,F,SC,4,LSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1710,42822,39644,64.48,19123136,RATHOD KARTIK MANILAL,M,SC,4,GSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+1711,42823,40533,64.12,19111917,JADHAV DIPANKAR PRAKASH,M,SC,4,PHSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1712,42824,41359,63.76,19114233,BHOIR TUSHAR PRABHAKAR,M,SC,4,GSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",&,4.0
+1714,42826,42172,63.39,19112341,KALE SAMIKSHA RAMESH,F,SC,4,LSC,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1750,43250,37753,65.27,19119497,PAWAR RANI RAVIKANT,F,SC,4,MIMH,,304,Electrical,304,Electrical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",&-,4.0
+1751,43251,38060,65.15,19114080,KADAM SHIVRAJ SUNIL,M,SC,4,MIMH,,304,Electrical,304,Electrical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^-,
+1760,43260,43667,62.73,19116850,SHINDE VEDANT SATISH,M,SC,4,MIMH,,304,Electrical,304,Electrical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",#-,
+1777,43277,41199,63.82,19100842,KAMBLE PRATHAMESH GANESH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",*,3.0
+1786,43286,44005,62.58,19136846,CHAVAN AISHWARYA ARUN,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1789,43289,44968,62.12,19130584,KANTHE SHIVANI SANJAY,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1795,43295,47414,60.85,19123925,JADHAV RUSHIKESH GAUTAM,M,SC,4,GSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1796,43296,47433,60.85,19129550,VISHAL RAJENDRA KAMBLE,M,SC,4,GSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+1799,43299,50213,59.09,19132708,KAMLESH ONKAR MAHALE,M,SC,4,GSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1800,43300,50375,58.97,19102530,WAGHMARE HRISHIKESH BHOJRAJ,M,SC,4,GSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1804,43304,51859,57.58,19124538,SHINDE ALANKAR BHARAT,M,SC,4,LSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1805,43305,52344,56.97,19113251,ROHIT VASANTA DONGRE,M,SC,4,PHSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",*,3.0
+1807,43307,52976,56.0,19111600,KAKDE RAVINA CHARANDAS,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+1808,43308,53352,55.33,19124733,PAWAR TUSHAR DATTATRAY,M,SC,4,LSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+1809,43309,53619,54.67,19134355,KAMBLE KARAN UTTAMRAO,M,SC,4,GSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+1810,43310,53896,53.76,19132229,TAYADE RAVIKANT ASHOK,M,SC,4,LSC,,304,Electrical,304,Electrical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+1813,43393,22275,72.24,19124568,MOHITE PRATIK SANJAY,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3439,Raigad,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",^,1.0
+1825,43405,41192,63.82,19112619,GAIKWAD SURAJ SUDHAKAR,M,SC,4,LOPEN,,304,Electrical,304,Electrical,3439,Raigad,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",#,2.0
+1826,43406,53350,55.33,19107274,DHANAWADE SNEHAL PRADEEP,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3439,Raigad,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",^,1.0
+1867,43538,37898,65.21,19109947,GAIKWAD OMKAR BALKRISHNA,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1868,43539,38465,65.0,19110726,SAKAT AJAY KUNDLIK,M,SC,4,GSC,,302,ENTC,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1871,43542,41801,63.58,19115140,GUPTE RAKESH UTTAM,M,SC,4,GSC,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1878,43549,45346,61.9,19149717,KAMBLE SUMEDH BHASKAR,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1910,53278,7403,82.24,19115254,SANGAM SUNIL GAWALE,M,SC,4,GSC,,401,Machanical,401,Machanical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1912,53280,10326,79.71,19124067,REDDY RAHUL PILLAPPA,M,SC,4,LSC,,401,Machanical,401,Machanical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1916,53284,41453,63.71,19110185,MARCHANDE SURAJ SUNIL,M,SC,4,DFSC,,401,Machanical,401,Machanical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",#,2.0
+1935,53322,15662,76.0,19101012,DEVRA ASHISH VINOD,M,SC,4,GSC,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1937,53324,16768,75.29,19114281,KUDVE DIGVIJAY KISHOR,M,SC,4,GSC,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1940,53327,28163,69.41,19109313,KAMBLE DHANASHREE VIJAY,F,SC,4,LOPEN,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1942,53329,39136,64.71,19111617,SADAMATE SHRAVANI BHASKARRAO,F,SC,4,LOPEN,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1943,53330,46204,61.47,19123894,NANAWARE SNEHAL RAJU,F,SC,4,LSC,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1969,53356,34968,66.44,19140208,NITNAVARE VINAYAK DILIP,M,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1972,53359,35360,66.29,19140128,SALVI VIPUL RAJENDRA,M,SC,4,PHSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1977,53364,39536,64.55,19113985,UBALE MAHESH ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1980,53367,39930,64.36,19113988,DESAI SAURABH SHRIKANT,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1982,53369,41490,63.7,19111994,MORE ABHISHEK VISHWAS,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1987,53374,44067,62.55,19108079,THORAVE ROHIT SURESH,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+1990,53377,53857,53.94,19147487,PATEKAR SUMEDH ANIL,M,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2005,53392,10412,79.65,19133385,SHIRSAT JAYESH PRADEEP,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+2014,53401,11188,79.1,19107428,KHARATMOL OMKAR ANIL,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2019,53406,11899,78.59,19110864,REVASKAR SHASHIVANSHI SHANKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2038,53425,18950,74.0,19139755,JAGTAP DEVDATTA SURYAKANT,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2039,53426,19044,74.0,19112156,PAWAR ABHISHEK DEEPAK,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2040,53427,19151,73.92,19102235,KADAM PRATHAMESH VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2041,53428,19432,73.76,19106330,SAWANT SARVESH VIKAS,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2042,53429,20101,73.36,19102389,BHOITE RUSHIKESH RAJENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2052,53439,21263,72.76,19129645,SONAWALE SAHIL KUMAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2057,53444,22930,71.88,19101475,KAWLE SUSHANT ASHOK,M,SC,4,PHSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2069,53456,37248,65.47,19119985,DHOBLE KETNA BHAGAWAN,F,SC,4,LOPEN,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2071,53458,38013,65.18,19111214,SHIKHARE SNEHA BABASAHEB,F,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2074,53461,40909,63.94,19113922,GOLE AISHWARYA VIJAY,F,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2075,53462,41123,63.87,19114057,KADAM SAYALI SHILVARDHAN,F,SC,4,LOPEN,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2076,53463,43601,62.76,19123199,SALVE SHWETA ASHOK,F,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2081,53468,9428,80.44,19121044,DESALE PRATIK NAVNEET,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2113,53500,23899,71.41,19101176,KETAN K GAIKWAD,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2117,53504,24445,71.16,19119628,WAYDANDE MANGESH VILAS,M,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2118,53505,24674,71.06,19103664,PIYUSH VIJAY TALWALKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2120,53507,25936,70.44,19102061,GAJBHIV AKASH ANIL,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2121,53508,26126,70.35,19103730,YADAV KETAN NITIN,M,SC,4,GSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2123,53510,26930,70.0,19129313,SARATHI SUNIL KAMBLE,M,SC,4,LSC,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2143,53530,11096,79.18,19100335,SONAWALE PRATIK NAMDEO,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2153,53540,19161,73.89,19105707,NIKHIL AHIRE,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2155,53542,19293,73.82,19126419,INGLE HARSHAD SANJIV,M,SC,4,LSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2158,53545,20733,73.06,19118735,DHANVIJ PRAJAY GANGADHAR,M,SC,4,PHSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2160,53547,25877,70.47,19108781,SAMRUDH SUBHASH JADHAV,M,SC,4,LSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+2185,53572,16867,75.24,19112461,MANE HRITHIK VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2197,53584,23275,71.71,19112150,SHIRODKAR BHAVESH CHANDRASHEKHAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",&,4.0
+2201,53588,26358,70.24,19131920,GANGURDE SHREYAS SURESH,M,SC,4,LSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+2202,53589,27951,69.52,19111460,DHANRAJ RAHUL VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+2203,53590,28577,69.24,19124379,GAIKWAD SHIVAM SHAHURAJ,M,SC,4,GSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2204,53591,28990,69.04,19100048,SALVE RUSHIKESH JAGDEV,M,SC,4,LSC,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",&,4.0
+2219,53888,17469,75.0,19104849,JADHAV ANIKET ANANTA,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+2222,53891,19406,73.76,19133801,MESHRAM PRAJWAL PRASHANT,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",*,3.0
+2236,53905,25774,70.53,19100247,TIMMANPYATI KRITHIK AMAR,M,SC,4,LOPEN,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",&,4.0
+2246,53915,30286,68.47,19105783,MANE SUNNY SANJAY,M,SC,4,LSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",&,4.0
+2249,53918,32218,67.59,19103490,GAIKWAD SIDDHANT RAJENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+2262,53931,38430,65.0,19134431,BHALERAO SANKET DINKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+2263,53932,38572,64.94,19100981,BAWASKAR ANAND DASHRATH,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2267,53936,39889,64.38,19138330,BANSODE SHUBHAM ANIL,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2268,53937,40101,64.29,19143887,JAGTAP PRAFUL ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2275,53944,41859,63.53,19107669,KAMBLE SWAPNIL ANIL,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2279,53948,43071,63.0,19102863,DAHIVALKAR GIRIDHAR JAGADISH,M,SC,4,GSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2283,53952,44619,62.29,19117441,WAGH SAKET SUDHIR,M,SC,4,LSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+2287,53956,47994,60.53,19157512,GAIKWAD NIKHIL SURENDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2290,53959,53817,54.06,19159678,PAWAR KARUNA RATNAKAR,F,SC,4,LOPEN,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",#,2.0
+2332,54611,30476,68.36,19102791,SHINDE SUMEDH HANMANT,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^,1.0
+2335,54614,32887,67.31,19117759,PAWAR OJAS PRADEEP,M,SC,4,LOPEN,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",*,3.0
+2337,54616,33786,66.94,19106179,ABHISHEK KADAM,M,SC,4,LOPEN,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",&,4.0
+2355,54653,44448,62.35,19102715,GADKARI PRITESH PRALHAD,M,SC,4,MIMH,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",&-,4.0
+2449,54747,26264,70.29,19114552,SONAWANE BHUSHAN RAJENDRA,M,SC,4,MIMH,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^-,
+2479,54777,33085,67.24,19103543,KAMBLE MOHIT MAHADEV,M,SC,4,LSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",*,3.0
+2482,54780,34483,66.65,19125005,SAWANT BUDDHABHUSHAN DHONDIBA,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+2483,54781,34503,66.65,19157452,GHONE PRANAV RAJESH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2493,54791,36971,65.59,19100674,PEVEKAR HRUTIK RAJESH,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+2494,54792,37224,65.48,19106327,YADAV SAKSHAM NATHA,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2500,54798,42585,63.24,19119732,SONAWANE PRATHAMESH VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+2503,54801,43057,63.0,19140431,NADGAM SANATH KASHINATH,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2509,54807,46479,61.35,19132736,KADAM NIRAJ SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+2515,54813,47871,60.59,19124431,GARUD HARSHAL ASHOK,M,SC,4,LSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2521,54819,49852,59.35,19127962,KADAM ANIKET BHIMRAO,M,SC,4,LSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2524,54822,50976,58.47,19101910,GAIKWAD GAURAV PRAVIN,M,SC,4,GNTA,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+2527,54825,52553,56.65,19113986,GADHIRE NISHIKANT RAJU,M,SC,4,GSEBC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+2548,54847,48793,60.06,19122290,ALHAT VISHAL RAJU,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",*,3.0
+2549,54848,48858,60.0,19105469,VISHAL ASHOK DALAVI,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",*,3.0
+2557,54856,50698,58.71,19102555,GAIKWAD SHUBHAM SANTOSH,M,SC,4,GSC,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",&,4.0
+2591,55037,25021,70.88,19132294,VAIDYA ASHUTOSH SHAM,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2617,55063,33952,66.88,19124179,BABAR DEEPENDRA BABAN,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2626,55072,37241,65.47,19100386,RAJ VILAS TAMBE,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",*,3.0
+2629,55075,38315,65.06,19113596,HARNAME SANKET ASHOK,M,SC,4,LSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",&,4.0
+2630,55076,38570,64.94,19114067,SALVE ASHISH ARUN,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2631,55077,38807,64.82,19132628,PAWAR MAYUR GOKUL,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2634,55080,39290,64.65,19124667,KAMBLE PRABODH PRAKASH,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2653,55099,43578,62.76,19152064,ZALTE PRASHANT BHIMRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2654,55100,43607,62.76,19119644,PRINCE RAJENDRA WAGHESHWAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2657,55103,44211,62.47,19106385,WAGH JAYESH JANARDHAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2660,55106,44475,62.35,19108272,WAGHMARE OMKAR BALU,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2661,55107,44626,62.29,19144181,RANKHAMBE SAMEER SHARAD,M,SC,4,LSC,,302,ENTC,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2667,55113,45393,61.88,19102536,MANE SHASHANK KAVIBHUSHAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2669,55115,47568,60.76,19111432,SHINDE ASHISH VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+2674,55120,48679,60.12,19101729,MOKAL SATYAM SOPAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+2677,55123,48913,60.0,19137892,GAIKWAD RUPESH NARENDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+2689,55135,52938,56.06,19132837,THOSARE SHREYASH VIJAY,M,SC,4,LSC,,401,Machanical,401,Machanical,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",*,3.0
+2767,55568,53077,55.85,19155410,KARAMBAT VARUN ANAND,M,SC,4,GSC,,401,Machanical,401,Machanical,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+2781,55715,20737,73.06,19133131,GAIKAWAD PRATHAMESH BAPURAO,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+2786,55720,24662,71.06,19128067,GAIKWAD SACHIN MARUTI,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+2799,55733,31394,67.94,19132305,TAMBE PRATIK PRABHAKAR,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+2806,55740,33945,66.88,19129884,THALKAR RUTIK PARSHURAM,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+2809,55743,34349,66.71,19112612,WAGHMARE DNYANESHVAR DATTA,M,SC,4,LST,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",&,4.0
+2824,55758,41235,63.82,19145966,SACHIN PRAKASH PATOLE,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+2826,55760,42699,63.18,19130173,MORE KARAN HARISHCHANDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+2833,55767,48318,60.35,19134674,KAMBLE NIKHIL VIKAS,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+2834,55768,48407,60.29,19141814,KATKE SHIVAM ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",#,2.0
+2841,55879,12747,78.0,19113065,PAWAR SAGAR PRAKASH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2869,55907,25923,70.44,19132760,SHINDE SACHIN SANTOSH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2883,55921,29731,68.71,19137639,KAMBLE DEEPAK NAMDEV,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",&,4.0
+2905,55943,35471,66.24,19108399,KASBE GAURAV PRAVIN,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2907,55945,35484,66.24,19107489,RAURALE ANIKET MOHAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2910,55948,36992,65.59,19113648,LANDGE KHANDESH MILIND,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2916,55954,37435,65.41,19132915,GAVALI SUMIT RAMESH,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2923,55961,38452,65.0,19123289,JADHAV ANURUDDHA GAUTAM,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2938,55976,41712,63.59,19152079,VAIRAT PRAFFUL SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2939,55977,41721,63.59,19100687,INGALE MAHESH MAHADEV,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2943,55981,42715,63.18,19110119,GAIKWAD ISHAN DEEPAK,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2944,55982,42956,63.06,19119886,SURYAVANSHI AAKASH ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2951,55989,44372,62.41,19156654,UGHADE SOMNATH ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2957,55995,49231,60.0,19120702,KHARAT NILESH MAHADU,M,SC,4,LSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2958,55996,49435,60.0,19133903,KADAM SAINATH KISHAN,M,SC,4,LSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2959,55997,50087,59.18,19125079,KIRAN VASANTRAO SHIRKE,M,SC,4,LSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2960,55998,50902,58.53,19141271,DONGARE ATISH SATISH,M,SC,4,LSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2962,56000,51286,58.18,19123286,SAMIR BANDHURAJ THORAT,M,SC,4,LSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",#,2.0
+2963,56001,51454,58.0,19138457,AUSARMAL NIKHIL ATMARAM,M,SC,4,PHSC,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+2975,73330,39117,64.72,19132069,BARVE VRUSHALI NARENDRA,F,SC,4,LOPEN,,601,Printing Technology,601,Printing Technology,3211,Raigad,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai",^,1.0
+2976,73331,44254,62.46,19106864,KALE KAPIL DINKARRAO,M,SC,4,GOPEN,,601,Printing Technology,601,Printing Technology,3211,Raigad,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai",^,1.0

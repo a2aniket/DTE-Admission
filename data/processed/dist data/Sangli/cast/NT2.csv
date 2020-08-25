@@ -1,0 +1,63 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+10,570,38303,65.06,19110181,KALE SUMIT SURESH,M,NT2,8,LOBC,,401,Machanical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+11,571,39919,64.36,19141873,GAVADE KASHINATH SANJAY,M,NT2,8,GSC,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+12,572,43507,62.79,19122957,KOLEKAR RUPESH RAOSAHEB,M,NT2,8,GNTC,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+17,577,48790,60.06,19139966,WAGHMODE VITTHAL MANAJI,M,NT2,8,GST,,302,ENTC,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+31,8208,18383,74.35,19148403,GAYWADE ANKITA PURUSHOTTAM,F,NT2,8,DFNTC,,201,Civil,201,Civil,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+53,9698,4561,84.97,19118656,DHADAS TEJSWINI KRISHNA,F,NT2,8,LOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+75,9910,2177,88.06,19141895,DHADAS VARSHARANI BHIMRAO,F,NT2,8,GOPEN,,201,Civil,201,Civil,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+80,9915,3502,86.18,19141189,HUBALE SANDHYARANI VILAS,F,NT2,8,GNTC,,201,Civil,201,Civil,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+101,10079,31669,67.82,19110659,GANESH SHANKAR BAGANKAR,M,NT2,8,DFNTB,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",*,3.0
+107,10085,34707,66.55,19139398,SHENDAGE YASHASHRI VIVEK,F,NT2,8,GNTC,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+108,10086,36504,65.82,19140866,JANKAR VINAYAK RAVSAHEB,M,NT2,8,GST,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",#,2.0
+138,10189,39096,64.73,19101018,BANDGAR ROHIT VASANT,M,NT2,8,GNTC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+139,10190,39482,64.55,19149926,RAUT AKASH SANJAY,M,NT2,8,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+178,11177,3628,86.0,19120373,HEENA VILAS SARGAR,F,NT2,8,LOPEN,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+185,11184,16102,75.7,19150314,KARNUR ROHIT PARSHURAM,M,NT2,8,GNTC,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",@,5.0
+206,11539,20387,73.21,19134695,WATEGAONKAR SANKET SHRIDHAR,M,NT2,8,GOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+223,11556,37356,65.44,19144768,MANE JAYESH ASHOK,M,NT2,8,LNTC,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+244,20179,2646,87.25,19133353,WAWARE PRACHI SANJAY,F,NT2,8,GNTC,,301,Computer & IT,301,Computer & IT,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+292,21874,25464,70.69,19120415,RHUTUJA RAMESH KOLEKAR,F,NT2,8,GNTC,,301,Computer & IT,301,Computer & IT,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+339,22686,47521,60.79,19131246,HIWARE MRUNAL RAMESH,F,NT2,8,GNTC,,304,Electrical,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+357,23505,30463,68.38,19129805,KALE MANSI RAJESH,F,NT2,8,GNTC,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+423,37058,10029,79.94,19133758,WAVARE PRANITA DHANAJI,F,NT2,8,LNTC,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+476,37799,36947,65.63,19149177,KHARAT SHARMILA DILIP,F,NT2,8,GNTC,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+488,38309,34233,66.76,19126362,GONJARE SHRUTIKA MOHAN,F,NT2,8,LOBC,,301,Computer & IT,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",&,4.0
+496,38317,52781,56.29,19118288,HONMANE ARJUN SATISH,M,NT2,8,GOBC,,301,Computer & IT,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+527,39815,50204,59.09,19116403,MASAL SHWETA SHARAD,F,NT2,8,LNTC,,304,Electrical,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",*,3.0
+534,40120,9042,80.76,19137822,BANDAGAR AKSHAY BALASO,M,NT2,8,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+571,47855,6455,83.09,19136892,PAVANE KOMAL ANKUSH,F,NT2,8,LOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+592,47876,22715,72.0,19144055,HAJARE ASMITA RAMESH,F,NT2,8,LNTC,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+594,47878,24321,71.21,19144079,HAJARE AMRUTA RAMESH,F,NT2,8,PHNTC,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+605,47971,3271,86.44,19124343,GAVADE SWATI JANARDAN,F,NT2,8,GOPEN,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+618,47984,5379,84.12,19117622,BANGAR AMOL NANA,M,NT2,8,GNTC,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+648,48159,32087,67.69,19159435,KHARAT PRAVIN GANPATI,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+656,48167,37924,65.21,19136844,VAGHAMODE ANIKET MARUTI,M,NT2,8,GNTC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+663,48174,44029,62.55,19152858,TATE SURYKANT BABAN,M,NT2,8,LNTC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+693,48864,16232,75.64,19145219,YAMGAR JAYASHRI MAHADEV,F,NT2,8,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+708,48879,28351,69.33,19129493,PUJARI TUSHAR BAJIRAO,M,NT2,8,PHNTC,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+715,48886,40691,64.06,19121861,KHOT KAJAL VISHNU,F,NT2,8,LNTC,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+724,49094,8346,81.33,19122987,MANE SUMAN CHANDRAKANT,F,NT2,8,GOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+726,49096,9833,80.12,19143879,GONJARE SHIVANI PRAKASH,F,NT2,8,GOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+742,49112,40777,64.0,19109158,KOLEKAR HARSHAWARDHAN BALKRUSHNA,M,NT2,8,GNTC,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+759,50024,23232,71.76,19143172,HARSHITA DHANANJAY KARANDE,F,NT2,8,GOBC,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+774,50039,30888,68.18,19141042,MASAL RAHUL SOMANATH,M,NT2,8,LOBC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+792,50057,49489,60.0,19108205,MAYURI RAVINDRA PATIL,F,NT2,8,GOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+827,65076,28089,69.45,19126660,MANE SOURABHA DILIP,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+844,65093,1598,89.06,19116468,SALGAR DADA DATTATRAYA,M,NT2,8,DFNTC,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+874,65681,13730,77.29,19118678,MANE PRASHANT GANESH,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+889,65696,19384,73.76,19122713,GHODE PRASHANT RAJARAM,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+895,65702,22295,72.24,19131826,MAGDUM SANTOSH SHAMRAO,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+897,65704,23897,71.41,19147186,HAKE VIKAS TANAJI,M,NT2,8,LNTA,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+932,66040,23603,71.56,19128382,HATKAR AKASH SHANKAR,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+951,66059,37333,65.45,19137191,KHAMKAR VIPUL VINAYAK,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+957,66065,47279,60.91,19137094,KOLEKAR RAJ VILAS,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1011,66139,8651,81.06,19128540,WAVARE SUSHANT SAVANTA,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1012,66140,8882,80.88,19120178,ADITYA KASHILING MANE,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1019,66147,13272,77.59,19107501,SHELAKE VEDANT TUKARAM,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",*,3.0
+1072,66778,23082,71.82,19136333,JANKAR SUMIT DIPAK,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1099,66805,49724,59.47,19142994,KOKARE ROHIT MAHADEV,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1159,69513,7434,82.18,19129359,THORAT GAYATRI RAJARAM,F,NT2,8,LOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1170,69524,28459,69.29,19155942,ONKAR TUKARAM MHARGUDE,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1193,69547,44319,62.41,19100336,AKASH SUNIL MASKE,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1199,69553,46193,61.47,19120586,ANUSE PURUSHOTTAM DINKAR,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0

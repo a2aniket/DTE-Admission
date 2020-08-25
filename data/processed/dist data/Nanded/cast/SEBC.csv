@@ -1,0 +1,50 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+5,1599,496,92.0,19142342,GAVALEE GANESH TULASHIDAS,M,SEBC,3,GSEBC,Physical impairment,201,Civil,201,Civil,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",#,2.0
+12,1844,8298,81.39,19128966,ANIL UDHAVRAO SHINDE,M,SEBC,3,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+24,1856,25256,70.79,19151981,DESHMUKH MANGESH RAJESHWARRAO,M,SEBC,3,LSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+25,1857,25606,70.61,19119266,FAJAGE POOJA MADHAV,F,SEBC,3,LOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+33,1865,29816,68.67,19117750,PUND VENKATESH RAJKUMAR,M,SEBC,3,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+47,1879,39639,64.48,19155172,JOGDAND VEDANT JAGDISH,M,SEBC,3,GOBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+50,1882,41794,63.58,19109252,PATIL DIPALI SHANKARRAO,F,SEBC,3,LSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+55,1887,42877,63.09,19159348,DHERE PRADEEPKUMAR DIGAMBARRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+60,1892,48878,60.0,19118270,MORE SANYOG DINKARRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+62,1894,52805,56.24,19157310,BOKARE AMARNATH VAIJANATH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+63,1895,53259,55.52,19150929,TATE PRADYUMN BHAGWANRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+66,1974,1332,89.58,19131599,DAKORE SHRADDHA RAMA,F,SEBC,3,GSEBC,,201,Civil,201,Civil,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+100,13698,1902,88.53,19107073,MORE PRANJALI DIPAK,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+103,13701,2244,87.94,19148487,PATIL ANUSHKA DEEPAK,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+106,13704,4065,85.5,19141885,SURADKAR RUSHIKESH PANDIT,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",#,2.0
+110,13708,2336,87.81,19121241,GAIKWAD PRERNA SOPANRAO,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+112,13710,2541,87.41,19124599,GAIKWAD SUNNY AJINATH,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",#,2.0
+115,13713,3029,86.76,19100809,JAGTAP AMAR GOVINDRAO,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+123,13917,2379,87.71,19127565,KADAM ADITYA PARMESHWAR,M,SEBC,3,GSEBC,,401,Machanical,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",*,3.0
+136,13930,14720,76.59,19149667,KALE MRUNAL MOHANRAO,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+137,13931,14947,76.44,19126651,MORE SHIVANI WAMANRAO,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+151,13945,15720,75.94,19158924,UGALE TEJASVI SUBHASH,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+159,13953,23607,71.56,19109673,KADAM SWATI MAROTI,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+160,13954,25822,70.5,19152360,INGALE SHUBHAM GOVINDRAO,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+167,13961,30956,68.13,19155198,DESHMUKH SUKANYA SHAMRAO,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+168,13962,30959,68.13,19106083,JADHAV OMKAR SAMBHAJI,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+195,25456,2051,88.29,19128431,DALE ADITYA GANESHRAO,M,SEBC,3,LST,,302,ENTC,302,ENTC,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+197,25458,2249,87.94,19115979,KASHID SHWETA DNYANESHWAR,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+199,25460,3350,86.35,19145110,GADE PALLAVI ROHIDAS,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+216,25869,22501,72.12,19139928,MULEY KOMAL SATISH,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+217,25870,27861,69.56,19150906,KHULE SHITAL KESHAV,F,SEBC,3,LSEBC,,303, Medical Electronics,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+229,41824,440,92.24,19132642,PATIL ARJUN VISHWANATH,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+238,41939,12483,78.18,19106418,PAWDE SURYAKANT SAHEBRAO,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+240,41941,13919,77.15,19136727,PRIYANKA PRAKASHRAO BUDRUK,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+249,41950,28463,69.27,19140931,SURYAWANSHI VAIBHAV VITTHALRAO,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+264,41965,44070,62.55,19152082,MORE VINOD BAPURAO,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+275,41976,49397,60.0,19140917,KHANSOLE PRAKASH GOPINATH,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+276,41977,50996,58.42,19145366,TAMBATKAR SAGAR SANJAY,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+288,42630,30489,68.36,19112324,AMRUTE AJAYKUMAR SANJAY,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+296,42638,42870,63.09,19133667,GADE SHRADDHA OMPRAKASH,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+304,49500,8943,80.82,19142894,KADAM SUCHITA SATYAWAN,F,SEBC,3,GSEBC,,305,Instrumentation,305,Instrumentation,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+306,49502,17318,75.0,19106371,SOLANKE ASHISH GOVIND,M,SEBC,3,LST,,305,Instrumentation,305,Instrumentation,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+310,51292,398,92.41,19138847,BHOSALE ATHARVA CHANDRAKANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+326,51644,23174,71.76,19109635,SHINDE DINESH MADHUKAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+376,51894,9407,80.47,19120313,WADWALE TUSHAR TULSHIRAM,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",*,3.0
+382,51900,17637,75.0,19156613,CHIKALEKAR DEVRAJ GOVINDRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+395,72732,9759,80.18,19110392,LONDHE BHAVESH CHAKRADHAR,M,SEBC,3,GOPEN,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",#,2.0
+396,72733,12540,78.12,19154498,KAWLE PRACHI RAMCHANDRA,F,SEBC,3,GSEBC,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+403,72740,43177,62.94,19154956,SHINDE ARUN BABAURAO,M,SEBC,3,GSEBC,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0

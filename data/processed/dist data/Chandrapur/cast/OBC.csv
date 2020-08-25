@@ -1,0 +1,213 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,4641,1458,89.33,19107743,BHANDARKAR MUKESH VINOD,M,OBC,2,GOBC,,201,Civil,201,Civil,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+2,4642,1645,88.97,19109791,DATE MRUNALI MADHUKAR,F,OBC,2,LOPEN,,201,Civil,201,Civil,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+3,4643,2747,87.13,19137838,SHAMAL GOPALRAO RAUT,F,OBC,2,LOBC,,201,Civil,201,Civil,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+15,5237,13752,77.27,19145339,PIMPALSHENDE SURAJ BABURAO,M,OBC,2,GOBC,,201,Civil,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+16,5238,14115,77.03,19107389,KHANKE SURAJ DINKAR,M,OBC,2,GSEBC,,201,Civil,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+17,5239,15379,76.18,19148147,DURATKAR HIMANSHU SUDHAKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+20,5242,16013,75.76,19151429,PRAJWAL TIKALE,M,OBC,2,GOBC,,201,Civil,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+22,5244,18074,74.97,19135132,LAD RITIKA,F,OBC,2,LOBC,,201,Civil,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+28,5654,3403,86.3,19142532,LANDE ANUSHREE SANJAY,F,OBC,2,GOPEN,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",#,2.0
+29,5655,4210,85.33,19129124,GUJAR SNEHA SUDHIRSING,F,OBC,2,GOBC,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",#,2.0
+35,5661,11469,78.91,19133763,MEGHE HARSHA DAMODHAR,F,OBC,2,LOPEN,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+37,5663,14105,77.03,19155827,ZODE YASHSHRI DIPAK,F,OBC,2,LOPEN,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+40,5666,17852,74.97,19149991,WANGALWAR PRANAY DADAJI,M,OBC,2,GOPEN,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+44,5670,18673,74.18,19108864,THAKARE SHIWANI ANANTA,F,OBC,2,GNTA,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+47,5673,21543,72.61,19114796,DEOTALE SNEHA DADAJI,F,OBC,2,LOBC,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+48,5674,24593,71.09,19142328,KATRE JATIN TEJRAM,M,OBC,2,GOBC,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",#,2.0
+51,5677,25390,70.73,19128089,JANEKAR HARSHU VILAS,F,OBC,2,LOBC,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+65,5692,13308,77.58,19126207,MASKE SUYASH DILIP,M,OBC,2,GOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+67,5694,16708,75.33,19139667,VIDHATE SWAPNIL BHASKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+68,5695,18121,74.97,19119328,ANIKET MADHUKAR RAJURKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+71,5698,19849,73.52,19143842,DONGE SANDIP RAMESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+73,5700,22401,72.18,19128727,GOKHARE LEENA DHANRAJ,F,OBC,2,LOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+75,5702,23580,71.58,19128681,ISANKAR PURVA RAMESH,F,OBC,2,LOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+77,5704,24338,71.21,19145843,DIPANSHU THAKRE,M,OBC,2,GOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+78,5705,24719,71.03,19129830,KOHAPARE PRANALI WAMANRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+80,5707,24858,70.97,19148711,DONGE SHUBHAM RAMESH,M,OBC,2,GOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+92,5719,30084,68.55,19112975,PANDILWAR APURWA DILIP,F,OBC,2,GNTD,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",*,3.0
+94,5721,31045,68.12,19158635,VIDHATE SOMNATH BALAJI,M,OBC,2,GOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+97,5724,32607,67.45,19151125,BHADEKAR ADITI SUNIL,F,OBC,2,LOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+98,5725,33025,67.27,19146898,TATKANTIWAR ANJALI RAMCHANDRA,F,OBC,2,LOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+99,5726,33145,67.21,19159466,KHANORKAR POOJA PRALHAD,F,OBC,2,LOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+108,5735,37332,65.45,19141610,CHAPLE PARAG SURYAKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+110,5737,38209,65.09,19127375,WASEKAR DEEPALI VASANTRAO,F,OBC,2,LOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+114,5741,40991,63.94,19121367,ROGE ABHIJEET PRADIP,M,OBC,2,PHOBC,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",#,2.0
+116,16786,6942,82.65,19103749,GABHANE PRAFUL GANESH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+118,16788,7412,82.19,19134109,BHANGALE AKASH GAJANAN,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+122,16792,8812,80.94,19145986,AGHAM GITASHREE RAJESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4004,Chandrapur,"Government College of Engineering, Chandrapur",#,2.0
+130,17536,6415,83.13,19105725,KUBER TIPLE,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,*,3.0
+132,17538,13179,77.68,19144203,GHATE PRAJAKTA VITTHAL,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+137,17543,22441,72.13,19118786,GAUTRE PUSHPAK RAJENDRA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+146,17552,34824,66.5,19145495,YALCHALWAR ANIKET GANGADHAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,&,4.0
+155,17893,18416,74.31,19155786,ZODE HARSHALI DILIP,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+157,17895,19764,73.56,19134226,BURADKAR ANUSHREE RAMKRISHNA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+162,17900,23874,71.44,19152309,MEHARKURE SHUBHAM SOMAJI,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+165,17903,25582,70.63,19138700,SAKSHI YEDNURWAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+168,17906,30437,68.41,19155002,JEETESH NAMDEO WARBHE,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+172,17910,33669,67.0,19156780,KUNDOJWAR VAISHNAVI DILIP,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+173,17911,34125,66.81,19134378,ISANKAR SAKSHI MADAN,F,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+183,17922,10081,79.94,19104962,SWATI KISHOR BOBADE,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+185,17924,13527,77.41,19123546,ZADE CHANDRAKANT ASHOK,M,OBC,2,GOBC,,401,Machanical,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+186,17925,19455,73.75,19130298,AGALAWE VISHAKHA RAVINDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+190,17929,25584,70.63,19156122,NAVGHARE DHANASHREE VIJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+194,17933,28538,69.25,19158210,GIRADKAR PRAGATI ANIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+197,17936,32822,67.35,19154438,BHALME SUJITA SUDHAKARRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+210,29953,5928,83.59,19145245,GONGAL ASHISH HIORAJ,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+213,29956,11911,78.59,19121485,MAJALGAONKAR VAISHNAVI SURAJRAO,F,OBC,2,PHOBC,,305,Instrumentation,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",@,5.0
+214,29957,12598,78.06,19153720,HAGE NIKHIL SANJAY,M,OBC,2,GSEBC,,401,Machanical,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+217,29960,14929,76.45,19131292,SHWETA BHAGWAN BURANDE,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+218,29961,16349,75.56,19146018,TEKALE KANCHAN ARUN,F,OBC,2,LNTA,,301,Computer & IT,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",@,5.0
+225,29968,22604,72.06,19118024,SAWAKE ISHWAR GAJANAN,M,OBC,2,LNTB,,301,Computer & IT,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+226,29969,22724,72.0,19112665,KHARODE ROSHAN VIJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",#,2.0
+227,29970,22783,72.0,19142550,JIBHAKATE ROHIT DINDAYAL,M,OBC,2,GOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+228,29971,23219,71.76,19142769,ZOLE LANKESH JANARDHAN,M,OBC,2,GOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+230,29973,25773,70.53,19122623,SAWALE SAMPADA PREMKUMAR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+233,29976,26766,70.06,19123118,BORDE MADHURI SUDHAKAR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+234,29977,26911,70.0,19105587,WAGHAYE SUNAYA NAGESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+236,29979,30279,68.47,19123892,BORKAR SHRIKRUSHNA GOWARDHAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+241,29984,36723,65.71,19121746,WAGH SHRIKRUSHNA RAJU,M,OBC,2,GOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+244,29987,41411,63.71,19144330,SHRUTI VILAS BHATGARE,F,OBC,2,LOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+250,29993,52866,56.18,19153018,GHULE VIKAS DNYANESHWAR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+252,31411,1719,88.88,19147455,DHANEWAR HARSHAL RAJU,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+259,31418,17673,75.0,19153115,DEVGIRKAR PRIYANKA RAJESH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+260,31419,19785,73.54,19150447,GOKHARE PAVAN DNYANESHWAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+262,31421,22285,72.24,19159083,TONGE ANIKET DINESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+266,31425,27803,69.59,19159168,GHAGI SAURABH KISHOR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+272,31431,31072,68.12,19155816,PIPARE KOMAL MOTIRAM,F,OBC,2,LOBC,,302,ENTC,302,ENTC,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+289,32163,10349,79.71,19148982,DAKHARE NEHA BAPURAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+291,32165,20597,73.12,19152523,THAK SACHIN MORESHWAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+292,32166,21500,72.65,19136668,MANDAWAKAR SATYAWAN BAPUJI,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+294,32168,25900,70.47,19129800,BELEKAR ANIKET SHESHRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+295,32169,26353,70.24,19128927,TIKHAT MANOJ ARUN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+296,32170,35815,66.11,19153717,TANALE VISHAL SUDHAKAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+302,32176,44060,62.55,19134774,VAIDYA ANIKET ARUN,M,OBC,2,GOPEN,,304,Electrical,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",&,4.0
+305,32179,44752,62.23,19156362,BOBADE PRATIK RAMESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+308,32182,48814,60.06,19139792,WATKAR ASHWINKUMAR KISHOR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+309,32183,49838,59.37,19156524,NITESH ASHOKRAO BHOYARKAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+312,43574,3153,86.61,19141074,MANKAR MONIKA KISHOR,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+313,43575,3274,86.44,19131989,GAWANDE SWAPNIL ARVIND,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4004,Chandrapur,"Government College of Engineering, Chandrapur",#,2.0
+314,43576,3494,86.18,19118378,BARGAL SAPANA SANJAY,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+332,44462,34887,66.48,19129236,CHANNE DHANASHRI MORESHWAR,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,&,4.0
+333,44768,9147,80.67,19118340,THAWARI SAGAR RAMESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+334,44769,9202,80.61,19141513,MORE SHUBHANGI SHRAWAN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+335,44770,9371,80.48,19129154,THERE PRAJAKTA RAMKRUSHNA,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+337,44772,12480,78.18,19123609,POTRAJE ANKITA SURESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+342,44777,21546,72.61,19128130,PACHBHAI NEHA RIMDEO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+343,44778,23029,71.88,19147500,KUREWAR PRANAY SUNIL,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+345,44780,23952,71.39,19150416,FAYE NEHA PRADEEP,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+350,44785,26744,70.06,19114872,TADAS SHUBHAM KISHOR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+351,44786,28470,69.27,19139805,THERE VIJAYSHRI BABA,F,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+355,44790,30814,68.24,19149999,DURADKAR ROSHANI BHANUDAS,F,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+356,44791,31714,67.82,19155835,NIBRAD ASHWINI BAPURAO,F,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+358,44793,32166,67.64,19151885,GIRADKAR AMIT BHAVIDAS,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+359,44794,32838,67.33,19156988,RACHARLAWAR NAINA SHARAD,F,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+361,44796,33012,67.27,19157717,BORKAR ASHWINI SUNIL,F,OBC,2,GOBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+362,44797,33434,67.09,19130131,PIDURKAR SOURABH RAVINDRA,M,OBC,2,GNTC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+368,44803,38943,64.79,19150828,KAMBLE POOJA MADHUSUDAN,F,OBC,2,GSEBC,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+372,44807,41368,63.76,19139848,TURANKAR ASHWINI RAMESH,F,OBC,2,DFST,,304,Electrical,304,Electrical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+374,44810,9851,80.12,19136824,PACHBHAI KUNAL SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+375,44811,9935,80.06,19120604,THERE DINESH ISHWAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+376,44812,10150,79.88,19121395,PIMPALKAR MANGESH TRYAMBAK,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+378,44814,10972,79.27,19121612,BARSAGADE YASH SHANKARRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+379,44815,12693,78.0,19114749,GADPALLIWAR SANKET SURESHRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+380,44816,14361,76.85,19139615,POTRAJE AKASH UTTAM,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+381,44817,15152,76.3,19117156,ZADE ROHIT ANANDRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+384,44820,18087,74.97,19144501,KAPSE LALIT SHARAD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+385,44821,18919,74.06,19135050,SUMATKAR RAVI SHANKAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+387,44823,20987,72.91,19128136,KIRTI VIJAY THAWARI,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+388,44824,22131,72.3,19147874,DUDHALKAR YASHASWI RAVINDRA,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+398,44834,30874,68.18,19148379,PAYGHAN UTSAV SUNIL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+402,44838,33561,67.03,19130172,SOOR KAILAS BHARAT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+405,44841,34879,66.48,19136710,GHODMARE VAIBHAV SHALIK,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+407,44843,35881,66.06,19135024,SHRIRANG KUNAL PURUSHOTTAM,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+409,44845,37063,65.58,19117386,CHAUDHARI ANIKET MANOJ,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+411,44847,37189,65.52,19137218,ADURWAR SANJOGEETA SANJIV,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+414,44850,37757,65.27,19133797,SHUBHAM BABARAO BADKI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+415,44851,37780,65.27,19129075,QURESHI AKIB IQBAL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+416,44852,37933,65.21,19121851,ANKIT RAMCHANDRA PARSUTKAR,M,OBC,2,GSEBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+418,44854,39235,64.67,19117826,AWARI AMOL ASHOK,M,OBC,2,LSEBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+423,44859,41119,63.88,19157622,DANDEKAR PRANAY NAMDEORAO,M,OBC,2,LSEBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+424,44860,41246,63.82,19156690,RADE KOMAL DEVIDASJI,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+427,44863,46549,61.33,19156065,GAJBANDE DHANASHRI MAROTI,F,OBC,2,LOBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+432,49759,7340,82.29,19141880,SALAKE NAMDEV PANDURANG,M,OBC,2,GOPEN,,302,ENTC,305,Instrumentation,4004,Chandrapur,"Government College of Engineering, Chandrapur",*,3.0
+433,49760,8144,81.5,19107554,KULDIP DAULAT DONADKAR,M,OBC,2,GOPEN,,401,Machanical,305,Instrumentation,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+435,49762,11768,78.7,19137656,INGOLE SANKET PURUSHOTTAM,M,OBC,2,GOPEN,,304,Electrical,305,Instrumentation,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+438,49765,47002,61.07,19152098,SHIRPURKAR PRASHANT SURESHBHAI,M,OBC,2,GOPEN,,401,Machanical,305,Instrumentation,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+440,56003,3171,86.59,19120303,MULE ROHIT KHUSHAL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+441,56004,3201,86.53,19119169,KAPSE VINOD PAWAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+447,56010,6510,83.04,19132692,PATIL SAGAR DHANRAJ,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",#,2.0
+448,56011,6729,82.82,19109744,BRAMHANKAR DIPESH RAMKRUSHNA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+450,56013,7378,82.24,19124105,PATIL MANOJ BHANUDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",*,3.0
+458,56021,39962,64.35,19111609,LANJEWAR HOMESHWARI DHANRAJ,F,OBC,2,LOBC,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+461,57145,3318,86.41,19130993,THOMBARE KARTIK RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+463,57147,6816,82.76,19143925,PATHRIKAR ABHISHEK SURESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+464,57148,6941,82.65,19130643,BURADKAR AKHIL SUBHASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+468,57152,14833,76.53,19150741,MAREKAR SAURABH SUBHASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+469,57153,18500,74.29,19132267,GATHE KUNAL CHANDU,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+470,57154,18772,74.12,19134863,CHAITALI GIRADKAR,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+472,57156,21945,72.41,19136125,GANDATE JANHAVI HARIDAS,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+477,57161,25556,70.65,19142271,BHOYAR ANIKET PURUSHOTTAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+484,57168,29053,69.0,19137738,GIRPUNJE AMIT SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+485,57169,29374,68.88,19151295,CHAHARE ABHILASH VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+487,57171,0,68.18,19150163,HURDE SHUBHAM PRAMODRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+495,57179,35497,66.24,19130039,WAGH SITANSHU KAILASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+499,57183,36686,65.71,19158849,WANKHEDE ROHIT SUNIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+503,57187,39135,64.71,19157488,KAMDI GITESH SURESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+513,57197,43121,63.0,19155605,GOVINDWAR SHUBHAM SHRIKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+533,57884,31985,67.71,19143747,GURNULE JAY SHALIK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+534,57885,32130,67.65,19142953,DAIGAVHANE ABHIKET MORESHWAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+535,57886,32673,67.41,19149973,CHOPADE PRANAY NIVRUTTI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+545,57896,39291,64.65,19156352,GHUME DEEP WAMAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+547,57898,40414,64.18,19157252,MATTE SWAPNIL PRAKASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+549,57900,41599,63.65,19144573,THIPE NIKHIL BHALCHANDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+554,57905,45560,61.82,19144541,DHOLE KUSHAL ASHOK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+557,57908,49219,60.0,19148205,DOIJAD BHUWAN JANARDHAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+559,57910,50631,58.76,19154794,ADKINE SUJIT AVINASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+562,57913,51975,57.43,19139643,CHAPALE DHIRAJ GHANSHAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+567,57994,10835,79.35,19138652,GIRISH DEVIDAS WAGHMARE,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+570,57997,23118,71.82,19144118,MOHITKAR SURAJ BHOJRAJ,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+572,57999,24056,71.35,19153417,PIMPALKAR DIKSHA MADHUKAR,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+573,58000,24653,71.06,19150726,THAKARE SHUBHAM HARIDAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+574,58001,26527,70.18,19142323,THOMBARE NAYAN ANANDRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+578,58005,29486,68.82,19137160,KOLTE KHUSHAL SAKHARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+580,58007,29728,68.71,19143092,LANJEKAR ARJUN KESHAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+583,58010,31557,67.88,19134828,KADUKAR CHAITANYA VITTHAL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+585,58012,31732,67.82,19150022,SAMRAT SURESH CHIKATE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+587,58014,32424,67.53,19149252,RAHUL KAILASHRAO KOHALE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+592,58019,35089,66.41,19149510,DAHULE VIPIN DHARMRAJ,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+595,58022,36510,65.82,19157076,SATISH ASHOK TEMBHARE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+600,58027,37437,65.41,19153815,GAOTURE ROSHAN WANMALI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+601,58028,37715,65.29,19121196,GAURKAR RAHUL WAMANRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+602,58029,38619,64.94,19148958,LOHAKARE TEJAS VINODRAO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+605,58032,39171,64.71,19126146,BALKUNDAN ASHOK TAJNE,M,OBC,2,LOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+609,58036,39711,64.47,19148107,DUDULE DHANRAJ BANDU,M,OBC,2,LOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+610,58037,39725,64.47,19157700,KSHIRSAGAR MANISH PANDHARIRAO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+618,58045,44665,62.24,19144523,CHAWARE VRUSHABH ANIL,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+619,58046,44710,62.24,19155745,JENGTHE PRATIK BALIRAM,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+622,58049,46226,61.47,19154616,GHODMARE AMIT ASHOK,M,OBC,2,PHST,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+626,58053,49673,60.0,19150202,JOGI NAYANISH RAJENDRA,M,OBC,2,PHSEBC,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+629,73179,12502,78.17,19139625,PRAFFUL DNYANESHWAR REWATKAR,M,OBC,2,GOPEN,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+631,73181,16815,75.25,19152328,KUTHE KUNAL SUNIL,M,OBC,2,GOBC,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+634,73184,0,74.67,19104154,THAKUR RITIK GOKUL,M,OBC,2,GOBC,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+639,73189,26180,70.33,19145441,ZADE HARSHAL CHANDRASHEKHAR,M,OBC,2,GOBC,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+645,73195,35383,66.25,19147221,LIKHIT BHUTE,M,OBC,2,LOBC,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+649,73199,37041,65.58,19158621,NIKODE NIKHIL DUMRAJ,M,OBC,2,DFNTB,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+651,73201,38029,65.17,19120789,LOKESH BELEKAR,M,OBC,2,GOPEN,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,&,4.0
+657,73208,21748,72.5,19150227,CHIKANKAR HARSHAD KISAN,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+658,73209,24444,71.17,19144021,RAUT LUCKY VINOD,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+660,73211,26179,70.33,19157565,DEOTALE ATUL NIMBAJI,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+663,73214,28375,69.33,19145669,RAMGUNDEWAR ANAND RAMBHAU,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+665,73216,30015,68.58,19149670,AWACHAT MAYUR RAMESHWAR,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+673,73224,39048,64.75,19145323,UPARE RAJU BANDU,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",#,2.0
+674,73225,40017,64.33,19131007,KUNAL GUNJEKAR,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+675,73226,40175,64.25,19144313,PIDURKAR ATISH BABAN,M,OBC,2,GOBC,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+678,73229,41129,63.83,19148193,CHOTELAL SACHITANAND YADAV,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+679,73230,41608,63.65,19129482,BOMMANWAR HARISH GANESH,M,OBC,2,GOBC,,401,Machanical,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+684,73235,43644,62.74,19145696,JAMBHULKAR SACHIN NILKANTH,M,OBC,2,GOBC,,302,ENTC,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+687,73238,44315,62.42,19143002,CHOUDHARI VISHAL NARAYAN,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+688,73239,44863,62.17,19157928,MOHURLE RITESH PRAKASH,M,OBC,2,GOBC,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+689,73240,44865,62.17,19148560,MAHADULE RAVINDRA DINANATH,M,OBC,2,GOBC,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",&,4.0
+695,73246,46848,61.17,19133743,AJAY YASWANT NAKADE,M,OBC,2,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+701,73252,52610,56.58,19117908,PARKHI SUMIT PANDURANG,M,OBC,2,GOBC,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+703,73254,53755,54.25,19117712,RAJURKAR PRANAV DEVRAO,M,OBC,2,GOBC,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0

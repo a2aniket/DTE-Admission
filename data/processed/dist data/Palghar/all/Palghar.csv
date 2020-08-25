@@ -1,0 +1,1058 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+3131,829,90.85,19102911,GHORAI PIYA PROVASH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3132,1177,89.94,19104037,PANCHAL AYUSHA YOGESH,F,OPEN,1,GOPEN,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3133,1262,89.76,19104903,SUTRAVE MANTHAN SANTOSH,M,OBC,2,GOBC,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3134,1460,89.33,19113386,PUROHIT JIGNESH PRAKASH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+3135,4323,85.21,19128318,BHAWARI JANARDAN RAOSAHEB,M,ST,6,GST,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3136,6998,82.61,19116982,PATIL PRIYA DHYANESHWAR,F,OBC,2,LOBC,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3137,7083,82.5,19132380,BAVDANE ASHISH BALKRISHNA,M,NT2,8,GNTC,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3138,8585,81.13,19100633,AMISHA ANKUSH MORAJKAR,F,SEBC,3,GSEBC,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3139,9023,80.76,19113788,KARUDEKAR TEJASWINI MANOHAR,F,SC,4,LSC,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3220,2009,88.36,19114408,BANDODKAR AKSHAY SANJEEV,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+3221,3119,86.67,19101126,RAWAL GAURAV POPATLAL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3222,4062,85.52,19101535,SHAH ROHAN ASHOK,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3223,6122,83.39,19113512,BHOIR NITESH DILIP,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3224,6400,83.15,19107492,GHARAT KARTIKI HANSRAJ,F,OBC,2,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3225,8500,81.21,19101692,PATIL AKSHATA NARENDRA,F,OBC,2,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3226,9952,80.0,19116824,RAUT CHIDAMBARI HARESH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3227,11111,79.17,19104087,THAKUR HIMANSHU BHARAT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3228,11282,79.03,19105227,PATIL SWIKAR SUBHASH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3229,12228,78.36,19102927,DHOLU BHUMIKKUMAR NAROTTAMBHAI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3230,13405,77.52,19105458,PATIL CHINMAY WAMAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3231,15313,76.18,19104306,SANKHE TAPASWINI HEMANT,F,NT3,9,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3232,15658,76.0,19146543,SINGH NANDINI DILIP,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3233,16328,75.58,19140449,RAUT VISHAL VINAYAK,M,ST,6,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3234,16342,75.58,19156554,KALE PRATIK PRADEEP,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3235,17084,75.09,19102406,RATHOD URVESH MANOJ,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3236,17821,74.97,19110616,KADAM PRIYAL SHASHIKANT,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3237,18040,74.97,19107103,SHARMA NEHA RAJKUMAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3238,18984,74.0,19102518,KHANDARE PRIYANK SANJAY,M,SC,4,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3239,21765,72.48,19111916,BHOIR PRANITA VIJAY,F,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3240,21793,72.48,19104640,LAGAD GAURAV ARVIND,M,OBC,2,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3241,22479,72.12,19106010,MUTTUR VAIBHAV VISHWANATH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3242,23017,71.88,19100120,SHARMA BADAL SABHADEV,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3243,27705,69.64,19125757,PASCOAL RUJAY FERRAO,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3244,30323,68.42,19106857,STEVE PIUS PEREIRA,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3245,30771,68.24,19132255,WARGHAT ANIKET MANISH,M,OBC,2,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3246,35838,66.06,19102220,PEREIRA VENTURE VICTOR,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3247,36776,65.7,19123251,DBRITTO CLINTON MOSES,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3248,48054,60.48,19108446,SIJO JOY,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3249,52961,56.06,19106912,DAVID ARVINTHKUMAR SUNDARRAJAN,M,OPEN,1,MI,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+3250,23825,71.45,19102604,KINI KRUTEN KIRAN,M,OBC,2,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3251,24467,71.15,19118558,SHAH DARSH HEMAL,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3252,24728,71.03,19119206,FAROOQUI IMAZUDDIN ZAKIUDDIN,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3253,25869,70.48,19112422,KOTHARI YASH RAJENDRA,M,OBC,2,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3254,27177,69.88,19122163,MALVI MEGHA KIRAN,F,SC,4,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3255,27230,69.88,19100089,SHUKLA YASH SHRIPATI,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3256,28097,69.45,19115276,GAIKWAD TUSHAR SANTOSH,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3257,28205,69.39,19125228,SHARMA ABHISHEK ASHWIN,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3258,29548,68.79,19103087,MALKAR SUMIT VISHWANATH,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3259,30083,68.55,19101779,SHAIKH AJMAL CHOTTUMIYA,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3260,30633,68.3,19102531,YADAV KABIR JITENDRA,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+3261,31406,67.94,19108241,PATIL YAYATI RAJENDRA,M,OBC,2,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3262,31611,67.88,19138384,AMEY GOVIND PARAB,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3263,31621,67.88,19135561,ASHISH CHANDRAKANT PATIL,M,OBC,2,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3264,31834,67.76,19111163,JOSHI SUSHRUT SANJAY,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3265,33180,67.19,19123673,PATIL MANISH SHARAD,M,OBC,2,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3266,33736,66.97,19152031,MOURYA PAWAN RAMLALIT,M,OPEN,1,MIMH,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+3318,2665,87.24,19107033,SUVARNA PRIYA PADMANABHA,F,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3319,3426,86.28,19133254,WANKHEDE MAHESH PUNDLIK,M,SC,4,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3320,4427,85.1,19112022,KULKARNI PRASAD DATTATRAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3321,5083,84.42,19124755,GAWDE ADVAIT VIVEK,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3322,6136,83.39,19110035,MORSHING SUYASH SHASHIKANT,M,NT1,7,PHNTB,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3323,7473,82.14,19103795,NARKAR AVINASH DATTARAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3324,7717,81.94,19134958,DINESH KUMAR YADAV,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3325,8643,81.07,19113434,JHA NITIN KUMAR VIDYARTHI,M,OPEN,1,LSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3326,8866,80.91,19105825,PARAB SIDDHANT SANTOSH,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3327,9474,80.41,19123726,AROSKAR PRAJYOT PRAMOD,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3328,9620,80.3,19104450,PATEL DHIR MANISH,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3329,9789,80.14,19111220,VICHARE OMKAR ANIL,M,SEBC,3,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3330,10076,79.94,19102408,SRIVASTAVA YASH BACHCHAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3331,10458,79.64,19127390,KHARPADE ARCHANA RAGHUNATH,F,ST,6,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3332,10865,79.33,19115547,BHOSALE HARSHAD RAMESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3333,10963,79.27,19106876,THAKKAR ASHISH JAGDISH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3334,11197,79.09,19113178,DHATAVKAR DEVANSHI NITIN,F,SC,4,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3335,11254,79.06,19124445,SONAWANE PRACHI GANESH,F,SC,4,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3336,12235,78.36,19105821,GUPTA VIVEK GANPAT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3337,12412,78.24,19121030,JHA PRASHANT AJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3338,12436,78.19,19108474,SONAR CHAITALI GIRISH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3339,12648,78.06,19144899,MANJREKAR RAJKIRTI RAJENDRA,F,SEBC,3,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3340,12678,78.0,19124420,TEJ JAGDISH DESALE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3341,12820,77.94,19105577,RAHATE BHUSHAN VIJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3342,13022,77.76,19119387,WAGHMARE SUMIT NARAYAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3343,13522,77.44,19140399,BURUNGALE GORAKHNATH SHIVAJI,M,NT2,8,PHNTC,,301,Computer & IT,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3344,13678,77.31,19108878,YADAV RAHUL RAJESH,M,OPEN,1,LSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3345,13933,77.15,19114362,MADHA RAMESH KANTU,M,ST,6,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3346,14953,76.42,19117124,BHOIR ABHIDNYA RAJAN,F,OBC,2,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3347,15716,75.94,19104530,NANNAWARE MANGESH BABRUVAHAN,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3348,16276,75.59,19111493,KHADAPKAR RUSHIKESH ANANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3349,16523,75.45,19112907,SHAIKH RAHMAT AHMED HUSSAIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3350,18057,74.97,19104049,GADE SUNIL SANTOSH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3351,18199,74.55,19110968,KAMTEKAR PRIYANKA VIJAY,F,OBC,2,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3352,18217,74.48,19142601,KHOPKAR HRITHIK VIJAY,M,SC,4,LST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3353,18695,74.18,19113823,KADAM OMKAR NARAYAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3354,18716,74.13,19108766,AMBAVKAR ARJUN NITIN,M,SC,4,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3355,18823,74.12,19108777,SONAWANE PRATHAMESH SUNIL,M,SC,4,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3356,18991,74.0,19104105,SANGALE ABHISHEK SOMNATH,M,NT3,9,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3357,19146,73.93,19114631,KELGANDRE ANIKET KASHINATH,M,SC,4,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3358,19526,73.7,19113851,WAVAGE YASH SANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3359,19528,73.7,19148852,ABGUL SAMEER SANTOSH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3360,19747,73.58,19129656,SHAIKH SANA JAHANGIR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3361,19749,73.58,19109185,BHOIR PRATHAMESH KANHAIYA,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3362,21091,72.85,19102694,SHINDE RUSHIKESH SHANTARAM,M,OPEN,1,PHO,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3363,21782,72.48,19100186,WAGHMARE SHREYAS SHRIHARI,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3364,22430,72.14,19140084,BANE KOMAL SUNIL,F,OBC,2,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3365,22535,72.07,19123706,TAMBAT MIHIR KIRTI,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3366,22610,72.06,19124504,SINGH RICHA JITENDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3367,23234,71.76,19105476,TANMAY NAROTTAM GHARAT,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3368,23332,71.7,19132336,YADAV ABHILASHA DAYASHANKAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3369,23584,71.58,19101926,DEVALE NIKHIL NARESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3370,23834,71.45,19112550,GAIKAR GITANJALI MAHENDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3371,24355,71.21,19103867,CHAVAN PRABHAT PRASHANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3372,24820,70.97,19110632,PATIL JIGNESH ANIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3373,24984,70.91,19112613,YOGESH SADASHIV THAKARE,M,OBC,2,LOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3374,25113,70.85,19130447,LAD SOHAM PRAKASH,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3375,25123,70.85,19137921,ATKOLE ANKIT SUNIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3376,25138,70.85,19126428,CHOTHE SUJIT BABU,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3377,25266,70.79,19124380,SALVI NEHA SURYAKANT,F,OBC,2,LOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3378,25724,70.55,19141127,PAWAR SAGAR SURESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3379,25852,70.48,19106799,ADVAIT MILIND JADHAV,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3380,25859,70.48,19100070,SHIRKE SAURABH SADASHIV,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3381,26550,70.14,19106063,TATKARE PRAFULL SANJAY,M,NT1,7,GNTB,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3382,26651,70.12,19132386,SURYAVANSHI SUDHIR KHANDU,M,SC,4,PHSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3383,27100,69.94,19102567,RAUT KAUSTUBH YASHWANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3384,27323,69.82,19110055,LUGARE AMISHA BABA,F,NT2,8,LNTC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3385,27562,69.7,19111951,DALVI YOGESH SHANTARAM,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3386,28238,69.39,19124748,PHADTARE SACHIN SANJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3387,28339,69.33,19124652,MANGALE SHUBHAM SAMBHAJI,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+3388,28360,69.33,19129062,PATIL PRASHANT GAURU,M,OBC,2,GOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3389,28472,69.27,19106717,TAMBE SHRUTI RAJESH,F,SC,4,LSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3390,28476,69.27,19127738,NIKITA VITTHAL SAGVEKAR,F,OBC,2,LOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3391,29143,68.97,19157301,SHILWAR DHIREN ASHOK,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3392,29684,68.73,19114026,KUMBHAR SHLOK PRADEEP,M,OBC,2,PHOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3393,29823,68.67,19152141,GAIKWAD MANISHA ASHOK,F,SC,4,LSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3394,30343,68.42,19126519,AGALE AJIT GIRISH,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3395,31093,68.07,19116837,ASHISH ROHIDAS SHINGADE,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3396,31097,68.06,19135924,BHANSE NIKHIL RAGHUNATH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3397,31404,67.94,19127489,MATERA RAJU SUGAN,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3398,32208,67.6,19109312,KARANDE PRADIP PRAVIN,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3399,33330,67.14,19113809,ATHAWALE RAHUL RAMKISAN,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3400,33745,66.97,19101534,MAHAJAN PRIYANKA VIJAY,F,OBC,2,LOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3401,33750,66.97,19114744,HADAL MANOJ KAKADYA,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3402,33844,66.91,19144991,RATHOD JAYESH VASANT,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3403,34409,66.67,19107149,GHUGE SHUBHAM DNYANDEO,M,NT3,9,GNTD,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3404,35045,66.41,19113002,MHATRE PRACHI PRALHAD,F,OBC,2,LOBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3405,36145,65.94,19112389,MORE AMEY PRAKASH,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3406,36754,65.7,19108581,KAMBLE SAMEER RAGHUNATH,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+3407,37154,65.52,19125052,KAMBLE PRUTHVIRAJ SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3408,38058,65.15,19126334,PAREKAR ADARSH KRISHNA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3409,39500,64.55,19101830,BANKAR NIKITA NARENDRA,F,SC,4,LSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3410,39627,64.48,19103986,JADHAV NILESH LOV,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3411,43227,62.91,19101617,SANKHE SHUBHAM SURENDRA,M,NT3,9,DFNTD,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3412,43798,62.67,19148999,GAMRE JANVI MANGESH,F,SC,4,LSC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3413,43828,62.67,19123183,CHAVHAN AKASH VILAS,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3414,45650,61.76,19103430,KARPE SUDHEER VIJAY,M,NT2,8,GNTC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3415,47394,60.85,19122814,BANDGAR SWATI SHAHAJI,F,NT2,8,LNTC,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3416,50435,58.91,19142736,KAMADI PUJA KISAN,F,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3417,50660,58.73,19103666,RATHOD KARAN RAMESH,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3418,50878,58.55,19109808,SHINDE SONALI SAGAR,F,NT1,7,LNTB,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3419,50926,58.48,19105687,SHELKE SUSHANT BUDHAJI,M,ST,6,LST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3421,15524,76.06,19103390,NALAWADE SAI SUNIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3422,19751,73.58,19103019,GHARAT SAURABH VIKAS,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3423,20289,73.27,19128767,BHATI SHAHHAD KHALID,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+3424,20295,73.27,19136749,SWAPNIL GANGARAM GAVDE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3425,23121,71.82,19115220,PIMPLE VIPUL NITIN,M,NT3,9,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3426,23827,71.45,19104083,SINGH MANOJ AJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3427,25105,70.85,19113617,SUKNE RAMLING SHIVAJI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3428,27467,69.76,19131254,PANDEY TEJAS SHASHIKANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3429,28240,69.39,19114211,VINOD KR GOND,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3430,28372,69.33,19115537,TAMBVEKAR CHAITANYA JAYANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3431,28898,69.09,19122408,KAZI AASIYA NISARAHMED,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3432,29015,69.03,19105605,CHOPDAR ASLAM FAZLUDEEN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3433,30357,68.42,19140246,SAROJ ASHISHKUMAR ASHOKKUMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3434,30484,68.36,19108975,MISHRA RITHIK KUMAR MANOJ KUMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3435,30488,68.36,19101495,NAIK KAUSHIK DILIP,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3436,31353,68.0,19143899,PATIL ANVAY RAJESH,M,SBC/OBC,10,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3437,32045,67.7,19101877,MASURKAR HEMANT CHANDRASHEKHAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3438,33851,66.91,19112718,KONDASKAR HARSHAD SURESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3439,34007,66.85,19102888,TAMORE MANAS BHARAT,M,SBC/OBC,10,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3440,34153,66.79,19117672,KADAV JEEVAN CHANDRAKANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3441,34847,66.48,19110623,MAHALE CHAITANYA KRUSHNA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3442,34865,66.48,19112239,PAL SURAJKUMAR SABHAJEET,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3443,35097,66.4,19112941,KHATATE VRUSHABH SUNIL,M,NT1,7,GOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3444,35448,66.24,19102758,SINGH BHAVNA DEVENDRAKUMAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3445,35712,66.12,19101391,KANOJIA RUPESHKUMAR RADHESHYAM,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3446,36330,65.88,19105203,PAWAR HARSHAD MANOHAR,M,OBC,2,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3447,36585,65.76,19104051,PATIL BHUSHAN PANDURANG,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3448,6399,83.15,19101911,SAYYAD SAMIRSHA MAULASHA,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3449,20405,73.21,19100363,ANSARI SAMEER FARUQ,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3450,24844,70.97,19104173,SAYED ABDULREHMAN MOHAMMEDHANIF,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3451,27208,69.88,19113859,KHAN ABDUL WADOOD ABDUL LATEEF,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3452,28103,69.45,19140152,KHAN NAYEEM DHANMAT,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3453,28241,69.39,19138258,CHAWHAN ABDULSAMAD SULTAN,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3454,30813,68.24,19103342,KHAN MOHAMMAD UMAR MOHAMMAD AJMAL,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3455,32018,67.7,19130613,KHAN SHAHNAWAZ AHMED AQEEL AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3456,32315,67.58,19101920,SHAIKH GUFRANAHMAD MOHAMMADYASIN,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3457,32837,67.33,19102967,FAROOQUI HAARIS AHMED SHAFI AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3458,33437,67.09,19119245,SIDDIQUE SANIYA SALAUDDIN,F,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3459,33902,66.9,19110403,SHAIKH ZIA UL HAQUE IRFAN UL HAQUE,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3460,35007,66.42,19117264,JATU MOHD FAHAD MOHD SHAHID,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3461,35605,66.18,19157246,KHAAN TAHIR UBEDURREHMAN,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3462,37339,65.45,19114072,PATEL NOUMAN NISAR,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3463,37912,65.21,19101167,SHAH MOHAMMED FAREED KASIM,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3464,39647,64.48,19113810,AHMED MONISH NISAR,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3465,40900,63.94,19103673,MALIK NEHAL AHMED MOHMAD NASEEM,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3466,41768,63.58,19117681,SHAIKH AWAIS YUSUF ALAM,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3467,41781,63.58,19123526,KHATRI AAQIB ARIF,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3468,42234,63.36,19139086,ANSARI MOHD SAMEER SHAREEF AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3469,42736,63.15,19100645,SUSE IMAMUDDIN NASIR,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3470,48249,60.36,19139613,KHAN ABU AASIM SAFIR AHMED,M,OPEN/EWS,5,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+3471,48970,60.0,19102055,MOHAMMED TARIQUE YUSUF QURESHI,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3472,49365,60.0,19100372,SHAIKH SALMAN MEHBOOB,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3473,50363,58.97,19151739,CHAUHAN AVESH MUKHTAR,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3474,50428,58.91,19124541,BHATI ANAS ABDULKAYUM,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+3475,53271,55.52,19157975,MOMIN ABDULLAH NIYAZ AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3476,53470,55.09,19124529,TAWAR MOHSIN MAKSUD,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3477,53740,54.3,19114014,BHATI MOHAMMEDHAARIS AHSAN,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+3478,54116,52.85,19132192,ANSARI ARSHAD SHAHID,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+3479,54210,52.3,19104342,NIRBAN MOHD AMAN SHAUKATALI,M,OPEN,1,MI,,201,Civil,201,Civil,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+4154,1539,89.15,19117948,PUROHIT BHARATKUMAR VALARAM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4155,1929,88.48,19123796,SARANG AJINKYA BABASAHEB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4156,2268,87.94,19114698,DIAS REON SANJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4157,3456,86.24,19112262,ARCHIT BINOY MANAPETTY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4158,5722,83.76,19108324,MULLA MUSKAN MURAD,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4159,5996,83.52,19139963,MALI DHANESH DHANANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4160,8436,81.25,19113883,CHANDAN SANYA KAUR GURBIR SINGH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4161,8592,81.13,19110353,PADWAL MEGHNA RAJENDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4162,8924,80.87,19101749,RATHOD NEERAV SHAILESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4163,10285,79.76,19137114,KOTWAL DIVYANI CHANDRAKANT,F,OBC,2,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4164,11025,79.21,19108877,SHINGANE DIVYA SURESH,F,NT1,7,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4165,12067,78.47,19100370,GHEDIA PRAGNESH BABHUBHAI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4166,12421,78.24,19110887,KHAN MAAZ GULAM HABIB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4167,12560,78.12,19111601,DARJI DHRUV SHAILESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4168,13239,77.64,19104026,MISHRA GOVIND VIMLESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4169,13315,77.58,19106618,PANDIT PRAJAKTA ABA,F,SEBC,3,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4170,13757,77.27,19131895,PATIL KHUSHI ASHISH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4171,13770,77.27,19112524,YOGESHWARNARAYAN SATYABRATT DUBEY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",*,3.0
+4172,14182,76.97,19101548,GAIKWAD OMKAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4173,15263,76.24,19126366,BHOIR DHIRAJ PREMNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4174,15896,75.82,19103063,JHA KUSUMLATA SUMAN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4175,16118,75.7,19157901,THAKUR RAJKUMAR VIJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4176,16495,75.45,19110794,KOLI KASHMIRA MASTAPA,F,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4177,16609,75.39,19127937,DUBEY RAVISHEK KUMAR ARVIND KUMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4178,17177,75.03,19105274,KHAN SAHIL SABREALAM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4179,17196,75.0,19102522,BHOSALE SUJAT MAHESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4180,17871,74.97,19152906,RAMPURE KASHINATH PARMESHWAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4181,18019,74.97,19108225,PANDEY LALLA RAMASARE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+4182,18266,74.41,19107451,AVHAD RASIKA VINAYAK,F,NT3,9,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4183,18426,74.3,19102620,DHANSHALI MEET KAMLESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4184,18675,74.18,19109400,YADAV NAVDEEP SINGH PARITOSH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4185,18958,74.0,19112642,GUDEKAR PRANALI PRAKASH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4186,19219,73.88,19129952,TRIPATHI ABHINAV RAKESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4187,19953,73.45,19121438,QURESHI ABDUL MATEEN MOHD IQBAL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4188,20166,73.33,19148304,SHINDE PARTH SATYAJIT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4189,20280,73.27,19132141,PARAB ABHISHEK SUNIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4190,21097,72.85,19109660,QURESHI FARAZ MOIN FAROOQ,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4191,21325,72.73,19111320,SURVE OMKAR SUBHASH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4192,21680,72.55,19132930,JAISWAR RITESH SABHAJEET,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4193,21798,72.48,19138563,SHARMA AMIT RAMJEET,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4194,21896,72.42,19123899,PANDEY ARPIT AKHILESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4195,21999,72.36,19113346,PATIL SHREY JAGDISH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4196,22014,72.36,19113779,TIRSI KAMLESH MALLAYA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4197,22119,72.3,19103741,KHAN MOHAMMED SAMIR ABDUL QAHAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4198,22403,72.18,19120129,SINGH SANGAM SHASHIKANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4199,22409,72.18,19110991,PUJARI RAMESH MALLESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4200,22883,71.94,19103209,GADGE PRASHANT TANAJI,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4201,22889,71.94,19125174,MANSI DILIP MHAMUNKAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4202,23211,71.76,19104969,CHAFEKAR KALPITA NITIN,F,NT1,7,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4203,23835,71.45,19121858,TANWAR MOHD SAUD SHAKEEL,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4204,25095,70.85,19108895,VISHWAKARMA UJWAL RAJU,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4205,26788,70.06,19141537,AARTHI MAHALAKSHMI SUBRAMANIAN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4206,39628,64.48,19112744,SONAWANE AKSHATA KESHAV,F,NT3,9,LOPEN,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4208,12828,77.93,19124848,GANDHI BHAVIK MANOJ,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4209,15165,76.3,19119125,VADHAN KRISH DEEPAK,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",*,3.0
+4210,17973,74.97,19114461,PATEL YASH MAHESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4211,18342,74.36,19132098,MEHTA SAMEEP JITENDRA,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4212,19663,73.6,19111991,GOHIL BHAVIK PRAVIN,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4213,19956,73.45,19123008,NISHIT CHETAN KHERADIA,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4214,20624,73.09,19123317,POKAR DHEER PRAFUL,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4215,21563,72.6,19122189,KUMBHAR ARPIT AMRUTBHAI,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4216,22400,72.18,19124596,SHAH NEEL ARVIND,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4217,22901,71.94,19123537,PARMAR MAULIK RAMESHBHAI,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4218,23160,71.8,19101472,MORANIYA PRIYA BHARAT,F,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4219,23336,71.7,19115999,WAGHELA ADITYA DINESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4220,23340,71.7,19131942,PARMAR YASH JITENDRA,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4221,25257,70.79,19100700,JANI MAYUR AMRIT,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4222,25587,70.63,19125251,HASAMWALA MOHAMMED FAKHRI,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4223,26958,70.0,19116773,RATHOD PRATHAMESH JAYANTILAL,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4224,29429,68.85,19104394,BHADESIA KENIL GIRISH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4225,32466,67.52,19121274,PATEL SAAD SADIQBHAI,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4226,32484,67.5,19104142,PARMAR DHRUV SUNIL,M,SC,4,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4227,40945,63.94,19113642,KACHHAD JIGAR GOPAL,M,OPEN,1,MI,,401,Machanical,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+4228,41066,63.88,19104743,MEET RAKESH PATEL,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4229,42851,63.09,19109910,DHRUV ASHWIN DELADIA,M,SC,4,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4230,43682,62.73,19129586,MEHTA YASH SHAILESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4231,44150,62.48,19159600,PARMAR HARSH NITESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4232,44421,62.36,19110435,GOHIL YASH TINABHAI,M,SC,4,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+4233,46390,61.39,19128700,NIRAV PIYUSH SAVLA,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+4234,46420,61.39,19107936,KOMIL PRAVIN PATEL,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4235,47744,60.67,19115768,SAPRA PRIYESH SHAILESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4236,48167,60.42,19134138,RATHOD SAHIL PRAKASH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4237,50057,59.21,19131935,JAMVECHA YAGNESH BIPIN,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+4238,50728,58.67,19119474,PATEL YASH DHIRAJ BHAI,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4239,51812,57.64,19112711,PANCHAL YASH AJAY,M,OBC,2,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4240,52058,57.33,19105694,PATEL YASH VINOD,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4241,53193,55.64,19111141,HARSH DHARMESH PARIKH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4242,53409,55.21,19105138,RUPARELIYA RAJ GOPAL,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4243,53587,54.73,19108572,SHETH RUSHIL JAIMESH,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4244,53737,54.3,19153601,SOLANKI VISHAL NARENDRA,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+4245,54399,50.48,19102249,RONAK BRAHMBHATT,M,OPEN,1,MI,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+4246,20753,73.03,19102404,AVHAD SACHIN DAGU,M,NT3,9,MIMH,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#-,
+4247,22713,72.0,19106822,PATIL YASH DIGAMBAR,M,OBC,2,MIMH,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^-,
+4248,23673,71.52,19137343,CHAVANKE SANKET SURESH,M,OBC,2,MIMH,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#-,
+4249,23810,71.45,19111673,RAUT SHUBHAM KIRAN,M,OBC,2,MIMH,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^-,
+4250,24102,71.33,19121481,KUNAL SUNIL BHOIR,M,OBC,2,MIMH,,201,Civil,201,Civil,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#-,
+4277,7373,82.24,19130756,KAPADNIS ABHISHEK AJIT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4278,14881,76.48,19122145,DOSHI YUGA HIMANSHU,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4279,15162,76.3,19111763,SIDDIQUI AAMIR NAIM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4280,19659,73.6,19112940,RANE AKSHAY EKNATH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+4281,20853,72.97,19124526,AGRE AKSHAY PRAKASH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4282,22122,72.3,19107005,SONAWANE ANIKET CHHAGAN,M,SC,4,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4283,23233,71.76,19112951,SAYYED AAYESHA RASHID,F,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4284,24217,71.27,19113893,LADVA ABHAY RAJESHBHAI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4285,24691,71.03,19113995,SAWANT SIDDHESH GOVIND,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",@,5.0
+4286,25140,70.85,19140261,SHAIKH NAZNIN MD SHAKIL,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4287,25391,70.73,19109520,KUMAWAT HARSHAL GORAKHNATH,M,NT1,7,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4288,25616,70.61,19116456,RAJBHAR ASHVEEN SUVASH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4289,26631,70.12,19123059,KADAM KUNAL SANJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4290,27402,69.76,19130569,SINGH VIPUL KUMAR PANKAJ,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4291,28368,69.33,19111227,WAGHMARE PRAGNESH SANJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",@,5.0
+4292,28508,69.27,19121351,JHA BHARAT RAMKUMAR,M,OPEN,1,LNTA,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4293,28906,69.09,19139787,JADHAV MANDAR HARESHWAR,M,SC,4,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4294,29290,68.91,19120993,KARANDE SIDDHANT SHANTARAM,M,SC,4,GOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4295,29958,68.61,19124795,YADAV ADITYA BRIJBHUSHAN,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+4296,30352,68.42,19112314,GURUKHEL OMKAR KHANDERAO,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4297,30442,68.4,19125995,MANOJ DILIP JADHAV,M,OPEN,1,LST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4298,30986,68.12,19134368,KADAM SWAPNIL SURESH,M,OPEN,1,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4299,31649,67.84,19113100,DIVEKAR AKASH DEEPAK,M,NT1,7,GNTB,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4300,32297,67.58,19106775,NAIK CHINAR RAJESH,M,OPEN,1,PHNTA,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+4301,32867,67.33,19106252,LAHAMGE JATIN DEVENRA,M,NT3,9,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4302,33994,66.85,19154572,KARAN KUNAL RAVINDRA,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4303,34008,66.85,19106023,NAIR ARJUN RAMACHANDRAN,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4304,34888,66.48,19143652,MANKAR HITESH SUNIL,M,OPEN,1,LSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4305,35137,66.36,19124169,RAUT RAJAS PANKAJ,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4306,35809,66.12,19141076,RAUT MONISH DINESH,M,OPEN,1,GST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4307,35835,66.06,19127855,PATIL ANIKET SURESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4308,37055,65.58,19156231,MISHRA SHIVAMKUMAR KRISHNASHANKAR,M,OPEN,1,PHSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4309,38505,64.97,19133225,ANGANE AMAN AJIT,M,OPEN,1,PHSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4310,38521,64.97,19136195,TAMBE VAIBHAV UDAY,M,SC,4,GSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4311,38745,64.85,19113335,VISHWAKARMA ANIKET UTTAM,M,OPEN,1,DFNTC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4312,39353,64.61,19112029,PATKAR SHUBHAM SACHIN,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4313,39768,64.42,19154236,PARAB NIKHIL SHARAD,M,OPEN,1,LNTD,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4314,39798,64.42,19124954,PORIYA HINAL RAJESH,F,OPEN,1,GSEBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4315,40526,64.12,19105440,PATIL PRANAY HEMANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4316,41671,63.64,19145152,PATIL PRANIT SUBHASH,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4317,42084,63.45,19114569,JADHAV PRATIK BHAGWAN,M,SC,4,LSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4318,42315,63.33,19146206,KAMBLE ASHISH VIJAY,M,SC,4,GSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4319,43672,62.73,19103030,PATIL NISHANT MOHAN,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4320,43889,62.64,19120955,JADYAR OMKAR ANIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4321,45001,62.08,19115825,AWALE PRATHMESH RAJESH,M,SC,4,LSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+4322,45623,61.76,19151612,AHIRE SNEHAL SUNIL,F,SC,4,LOPEN,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4323,46378,61.39,19111921,JADHAV KUNAL ROHIDAS,M,SC,4,GSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4324,46743,61.21,19109662,GAIKWAD KATIK CHANDU,M,SC,4,LSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4325,46754,61.21,19138096,THAKUR ADVAIT SANJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4326,47285,60.91,19108592,SURWADE PIYUSH SURENDRA,M,SC,4,GSC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+4327,47432,60.85,19112719,KADU AKSHAY BALKRUSHNA,M,ST,6,GST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4328,47538,60.79,19104744,PATIL VARUN MOHAN,M,OBC,2,LOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4329,48735,60.12,19144642,MADKE HARSHAL PANDURANG,M,OBC,2,LOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+4330,49731,59.45,19141985,PATIL RAJ PRASHANT,M,OBC,2,LOBC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4331,52996,56.0,19103153,BADRE TUSHAR TANAJI,M,NT2,8,GNTC,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4332,54099,52.91,19102510,PAWAR ABHIJEET RAJARAM,M,ST,6,GST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+15529,587,91.69,19112299,MANE PRANJAL ARVIND,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15530,771,91.06,19137152,CHOWKEKAR SAHIL DEEPAK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15531,1244,89.81,19102052,PATIL AARATI HIRAMAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15532,1714,88.88,19132359,MHATRE MANASVI RAMESH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15533,1950,88.44,19101130,JADHAV HEMANGI ASHOK,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15534,3386,86.31,19132784,PATIL SNEHAL SANJAY,F,NT1,7,GNTB,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15535,6080,83.43,19113905,SHEDGE SHRUTI PRAMOD,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15536,21221,72.79,19110319,PATIL SHUBHAM MANOJ,M,ST,6,LST,,201,Civil,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15537,1445,89.35,19103649,JADHAV GRANTHALI DINESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15538,1909,88.53,19114914,YEWALE HARDIK SAMBHAJI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+15539,2004,88.36,19112346,INGALE CHINMAY BHANUDAS,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15540,4712,84.8,19106321,SHIRKE SHIVANI SANTOSH,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15541,5404,84.07,19103457,MALAP MANSI SUNIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15542,5657,83.87,19155302,MORE AKSHAY SANJAY,M,NT1,7,DFNTB,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+15543,6025,83.5,19132910,KOTHAVALE RANVEER VIJAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15544,12503,78.14,19113910,ILLE TEJAL RAMDAS,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15984,1823,88.69,19102809,WADE AKANKSHA KISHOR,F,NT3,9,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15985,2036,88.31,19119369,DANIEL KARUNANIDHI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15986,3279,86.44,19124992,BATADA SIMRAN NASRUDDIN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+15987,3391,86.31,19102054,KULKARNI GARGI KISHOR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15988,4769,84.75,19134093,GOTHE AACHAL VITTHAL,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+15989,4774,84.75,19102095,KULKARNI GAYATRI KISHOR,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15990,6322,83.24,19113850,PRAJAPATI ADITYA PRAMOD,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15991,6382,83.18,19139696,VAITY SIDDHESH ANIL,M,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+15992,7098,82.5,19113410,RAUT KIMAYA ATUL,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15993,7560,82.06,19113564,RAUL ANCHIT VIVEK,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+15994,7965,81.69,19122252,MERCHANT NAVEED ABDUL HAMID,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+15995,7968,81.67,19107155,DUBEY SNEHAL SATISH,F,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+15996,8231,81.44,19110101,KUSHWAHA HIMANSHU SUDHAKAR,F,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+15997,8528,81.19,19117959,JAGADALE SAURABH DHANAJI,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+15998,8843,80.94,19100610,BHATT PARTH YOGESH,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+15999,9266,80.56,19124317,MORE CHETAN DATTARAM,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+16000,9268,80.56,19107690,LADE SHRUTI BHUSHAN,F,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+16001,10011,80.0,19100601,NIDHI AGRAWAL,F,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16002,10600,79.53,19121069,KHAN TAUSIF TAUHID ALI,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+16003,3203,86.53,19106258,UPADHYAY SHIKHA RAKESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+16004,5598,83.88,19105607,PANDIT SAMARTH KUNTESH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+16005,5896,83.6,19104204,THOMBARE SUPRIYA AMOL,F,NT2,8,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+16006,7595,82.06,19102830,PANGARE AJAY ANKUSH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+16007,7733,81.88,19125070,PAL SHIVANI HARIDEV,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+16008,10423,79.65,19112315,DESHMUKH HRUTVIK NAMDEV,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+16009,10663,79.47,19109747,ODELA KAMAL SHANKAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+16010,11241,79.06,19101916,PILLAI VAISHAK SETHU,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+16011,12896,77.88,19108789,MHATRE SAYALI SUNIL,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+16012,3760,85.87,19124276,HETANSH BHAVIK SHAH,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&-,4.0
+16013,4467,85.06,19111293,REVADEKAR YASH MAHESH,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*-,3.0
+16014,6368,83.18,19113968,SAWANT SHARMISTHA DILIP,F,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+16015,6638,82.94,19113920,PRAJAPATI ASHISH RAMESH,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16016,7137,82.47,19113680,PANDEY ASHUTOSH HRIDAYNARAYAN,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&-,4.0
+16017,8041,81.59,19113656,SHUKLA RISABH BRIJESH,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16018,8054,81.59,19142014,JAISWAL DEEPAK MALIKRAM,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16019,10819,79.35,19111311,SHAH ASHOK JIVLAL,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16020,11433,78.94,19104915,DESAI NIDA BASHIR,F,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16021,11439,78.94,19108042,NEEL AJAY KORE,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+16022,11490,78.88,19100608,SOLANKI MEET SANJAY,M,OPEN,1,MIMH,,301,Computer & IT,301,Computer & IT,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+16083,3050,86.75,19140181,PATIL YUGALI SANTOSH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+16084,3607,86.06,19103597,CHINCHANE RIDDHIMA MILIND,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+16085,5064,84.44,19147674,RAHUL YADAV,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+16086,6421,83.13,19127689,BHAGAT POONAM SANJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+16087,7363,82.25,19102006,PATIL RAHUL UDAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+16088,12860,77.88,19104199,JADHAV HRUCHITA BALU,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+16089,19450,73.75,19146085,PARAB PRATHAMESH SADASHIV,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+16090,23257,71.75,19109428,RATHOD VILAS NATHU,M,DT/VJNT(A),11,GNTA,,301,Computer & IT,301,Computer & IT,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+16091,1882,88.56,19106340,PATIL PRADNYA SANJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16092,8409,81.29,19110512,SAWANT SHUBHAM SUNIL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16093,12302,78.3,19125303,SALAGARE VINAYAK PRAMOD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16094,13872,77.19,19124127,MISHRA RUCHI RAGHVENDRA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16095,14325,76.88,19108506,RAUT PAYAL MANGESH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16096,14411,76.81,19118452,YADAV DEVESH VINOD,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16097,15734,75.94,19116966,BHOI SUSHAMA KISHOR,F,NT1,7,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16098,16383,75.53,19145690,CHAUBE NIKHIL ANIL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16099,17024,75.12,19130510,PATIL YASH RAJESH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16100,17645,75.0,19101198,RAUT SWARANG AJAY,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16101,17655,75.0,19124921,VISHWAKARMA ABHAY LALTAPRASAD,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16102,18244,74.44,19106337,SANKHE JIDNESHA VINOD,F,NT3,9,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16103,18626,74.19,19112459,TAILOR YASH VIPUL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16104,1927,88.5,19127269,SOBIYA MOHAMMADSALEEM .,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16105,5450,84.06,19100469,ZAKIR ULLAH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16106,6014,83.5,19104007,SHAIKH MOHD NOMAN MOHD KAMRAN,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16107,9571,80.35,19108001,SHAIKH AYESHA ABDULLAH,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16108,11344,79.0,19111965,CHAUDHARY RUKSAR AKBAR,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16109,15950,75.81,19116450,ROSHAN SAAD MEHMOOD,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16110,16467,75.47,19108703,KHAN MOHAMMAD KARIZ ABID ALI,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+16111,22329,72.19,19113975,ROSHAN DANISH BILAL,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16112,25789,70.53,19125605,SHAIK RUKSAR BEGUM RASHEED,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16113,28403,69.29,19120332,SHAIKH MOHAMED AMIN HAKEEK AHMED,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16114,32805,67.35,19107060,RAZA ALEMA ZEHRA MOHSIN,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16115,41574,63.65,19100530,RATLAMWALA MURTAZA SHABBIR,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16116,47145,61.0,19133485,SHAIKH SHAKIB ALAM,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16117,47494,60.82,19109221,ABBASI ABDULREHMAN MOHAMMED RAFIQUE,M,OPEN,1,MI,,302,ENTC,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16118,50917,58.5,19140731,MOHD AMIR NISAR AHMAD,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16119,7336,82.29,19150215,CHAUDHARI PRATIKSHA KAMALAKAR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+16120,9791,80.13,19110379,MAURYA SANDEEP RADHAKRISHNA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16121,11853,78.63,19121925,GUPTA PRADYUMAN VINOD,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16122,12198,78.38,19113440,MAHALE BHUSHAN KAILAS,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16123,16047,75.75,19132961,TIWARI ANKIT ASHOK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16124,16146,75.69,19114069,NANCY ASHOK PATHAK,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16125,18824,74.12,19107006,NAYAK SAMRUDDHI KARUNAKAR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16126,18993,74.0,19110060,DESAI DRASHTI SHAILESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16127,19130,73.94,19132499,YADAV AJAY SUBASH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16128,20080,73.38,19125291,NATH SHOUMIK SOMNATH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16129,21699,72.53,19105185,PATIL MAYANK BHARAT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16130,22191,72.25,19129449,DESHMUKH SOHAM PANDURANG,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16131,22618,72.06,19117984,SINGH AYUSHI YOGESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16132,23618,71.56,19116661,BHANDARKAR SMRUTI RAMESHWAR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16133,25588,70.63,19123520,NAIR ABHISHEK RAGHUNATH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16134,25696,70.59,19124381,PAWAR DIKSHA DILIP,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16135,26274,70.29,19110617,TANDEL SALONI SUDHAKAR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16136,27871,69.56,19109413,SONAR VIRAJ PRAVIN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16137,3302,86.41,19104715,SHAIKH SANIYA SAYEED,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16138,7969,81.67,19101713,SHEIKH SOFIYA ALTAF,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+16139,11575,78.82,19104762,SHAIKH NAMIRA NISAR AHMED,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16140,13174,77.69,19104020,KHAN MOHAMMAD ABID MERAJ AHMED,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16141,14305,76.88,19108407,ANSARI NIKHAT MOHD SALEEM,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16142,15852,75.87,19124399,ANSARI RAIS ALI ROSHAN ALI,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+16143,16824,75.25,19113192,SHAIKH ADNAN ABDUL GANI,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16144,17751,75.0,19138323,SYED MOHAMED HUSSAIN VAZIRALI,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16145,18892,74.06,19116308,YASIR ATTAR,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16146,25011,70.88,19122675,SHAIKH USAAMARAZA IRSHAD,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16147,25659,70.59,19122600,SHAIKH MOHAMMED SHAHEEM SHAFIQUE,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16148,27101,69.94,19124958,SHAIKH ASHPAK KALIM,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16149,33516,67.06,19110936,SHAIKH MOHAMMED ZAID MOHAMMED SALEEM,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16150,37080,65.56,19134149,AFFAN MOHD RAFIK SHAIKH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+16151,43583,62.76,19129510,SHAH MOHD JASIR JAVED,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16152,53868,53.88,19117103,GAHLOT MOHD SAAD MOHD WASIM,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+16575,3590,86.06,19103273,DHUMAL TANVI BHASKAR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16576,4347,85.19,19103329,KASTURI BAVESH PANCHAKSHRI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16577,4873,84.63,19113465,DESHPANDE RAHUL SATISH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16578,4933,84.56,19109685,KARBHARI NIKITA SUBHASH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16579,5491,84.0,19110206,THAKARE NUTAN HARICHANDRA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16580,5625,83.88,19123932,SAWANT SWARDHA RAJAN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16581,2748,87.13,19114304,DHRUV DESAI,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16582,3315,86.41,19115841,RATNANI HARSH SHANTILAL,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16583,4015,85.56,19114367,PARIKH SAKSHI HIMANSHU,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16584,4980,84.53,19104004,KAPASI JAY BHAVESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16585,5391,84.12,19113474,SIDHPURA RIDDHI HARESH BHAI,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16586,6114,83.4,19119256,PARAM KRISHNA RAWAL,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16587,6293,83.25,19104205,CHAUHAN HRITHIK CHANDRESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16588,6692,82.88,19118834,SHAH VINAY MAINSH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16589,2306,87.87,19105740,VISHWASRAO KUNAL SANJAY,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16590,2320,87.82,19151363,AOUDICHYA SATISH ASHOK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16591,2996,86.81,19112981,KAUSTUBH NITIN LATAKE,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16592,3604,86.06,19113080,DOSHI JEET AJAY,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+16593,5194,84.31,19114940,POSHE PRATIK HIRACHANDRA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16594,8155,81.5,19106639,RAUT DARPAN NANDKUMAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16595,8901,80.88,19100177,KENI PRATHAMESH RAJENDRA,M,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16596,10010,80.0,19101123,PAREEK HIMANSHU RAMESH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16597,10059,79.94,19131949,NIJAI SAMIKSHA SANJAY,F,SBC/OBC,10,LOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16598,10065,79.94,19111171,BHEDA AKSHAT KHUSHAL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16599,11347,79.0,19115649,PATIL PURNA NITIN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16600,12095,78.44,19113126,SHEWALE VEDANGI ASHISH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+16601,12796,77.94,19108725,BAGALKOT SONIA MAHADEV,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16602,3969,85.6,19123590,CHARMIL KAUSHIK SHAH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16603,5655,83.87,19102415,CHANDURA DARSH BHADRESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16604,6422,83.13,19108084,PARIKH RITVIK BHAVESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16605,7638,82.0,19106236,SHAH BHAVYA ATUL,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16606,9214,80.6,19123907,TANAY KAMAL RESHAMWALA,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16607,10798,79.38,19107832,SHAH DHRUVIL NAVIN,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16608,10893,79.31,19117422,SONI SAMARTH KALPESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16609,11015,79.24,19113668,RAMBHIA DIVVYA PARAS,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16610,11932,78.56,19116718,UPADHYAY PRANAV KALPESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16611,12263,78.35,19113297,MANIAR AKSHAY KAUSHIK,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16612,12912,77.87,19103007,SHAH SAMKIT MANISHKUMAR,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16613,13695,77.3,19111158,JOSHI YASH MUKESH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16614,13696,77.3,19102874,BAROT ISHAN PRAKASH,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16615,15819,75.88,19114536,SHAH SHAILI HIMANSHU,F,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+16616,4089,85.47,19125191,CHHEDA PRIYANK DIMPESH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16617,5627,83.88,19101938,BARE RAKESH RAMCHANDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16618,6340,83.2,19121117,MEHTA VATSAL NILESH,M,OPEN,1,DFO,Specific Learning Disabilities,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16619,6840,82.73,19103211,PATEL HEM DINESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+16620,7351,82.29,19125428,VISHWAKARMA KARAN UTTAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16621,7442,82.18,19132972,SUJAY SUDHAKAR ANERAO,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+16622,8087,81.56,19104768,NAIK RASIKA RAGHUNATH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+16623,9558,80.35,19112403,SHAIKH SAMEER AHAMAD IFTEKHAR,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+16624,10474,79.62,19124587,KOWALE VAIBHAV MOHAN,M,NT1,7,GNTB,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16625,11432,78.94,19122942,KHAN RAHIM ASLAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16626,14382,76.82,19109976,PATIL TRUPTI GIRISH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16627,14949,76.44,19116210,PATEL DAKSHESH KUMAR MUKESHKUMAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16628,15356,76.18,19131805,ACHARYA SHUBHAM PANKAJ,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16629,16257,75.63,19103864,RAUT PRATIK MORESHWAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16630,17358,75.0,19100851,JAMSANDEKAR KAUSTHUBH SURYAKANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+16631,19259,73.87,19101890,MEHTA PARTHAVI HASMUKH,F,OPEN,1,GNTA,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16632,19468,73.73,19111920,PENDURKAR SANIYA SUDHAKAR,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16633,19762,73.56,19112785,PAWAR KOMAL JITENDRA,F,OPEN,1,GNTC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16634,20436,73.19,19103038,PATKAR SAAHAS HEMANT,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16635,21372,72.71,19105903,MOHITE SIDDHI SANJAY,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16636,21494,72.65,19111777,RAYKAR MITESH JAGANNATH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16637,21960,72.38,19120040,JADHAV SHRUTI DEEPAK,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16638,22145,72.29,19112720,MANDAVKAR SAYLI SUBHASH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16639,22366,72.18,19114058,PATIL NEHA PANDURANG,F,OPEN,1,GNTC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16640,22730,72.0,19113605,PANT SANSKAR SUNIL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16641,22841,71.94,19112311,MORE BHAVESH PARSHURAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16642,23004,71.88,19129258,SINGH AVINASH SHIVMURAT,M,OPEN,1,LNTD,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16643,23138,71.81,19125127,TEMKAR APARNA RAJU,F,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16644,23498,71.63,19102300,ANIL SHRAVAN GUMDE,M,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+16645,25028,70.88,19103675,BHOIR HRUSHIKESH RAJENDRA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16646,26081,70.36,19108828,NALAWADE SIDDHARTH SUNIL,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16647,26168,70.35,19107905,CHATURVEDI SAMIKSHA RAJESH,F,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16648,26479,70.18,19105736,DIVYANK GAWAD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16649,27080,69.94,19120894,GAVLI RIYA RAVINDRA,F,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16650,27116,69.93,19103025,JOSHI SNEHA BALKRISHNA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16651,28256,69.38,19106776,PATIL ASHWINI VITHOBA,F,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16652,28541,69.25,19111026,ANSARI MOHAMMED TAIF HAFIZUR REHMAN,M,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16653,29220,68.94,19130412,MEHER GARGI SHIRISH,F,SBC/OBC,10,LOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16654,29772,68.69,19138360,SHAIKH ANWAR ALI ASGAR ALI,M,OPEN,1,LSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16655,29868,68.65,19110542,MEHER PRARTHANA SURESH,F,SBC/OBC,10,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16656,30027,68.56,19113696,BHANUSHALI TRIMBAKI SUDHIR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+16657,30575,68.31,19152791,JADHAV MANALI MANGESH,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+16658,30725,68.25,19137106,KHAIRE PRITI GAUTAM,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16659,32342,67.56,19138146,JAGTAP ANKITA MILIND,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16660,32617,67.44,19122800,BONDE PARTH SHYAM,M,OPEN,1,PHNTB,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16661,33817,66.94,19106198,MALI BHAVIKA ATUL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16662,34539,66.63,19110581,RAUT SALONI NILESH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16663,34970,66.44,19132680,NAGOTKAR HARSHALI YASHWANT,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16664,35677,66.13,19108929,SAKPAL RITVIK VIJAY,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16665,35914,66.06,19114056,BHUVAD KAIVALYA DEVANAND,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16666,37096,65.53,19128463,SATAMKAR PRAGATI PRABHAKAR,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+16667,38012,65.18,19103856,VIKAS SWAMINATH PANDEY,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16668,38154,65.12,19114652,UPADHYAY MOHIT RAJESH,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16669,40774,64.0,19157526,BHOSALE AAKASH ANANT,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16670,41097,63.88,19106030,GUPTA SAHIL MANOJ,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16671,42528,63.25,19133018,GHARAT NISHANT PANDHARI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+16672,44607,62.29,19113022,PATIL VARUN ANIL,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+16673,50852,58.56,19108258,PEDNEKAR GAURAV PRAVIN,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+28077,3811,85.77,19112803,KORGAONKAR PRIYANKA PRAKASH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28078,3966,85.61,19129358,BENDRE DIPTESH DATTARAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28079,5960,83.54,19107124,KANOJIA SIKANDAR RAMDARAS,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28080,8274,81.4,19113032,PATEKAR VIKAS GANPAT,M,OPEN,1,GST,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28081,8872,80.9,19116047,SANKHE RUTUJA SANTOSH,F,NT3,9,LNTB,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+28082,10096,79.89,19103638,YADAV AARTI JANGBAHADUR,F,OPEN,1,GNTC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28083,11663,78.76,19100993,PRAJAPATI SANTOSH MAHENDRA,M,OPEN,1,GSEBC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+28084,16638,75.36,19137875,TAMBE VAIBHAV VINAYAK,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28085,18946,74.0,19124170,TANK JHANVI DIPAKBHAI,F,OPEN,1,LSEBC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28086,19891,73.49,19107343,SHIVATARKAR MEGHA SUNIL,F,SC,4,GSC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+28087,21039,72.88,19125645,KOCHAREKAR TANVI SITARAM,F,SBC/OBC,10,LOBC,,302,ENTC,302,ENTC,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+29157,4545,85.0,19120458,SAHU VICKY PHOOLCHAND,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*,3.0
+29158,9827,80.12,19123220,KINI RUTUJA DATTA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29159,9934,80.06,19115418,YADAV DEEPAK RAMUDGAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29160,11074,79.18,19101046,PATIL SANIYA ASHISH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29161,13441,77.5,19114129,RAUL SAYALI VILAS,F,OPEN,1,LOPEN,,301,Computer & IT,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+29162,15729,75.94,19105380,GUPTA NEERAJ RAJESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29163,17461,75.0,19101095,THAKOR RITI RAJESH,F,DT/VJNT(A),11,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29164,17626,75.0,19116065,RAUT PUSHPAK MAHENDRA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+29165,22821,71.94,19104262,CHAUDHARI NRUPAL KUMAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29166,25315,70.76,19102942,MADAV SARVESH PRAKASH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29167,25438,70.71,19101939,YADAV RAHUL SURENDRA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+29168,26389,70.24,19117282,JAISWAL HIMANSHU ASHOK,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29169,27314,69.82,19137403,PATIL PARAG RAMESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+29170,28172,69.41,19108033,KARLE SHIVAM ACHYUT,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29171,29436,68.83,19108991,SALVI RISHIKESH RAJESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+29172,29733,68.71,19110577,CHORGE ABHISHEK VASANT,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+29173,32643,67.41,19102405,MEHER SHRUTI MANOHAR,F,SBC/OBC,10,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29174,34480,66.65,19116706,TARE CHINMAY DEEPAK,M,SBC/OBC,10,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29175,37118,65.53,19121706,PAGDHARE SHEPALI NILESH,F,SBC/OBC,10,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29176,39008,64.76,19103283,YADAV AJAY BHRUGUNATH,M,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*,3.0
+29177,40786,64.0,19111254,NAVGHARE DHANVESH DIPAK,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29178,41598,63.65,19102388,GHAG SAHIL SANTOSH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29179,43614,62.76,19112592,PHANSEKAR PRATIK PRADIP,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+29233,6951,82.65,19100308,GUPTA DIPKUMAR RISHIDEV,M,OPEN,1,GOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+29234,10085,79.94,19100178,RANPERIA MITTAL RAJESHKUMAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29235,14322,76.88,19101581,CHAUDHARI HEMANT SHIVAJI,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+29236,16398,75.53,19116275,TIWARI PRIYA BABANATH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29237,17573,75.0,19153424,KAMBLE PRADNYA SANJAY,F,SC,4,LSC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+29238,17783,75.0,19108683,PUJARI PAYAL PRAKASH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29239,19149,73.93,19108019,BHOIR RAJ MARUTI,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29240,21703,72.53,19125278,YEDGE REEMA PRAKASH,F,NT2,8,LNTC,,301,Computer & IT,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+29241,26734,70.06,19106761,GHARAT HRUTIK ANIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+29242,28431,69.29,19103861,SOLANKI MIHIR PARESH KUMAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29243,29624,68.76,19108981,BHILARE AMIT SANTOSH,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29244,30127,68.53,19103320,MAURYA AMAN SHARAD,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29245,31986,67.71,19118354,MOHILE MANTHAN RAJENDRA,M,OPEN,1,GOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+29246,32260,67.59,19102476,RAUT VIKAS RAJENDRA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29247,32952,67.29,19123610,HODGE ROHINI BALU,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29248,33403,67.12,19117678,TAMBE SHALAKA RAVIRAJ,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29249,37678,65.29,19102667,BHOIR HARSHAL DHARMENDRA,F,OBC,2,LOBC,,301,Computer & IT,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+29250,38120,65.12,19150146,SHEMANKAR SANKET SUDHAKAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29251,39158,64.71,19124247,TAMBE SIDDHESH SITARAM,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29252,43362,62.86,19124375,MISHRA NILESHKUMAR DEVESHKUMAR,M,OPEN,1,GST,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+29253,43768,62.69,19112181,JADHAV ADITYA SANJAY,M,OPEN,1,LST,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29254,44365,62.41,19152790,MISTRY MIHIR KUMAR NIMESH KUMAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29255,44602,62.29,19124714,WAGHE GANESH SUDHIR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29256,45834,61.65,19125493,PAL AMANKUMAR SURESHCHANDRA,M,OPEN,1,GOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+29257,46705,61.24,19156117,KAMBLE VAIBHAV VILAS,M,SC,4,GSC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29258,48118,60.47,19100602,RAUT HARDIK SHARAD,M,SC,4,GSC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29259,48316,60.35,19111186,MORE SAHIL SUNIL,M,SC,4,LSC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29260,49505,60.0,19101934,KHANDAGALE DHAVAL TANAJI,M,SC,4,GSC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29261,51285,58.18,19113495,KHAVLE MANOJ BAJIRAO,M,SC,4,LOBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+29262,52376,56.94,19105844,KHANDAGALE ROHIT SUNIL,M,SC,4,GSEBC,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+29263,53003,56.0,19112350,MISHRA VIVEKKUMAR RAMASHRAY,M,OPEN,1,GNTA,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29264,54521,47.82,19102053,GUPTA AASHISH HARIBABU,M,OPEN,1,LNTB,,302,ENTC,302,ENTC,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+29694,26936,70.0,19102149,AMIN ABHISHEK SHAILENDRA,M,OPEN,1,GOPEN,,301,Computer & IT,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+29695,30290,68.47,19110772,HAVIN ISAAC M H HAVIN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+29696,38025,65.18,19121460,VAISH SATYAM MAHENDRA PRASAD,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",#,2.0
+29697,40564,64.12,19113269,GUPTA SATYAM MAINBAHADUR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+29698,48478,60.24,19114078,BHALERAO NITESH SHIVDAS,M,SC,4,GOPEN,,302,ENTC,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",^,1.0
+29699,50624,58.76,19132903,ROKADE PRANJAL MAHENDRAKUMAR,M,SC,4,GOPEN,,401,Machanical,302,ENTC,3460,Palghar,"Universal College of Engineering,Kaman Dist. Palghar",&,4.0
+43124,4609,84.93,19100446,GUPTA HARSHAL BHULAN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43125,4688,86.12,19121866,BHANDARI PRADIP PRAKASH,M,ST,6,LNTA,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+43126,4902,84.6,19122986,KAPDULE OMKAR VASUDEO,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43127,5570,83.94,19101278,RAUT KALPIT MANOHAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43128,7895,81.73,19120027,HIRPARA ANKIT RAMJIBHAI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43129,9216,80.6,19112525,NANJIANI MIHIR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43130,9221,80.6,19101781,MAKWANA PRATIK BIPIN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43131,10753,79.4,19104247,GOSAVI SUYASH MANOHAR,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43132,12121,78.42,19148908,BHOIR AMISHA DNYANESHWAR,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43133,12831,77.93,19129797,TANK PARTH BAVCHANDBHAI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43134,13414,77.52,19106331,MURUDKAR ANIKET SANJAY,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+43135,13420,77.52,19103643,SAWANT ROHAN VISHWANATH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43136,13567,77.39,19114444,SHINDE RUTIK ANKUSH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43137,14420,76.8,19108856,BHARKHADA ASHISH MAHESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43138,14928,76.46,19112831,GUPTA PRITI GURU PRASAD,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43139,14969,76.42,19128608,PATIL RUSHIKESH KUMAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43140,15554,76.06,19102440,PATIL DAKSHAT BHALCHANDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43141,15736,75.94,19115036,BHUSARA JITESH ANIL,M,ST,6,GST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43142,15745,75.92,19113734,GAWADE KARUNA GOVIND,F,OPEN,1,GSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43143,16794,75.27,19104480,MARDIYA MILAN KESUR,M,OPEN,1,GSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43144,17088,75.07,19117286,JADHAV SAMIKSHA HIRAMAN,F,SC,4,LOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43145,17166,75.03,19113860,PATIL PAYAL SUNIL,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43146,18637,74.18,19135019,SHANVAR CHINTU DHAKATYA,M,ST,6,GST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43147,18707,74.17,19113817,BHAKTI SADASHIV KHADAYE,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+43148,19832,73.52,19143424,SAPATE ROHIT DILEEP,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43149,20045,73.39,19133548,AMIN GAUTAM MOHAN,M,OPEN,1,GSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+43150,20288,73.27,19125625,VAZE ASHUTOSH NITIN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43151,20524,73.15,19158203,PARADHI SHARAD GANESH,M,ST,6,LSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43152,25942,70.42,19144997,LASE NITESH BHIKAJI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43153,26954,70.0,19104599,OJHA VISHAL SHASHIKANT,M,OPEN,1,DFNTD,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43154,28779,69.15,19110098,VELPADA SUREKHA CHINTAMAN,F,ST,6,LST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43155,28872,69.09,19111995,PAWAR PRIYANKA BHAIRU,F,OPEN,1,GNTB,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43156,30960,68.13,19102946,HARMISH BINDESH SEJPAL,M,OPEN/EWS,5,GNTC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43157,32299,67.58,19148589,KUMBHAR VRUSHALI BHALACHANDRA,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43158,33311,67.15,19115428,PAWAR NIRAJ MARUTI,M,OPEN,1,LSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+43159,35305,66.3,19102847,KALE PRADEEP PRAKASH,M,OBC,2,LOBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+43160,37814,65.24,19137863,JADYE SACCHIDANAND SADASHIV,M,OPEN,1,PHNTA,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",*,3.0
+43161,39853,64.41,19116677,VANMALI DHRUVESH PRASHANT,M,SC,4,DFSC,,302,ENTC,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43162,40160,64.27,19132788,AKSHAY SANJAY CHAUHAN,M,SC,4,GSC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+43163,43241,62.91,19102618,PAWAR RAHUL RAJENDRA,M,SC,4,GSC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+43164,43875,62.65,19112987,TAMBE AMAY ASHOK,M,SC,4,LSC,,302,ENTC,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43165,50111,59.15,19111252,DHANAVE CHETAN FULCHAND,M,SC,4,GSC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43166,50667,58.73,19133409,THORAT VISHAL BABURAO,M,SC,4,LSC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+43167,20874,72.97,19127911,SINGH KRISHNAPRATAP BIPIN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+43168,27702,69.64,19135056,DHODI SANDIP SHANKAR,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+43169,30182,68.48,19109014,KOCHAREKAR SAUJANYA VISHWANATH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43170,34694,66.55,19115004,PATIL SWAPNIL DILIP,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43171,34704,66.55,19116520,UMTOL AKSHAY AVINASH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43172,35322,66.3,19145179,SAYYED MOHAMMED ASIF,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43173,36801,65.7,19131277,MACHHI ARVIND BABU,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43174,37322,65.45,19111789,KASRUNG RUSHABH RAVIKANT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43175,37484,65.39,19115190,AKRE SUSMIT ASHOK,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43176,37909,65.21,19103876,KAMBDI PRAGATI ASHOK,F,ST,6,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43177,38100,65.13,19100558,LAKHANI JAYKUMAR KANTIBHAI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43178,38935,64.79,19106165,GUPTA PRASHANT HARILAL,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+43179,38940,64.79,19102268,SNEHANSHU RAVINDRA RAUT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43180,42350,63.33,19102720,AMEY GADHAVE,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43181,43535,62.79,19122348,PRABHU JAY BHUWANESHWAR,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43182,44177,62.48,19126839,PATIL HIMANSHU SUNIL,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43183,44397,62.36,19100777,RASHIVATE RASIKA MANOHAR,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43184,45106,62.06,19101358,YADAV ROHIT RAMMILAN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43185,45595,61.76,19133848,PATIL RIDDHI RAJAN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43186,46235,61.45,19140028,TANDEL JIDNESH MANOHAR,M,SBC/OBC,10,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43187,46978,61.09,19120658,TIWARI HARSH BHOLAPRASAD,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43188,49879,59.33,19111581,SUNDKAR KIRAN ANANDA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43189,49972,59.27,19116684,PIMPLE MEHUL RUPESH,M,NT3,9,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43190,50271,59.03,19114771,PATIL SUSHANT RAJESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43191,50533,58.85,19130923,SAWANT VARAD VISHNU,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43192,53105,55.82,19151924,WAINGANKAR ANIKET BHASKAR,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43193,54066,53.09,19157618,LANJEKAR RUSHIKESH KRISHNA,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43194,54265,51.82,19146859,KADAM MAYUR SUBHASH,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43215,40291,64.24,19125547,JANATHE SAGAR BABU,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*-,3.0
+43216,42778,63.15,19103439,AMIT HEMANT NAME,M,SBC/OBC,10,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&-,4.0
+43217,43150,62.97,19112669,VIVEK KUMAR,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*-,3.0
+43218,44804,62.18,19118634,SAROJ AKASH KRISHNA,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*-,3.0
+43219,47278,60.91,19104568,PITALE KALPESH ASHOK,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&-,4.0
+43220,48279,60.36,19151618,TARADE ATUL VIJAY,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*-,3.0
+43221,54424,50.12,19113478,KADAM PRATIK WAMAN,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*-,3.0
+43222,54456,49.58,19120119,SINGH PRIYESH PREMCHANDRA,M,OPEN,1,MIMH,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+43458,13998,77.09,19146147,RAKATE SANGAM SUNIL,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43459,35603,66.18,19136198,GHARAT HITESH DINESH,M,OBC,2,GOPEN,,302,ENTC,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+43460,40960,63.94,19119072,DHODI PARAG JAYRAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43461,42635,63.21,19119028,PARADHI NIKHIL PRAKASH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43462,44408,62.36,19139366,KALE TEJAS ARJUN,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43463,51542,57.88,19100802,TUSHAR TUKARAM PATANKAR,M,OBC,2,GOPEN,,302,ENTC,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43464,53045,55.88,19100350,BANSOD MOHIT BHAGWAT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+43465,53735,54.3,19116861,TAPASE RUPESH DEVIDAS,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+43466,54499,48.55,19147294,PATIL PRATHAMESH SHIVAJI,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+49697,10934,79.29,19104817,SHINDE VIGHNESH SHANKAR,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49698,11141,79.13,19101496,DHADUK MAYURBHAI ARJANBHAI,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49699,13004,77.8,19113937,PAWASKAR ADITYA SHILPESH,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49700,19229,73.88,19103419,GUJAR SHRADDHA RAJESH,F,NT1,7,DFNTB,,301,Computer & IT,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",*,3.0
+49701,19258,73.87,19139034,WADEKAR RUGVED SAMBHAJI,M,OPEN,1,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49702,19265,73.83,19150510,GAWADE SUBODH GURUNATH,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49703,21811,72.47,19109848,GHADIGAONKAR ANKUSH VIJAY,M,OPEN,1,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49704,24208,71.27,19121294,SAWANT MAHESH VASANT,M,OPEN,1,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49705,27463,69.76,19124545,BHARAMBE JEEVAN HARI,M,OPEN,1,GSC,,401,Machanical,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49706,35811,66.11,19134242,PATIL NISHANT NARENDRA,M,OPEN,1,LOPEN,,302,ENTC,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49707,36158,65.94,19111298,PADAVE PRERANA KAMLESH,F,OPEN,1,GSC,,301,Computer & IT,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",&,4.0
+49708,36485,65.82,19123295,KADU ASHUTOSH YASHWANT,M,OBC,2,GOBC,,401,Machanical,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",&,4.0
+49709,39050,64.75,19102819,PARTE SIDDHESH MANOHAR,M,OPEN,1,LSC,,301,Computer & IT,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49710,41993,63.47,19103123,SANKHE CHINMAY NAGESH,M,NT3,9,GST,,401,Machanical,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49711,45948,61.6,19126802,MHATRE BHAGYESH RAJAN,M,OBC,2,GOBC,,302,ENTC,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49712,46307,61.41,19112098,KADAM NIMISH SHAM,M,SC,4,GSC,,401,Machanical,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49713,46443,61.37,19112076,NAIK AJINKYA VIJAYKUMAR,M,OPEN,1,LOPEN,,302,ENTC,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49714,47660,60.71,19122732,JADHAV PRANIT SHRIRAM,M,SC,4,GOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49715,47716,60.69,19145936,SANKHE AKSHAY RAJENDRA,M,NT3,9,PHNTD,,301,Computer & IT,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+49716,48021,60.5,19101039,PATIL MAYUR SANTOSH,M,OBC,2,GOBC,,301,Computer & IT,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",*,3.0
+49717,52021,57.36,19112905,JADHAV JANHAVI BALASAHEB,F,SC,4,LOPEN,,305,Instrumentation,305,Instrumentation,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53798,851,90.76,19113334,GAWAD NISHANT VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53799,958,90.47,19102495,JAISWAL PRITESH RAKESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53800,2029,88.31,19122468,CHAUHAN DEVANG MANSUKHLAL,M,SC,4,LSC,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+53801,2369,87.75,19121039,SHINDE KUNAL RAJARAM,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",#,2.0
+53802,4397,85.13,19101772,KADAM SAGAR VIJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",*,3.0
+53803,8751,81.0,19102500,ANKITA SURESH GAVLI,F,NT1,7,LOPEN,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53804,12165,78.41,19104693,MASAL MAHESH BALU,M,NT2,8,GNTC,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53805,14146,77.0,19104637,GULVE DHANASHRI MAHENDRA,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+53806,26280,70.29,19141800,MERE PRATIK CHANDRAKANT,M,ST,6,GST,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",&,4.0
+54323,3081,86.71,19142119,BHOIR DHIRAJ RAMAKANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54324,3082,86.71,19100381,VIKASH RAMVILASH GAUTAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+54325,3161,86.59,19108985,KADAM HARSH PRITAM,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+54326,3253,86.47,19105434,LIDHURE MILIND KISHOR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54327,3360,86.35,19133062,BIRADE SWAPNIL VIJAY,M,SBC/OBC,10,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54328,3379,86.31,19103895,KARELIA SAMARTH ATUL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+54329,4027,85.53,19117781,PANCHAL SUSHANT SHAILESHKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",&,4.0
+54330,4218,85.31,19104156,BORATE BHARAT DHANAJI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54331,5554,83.94,19107827,MAURYA RAJANISH AMAR CHANDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54332,6247,83.29,19107445,SHUKLA MANAS ATUL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54333,7189,82.41,19112767,BHOIR ANIKET SUDHIR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54334,7198,82.41,19103485,PIMPLE GAURAV SAMIDHA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54335,7506,82.12,19103902,SHELAR CHIRAYU AMARDEEP,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54336,7911,81.71,19124919,BHOIR KAUSTUBH KAMLAKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54337,8113,81.53,19124344,KULKARNI JAYESH SUDHIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54338,8546,81.18,19113683,CHAUDHARI RUGVED DEEPAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54339,8907,80.88,19124850,PATIL RAJ BHAGWAN,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54340,9752,80.18,19103802,HERAMBHA THAKUR,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54341,10586,79.53,19116601,KORE ADESH HITENDRA,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54342,10736,79.41,19102409,MISTRY ADITYA UDAY,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54343,11010,79.24,19125154,AMODWALA SHUBH SUDHIR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+54344,11246,79.06,19105385,DHARNAIK ROHIT RAJENDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54345,25440,70.71,19103553,BHOYE MEGHA GOVIND,F,ST,6,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54346,19826,73.52,19111671,RUMAO CEONNE GABRIAL,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54347,20011,73.41,19103431,CARNEIRO DION VIJAY,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54348,20219,73.29,19155426,DCUNHA SWEN NOAEL,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54349,33094,67.24,19114849,RODRIGUES RESTAL ALBERT,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54350,39555,64.53,19107233,GONSALVES SAHIL LAWRENCE,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54351,42807,63.12,19104501,EDAKKALATHUR ELIZABETH ANTONY,F,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*,3.0
+54352,47892,60.59,19124488,ALMEIDA ALDRICK ANDREW,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54353,51376,58.06,19104346,PEREIRA NILAY JOHN,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54354,52177,57.18,19112777,NIXON LOBO,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#,2.0
+54355,54494,48.65,19103510,MELVIN MONCY,M,OPEN,1,MI,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54356,4593,84.94,19112738,MOHIT DILIP RAUT,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54357,5095,84.41,19107159,CHAUDHARI ARYAN VIKAS,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54358,5273,84.24,19106288,PATHAN ABBAD MUNAF,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54359,5630,83.88,19101252,JAIN KUNAL ASHOK,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+54360,6440,83.12,19100004,JOSHI JASMEET SANDEEP,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+54361,7014,82.59,19103240,RAUT OMKAR BHALCHANDRA,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54362,8613,81.12,19155015,PIMPLE MANAS HARESHWAR,M,NT3,9,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*-,3.0
+54363,10657,79.47,19108123,LADE PRATHAMESH JAGANNATH,M,NT1,7,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",*-,3.0
+54364,11403,78.94,19102338,SHETTY PRAJAN PREMNATH,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+54365,12723,78.0,19103910,NIMBALGUNDI PRAKASH SHANKAR,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54366,12823,77.94,19118582,SINHA KESHABH ATANU,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+54367,12851,77.88,19111934,SAWANT ROHIT SANJAY,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",#-,
+54368,13110,77.71,19126120,PATIL HARSHIT VINOD,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54369,13128,77.71,19105518,PRIYANSHU ASHOK YADAV,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^-,
+54418,2937,86.88,19102194,SARVADNYA KAUTUK SHIRODKAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+54419,3076,86.71,19100046,MITHARI SMIT PRADIP,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54420,3711,85.92,19111919,SAWANT CHAITANYA RAVINDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54421,3791,85.82,19122440,BONDRE DHEERAJ SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+54422,4092,85.47,19101220,PATIL KRUNAL VIKENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54423,4367,85.18,19102327,JAIN ANIRUDDHA ROSHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54424,4740,84.76,19102640,SAKHARKAR SAISH SUBHASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54425,5323,84.18,19103750,NAIK DHAVAL SUDHIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54426,6310,83.24,19124557,PATEL YASH PRADIP,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54427,6716,82.82,19101031,PATIL ANURAG ULHAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54428,6945,82.65,19109568,OM NILESH THAKUR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54429,7124,82.47,19112420,DESAI SAURABH NAMDEV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54430,7327,82.29,19101014,RANE HARSH MAHESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54431,7798,81.82,19103464,KUMARE NABHOD MALESH,M,OPEN,1,PHO,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54432,8191,81.47,19101677,KADU JIGNESH VISHNU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54433,8325,81.35,19102887,PAWAR SAIL SURESH,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54434,8378,81.31,19113742,SHAPARIA CHINTAN VIJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54435,9321,80.53,19134292,KURADE PRASHANT SHIVAJI,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54436,9813,80.12,19118015,PATIL VAIBHAV SAKHARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54437,9888,80.06,19118572,PATEL SHUBH JAYESH,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54438,10414,79.65,19106631,CHAVAN OMKAR ARJUN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54439,11080,79.18,19118731,VENGURLEKAR SIDDHESH DEEPAK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54440,11410,78.94,19123089,SHAIKH HUZAIFA NASIR,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54441,11737,78.71,19101485,SHAH TEJ BHAVESH,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54442,11826,78.65,19117093,THAKARE BHAVIK SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54443,12178,78.4,19112147,SAKPAL HITESH MAHADEV,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54444,12736,78.0,19113651,PATIL ROHIT HARI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54445,13202,77.65,19124925,SHINDE NIKHIL BABURAO,M,NT1,7,PHNTB,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54446,14056,77.06,19121653,ATTAR MOHD HUZAIF MOHD IRFAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54447,15668,75.94,19108915,SAWANTBHONSALE GAURAV SUBHASH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54448,16294,75.59,19129312,KHULE PRASAD SUHAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54449,16744,75.29,19103785,THAKUR JAY ASHOK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54450,16857,75.24,19127534,PARULEKAR OMKAR JAYWANT,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54451,17286,75.0,19103960,BURUTE OMKAR SATISH,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54452,17297,75.0,19111471,JADHAV NILESH DIGAMBAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54453,17385,75.0,19124942,VARTAK ATHARVA SANJYOT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54454,17506,75.0,19127116,THAKUR POOJA HARESHWAR,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54455,17561,75.0,19124522,PATIL RAHUL BHAGWAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54456,17688,75.0,19104134,AHER TUSHAR YASHWANT,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54457,18781,74.12,19103855,CHAPHE PRANAY SATISH,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54458,18814,74.12,19110274,KHATAL BHAVESH KISHOR,M,NT2,8,GNTC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54459,18891,74.06,19135543,GAWANDI AISHWARYA ANANT,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54460,21176,72.81,19125069,JANI VIDHI PRAKASH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54461,21376,72.71,19113016,KHOPKAR MAYURI CHANDRAKANT,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54462,23203,71.76,19100578,SANKHE VARUN RAJENDRA,M,NT3,9,GNTD,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54463,23288,71.71,19106602,GAIKWAD AKASH RAVINDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54464,24156,71.29,19112340,KARANDE AKASH ANIL,M,SC,4,LSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54465,24515,71.12,19101977,SHELAR HARDIK UJWAL,M,SC,4,LSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54466,24769,71.0,19109557,HARSH ASHOK LOKHANDE,M,SC,4,GSC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54467,24914,70.94,19131678,UPADHYAY SONAM SUBHASH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54468,27053,69.94,19129723,HARPALE SANDIP VANSHA,M,ST,6,GST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54469,27263,69.82,19120337,KHEDEKAR SAHIL SUNIL,M,NT1,7,LNTB,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54470,28164,69.41,19132835,DANDGAWHAL GRANTHALI SAGAR,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54471,29159,68.96,19130926,JAMBHALE SHILPA SHANTARAM,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54472,30856,68.18,19122561,PATIL SANKET SHIVAJI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54473,30981,68.12,19102460,JADHAV BHAVESH ASHOK,M,ST,6,GST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54474,31701,67.82,19113103,UTEKAR HARSH MANGESH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54475,32513,67.47,19114519,DONGARKAR MAHESH SUBHASH,M,ST,6,LST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54476,33814,66.94,19122836,GONDHALEKAR AKSHATA PRITAM,F,SBC/OBC,10,LOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54477,34221,66.76,19113805,JADHAV MADHAVI RAVINDRA,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54478,36036,66.0,19110606,VARTHE PRATIK ANIL,M,ST,6,LST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54479,36433,65.82,19128204,VHADADE AMIT SHRIPATI,M,NT2,8,LNTC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54480,37847,65.24,19127896,PALAV SIDDHESH SURENDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",#,2.0
+54481,38459,65.0,19112928,KENI MILIND GOVIND,M,ST,6,DFST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54482,39682,64.47,19111602,KHARAT RAHUL SUKHDEV,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54483,48635,60.13,19124224,PATIL POOJA RAJENDRA,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54484,53951,53.53,19150889,GAIKWAD AMIT ARUNKUMAR,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54486,10772,79.39,19100041,PANCHAL PARTH HARSHAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54487,12818,77.94,19100082,MEWADA PUNIT PRAVINKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54488,16655,75.35,19112909,GHARAT NIMISH CHANDRAKANT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54489,30682,68.29,19100965,DEVGADKAR ABEL ARVIND,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54490,34175,66.79,19102445,KADAM OMKAR MAHENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54491,36611,65.76,19102137,RANE OMKAR AVINASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54492,39436,64.59,19103194,KAWLI KAIVALYA MAHESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+54493,40077,64.3,19102201,SAWANT SAHIL SANTOSH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54494,41986,63.47,19122586,GAIKWAD PRASAD PRATAP,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54495,42510,63.27,19103602,PATEL RUSHANG NARESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",*,3.0
+54496,42738,63.15,19112132,SAMANT AMEY SHRINIVAS,M,OPEN,1,GOPEN,,201,Civil,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54497,43264,62.91,19110089,WAGHELA MIHIR ASHOKBHAI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54498,44972,62.12,19135216,MISHRA DEVASHISH DILIP,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54499,47157,61.0,19107691,JADHAV ASHISH NARAYAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54500,49488,60.0,19110399,PANCHAL KRUPESH HITESHKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54501,50525,58.85,19138754,DAVE PRITKUMAR RAMESHKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54502,53130,55.76,19106435,BHOIR DEEP VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54503,53136,55.76,19102799,PANCHAL HEET NARENDRAKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54504,53292,55.45,19118925,BHANUSHALI PANKAJ CHHAGANLAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54505,53834,54.0,19146005,PATIL SANIYA SANJAY,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54506,53852,53.94,19157701,TEJAM MOHIT MANGESH,M,OPEN,1,GOPEN,,304,Electrical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54513,42673,63.18,19132821,SIRAJ AHMED SHARIF AHMED,M,OPEN,1,MI,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54514,46636,61.27,19137481,MALBARI USAMA MOHAMMAD SHARIF,M,OPEN,1,MI,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54515,50142,59.15,19106577,SHAIKH SAIF ALI FAROOQ,M,OPEN,1,MI,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54516,53266,55.52,19113272,SHAIKH MOHD SAQUIB MOHD EZAZ,M,OPEN,1,MI,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54517,54199,52.35,19128967,CHAWRE ARSALAAN VASI,M,OPEN,1,MI,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54538,6363,83.18,19105164,DHODI SHUBHAM VIJU,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54539,7328,82.29,19100995,SOMANI DHRUV MUKESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54540,12715,78.0,19125076,MANGALE NIKHIL TANAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54541,13287,77.59,19111259,PANDEY ASHUTOSH HAUSHILAPRASAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54542,13810,77.24,19104990,DUBEY GAUTAM AKHILESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54543,13985,77.12,19103098,VAISHNAV SURAJ SHANKARDAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54544,14034,77.06,19108121,PATIL RHUTIK KISHOR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54545,14156,77.0,19102205,PATIL VEDANT ASHOK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54546,14472,76.76,19103354,MENDON THAHIL MAHENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54547,14990,76.41,19112297,PATIL ADITYA PRAMOD,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54548,15982,75.76,19100978,SHARMA ARPIT SATENDRAKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54549,16067,75.71,19102085,NAIK KRUTIK MAHESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54550,16466,75.47,19103526,JADHAV SHASHANK SUNIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54551,18274,74.41,19107346,LAD SAHIL SHYAMCHANDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54552,18676,74.18,19106918,KUNAL GANESH KUDU,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54553,18906,74.06,19106079,LUKDE MOHAMMED QASIM A GAFOOR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54554,19501,73.71,19125123,WANKHEDE AMAR SARANG,M,SC,4,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54555,19914,73.47,19105059,SHUKLA RUPAK RAMESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54556,20120,73.35,19101186,DAIVIK HEMANGCHANDRA SHETH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54557,20223,73.29,19152163,KARGUTKAR VIGHNESH UDAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54558,20237,73.29,19101454,GAWADE ROHIT DATTARAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54559,20466,73.18,19109207,RAUT RAHUL RATIN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54560,21274,72.76,19109308,CHAVDA BHAVIK LAXMAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54561,21351,72.71,19116265,GAUTAM VASUDEV SHIVADUTTA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54562,22151,72.29,19102957,DESAI AKASH CHANDRAKANT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54563,22392,72.18,19141691,GAWAD DIPESH RAMDAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54564,22520,72.12,19102609,KOMAWAR TEJAS PRAMOD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54565,22606,72.06,19135869,BHARATI TRIBHUVAN MOHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54566,23532,71.59,19136441,MANDAVKAR OMKAR ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54567,23924,71.41,19136041,CHAURASIA VINAY RAMAYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54568,24025,71.35,19136545,PATIL DHIRENDRA GANESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54569,24642,71.06,19122562,CHAVAN RAJ MAHADEV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54570,26263,70.29,19143298,KAMBLE KAUSTUBH SHEKHAR,M,SC,4,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54571,26841,70.0,19100287,PATIL MANTHAN ANANTA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54572,26941,70.0,19129505,MER MOHIT NARESH,M,SBC/OBC,10,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54573,27238,69.88,19117155,SHARMA ABHISHEKH RAJENDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54574,27438,69.76,19137870,GUPTA SHUBHAM VINOD,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54575,27528,69.71,19116640,CHURI VIDYESH TUSHAR,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54576,28316,69.35,19101893,SHUKLA NAVIN RAJESH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54577,28918,69.06,19124709,MHATRE SHREETEJ RAJENDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54578,29849,68.65,19113364,RAUT CHIRAG RAJENDRA,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54579,30113,68.53,19130152,THAKUR AJAY KUMAR BIKAL,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54580,30246,68.47,19103705,DHULAP ROHAN RAJENDRA,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54581,30798,68.24,19129865,JAISWAL ANKITKUMAR ASHISH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54582,31384,67.94,19110845,KINJALASKAR SANKET SUNIL,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+54583,51061,58.38,19112487,GAIKWAD POOJA GORAKHRAO,F,SC,4,LOPEN,,301,Computer & IT,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+54585,20227,73.29,19110647,VARTAK ANISH MANOJ,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54586,21194,72.8,19103459,MEWADA PARTH PARESH,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54587,21833,72.47,19105845,MAYEKAR SHRILESH SHRIKANT,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54588,21928,72.41,19100816,JADHAV RUSHIKESH SHASHIKANT,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54589,22305,72.2,19105702,CHAUHAN JEEL MANISH,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54590,23323,71.7,19105706,SOLANKI RATHIN SANJAY,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54591,23385,71.65,19130840,PANCHAL KHUSHAL VIJAY,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54592,24868,70.94,19104158,KADAM PRATHAMESH DNYANDEV,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54593,25402,70.73,19101681,DARJI BHAVIN SANJAYBHAI,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54594,25558,70.65,19105416,BHAVSAR SUMEDH SANJAY,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54595,27972,69.52,19118089,BANGAR MOHAN ANIL,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54596,29240,68.94,19101327,DIVEKAR AMOL ANIL,M,NT1,7,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54597,29893,68.64,19102301,PARWADI ANIKET MANOHAR,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54598,30137,68.53,19137074,PATIL AKSHAY BALASAHEB,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54599,30252,68.47,19144170,TAMBUTAKR RAKESH MAHADEV,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54600,31428,67.94,19106000,SHAH PARTH RAJENDRA,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54601,31613,67.88,19105646,KUVEKAR MEETKUMAR AMUL,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54602,31685,67.82,19124668,PANCHAL KRISH KETAN,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54603,31795,67.76,19140402,AMIT KUMAR SHYAMAKANT CHAURASIYA,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54604,32555,67.47,19106712,KARAN POPLE,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54605,32669,67.41,19137729,GUPTA VIKAS MANOJ,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^-,
+54606,32802,67.35,19136645,GAIKWAD SAURAV NARESH,M,SC,4,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+54607,33649,67.0,19119031,YADAV SUSHIL SADANAND,M,OPEN,1,MIMH,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#-,
+55640,10816,79.35,19116453,BALDIWALA HUSSAIN MOHAMMED,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55641,12478,78.18,19131689,SHINDE SHANTANU SANTOSH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55642,13371,77.53,19119075,GHEVDE ADITYA ANAND,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55643,13539,77.41,19100584,JADEJA ARJUN BHOJA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55644,14317,76.88,19103811,SONKUSARE JAY PRAKASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55645,15079,76.35,19118741,RAJANI VRUSHABH MUKESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55646,15972,75.76,19116927,THAKUR PRANAY SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55647,16091,75.71,19113046,SINGH ROSHAN SATISH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55648,18821,74.12,19124442,TIWARI SHUBHANSHU GIRISH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55649,19409,73.76,19118813,CHAUDHARI ALANKAR BHUPENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55650,20216,73.29,19104388,MESTRY ROHAN RAMESH,M,NT1,7,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55651,21925,72.41,19114844,RAUT PRATIK BHUPENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55652,27003,69.94,19138408,NISHAD ARUN SHIVCHARAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55653,29058,69.0,19121899,BARGODE EKTESH GANPAT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55654,29175,68.94,19138132,AMOLIK BHUSHAN PETRAS,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55655,32520,67.47,19153835,PATIL BHAVESH SHAMRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55656,32663,67.41,19118082,MADOO AWWAB MERAJ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55657,33086,67.24,19134520,RALE SUMESH KISAN,M,OPEN,1,GST,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55658,33202,67.18,19102141,BHEKRE NISHANT JANARDAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55659,33694,67.0,19140945,TARE GAURAV SANTOSH,M,OPEN,1,LST,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55660,34595,66.59,19114229,YADAV VARUN DEVNATH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55661,34762,66.53,19150856,MORE ARCHIT PRAVIN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55662,35198,66.35,19117109,NACHIKET DINANATH MHATRE,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55663,35610,66.18,19112566,CHOUHAN VIKRAMSINGH MANOHARSINGH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55664,35904,66.06,19122978,MALI YASH DNYANESHWAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55665,36098,66.0,19138259,YADAV SHAILENDRA BHOLA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55666,36260,65.88,19120014,TAMORE DIVYANSHU ANIL,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55667,37700,65.29,19144686,SANKHE HRISHIKESH MADHUKAR,M,NT3,9,GNTD,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55668,38686,64.88,19122406,GORWALA AJAY PRAKASH,M,ST,6,GST,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55669,39399,64.59,19102669,MEHER SAAHIL MANGESH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55670,40128,64.29,19150139,NAIK RIDDHESH JITENDRA,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55671,41607,63.65,19101369,PATEL NAITIK VINOD,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55672,41708,63.59,19107032,KAMBLE PRAFUL PRAKASH,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55673,42815,63.12,19118771,WAGHMARE SANKET VINOD,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55674,42951,63.06,19142552,PANDEY NARENDRAKUMAR JAGDISH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55675,43569,62.76,19107643,PATIL TEJAS PRAKASH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55676,43992,62.59,19150870,RAUT NAYAN RAGHUVIR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55677,44087,62.53,19122695,KOTKAR MEHUL ARUN,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55678,44459,62.35,19146405,BARI HARSHAL THAKUR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55679,44645,62.24,19112142,VAITY VINIT RAJANIKANT,M,SBC/OBC,10,LOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55680,45840,61.65,19141280,SARVANKAR SHREYAS TUSHAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55681,46207,61.47,19110909,TIWARI YASH PRAVIN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55682,47563,60.76,19113325,JADHAV PRASHANT MARUTI,M,OPEN,1,LNTB,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55683,47992,60.53,19114619,JADHAV TANMAY BIMBESH,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55684,48312,60.35,19100994,SINGH SATISHKUMAR RAJESHWAR,M,OPEN,1,DFO,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55685,48417,60.29,19154403,SAWANT SAHIL HANUMANT,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55686,48592,60.18,19105054,DARI KARTIK NETAI,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55687,48884,60.0,19119415,CHAVAN PRATHAMESH VINAYAK,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55688,49173,60.0,19100642,PATIL RIDDHESH LILADHAR,M,OBC,2,LSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55689,49234,60.0,19125872,RAVATE MAYUR SURESH,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55690,49437,60.0,19154240,PATIL AMEY DINESH,M,OPEN,1,LNTC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55691,49778,59.41,19116168,MALI NIMESH RAMESH,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55692,49941,59.29,19124944,PAWAR SHUBHAM SURESH,M,SC,4,GSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55693,50091,59.18,19122469,SHAIKH JOSEEMUDDIN JOHIR HUSSAIN,M,OPEN,1,PHST,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55694,50179,59.12,19127575,MEHER UNMESH RAVINDRA,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55695,50687,58.71,19114842,JOSHI SUYASH SHAILESH,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55696,50956,58.47,19112145,SHAIKH NEHAL AHAMADKADAR,M,OPEN,1,PHNTB,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55697,51035,58.41,19108005,BAROT DEEPAK VINOD,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55698,51365,58.06,19103381,SINGH SHUBHAM SANTOSH,M,OPEN,1,PHNTC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55699,52522,56.71,19148947,YADAV TAPAN KUMAR SANTRAM,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55700,52669,56.47,19124023,KHAN SUBHAN SHABBIR,M,OPEN,1,LSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",&,4.0
+55701,52933,56.06,19127071,PATIL SIDDHANT SUNESH,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55702,53557,54.82,19107791,SHELKE PRITESH JAGDISH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+55703,53603,54.71,19102498,GHARAT ASHUTOSH KESARI,M,OPEN,1,LSC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",*,3.0
+55704,54506,48.41,19101067,VICHARE AALAP AWDHUT,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0

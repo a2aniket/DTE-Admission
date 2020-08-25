@@ -1,0 +1,32 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+15,227,26418,70.2,19119472,RATHOD ANIKET RAMESH,M,DT/VJNT(A),11,GNTA,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+136,3085,5545,83.94,19126865,RATHOD NIKITA SUDAM,F,DT/VJNT(A),11,PHNTA,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+143,3092,39230,64.67,19111721,HITAKSHI SAHEBRAO RAJPUT,F,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+169,3118,40574,64.06,19100998,ADE SHREYASH ANIL,M,DT/VJNT(A),11,DFNTA,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",*,3.0
+181,3130,31470,67.94,19115259,CHAVHAN GAURAV SURESH,M,DT/VJNT(A),11,PHNTA,,201,Civil,201,Civil,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+207,3219,54024,53.33,19109247,RATHOD ROHAN SURESH,M,DT/VJNT(A),11,DFNTA,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+246,3305,34032,66.85,19113638,PAWAR KARAN VIJAY,M,DT/VJNT(A),11,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",&-,4.0
+294,3651,43671,62.73,19116745,VINOD DAMU PAWAR,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+340,3758,18880,74.06,19157371,CHAVAN SUNIL SUBHASH,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+425,3843,49624,60.0,19100030,RATHOD PRAFUL BHAGWAN,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+504,4077,48634,60.15,19158982,RATHOD SAMIR ANANDRAO,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+539,4451,13137,77.7,19152023,KURHADE DIPAK CHANDU,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+582,4494,7320,82.3,19103141,RATHOD AKASH BHAIDAS,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+617,15053,8827,80.94,19104238,GAUD SHUBHAM VIKAS,M,DT/VJNT(A),11,PHNTA,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+637,15073,7635,82.0,19112465,CHAVHAN RITHVIK PRAVIN,M,DT/VJNT(A),11,PHNTA,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+701,15368,48100,60.47,19122668,ALAVIKAR AMBADAS NAGESH,M,DT/VJNT(A),11,LNTA,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+735,15433,11691,78.75,19113957,PREMA SHANKAR RATHOD,F,DT/VJNT(A),11,DFNTA,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+787,15488,18980,74.0,19103982,PATIL SAKSHI SUNIL,F,DT/VJNT(A),11,GNTA,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1091,16489,50972,58.47,19154030,CHAVAN PRATIKSHA GAJANAN,F,DT/VJNT(A),11,LOPEN,,302,ENTC,301,Computer & IT,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1170,27368,13494,77.45,19110711,RAJPUT SAURAV RUMSING,M,DT/VJNT(A),11,GNTA,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1209,27407,49739,59.44,19156725,PARDESHI ABHISHEK PRAMOD,M,DT/VJNT(A),11,GNTA,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1581,42902,28389,69.31,19133893,CHAVAN GOVIND TARA,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",&,4.0
+1606,42927,50274,59.03,19103515,SUDARSHAN NAGORAO GAIKWAD,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1695,43331,41272,63.76,19104718,JADHAV AKSHAY SHARAD,M,DT/VJNT(A),11,GOPEN,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+1709,43345,52470,56.79,19101640,NITESH TULSHIRAM PAWAR,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+1835,53667,31067,68.12,19139727,NAGPURE CHINMAY AJAY,M,DT/VJNT(A),11,PHNTA,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1852,53684,13597,77.38,19128039,PATIL ABHAY MANSING,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1885,53717,24641,71.06,19106684,RATHOD DEEPAK SUBHASH,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1924,53757,21691,72.53,19145416,JADHAV SANJAY RAVINDRA,M,DT/VJNT(A),11,LNTA,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1963,53796,45508,61.82,19109297,RAJPUT ABHIJEET SURESH,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+2414,55809,54444,49.76,19137448,RATHOD PRASHANT BHAGAWAN,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0

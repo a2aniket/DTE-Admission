@@ -1,0 +1,634 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,1,213,93.38,19126045,MAHALLE SHRADDHA MOHANRAO,F,OBC,2,GOPEN,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+2,2,384,92.47,19105661,TUSHAR RAJESH LAHANE,M,OBC,2,GOBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+3,3,420,92.31,19103256,RAUT PALASH SUBHASH,M,OBC,2,GOBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+11,21,40507,64.12,19122063,BORULE SAGAR MURLIDHAR,M,OBC,2,GOBC,,101,Chemical,101,Chemical,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",^,1.0
+12,22,49003,60.0,19124924,MAHADOLE SAURABH BHAGWAN,M,OBC,2,LOBC,,101,Chemical,101,Chemical,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",^,1.0
+17,693,7100,82.5,19143858,ALONE SAKSHI CHANDRASHEKHAR,F,OBC,2,LOBC,,103,Food Technology,103,Food Technology,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",^,1.0
+24,774,49256,60.0,19151712,HIRAY ABHAY RAMESH,M,OBC,2,GOBC,,104,Oil and Paints Technology,104,Oil and Paints Technology,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",&,4.0
+25,775,51237,58.21,19141106,CHAUDHARI AMOL VILAS,M,OBC,2,PHO,,104,Oil and Paints Technology,104,Oil and Paints Technology,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",^,1.0
+28,870,213,93.38,19126045,MAHALLE SHRADDHA MOHANRAO,F,OBC,2,GOPEN,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+29,871,384,92.47,19105661,TUSHAR RAJESH LAHANE,M,OBC,2,GOBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+30,872,420,92.31,19103256,RAUT PALASH SUBHASH,M,OBC,2,GOBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+35,887,965,90.47,19107943,DINODE MANALI CHANDRAKANT,F,OBC,2,LOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+37,889,1845,88.65,19104544,SHIRBHATE PARTH ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+38,890,2091,88.24,19107043,YEOLE MANJUSHA SURESH,F,OBC,2,LOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+39,891,2119,88.18,19101108,SARAF NEHA NITIN,F,OBC,2,LOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+40,892,2383,87.71,19117636,DIVE SAKSHI VIKASRAO,F,OBC,2,LOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+41,893,2759,87.12,19106970,HARNE SARVESH DATTATRAYA,M,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+42,894,2811,87.06,19108719,HARSHAL DHANLAL KHALODE,M,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+43,895,2936,86.88,19108015,JAISWAL TANAY PAWAN,M,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+45,897,3194,86.55,19111660,RAJULWAR KALYANI SHRIDHAR,F,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+46,898,3553,86.12,19116772,GIRIRAJ PRAMOD BELOKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+48,900,4753,84.75,19127123,MUNDOKAR RAM PRALHADRAO,M,OBC,2,PHST,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+57,909,436,92.25,19131323,KADU KARTIK KAILASRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+59,911,2546,87.41,19122334,MOTE RENU PRAKASH,F,OBC,2,LOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+60,912,2557,87.38,19127061,RANGARI ARPITA PRASHANT,F,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+64,916,4009,85.56,19119080,DESHMUKH SHRUTIKA VISHWESHWAR,F,OBC,2,LOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+65,917,4124,85.44,19103998,WADE DARSHAN SATISHRAO,M,OBC,2,PHOBC,Locomotor Disability,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+66,918,4220,85.31,19130661,RAKHE DIVYA PRADEEPRAO,F,OBC,2,LOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+67,919,5008,84.48,19150012,GHAYAL DIVYA PURUSHOTTAM,F,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+68,920,5700,83.81,19131757,GHATOLE ABHIRAJ MANGESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+69,921,5743,83.76,19126116,NEWARE ROHIT BHAGWANTRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+70,922,5807,83.69,19105568,KILLEDAR AANCHAL DEEPAK,F,OBC,2,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+73,925,6587,82.97,19123016,WANDHE PRATIKSHA RAJENDRAKUMAR,F,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+75,927,6655,82.91,19139492,DAKHOLE MAYURI KESHAV,F,OBC,2,LOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+78,930,7701,81.94,19130107,HINGANKAR RUTUJA VINAYAKRAO,F,OBC,2,GOBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+88,940,1118,90.06,19116797,LANGOTE GAYATRI PRAKASH,F,OBC,2,LOPEN,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+89,941,2066,88.25,19106728,DEHANKAR SRUSHTI NANDKISHOR,F,OBC,2,LOBC,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+90,942,3498,86.18,19136342,CHIKHALE TEJAS SANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+91,943,3835,85.76,19105182,SADATKAR RUTIK RAMRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+93,945,3982,85.59,19107295,AKOTKAR ANAND SURESHRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+95,947,4221,85.31,19135941,KALMEGH RUTUJA RAVINDRA,F,OBC,2,GSEBC,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+101,953,3204,86.53,19131380,CHOUDHARI SATVIK NANDU,M,OBC,2,GOPEN,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+102,954,3326,86.38,19145378,CHIKHALKAR SAMRUDDHI PRAVIN,F,OBC,2,LOPEN,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+103,955,3431,86.25,19111101,PARALIKAR VIBHAS ANANT,M,OBC,2,GOPEN,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+105,957,5377,84.12,19115680,SADABAL YASH VASANTRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+106,958,5595,83.88,19113418,GAWANDE SHWETA VASUDEO,F,OBC,2,LOPEN,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+108,960,7029,82.56,19126470,KAWARE DIPESH HIMMATRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+109,961,8066,81.58,19117031,DHAGE PRASHANT SHANKARRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+110,962,9412,80.44,19120192,BHUYAR RUTUJA GAJANAN,F,OBC,2,LOBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+111,963,13109,77.71,19130392,ADHAU PRATHAMESH SHARADRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+112,964,13454,77.47,19116351,MANKAR SURAJ NARESH,M,OBC,2,GNTC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+121,1113,14107,77.03,19122522,YAWALE VIPUL RAVINDRA,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+126,1118,16899,75.21,19142405,KADU KULDEEP RAMKUMAR,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+127,1119,17972,74.97,19112004,GUHE PRAJWAL SUNIL,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+128,1120,17998,74.97,19142115,PATIL SHUBHAM SUKHADEO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+129,1121,18613,74.19,19128900,KHARAD SAMIKSHA VINODRAO,F,OBC,2,LOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+130,1122,19422,73.76,19106190,RAHATE VEDANT MANOHAR,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+133,1125,20762,73.03,19102727,WANKHADE KALYANI RAMDAS,F,OBC,2,LOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+134,1126,20900,72.94,19127573,DAKARE VAISHNAVI AVINASH,F,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+135,1127,20947,72.94,19122245,KHANDEZOD AMIT SANJAY,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+137,1129,21510,72.63,19126526,KOWALE KARAN VIJAYRAO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+138,1130,21926,72.41,19128478,POKALE SNEHAL BABARAO,F,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+140,1132,23939,71.39,19137607,SAGANE VEDANT JAYANT,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+142,1134,24353,71.21,19126491,SAPATE KUNAL CHANDRASHEKHAR,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+145,1137,24473,71.15,19119895,SAHU SHUBHAM SANTOSH,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+147,1139,24725,71.03,19153201,RAURASE SHREYASH UTTAMRAV,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+152,1145,26946,70.0,19150148,KALE SAURABH BALASAHEB,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+153,1146,27501,69.71,19118752,KAMBLE PRAJAKTA SUDHIR,F,OBC,2,LOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+154,1147,28239,69.39,19131478,KALE RUSHIKESH UTTAMRAO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+156,1149,29115,68.97,19121734,LOKHANDE SHANTANU PRAKASHRAO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+158,1151,29499,68.81,19122253,INGOLE PURVESH JAGDISHRAO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+161,1154,30886,68.18,19127639,NEWARE VISHAL BHAGWANTRAO,M,OBC,2,GOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+166,1159,33727,66.97,19156321,DESHMUKH SHAURYA JEETENDRA,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+169,1162,34455,66.67,19136536,JAYSINGPURE KETAN PRASHANT,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+175,1168,36166,65.94,19154422,KALE SAGAR GAJANAN,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+180,1173,36786,65.7,19159051,YAWALKAR RENUKA PRAFUL,F,OBC,2,LOPEN,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+181,1174,36799,65.7,19123819,AKASH SATISH MAHORE,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+188,1181,39060,64.73,19113589,SONI MEHUL ASHOK,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+189,1182,39102,64.73,19128017,SHEIKH ARBAAZ QURESHI SHEIKH KHUVAJA QURESHI,M,OBC,2,GSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+190,1183,39223,64.67,19126775,ADHAU VINAY SUBHASH,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+195,1188,40366,64.18,19127169,MOHOD KULDIP SANJAY,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+196,1189,40565,64.12,19149931,PRASAD BURGHATE,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+197,1190,40964,63.94,19104819,GOTE ANKUSH MUKUND,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+198,1191,41095,63.88,19128403,DESHMUKH ANAMIKA VINAYAKRAO,F,OBC,2,GSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+200,1193,41525,63.69,19142542,KORDE REWTEE DATTATRAY,F,OBC,2,GSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+201,1194,41565,63.65,19129862,GAVHANE VAISHNAVI ASHOK,F,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+207,1200,42509,63.27,19107824,RAUT ANUJA BHAUSAHEB,F,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+208,1201,42550,63.24,19123246,GHANEKAR VEDANT SANJAY,M,OBC,2,LSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+211,1204,43135,62.97,19110296,PAWAR RUSHMIT ANILSA,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+215,1208,43931,62.61,19107450,NIMBARTE PIYUSH BALIRAM,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+216,1209,44042,62.55,19136046,AMBATKAR ANIKET NARAYANRAO,M,OBC,2,LSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+223,1216,44816,62.18,19104267,CHONDHE RUSHIKESH PRADEEP,M,OBC,2,GOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+224,1217,45039,62.06,19134164,PATIL SARIKA RAJENDRA,F,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+225,1218,45112,62.0,19105067,GAYAKI SHREYAS ARUNRAO,M,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+229,1222,45696,61.75,19121086,PAWAR AKASH SUDHAKAR,M,OBC,2,DFO,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+232,1225,46776,61.21,19130525,JAMODKAR ANKITA MANOHAR,F,OBC,2,LOBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+238,1231,15455,76.12,19138156,INGALE ANIKET SUBHASHRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",*,3.0
+242,1235,27403,69.76,19120020,TETOO PAYAL SANJAY,F,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",&,4.0
+246,1239,33320,67.15,19107439,JIRAPURE CHANCHAL PRABHAKAR,F,OBC,2,LOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+251,1244,40264,64.24,19150951,GADGE HARISH RAMESHRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+256,1249,43829,62.67,19136683,PACHADE SHUBHANGI DILIPRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+260,1253,46257,61.45,19130867,MANDWE RUDRESH MADHUKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",#,2.0
+262,1255,47079,61.03,19124908,ROHAN VIJAYRAO MOHOD,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+263,1256,47283,60.91,19126304,MAHAJAN NAYAN SADANAND,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+266,1259,47597,60.75,19154738,BHOGE AADINATH YADAVRAO,M,OBC,2,LST,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",#,2.0
+268,1261,48066,60.48,19131459,KALE AKSHAY DILIPRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+269,1262,48153,60.42,19122429,HOLEY SHREYASH SATISHRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+270,1263,48448,60.24,19130954,GAYAKWAD JAYESH PRADIP,M,OBC,2,GSEBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",#,2.0
+272,1265,48745,60.09,19154215,MEHARE NITESH VITTHALRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+275,1268,49314,60.0,19120617,DOLAS RUSHIKESH PRAMODRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+276,1269,49378,60.0,19153019,WALKADE VIKKI PRAKASH,M,OBC,2,GOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+281,1274,51153,58.3,19151928,MAHORKAR DHANANJAY RAJENDRA,M,OBC,2,LOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+286,1279,52548,56.67,19154433,KADAM KIRAN RAJABHAU,M,OBC,2,LOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",#,2.0
+287,1280,52833,56.19,19143219,MOHD EHTESHAM NAWAZ MD NASEEM NAWAZ,M,OBC,2,LOBC,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+293,1338,5419,84.06,19130156,GAIKWAD SHUBHAM PANDHARI,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+295,1340,7699,81.94,19122204,WASANKAR ABHISHEK SUNIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+296,1341,7716,81.94,19105166,ADHAU PRANAV SHANKARRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+297,1342,8011,81.63,19140603,KHARBADE POORVA RAM,F,OBC,2,LOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+298,1343,8141,81.52,19108489,DHOTE SAHIL VINOD,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+299,1344,8377,81.33,19104787,GUDADHE RUSHIKESH TEJKUMAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+301,1346,8731,81.0,19151016,LAHANE ROHIT MAHADEORAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+304,1349,9839,80.12,19120495,GAYKI AMAN RAJKUMAR,M,OBC,2,GOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+305,1350,9932,80.06,19143738,RIDDHESH SATISH BHAGWAT,M,OBC,2,GOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+306,1351,10056,79.94,19122168,WARGE VAIBHAV SHRIDHAR,M,OBC,2,GOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+308,1353,10625,79.52,19104774,PATIL SANKET NANDKISHOR,M,OBC,2,GSEBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+310,1355,11227,79.06,19108987,JUMDE ROHIT PRABHAKARRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+311,1356,11681,78.75,19119537,DHADANGE VEDANT SANJAY,M,OBC,2,LSEBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+314,1359,12951,77.82,19131897,MANSUTE PRATIK RAJENDRA,M,OBC,2,GST,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+315,1360,13288,77.59,19122572,GULHANE NIKHIL PRABHAKARRAO,M,OBC,2,PHSEBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+316,1361,13395,77.52,19144272,TIDAKE RUSHIKESH HIMMATRAO,M,OBC,2,LSEBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+318,1363,14835,76.5,19132774,SOLANKE GAURI RAMESHWARRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+319,1364,15484,76.06,19148535,WARADE DIPIKA MADHAV,F,OBC,2,LOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+320,1365,15788,75.88,19112305,RIYA HINGE,F,OBC,2,LOBC,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+331,1407,7332,82.29,19130769,SHELKE VIVEK RAVINDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0
+332,1408,8441,81.25,19127406,JUNGARE ANUJA BHAKTARAJ,F,OBC,2,LOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+333,1409,8506,81.21,19105786,BHUSARI SUMIT AMOL,M,OBC,2,GOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+335,1411,9762,80.18,19116095,VIGHE TEJAS GAJANAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+337,1413,11914,78.59,19134709,GULHANE PRATIK SHAILENDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+338,1414,12116,78.42,19146789,GHALANI AKSHAY RAJENDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+339,1415,12438,78.19,19124539,WAKODE RITUL SANDEEP,F,OBC,2,LOBC,Physical impairment,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+341,1417,13596,77.39,19128679,HIMANI PRAKASH LANGADE,F,OBC,2,GOBC,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+342,1418,13782,77.25,19133559,THAKARE SHAM PRAKASH,M,OBC,2,PHOBC,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+343,1419,14120,77.0,19147277,RAUT DHANASHREE ANIL,F,OBC,2,DFST,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+344,1420,14190,76.97,19121759,BANUBAKODE SHREYAS SANJIV,M,OBC,2,GOBC,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",@,5.0
+355,12796,803,90.94,19130543,GUPTA HARSHIT MANISH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+357,12798,1550,89.13,19125096,DHARMALE KANCHAN RAVINDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+358,12799,2069,88.25,19137110,SHRIRAO SEJAL ANIL,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+364,12805,2210,88.0,19143536,GOKHARE PRAJYOTI SURYAKANT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+365,12806,2340,87.81,19114359,RAHANGDALE SAURABH BHARATRAM,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+374,12839,4179,85.38,19106834,RENUKA SANJAY MATHURKAR,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+377,12842,6076,83.44,19120790,AMBADKAR SAKSHI SATISHRAO,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+378,12843,6555,83.0,19125745,RAUNDALE MINAL GAJANAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+380,12845,9352,80.5,19105788,GULHANE KOMAL PRALHADRAO,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+386,12851,6899,82.69,19153937,KALE PRATIK RAJENDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+387,12852,6970,82.63,19101695,PARDHI RIYA THALESHKUMAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+388,12853,8310,81.38,19147157,AMBULE PRAVIN GANARAJ,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+389,12854,9928,80.06,19116336,MOHAKAR VIVEK ARUN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+390,12855,9990,80.0,19110674,WANKHEDE SAMRUDDHI PRASHANT,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+391,12856,10066,79.94,19130157,NICHAT DHANASHRI DHANANJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+392,12857,10212,79.82,19148286,PURVA KISHOR TALEGAONKAR,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+393,12858,10787,79.38,19126879,PRANJALI RAVINDRA VAIRALE,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+397,12862,11675,78.75,19149366,TEJAL ANANT PATIL,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+398,12863,11685,78.75,19129947,AJMIRE JANHAVI PRADIP,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+399,12864,11848,78.63,19129083,KEDAR AMISHA ARJUN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+400,12865,11902,78.59,19148271,JOLHE KALYANI VIJAYRAO,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+401,12866,12190,78.38,19111858,BANAIT PRADNYESH ANANT,M,OBC,2,LSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+402,12867,12351,78.25,19131591,LANDE ASHWINI NARENDRA,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+407,12872,6446,83.12,19104803,SHUBHAM BIJWE,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+408,12873,6493,83.06,19123037,NIMKAR VIVEK BHARATRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+409,12874,10848,79.33,19134675,KUSHAWAH AYUSHI RAJESH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+411,12876,11908,78.59,19114417,UPRADE SANGITA YOGRAJ,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+412,12877,12273,78.31,19121826,RAJURKAR VAISHNAVI SUNIL,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+414,12879,13779,77.25,19129042,WAHILE VAISHNAVI PRAMOD,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+415,12880,14678,76.63,19147535,AGASE MOHINI KAILASH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+416,12881,14679,76.63,19144752,SULE PRATIKSHA GAJANAN,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+417,12882,15535,76.06,19125769,MALVIYA BHAVANA BHIKALAL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",@,5.0
+419,12884,16149,75.69,19141550,PATLE PAYAL RANGLAL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+420,12885,16353,75.56,19137255,GAWANDE ASHWIN MAHENDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+421,12886,16666,75.35,19128348,RONGHE VAIBHAVI MAHENDRA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+422,12887,17037,75.12,19123054,ADATKAR SRUSHTI VIKASRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+423,12888,17207,75.0,19143656,UMBARKAR VISHAL GANESH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+424,12889,17273,75.0,19120610,NAIK AKANKSHA SUNIL,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+427,12892,19105,73.94,19142779,BODADE KIRAN SARANGDHAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+429,12894,19985,73.44,19152365,SARTHAK KAKAD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+430,12895,20416,73.19,19101595,RAOOL DARSHAN PARAG,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+431,12896,20795,73.0,19124895,DESHMUKH AMRUTA PRASHANTRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+432,12897,21036,72.88,19140990,TEKADE SHRIDIP PANDURANG,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+433,12898,21166,72.81,19124997,LANJULKAR PRACHI SHESHRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+437,12902,23136,71.81,19111458,PAWAR TEJAL RAJENDRA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",@,5.0
+438,12903,23733,71.5,19126404,GULHANE GAURI SATISHRAO,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+439,12904,23739,71.5,19110015,PARDHI RANU MEGHANATH,F,OBC,2,GNTD,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+441,12906,24124,71.31,19120413,CHAUDHARI ABHISHEK RAJABHAU,M,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+444,12909,26426,70.19,19144425,SARAD PRATHAMESH RAJKUMAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+446,12911,27755,69.63,19123733,GAGAPURWAR DIVYA SHANKAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+450,12915,30159,68.5,19141337,GITAI SACHINRAO THAKARE,F,OBC,2,LSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+451,12916,30310,68.44,19111231,GULHANE SHRUTIKA SHRIKRUSHNA,F,OBC,2,LST,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+454,12919,31750,67.81,19129400,BURGHATE MEENAKSHI JAWAHAR,F,OBC,2,GNTC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+456,12921,32765,67.38,19122681,RAUT GAYATRI DIPAK,F,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+457,12922,33189,67.19,19149105,THAWKAR ANUP NANDAKISHOR,M,OBC,2,PHNTA,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+469,12934,10354,79.7,19124192,TELRANDHE KAVERI VASANT,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+470,12935,10875,79.31,19128654,MANDE GAURI VIJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+471,12936,12085,78.44,19127700,JAISWAL MAHIMA KRISHNAKUMAR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+474,12939,13950,77.13,19140171,BHAGAT ASHISH SAMADHAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+475,12940,16040,75.75,19117250,DESHMUKH SHRADDHA DIPAK,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+476,12941,17135,75.06,19128757,MAHALLE SHREYA SURESHRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+477,12942,18311,74.38,19145682,SAWWALAKHE ISHAVARI PRAKASH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+478,12943,22307,72.19,19127059,SAPATE POOJA GAJANANAPPA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+483,12948,26422,70.19,19136004,TATHE ARPITA ACHYUT,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+486,12951,27597,69.69,19105972,BHOPATE YASHASWI SAHEBRAO,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+488,12953,27735,69.63,19150041,WADURKAR RUTUJA SANJAY,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+490,12955,29091,69.0,19156445,DHANORKAR NISHIGANDHA BALARAM,F,OBC,2,LNTA,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+492,12957,30457,68.38,19120244,KEWATKAR NIKHIL SHRIKRISHNA,M,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+496,12961,2735,87.13,19127673,POPHALE PRACHI PRADIP,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+497,12962,4222,85.31,19119800,DESHMUKH RADHIKA SANJAYRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+498,12963,5133,84.38,19125911,KARALE PRANIT SUBODH,M,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+499,12964,5592,83.88,19122711,MAHENDRA DIPIKA VIJAY,F,OBC,2,PHNTA,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+503,12968,8591,81.13,19127841,POPHALE PRAJWAL DILIP,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+505,12970,9511,80.38,19153973,TAMBAKHE MRUNAL PRADEEPBHAI,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+506,12971,10554,79.56,19111723,SHRIRAMJWAR VAIBHAV PRAMOD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+507,12972,10872,79.31,19117581,KALBANDE TEJASWINI PRABHU,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+510,12975,11903,78.59,19105878,POHOKAR JANHAVI RAJIV,F,OBC,2,GNTA,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+511,12976,12683,78.0,19118422,SARODE SAKSHI PRADIP,F,OBC,2,GNTD,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+512,12977,13617,77.38,19141939,BHAGAT GAJANAN SHRIKRUSHNA,M,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+518,12983,5248,84.25,19133281,DUDHE MAYURI SANJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+519,12984,15296,76.19,19110168,KAVALE VIBHAKTI SANJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+522,12987,16849,75.24,19129681,MAHAMUNE DIVYA MANOHARRAO,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+523,12988,18934,74.0,19116821,YELEKAR SAKSHI ARVIND,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+524,12989,19080,73.94,19129433,KAJALE ANUSHRI RAJESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+525,12990,19542,73.69,19129913,PACHKAWADE DNYANESHWARI WASUDEORAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+527,12992,20906,72.94,19138082,MAHORIYA MAHESH RAMDAS,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+528,12993,21173,72.81,19145091,TAJNE GAYATRI PRAKASH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+530,12995,22432,72.13,19141914,DARNE TEJASHRI MANOHARRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+531,12996,22710,72.0,19120891,GURMALE AKSHATA SANJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+533,12998,24754,71.0,19127483,DANGE VAISHNAVEE VINODRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+534,12999,26013,70.41,19124836,HARSHAL RAVI BHAGWAT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+535,13000,26434,70.19,19139725,KANHERKAR PRATHAMESH VIJAYRAO,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+536,13001,26884,70.0,19103036,BHATTI RAJASHRI PRAKASH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+537,13002,27043,69.94,19148667,MANCHALWAR DHANASHREE RAVINDRA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+539,13004,27914,69.53,19102954,KAWARKHE NEHA JAGANNATH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+543,13008,29362,68.88,19103012,PATOKAR GAURI RAVINDRA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+544,13009,30172,68.5,19134729,INGALE SUMIT SUDHAKAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+545,13010,31573,67.88,19119198,YADGIRE SAYALI MANOJRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+546,13011,32073,67.69,19128615,SHEREKAR KSHITIJ SANJAY,M,OBC,2,LST,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+547,13012,32629,67.44,19106966,PAWAR OM SUDHIR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",&,4.0
+548,13013,33225,67.18,19130238,PAWAR PRATIKSHA VIJAY,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+549,13014,33385,67.12,19141810,GORE POOJA VITTHAL,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+550,13015,34391,66.69,19120421,DIWARE RATAN MANOHAR,M,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+552,13017,34971,66.44,19112028,NANDEKAR SHIVANI RAJESH,F,OBC,2,GSC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+554,13019,36653,65.75,19136611,SHENDE VIPUL JAYKUMAR,M,OBC,2,LSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+556,13021,38097,65.13,19155027,GAIKWAD AISHWARYA SUDHAKAR,F,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+558,13023,38410,65.0,19132168,MOIZ AHMED SHAIKH MOIN AHMED,M,OBC,2,GNTD,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+559,13024,38699,64.88,19113943,CHIRDE ANUJ SADANAND,M,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+565,13191,16717,75.31,19105816,KALE VAISHNAVI SURESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+566,13192,18715,74.13,19127229,GAWANDE SRUSHTI SANJAYRAO,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+570,13196,30459,68.38,19125400,LONKAR NAYAN GAJANAN,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+571,13197,30951,68.13,19152400,TAMBAKHE GAURI NARENDRA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+574,13200,32631,67.44,19124736,TEJVAL SURENDRAPANT LONDE,F,OBC,2,DFNTA,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",*,3.0
+577,13203,35518,66.19,19123458,GULHANE AARTI VIJAY,F,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+581,13208,20423,73.19,19157006,TETU APURVA VIJAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+584,13211,38894,64.81,19124241,DATIR PARIMAL PRAMOD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+585,13212,40139,64.29,19139223,GULHANE JANHAVI DEEPAK,F,OBC,2,GNTD,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+588,13215,42653,63.19,19152112,NIMBOLKAR SAKSHI RAJU,F,OBC,2,LSC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+589,13216,42837,63.12,19131579,TINKHEDE ATHARV PRABHAKAR,M,OBC,2,DFSEBC,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+590,13217,7154,82.44,19124285,SAWAI VISHAKHA PRADIP,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+591,13218,29520,68.81,19136766,KADU PAYAL MAHENDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+592,13219,31178,68.06,19129262,KOHALE SHUBHAM SOMESHAWARRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",*,3.0
+593,13220,31741,67.82,19117727,BORKAR MRUNALINI TUKARAM,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+594,13221,31769,67.81,19135903,SALWATKAR AKANKSHA SHRIDHAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+596,13223,36028,66.0,19136627,AHIR PRATIKSHA RAJENDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+597,13224,36234,65.94,19134538,JUNGHARE SIMRAN PURUSHOTTAM,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+598,13225,36370,65.88,19157487,INGLE SEJAL TRUSHANT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+601,13228,37071,65.56,19105235,MASKARE DIVYA SATISH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+607,13234,39875,64.38,19118714,JADHAV VINAYAK CHANDRAKANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+608,13235,40654,64.06,19132140,AKOLKAR KSHIPRA RAMBHAU,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+611,13238,41823,63.56,19132163,PANT AVANTI SANJAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+614,13241,45935,61.63,19131154,BHORE NIKHIL VIJAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+617,13244,46670,61.25,19144615,HADKE KHUSHALI PRAKASH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+619,13246,47914,60.56,19130979,KADU AJIT SURESHRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+622,13249,49950,59.29,19126731,GANJARE KALYANI SUNIL,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+625,13252,51385,58.06,19150647,TAWALARE VIVEK CHANDRASHEKHAR,M,OBC,2,GOBC,,302,ENTC,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+626,13253,51400,58.06,19107818,PASHINE ANAND NARSINHALAL,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+627,13254,51756,57.69,19137906,GANORKAR VAIBHAVI NITIN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",&,4.0
+631,13343,26193,70.31,19158891,SABLE AASAWARI VISHWNATH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+633,13345,44504,62.31,19159216,KOKATE SHREYA SHRIKRUSHNA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+634,13346,47510,60.8,19110668,SHIRALKAR RUPALI ARUN,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+637,13387,11265,79.06,19141016,NIKURE MAROTI GAJANAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+639,13389,16727,75.31,19129818,JUNGHARE SALONI HEMANT,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",*,3.0
+640,13390,18402,74.31,19117978,MAHORE SAMIKSHA SUNILRAO,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+641,13391,19552,73.69,19104537,JAYSINGPURE HRITHIK VIVEKRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+646,13396,21380,72.71,19109600,UTANE AMEYA PRAVIN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",*,3.0
+649,13399,24242,71.25,19157220,BODADE RUTUJA JANARDHAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+650,13400,24314,71.23,19111814,KOTKAR AMRUTA EKNATH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",*,3.0
+654,13404,27740,69.63,19103854,DHOPTE ASHWINI DIGAMBAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+655,13405,27742,69.63,19121145,DESHMUKH SAMIKSHA SUNIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+656,13406,27856,69.56,19136704,MESHRAM ESHIKA PRAMOD,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+657,13407,27865,69.56,19159009,DURGE PRACHI PRAVIN,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+661,13411,30170,68.5,19130260,DESHMUKH SHARVARI SARANGDHAR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+663,13413,31564,67.88,19133376,CHAUDHARI ABHIJIT ANIL,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+664,13414,31845,67.76,19141288,NAPHADE HRISHIKESH DILIP,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",&,4.0
+666,13416,33390,67.12,19116224,AKHARE DARSHAN PRAVIN,M,OBC,2,GNTA,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+667,13417,33759,66.94,19125372,DESHMUKH CHAITALI SHRIKANT,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+668,13418,33797,66.94,19135253,RAUT SAGAR SUBHASH,M,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+672,13422,34679,66.56,19150389,SWARUP BOBADE,M,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+675,13425,36172,65.94,19120097,PAWADE AJINKYA TUSHAR,M,OBC,2,GSC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+677,13427,37086,65.56,19117165,RAUT DAMINI SUNILRAO,F,OBC,2,LST,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",&,4.0
+682,13515,5885,83.63,19117566,WANVE MONA SURESH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+683,13516,14763,76.56,19124690,GULHANE GIRISH ASHOKRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+684,13517,15939,75.81,19130635,SISAT SURAJ JANRAOJI,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0
+685,13518,19342,73.81,19153795,LAHANE PRASAD NANDKISHOR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+686,13519,21402,72.69,19115719,KAWARE ANJU ARUN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+689,13522,26567,70.13,19149762,SAPKAL APARNA BABURAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+690,13523,27223,69.88,19101759,AKHILESH MANOJ KHAWALE,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+693,13526,32081,67.69,19124786,KHAWSHI LEENA NARENDRAJI,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+695,13528,32620,67.44,19159394,GHADEKAR KSHITIJA GAJANAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+696,13529,34397,66.69,19156307,SHRAVANI HOLEY,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0
+698,13531,35946,66.06,19127387,ARTI SUDHIR GHULE,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+699,13532,36146,65.94,19159447,NAGAPURE PRAJAKTA SANTOSHRAO,F,OBC,2,LSEBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+700,13533,36645,65.75,19118308,CHOPADE VIDHI CHITRASHEKHAR,F,OBC,2,DFSEBC,,301,Computer & IT,301,Computer & IT,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+703,24527,553,91.81,19128854,BHUJBAL SAKSHI NARENDRA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+704,24528,979,90.44,19127712,CHEDE RUDRAYANI NIVRUTTI,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+706,24530,1199,89.88,19119809,SAMBHE NAKUL RAJU,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+707,24531,1611,89.0,19119555,GADBAIL SURABHI VIJAYRAO,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+708,24532,1888,88.56,19133695,PATIL VAIBHAV VINOD,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+715,24625,2650,87.25,19122662,KALE AANCHAL KISHORRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+716,24626,2700,87.19,19130368,RAUT ANUSHRI ANANT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+717,24627,4578,84.94,19102995,KINGE SHUBHAM VISHWAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+718,24628,4992,84.5,19128510,AGARKAR RENUKA SUNIL,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+720,24630,9783,80.18,19127066,GURAD PRANJALI KISHORRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+721,24631,10238,79.81,19119877,WARHADE RUTIK PRAKASHRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+722,24632,10709,79.44,19128173,BHAKARE ANAND MADHUKAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+726,24636,14547,76.71,19137570,JAMBHORKAR ANKITA SUNILRAO,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+730,24640,22314,72.19,19141371,SARAD KARTIKESH VILAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+732,24642,23375,71.69,19156319,SAWARKAR KARTIK NARENDRARAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+733,24643,24617,71.06,19147702,VELUKAR SAURAV SANTOSHRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+734,24644,25568,70.63,19143045,GUDADHE NEHA CHANDRASHEKHAR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+735,24645,25780,70.53,19108149,DATIR DHARTI HEMANT,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+736,24646,26259,70.29,19126835,KAWARE DIVYA DNYANESHWARRAO,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+738,24648,29742,68.71,19107411,HANDE ADITYA SUHAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+741,24651,31674,67.82,19120475,BOKEY KSHITIJ VINODRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+743,24653,34666,66.56,19119711,MALPE SHUBHADA PRAVIN,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+744,24654,35061,66.41,19130740,PAVITRAKAR KALYANI VIJAY,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+747,24657,37009,65.59,19158930,SURYAWANSHI VAISHNAVI PRADIPRAO,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+753,24663,46348,61.41,19132180,GILORKAR SHUBHAM HARIHAR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+760,24698,39465,64.56,19156816,PADOLE SAMRUDDHI CHHATRAPATI,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+761,24746,2487,87.56,19125935,KATORE ABHIJIT SHRIKRUSHANARAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+762,24747,2999,86.81,19129069,BHARSAKALE PRAJWAL SANJAYRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+765,24750,11097,79.18,19127695,KHADSE DHARTI DNYANESHWAR,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+766,24751,14841,76.5,19135927,NAGPURE SHREYASH ASHOKRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+767,24752,17340,75.0,19146991,MASKE SHUBHAM NARENDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+768,24753,17489,75.0,19102962,BIRE ASHWIK RAJENDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+769,24754,21022,72.88,19141268,KANDE VIRENDRA NARENDRARAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+771,24756,23728,71.5,19129950,BAWNER VAISHNAVI VINOD,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+772,24757,24678,71.06,19111648,ANDE ROSHANI GANESHRAO,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+773,24758,26969,70.0,19114788,BHOGAONKAR SHARDUL PRADEEP,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+775,24760,31071,68.12,19104603,GOTMARE PRAJWAL BALASAHEB,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+777,24762,34355,66.71,19128697,WANKHEDE ANKITA ULHASRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+779,24764,42298,63.35,19144121,WANKHADE DINESH VASANTRAO,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+781,24766,44579,62.29,19136856,JAWANJAL PRANAY VINOD,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+783,24768,53871,53.88,19107152,SHIRBHATE SHANTANU ANIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+785,24797,8615,81.12,19132089,CHAHARE LAXMI ANIL,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+786,24798,9690,80.24,19126393,KHYATI MEHARE,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+788,24800,12995,77.81,19152632,FUSE GANESH PRALHAD,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",&,4.0
+790,24802,17630,75.0,19138627,EDAKHE KALYANI PRAMOD,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+793,24805,26132,70.35,19130345,GUPTA SAURABH SUBHASH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+795,24807,29381,68.88,19127143,SHENDE RESHMA RAMESHWAR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+796,24808,29630,68.76,19120787,WARHADE NAMO VILAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+797,24809,29990,68.59,19116170,DAGADKAR PURVA KISHORRAO,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+798,24810,31191,68.06,19138670,KHADE KANCHAN SANDIPRAO,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+799,24811,31325,68.0,19116973,YELNE PRIYA HARIDAS,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+800,24812,31355,68.0,19109060,WANKHADE ATHARVA PRADIP,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+801,24813,31751,67.81,19143225,DHADSE ANIKET BHAURAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+802,24814,32383,67.53,19131112,DADAPURKAR PRATIK KISHOR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+803,24815,33233,67.18,19103834,DHOKANE RAJAT SHRIKRUSHNA,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+808,24820,35509,66.19,19149499,SAWARKAR SHIVANI GAJANANRAO,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+809,24821,35582,66.18,19137543,SHRIRAO BHAIRAVI KISHORRAO,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+811,24823,36023,66.0,19158746,BAGULKAR MAYURI PUNDLIKRAO,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+813,24825,37712,65.29,19136457,SHAIKH IMRAN RASHID,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+815,24827,39679,64.47,19121471,TELANGE TEJAS RAJESH,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+818,24830,41755,63.59,19132200,JASWANTE DEVYANI BABAN,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+820,24832,44617,62.29,19142291,GULHANE PRAJWAL VIJAYRAO,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+821,24833,44632,62.25,19157203,LADSE VAISHNAVI VINAYAK,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+824,24836,46459,61.35,19151720,HARAMKAR SHRUTIKA RAJESH,F,OBC,2,LNTA,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+826,24956,21399,72.69,19148571,MALVIYA NIKITA ASHOK,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+827,24957,30112,68.53,19108402,KALE DIPIKA SATISHRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+828,24958,37566,65.35,19117152,JAWALKAR MRUNAL SANTOSH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+831,25008,18685,74.18,19144883,VIGHE PRATIKSHA SADASHIVRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+832,25009,22882,71.94,19129712,KALE VAISHNAVI VIJAYRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+834,25011,23916,71.41,19153471,SAHYADRI PANDITRAO DHOBLE,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+842,25019,45677,61.76,19149622,GAJGHUME SAURABH KISHORRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+846,25068,13163,77.69,19151676,KATORE ANJALI SURESH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+848,25070,29346,68.88,19158495,WANKHADE TEJASWINI PRAKASHRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+852,25074,49567,60.0,19159313,TEKADE YOGESH MANOHARRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+854,25112,22306,72.19,19129020,MANKAR PRATIKSHA VINOD,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+855,25113,26629,70.12,19106888,NYAHATKAR PRASAD VIJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+859,25117,39026,64.76,19151094,LAD VAISHNAV UDDHAV,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+860,25118,42255,63.35,19151132,BUTLE SUMIT SANJAYRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+861,25119,42651,63.19,19129249,TADAS SHIVANI ARUNRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+863,25121,48405,60.29,19117955,HARNE RUTUJA GULABRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+864,25122,49762,59.41,19105004,ANKIT SANJAY VIDHALE,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+866,40972,345,92.65,19141303,HAJARE SHRUTIKA NANDKISHOR,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+869,40975,923,90.55,19142430,KORE HUSAN BHARAT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+874,41000,4223,85.31,19151324,KATORE SHUBHAM RAMKRUSHNA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+875,41001,9543,80.36,19120965,VAISHNAVI SHIRBHATE,F,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+876,41002,9824,80.12,19102337,POTE JAGDISH RAMDAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+877,41003,10367,79.7,19143402,KHATE GAURI PRADIP,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+878,41004,10703,79.44,19120482,RAUT SHARVAREE VASANT,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+879,41005,10842,79.33,19129022,INGLE PAWAN BALIRAM,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+880,41006,11580,78.81,19148156,INGOLE SHRADDHA SUBHASHRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+884,41010,13422,77.52,19118973,CHAURAGADE YOGINI YASHWANT,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",@,5.0
+885,41011,13748,77.27,19105542,DHOTE SAMIKSHA JAYKUMAR,F,OBC,2,PHOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+887,41013,15633,76.0,19135190,TINGNE PRATHAMESH PRAMOD,M,OBC,2,DFST,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+894,41020,28915,69.06,19141909,AHER DIVYANI DIPAKRAO,F,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+897,41023,12588,78.06,19117608,INGLE AJAY SHANTARAM,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+898,41024,13248,77.63,19116948,DHOKE DHIRAJ RAMESHRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+899,41025,15606,76.0,19128916,BHAGAT ONKAR PRAKASHRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+900,41026,15829,75.88,19109705,DESHMUKH SHASHIKANT YUVARAJ,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+902,41028,17160,75.03,19126354,LANDE ARATI SUNIL,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+904,41030,17865,74.97,19127546,NIMKANDE DIPTI SHRIKRUSHNA,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+905,41031,17939,74.97,19124501,JAISWAL PALAK DILIPRAO,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+906,41032,17975,74.97,19140132,KANDARKAR AJAY PRABHAKAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+907,41033,18228,74.44,19127035,NAVGHARE RENUKA VIJAY,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+908,41034,18232,74.44,19109090,BIJWE SHRUTIKA ANANT,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+913,41039,19859,73.52,19135499,PIMPALKAR KOMAL RAJESH,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+915,41041,20270,73.27,19109936,KALE TARIKA GOVINDRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+916,41042,20527,73.15,19140363,DHALE MUKESH RAJENDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+917,41043,21161,72.81,19115690,BHOMBE TANAYA ANIL,F,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+918,41044,21437,72.67,19109371,UMBARKAR ABHISHEK SHARADRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+920,41046,21665,72.55,19110541,WARKAD ANJALI ULLHASRAO,F,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+921,41047,22893,71.94,19123521,MOHURLE TUSHAR PRAMODRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+923,41049,24204,71.27,19125949,MALOKAR VAIBHAV SHALIGRAM,M,OBC,2,GSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+925,41051,24828,70.97,19157579,MANDWALE VAISHNAVI SANJAY,F,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+926,41052,25205,70.81,19137655,DATEY PRASHANT BALIRAM,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+927,41053,25756,70.55,19157450,SHRIRAO PRAJAKTA EKNATH,F,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+930,41056,27994,69.52,19121094,BANGALE RUSHIKESH ASHOK,M,OBC,2,LSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+932,41058,29152,68.97,19143971,UMAP PRATHAMESH VIJAYRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+933,41059,31410,67.94,19127960,KAIKADE NIKHIL KRUSHNAJI,M,OBC,2,DFNTC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+934,41060,31897,67.75,19149044,CHAUDHARI MRUNALI BHAGAWATRAO,F,OBC,2,GSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+935,41061,32596,67.45,19127909,MANKAR AADITYA VIJAYRAO,M,OBC,2,GSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+939,41065,34890,66.48,19146693,HETE RUSHIKESH RAJENDRARAO,M,OBC,2,GSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+940,41066,35105,66.38,19128193,TIDAKE RUTUJA MADHAV,F,OBC,2,PHST,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+953,41258,35921,66.06,19142770,YAWALE VAISHNAVI KASHINATH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+955,41260,38194,65.09,19158867,GIRPUNJE SHUBHAM MUKUND,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+959,41264,41505,63.7,19112169,INGALE SHUBHAM MURLIDHAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+961,41266,44434,62.36,19150118,MARODE VAIBHAV VIJAY,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+962,41267,45229,61.94,19118333,ADGOKAR VAISHNAVI DNYANESHWAR,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+965,41270,48346,60.31,19144299,JANORKAR GAYATRI GOVINDRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+966,41271,49033,60.0,19146460,BHUYAR SWAPNIL ARUNRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+968,41273,50278,59.03,19122067,THAKARE MONALI VILASRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+969,41274,50617,58.79,19159340,KAWARE DHANANJAY MURLIDHAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+974,41279,53117,55.76,19114118,SARAF AKSHAY MANOHAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+976,41315,6892,82.69,19133284,GABHANE ANKITA ASHOKRAO,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+977,41316,7409,82.19,19148490,ZAGADE SHWETA DNYANESHWARRAO,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+978,41317,8806,80.94,19128139,GAWANDE KARTIK MAHENDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+979,41318,9179,80.63,19147430,GHADGE ADITYA NILESHRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+982,41321,15291,76.19,19128888,INCHURKAR VEDANTI NARENDRA,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+983,41322,15787,75.88,19105275,DHONGDE AKASH SURESHRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+984,41323,16501,75.45,19142043,KUTHE PARAG NARENDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+985,41324,16712,75.31,19118955,BIND PRITAM SUDHIR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+988,41327,20990,72.91,19139425,KAPILE ANUJ VINAYAK,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+991,41330,22286,72.24,19106878,NAKTODE AHUJ SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+992,41331,22524,72.12,19112771,MANKAR SANKET SUNIL,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+996,41335,30762,68.24,19131551,DHANASHRI RAJESH KHADSE,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+998,41337,31025,68.12,19132730,DAHAKE LIKHIT DINESHRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+999,41338,32603,67.45,19101289,SANKARSH VINOD LANJEKAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1001,41340,36414,65.82,19130459,HARIOM SANJAY JAWARE,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1003,41342,36890,65.64,19138061,TAYADE ANIKET VILASRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1005,41344,37584,65.33,19147375,CHAUDHARI LIMAY PRADIP,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+1007,41346,38486,64.97,19157932,AMBADKAR SUYASH ANIL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+1012,41351,42344,63.33,19140322,BARANGE BHARAT BABARAO,M,OBC,2,PHOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1014,41353,42481,63.27,19134733,MALAWALKAR PRATIK ONKAR,M,OBC,2,GST,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1015,41354,42613,63.21,19151923,LAUDKAR GOPAL HARIDAS,M,OBC,2,GNTC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1018,41357,43907,62.61,19132888,CHAYAL RAHUL RAVINDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",&,4.0
+1019,41358,45761,61.7,19132358,KHANDERAY LEENA PRAMOD,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1022,41361,48028,60.48,19127852,KEOTE VAISHNAVI BHALCHANDRA,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1024,41363,48889,60.0,19138602,BOLE SHANTANU SUNILRAO,M,OBC,2,LOBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",@,5.0
+1029,41368,51407,58.06,19124788,DORALE GAURAV RAMESHRAO,M,OBC,2,LSEBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1032,41480,20757,73.03,19131301,KADAM PRATHMESH RAMHARI,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1033,41481,21106,72.85,19157480,BHOJANE ADITYA SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1036,41484,26761,70.06,19155815,CHINCHE MAHESH RAJENDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1038,41486,30776,68.24,19133587,GUJAR GAURAV GANESH,M,OBC,2,GOPEN,,302,ENTC,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1039,41487,31843,67.76,19136249,RAMEKAR PRAJWAL RAMDHAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1042,41490,36153,65.94,19156965,DHANORKAR GUNJAN ANIL,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0
+1043,41491,37151,65.52,19105900,DADGAL ADITYA SANTOSH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1045,41493,37760,65.27,19157004,JAMODKAR NAMRATA MANOHAR,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1047,41495,38377,65.03,19157670,CHOPADE PRAJWAL WASUDEO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1048,41496,38392,65.0,19153585,CHOPKAR ROSHAN MANOHARRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1049,41497,38926,64.79,19136429,PUSADKAR PAVAN PRAMOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1050,41498,39914,64.36,19131411,NAGAPURE SONI PURUSHOTTAM,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1051,41499,40425,64.13,19117145,ZAGADE RUTUJA PURUSHOTTAM,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0
+1052,41500,41369,63.76,19120258,SHELKE AMIT SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1054,41502,43678,62.73,19154211,TAYADE RASHMI SURESHRAO,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1060,41508,47863,60.61,19143688,KAMLAPURE GAURAV VINOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1062,41510,48067,60.48,19114339,ADHAO SHUBHAM SUNIL,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1064,41512,54327,51.39,19120740,THAKARE RHUTUJA PRABHAKAR,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1066,49487,6010,83.5,19118643,BAJAD MUKTA SUNIL,F,OBC,2,GOPEN,,302,ENTC,305,Instrumentation,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1069,49490,9772,80.18,19138683,VAIBHAV GOPAL CHAKOLE,M,OBC,2,GOBC,,304,Electrical,305,Instrumentation,1002,Amravati,"Government College of Engineering, Amravati",#,2.0
+1078,50173,234,93.25,19118985,BHUSARI SANKET YOGESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1081,50176,530,91.88,19102611,JAISINGPURE PRANAV SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1083,50178,1087,90.13,19128046,GUJAR PRERNA GAJANAN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1087,50209,1238,89.81,19113663,BANARASE ABHISHEK NARENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1089,50211,2610,87.31,19117584,BHANDE ABHISHEK SUDHAKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1090,50212,2924,86.88,19145691,BHUMBAR PRAJWAL VIJAYRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1097,50219,6674,82.88,19109009,WANKHADE MONALI VILAS,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1098,50220,7028,82.56,19121160,BELSARE JAY ASHOKRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1099,50221,7063,82.53,19121457,THAKARE SUSHANT ASHOKRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1100,50222,7740,81.88,19152033,DHENGALE DHANSHRI RAJESHRAO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1101,50223,7768,81.88,19136862,AMOL DILIP MAWALE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1102,50224,7937,81.7,19101137,BISEN VAIBHAV MAYARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1103,50225,8078,81.56,19149206,KALAMKAR ARPITA SURENDRA,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1107,50229,9184,80.63,19130038,JAGTAP SHANTANU AVINASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1108,50230,9296,80.55,19121855,WANKHEDE SAURABH VIJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1109,50231,9763,80.18,19141723,KORE GURUCHAND BHANUDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1110,50232,9835,80.12,19151241,BHAGAT AVISH SANTOSH,M,OBC,2,GST,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+1111,50233,10100,79.88,19128695,GHATRE ISHWAR PRAWIN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1112,50234,10231,79.81,19130925,BIJWE ADITYA SUDHIRRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1113,50235,10577,79.53,19117980,TIJARE AKASH PRAKASHRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1114,50236,11353,79.0,19114170,KUNDAN TUPATE,M,OBC,2,GNTD,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1119,50241,16774,75.29,19133715,GULHANE RISHIKESH DNYANESHWAR,M,OBC,2,LSEBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1120,50242,19451,73.75,19124258,KANDALKAR AACHAL ASHOKRAO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1125,50247,23509,71.59,19124638,GUPTA VAISHNAVI PURUSHOTTAM,F,OBC,2,LOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1130,50252,29900,68.63,19148211,GHOGARE SAMRUDDHI ARUNRAO,F,OBC,2,LOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1137,50259,11498,78.88,19127420,WARHADE GOURAO SUKHDEO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1138,50260,11678,78.75,19124649,GOLE ANIKET MURLIDHAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1139,50261,14632,76.65,19152292,RAUT NAVJYOT NAMDEORAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1140,50262,17397,75.0,19139955,BHUSHAN ASHOK GOND,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1141,50263,17591,75.0,19129145,CHOPADE KAMESH BANDUPANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1142,50264,18292,74.41,19147266,NAGPURE KUNDAN DINESH,M,OBC,2,PHO,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1143,50265,21124,72.82,19139550,SONTAKKE ABHISHEK VILAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",@,5.0
+1144,50266,21743,72.5,19143628,RAJAS NIKHIL ANILRAO,M,OBC,2,LST,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1145,50267,22077,72.31,19149144,THAKARE HARSH SUNIL,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1146,50268,22498,72.12,19131385,BURE NIKHIL WAMAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",@,5.0
+1147,50269,23892,71.41,19131259,KALBANDE TANMAY SANJAY,M,OBC,2,GST,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+1148,50270,26666,70.12,19118202,NANDURKAR UTKARSH RAJENDRA,M,OBC,2,LSEBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+1157,50279,43711,62.71,19123982,SOITKAR VAISHNAVI AVINASH,F,OBC,2,LOBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1159,50281,3425,86.29,19118049,DHAWALE MOHIT SUNIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1160,50282,7356,82.25,19151835,BHAMBURKAR ROHIT VIKASRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1161,50283,7862,81.76,19119752,MOHOD SHANTANU VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1162,50284,8273,81.4,19123842,KALBANDE RUSHIKESH ASHOKRAO,M,OBC,2,PHOBC,,402,Production,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1163,50285,11698,78.75,19127440,DHANSANDE AMAN GAJANANRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1164,50286,13295,77.59,19133694,CHAHAKAR SHUBHAM VILAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1166,50288,15807,75.88,19105156,POCHCHHI ANUP SUDHIRRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1168,50290,16972,75.18,19110033,KHANDAL SARANG RAMUJI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1169,50291,19232,73.88,19109518,UMALE GAURAV SANJAYRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1170,50292,19244,73.88,19149952,GUDADHE KUNAL RAJESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1172,50294,21952,72.38,19117923,SHAHAKAR HARSHAL BALWANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1174,50296,22852,71.94,19153089,THAKARE KALPESH RAJABHAU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1175,50297,22862,71.94,19128658,INGOLE HARSHAL GAJANAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+1176,50298,25424,70.71,19141771,JALIT ADESH AVINASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1179,50301,26304,70.25,19155492,LIKHANKAR ABHISHEK ARUNRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1181,50303,27132,69.88,19122975,YEUL SUMIT GAJANANRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1183,50305,31819,67.76,19131632,SURVE SHIVNANDAN SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1184,50306,32356,67.53,19120817,KADU PRAJWAL VINODRAO,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1189,50311,36266,65.88,19151954,MOHARE SANKET SANJAYRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1194,50316,39138,64.71,19145664,SHENDE VIKRANT DINESH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1196,50318,39438,64.59,19112607,DHOLE HARSHAD DILIPRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+1199,50321,42238,63.35,19109745,DAHAKE LAKHAN ANIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1201,50323,42818,63.12,19132515,MANSURI RIJWAN RAUF,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+1202,50324,44860,62.18,19124558,THAKARE PRAVIN BABARAO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1203,50325,45048,62.06,19129841,BHAKARE SHRIWESH RAJU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1217,50339,50894,58.53,19130450,THAKARE RUSHIKESH DAMODHAR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1218,50340,51325,58.12,19124873,KAMDI MANTHAN DEVIDAS,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0
+1220,50342,52073,57.31,19121796,ABHIJIT ANIL CHAFEKAR,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1225,50356,13080,77.75,19123354,CHANDELE GAYATRI FULCHAND,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1226,50357,18579,74.24,19122481,GAWARE TEJAS ARUN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1227,50358,23551,71.59,19100634,MANKAR DHIRAJ VINODRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1228,50359,24490,71.13,19150254,AJAMIRE AMARDIP HARISH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1229,50360,26670,70.12,19127584,BALBUDHE RAM DURYODHAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+1230,50361,28734,69.18,19140062,MALODE PRATHAMESH SURESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+1232,50363,31209,68.06,19148859,SATAV ABHISHEK SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1233,50364,32924,67.29,19124797,SAWARKAR RUSHIKESH YOGENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1234,50365,33616,67.0,19139950,WARHEKAR PRATHMESH DIPAKRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+1235,50366,33782,66.94,19138934,BAISKAR MAYUR ASHOKRAO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1237,50368,36692,65.71,19143328,GEDAM ABHISHEKH PRAKASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+1238,50369,37826,65.24,19140017,LICHADE KARTIK GAJANAN,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1240,50371,39948,64.35,19101650,RAUT SHIVAM SATISH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+1241,50372,39953,64.35,19136230,SHAIKH RIZWAN HAMID,M,OBC,2,GST,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1242,50373,40123,64.29,19123325,DESHMUKH SHREYAS SANJAY,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1243,50374,40164,64.25,19141115,SHIVARKAR KIRTI SUBHASH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1244,50375,40276,64.24,19156005,YASH SHIRBHATE,M,OBC,2,GSEBC,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+1245,50376,42244,63.35,19153422,PACHPOR HRUSHIKESH SANTOSH,M,OBC,2,GNTA,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+1254,50617,42283,63.35,19143362,PATIL ANURODH LAXMAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1255,50618,42572,63.24,19144666,KALASKAR MAHENDRA SUBHASHRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1257,50620,45338,61.94,19111869,ADHAOO VAIBHAV DEVIDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1258,50621,46466,61.35,19122873,THAKARE DARSHAN ASHOK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1259,50622,47790,60.65,19145677,BOKEY CHINMAY SHASHIKANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+1260,50623,47974,60.53,19133027,KALMEGH PRAJWAL ASHOKRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+1262,50625,49392,60.0,19130872,MAWANDE SHUBHAM ARUNRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+1264,50627,50690,58.71,19115881,POKALE MAHESH SURESHRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1265,50628,51559,57.88,19118761,TANPURE YASH RAVINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1267,50630,53394,55.24,19120889,INGOLE VAIBHAV GOPALRAO,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+1268,50663,21474,72.65,19102468,ASHTANKAR PRAFULLA PRADIPRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1271,50666,24293,71.24,19131824,WASULE RUSHIKESH RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1272,50667,25052,70.88,19101156,RAZIQUE KHAN SADIQUE KHAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1275,50670,29483,68.82,19129972,BAJAD HRUSHIKESH SURESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1277,50672,34109,66.82,19122575,BHENDKAR VINAYAK RAJKUMAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1278,50673,34268,66.76,19155818,PAWAR VAIBHAV SANJAYPANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1279,50674,34369,66.71,19153517,WANKHADE VAIBHAV DILIPRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1285,50680,38269,65.06,19107931,CHAVAN SAURABH SANTOSH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1286,50681,38923,64.79,19107895,CHAUDHARY SHIVRAJ VISHWANATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1287,50682,39440,64.59,19147783,DHARMALE RUSHIKESH NANASAHEB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1290,50685,42810,63.12,19143670,VYAWAHARE SACHIN GOPALRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1293,50688,43880,62.65,19142923,TANPURE TEJAS VISHNUPANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1294,50689,44090,62.53,19119803,GULHANE ANKITA SUDHIRRAO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1295,50690,44715,62.24,19121204,RAUT YOGESH SHAILENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1296,50691,44846,62.18,19145622,DESHMUKH MAYURESH GAJANAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1299,50694,45460,61.88,19131120,SARAF SHRIKANT ARUN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1301,50696,45996,61.59,19155763,DHAWALE RUSHIKESH PRAVINRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1303,50698,46481,61.35,19155748,GARLE JITENDRA SHYAMBABU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1305,50700,47146,61.0,19155696,KHARAD YASH DEVIDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1307,50702,48699,60.12,19148345,CHOUDHARI ABHILASH RAMESHWAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1309,50704,50230,59.06,19137126,MANDEKAR NITIN SHESHRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1312,50707,51701,57.71,19153934,SHRIKHANDE BHOJRAJ PRADIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1316,50711,52975,56.0,19137362,BHOPLE SAGAR MAHENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1318,50713,53338,55.34,19128841,KHERKAR SURAJ ANILRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+1321,50849,8948,80.82,19129077,KONDE MAHESH SUNIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1322,50850,20106,73.35,19140455,KATHALE RAM SUNIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1324,50852,24148,71.29,19150544,KUTRE GOPAL ONKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",&,4.0
+1326,50854,25919,70.47,19149924,BHUSKAT HIMANSHU AVINASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1327,50855,27120,69.91,19131543,SAGANE SWAPNIL PURUSHOTTAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1330,50858,35441,66.24,19129843,CHARJAN ANIKET PURUSHOTTAMRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1333,50861,44223,62.47,19147633,ILAME HRUNAL DINESHRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1334,50862,44464,62.35,19148060,KADU PRASHANT VITTHALRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1337,50865,46324,61.41,19156182,RAUT AKSHAY RAJENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1338,50866,47962,60.54,19133886,TATHOD TUSHAR RAVINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1342,50942,44811,62.18,19114986,KHONDE SAURABH SHALIKRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1129,Amravati,"Dhamangaon Education Society's College of Engineering and Technology, Dhamangaon",^,1.0
+1343,50943,44949,62.12,19116257,LONKAR SHUBHAM SURYAKANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1129,Amravati,"Dhamangaon Education Society's College of Engineering and Technology, Dhamangaon",^,1.0
+1346,51030,19889,73.5,19131181,WANKHADE PRANIT SANJAYRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1347,51031,22028,72.35,19140018,JAISWAL DEVESH BABALU,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1349,51033,37819,65.24,19127858,KUKADE ROSHAN DNYANESHWAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1351,51035,43463,62.82,19131081,PURUSHOTTAM CHANDRASHEKHAR JAISWAL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",&,4.0
+1353,51037,50409,58.94,19134506,MAHAKAL SHUBHAM GAJANANRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+1354,51038,51925,57.47,19127630,JIBHKATE SHIVAM VITTHALRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",#,2.0
+1355,51039,52973,56.0,19145973,PATNE PRAYAG PRAMODRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",*,3.0

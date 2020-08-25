@@ -1,0 +1,421 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+304,10122,79.88,19143064,KATKAR SUJIT VISHNU,M,SEBC,3,GOPEN,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+305,14768,76.55,19145262,GAIKWAD DIPAK DATTATRAYA,M,OPEN,1,GST,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",&,4.0
+306,15051,76.36,19120231,PAWAR TUSHAR TANAJI,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+307,19363,73.8,19128664,KENI DNYANESHWARI KRISHNA,F,SEBC,3,LSEBC,,103,Food Technology,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+308,20617,73.1,19131072,SHIRKE AKANKSHA RAJENDRA,F,OPEN,1,LOPEN,,103,Food Technology,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+309,31529,67.88,19150522,PACHPOR VAISHNAVI GOPAL,F,OPEN,1,LOPEN,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+310,31530,67.88,19102116,SUSHANT ARVIND TRIPATHI,M,OPEN,1,LOBC,,702,Man made Textile Chemistry,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+311,34142,66.8,19145477,RAJADHYAKSH SOHAM PRASAD,M,OPEN,1,GSC,,103,Food Technology,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+312,36247,65.9,19149685,NARKAR SHUBHAM DAMODAR,M,OBC,2,GOBC,,103,Food Technology,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+313,40055,64.3,19146654,JADHAV SANDIP SAHEBRAO,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+314,41925,63.52,19125565,PATIL SAHIL PRAKASH,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+315,43771,62.67,19105625,CHARAVANDE SUNIL SARDARSING,M,OPEN,1,LSC,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+316,45947,61.6,19152469,REDIJ RUSHIL NAYAN,M,OPEN,1,DFNTA,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",&,4.0
+317,46609,61.27,19120877,JADHAV TEJAS ANIL,M,OPEN,1,GNTC,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+318,47491,60.82,19154368,BHUSNAR ARJUN SHRIMANT,M,NT2,8,GSEBC,,401,Machanical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",*,3.0
+319,50715,58.67,19106250,MOHAMMAD NAWWAS MOHAMMAD IBRAHEEM,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+320,4555,84.97,19136969,MORE PRITAM EKNATH,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+321,5146,84.36,19130443,DHAMAK SURAJ SANJAY,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+322,5259,84.24,19134527,JADHAV CHETAN DAMODAR,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+323,16737,75.3,19122918,LAD RITESH SURESH,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+324,17079,75.09,19139435,SHAHAJI SHOAIB NOORMOHMMAD,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+325,17811,74.97,19118997,MODE KUMAR DEVAPPA,M,SC,4,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+326,18325,74.36,19134788,JAGTAP HARSHAD SOMNATH,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+327,21757,72.5,19107336,KADAM SANKET GAUTAM,M,SC,4,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+328,22695,72.0,19150757,PHALASKAR VISHAL VILAS,M,OPEN,1,LOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+329,22747,72.0,19138689,MORE SACHIN KARBHARI,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+330,22913,71.9,19105711,BHOJANE SHIVAM SANJAY,M,OBC,2,PHOBC,,102,Plastic,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+331,31084,68.1,19100936,SHREEYOG MAHENDRA BADE,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",@,5.0
+332,32033,67.7,19147362,GAIKWAD SUNIL ASHOK,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+333,33174,67.2,19116750,PRIYANSHU DIPAK GHARAT,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+334,35613,66.18,19136483,NIMBARE VIKRAM SHANTARAM,M,OPEN,1,LOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+335,37656,65.3,19133196,PRATHAMESH DEEPAK MORE,M,OPEN,1,LOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+336,37879,65.21,19151357,BOLKE ROHAN RAMESH,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+337,42751,63.15,19147263,SHILEDAR RUSHIKESH HARIBHAU,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+338,43756,62.7,19156446,JADHAV ROHAN RAJU,M,SC,4,GSC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+339,46377,61.39,19152974,KHANDEKAR VISHNU SANJAY,M,NT2,8,LNTC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+340,46965,61.09,19150060,MANE ROHIT JOTIRAM,M,OPEN,1,LSC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+341,47340,60.9,19102931,DHANAWADE ANIKET SUBHASH,M,OPEN,1,DFSC,,102,Plastic,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+342,48530,60.2,19156869,JADHAV MANOJ DAJI,M,SEBC,3,LSEBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+343,48763,60.06,19140213,ISWALKAR YOGESH VIJAY,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+344,49691,59.7,19127657,MOHITE SAURABH SUDESH,M,OBC,2,LOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+345,51064,58.36,19146676,PALANDE SHRISHAIL SHRIKANT,M,SEBC,3,LSC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+346,52100,57.27,19123820,SHINDE OMKAR SURESH,M,OPEN,1,GST,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+347,52532,56.7,19104972,SUBODH RUPKUMAR GALINDE,M,SC,4,GSC,,102,Plastic,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+348,52652,56.48,19107035,PERANE JAYRAJ SHARAD,M,OPEN,1,LOPEN,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",@,5.0
+349,54231,52.12,19118720,PATIL MANDAR ANANT,M,OBC,2,LOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+350,54545,46.12,19138623,GITE SAIM ASGAR,M,OPEN,1,LOBC,,101,Chemical,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+351,72,52.5,19145968,CHALKE ANIKET MANOHAR,M,SEBC,3,GSEBC,,0,,101,Chemical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+3159,4327,85.21,19131035,KUMBHAR SONALI ARUN,F,OBC,2,LOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3160,4838,84.67,19111812,MORE SAURABH SUHAS,M,SC,4,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3161,4881,84.62,19101975,GURAV OMKAR CHANDRAKANT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3162,5997,83.52,19121380,KHATATE SAYALI SURENDRA,F,NT1,7,LOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3163,8284,81.39,19124009,SANGAR RITIK VINAYAK,M,NT2,8,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3164,10203,79.82,19130919,SHINDE AKANKSHA JAYAWANT,F,SEBC,3,LOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3165,11453,78.91,19109886,PANCHAL SAHIL ARUN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3166,11538,78.85,19121897,JAGADALE NISHANT RAJENDRA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3167,12051,78.48,19102825,SURVE SURAJ SANTOSH,M,NT1,7,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3168,12929,77.82,19107701,NANDGAONKAR PURVA SANDEEP,F,OBC,2,LOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3169,13582,77.39,19120319,KADAM SHUBHAM SHIVARAM,M,SC,4,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3170,13766,77.27,19109273,PAWAR MEGHANA KAMLAKAR,F,SC,4,LSC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3171,14854,76.48,19131911,KAMBALE JIDDI SUNIL,F,NT1,7,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3172,15892,75.82,19154610,KHETALE AKASH SANTOSH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3173,16214,75.64,19134219,DEVRUKHAKAR ANIKET SUNIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3174,18099,74.97,19112052,PADALKAR SHUBHAM GANESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3175,18322,74.36,19141682,DHAWADE PRATHAMESH SHASHIKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3176,19863,73.52,19111823,SHETYE SWAROOP VINAYAK,M,OBC,2,GOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3177,20401,73.21,19121790,SHINDE PRATIK PARSHURAM,M,OPEN,1,GST,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3178,21012,72.88,19117601,LOHAR PRANAV GANESH,M,NT1,7,GSEBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+3179,22096,72.3,19117733,GHOSALE SOHAM RAJESH,M,OBC,2,DFOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3180,22348,72.18,19147730,SAPNA GANGARAM GURAV,F,OPEN,1,LST,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3181,23829,71.45,19112381,PANCHAL AMEY SANTOSH,M,OBC,2,GNTA,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3182,23940,71.39,19125624,KAMBLE VANASHRI KISHOR,F,SC,4,GSC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3183,25111,70.85,19117646,PAWAR SAURABH MOHAN,M,OBC,2,LNTC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3184,25757,70.55,19119374,SAWANT SOHAM ANANT,M,OPEN,1,PHNTD,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3185,26617,70.12,19110025,PAWAR TEJAL MANOJ,F,SC,4,GSC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3186,28370,69.33,19110026,GHAG AJINKYA AJIT,M,OPEN,1,GSEBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+3187,34438,66.67,19104495,SARANG SAAD MUKHTAR,M,OBC,2,LOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+3188,34685,66.55,19111379,JADHAV SANIKA ANANT,F,SC,4,PHSC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3189,38475,64.97,19107192,SUKANYA RAJENDRA GAWADE,F,SEBC,3,LSEBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3190,43536,62.79,19145023,RENOSE MILIND VITHOBA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3191,45360,61.88,19111279,PATANKAR AKSHATA DIGAMBAR,F,OBC,2,LOBC,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+3192,49010,60.0,19146262,CHILE ANIKET VASUDEV,M,NT1,7,GNTB,,201,Civil,201,Civil,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+4251,11036,79.21,19108010,SALVI VEENA JAYPRAKASH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4252,18668,74.18,19117813,GOWALKAR ANKITA SUHAS,F,OPEN,1,LOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4253,0,72.06,19138833,NILESH NAMDEV MANDAVKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4254,24194,71.27,19133326,JADHAV SOURABH SANJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4255,26065,70.38,19122765,SAWANT RUPESH GOVIND,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4256,28510,69.27,19122499,BHATI NAVALSINGH BHAVARSINGH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+4257,28628,69.21,19143503,RATHOD ANJALI DHARMA,F,DT/VJNT(A),11,LOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+4258,28766,69.15,19129435,GIRKAR NILESH VIJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4259,0,68.79,19129608,KINJALE ANIKET ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4260,33990,66.85,19138877,SURVE SHUBHAM CHANDRAKANT,M,OPEN,1,DFO,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4261,35977,66.0,19116005,KAMBLE POOJA RAVINDRA,F,SC,4,LSC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+4262,36274,65.88,19117192,VETOSKAR YASHKUMAR RAJENDRA,M,SC,4,GSC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4263,36789,65.7,19129542,KINJALE ANIKET SHANTARAM,M,OBC,2,GOBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4264,38036,65.15,19133378,GAVANANG TUSHAR RAJENDRA,M,OBC,2,LOBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4265,38219,65.09,19127846,REPAL ABHISHEK ANIL,M,SBC/OBC,10,GOPEN,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",@,5.0
+4266,38750,64.85,19153130,HEDAVKAR GAURI KAMALAKAR,F,SBC/OBC,10,GST,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4267,39902,64.36,19147769,GORIVALE SANDESH SANTOSH,M,OBC,2,LST,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4268,40365,64.18,19130178,DEWALE DIPESH DILIP,M,OPEN,1,GNTA,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4269,41764,63.58,19151772,MORE PRAVIN MAHENDRA,M,OPEN,1,LNTC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4270,41766,63.58,19127335,NARVEKAR SHUBHAM PRASAD,M,OBC,2,GSEBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4271,42878,63.09,19124435,MOHITE AKSHAY PRAKASH,M,SC,4,GSEBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+4272,45602,61.76,19135120,SAKPAL RUTURAJ VILAS,M,SC,4,GSC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+4273,46397,61.39,19148398,MAHADIK MAYURESH SUDHIR,M,OPEN,1,LSEBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4274,46863,61.15,19154095,PANCHAL TUSHAR GANPAT,M,OBC,2,PHSEBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+4275,49906,59.33,19127233,DATE NITIN DIPAK,M,NT1,7,GNTB,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+4276,53090,55.82,19109906,ZAGADE SAIRAJ SANJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+15649,4170,85.38,19117571,VISHWASRAO VAIBHAV VIJAY,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15650,8145,81.5,19101575,RAJ AMIT WADKAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15651,8850,80.94,19102929,DAMLE VASANT DEEPAK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15652,11329,79.0,19102437,THAKUR SNEHAL MANGALDAS,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",*,3.0
+15653,11756,78.71,19110683,PATIL MAITREIYA PRAMOD,M,OPEN,1,GNTA,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",&,4.0
+15654,12448,78.19,19125980,PRABHUDESAI ANIKET SURESH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15655,12679,78.0,19102658,BORKAR AFSHEEN KAMRUDDIN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15656,13516,77.44,19102673,BHAGWAT NITIN JAGDISH,M,OPEN,1,GNTD,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15657,18771,74.12,19149347,BAPARDEKAR YUKTA YASHAVANT,F,SBC/OBC,10,GOBC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15658,18839,74.07,19156582,BERDE RINKU VIJAY,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+15659,19543,73.69,19106071,SOLKAR NASUHA RAMZAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15660,28665,69.19,19111506,BHATKAR NAUSHEEN SAMEER,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15661,29098,69.0,19101687,PATADE VINAYAK NANDKISHOR,M,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+15662,30297,68.44,19108087,MAHENDRA MANOHAR SURVE,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15663,34675,66.56,19107822,RATNADEEP PRADIP SAWANT,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15664,37226,65.48,19109565,PARULEKAR KAUSHIK PRAMOD,M,SC,4,DFSC,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+15665,40091,64.29,19131858,MORE KARTIK NITIN,M,SEBC,3,LSEBC,,401,Machanical,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15666,44017,62.56,19142975,VALVI PRIYANKA DILIP,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15674,2783,87.06,19121836,KULKARNI SANIKA MOHAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15675,12199,78.38,19151176,RAJESHIRKE MAYURI UMESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15676,14036,77.06,19116978,JADHAV SAMRUDDHI NARENDRA,F,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15677,15699,75.94,19117314,PAREKAR PRATIKSHA NANDKUMAR,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15678,18316,74.38,19134461,JADHAV SAGAR PRADEEP,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15679,18981,74.0,19123665,PAWAR PURVA DEEPAK,F,OPEN,1,LSEBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15680,20188,73.31,19109321,KARANDE SAKSHI PRAKASH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15681,21018,72.88,19122984,NAZIFA SHAHNAWAZ MODAK,F,OPEN,1,LSEBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+15682,21747,72.5,19114855,BHAISHETE SHRUTIKA SUNIL,F,OPEN,1,PHNTC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+15683,22675,72.0,19127019,RAVANANG AKSHAY ANANT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15684,22833,71.94,19134373,KADAM SHARVIL SANTOSH,M,OPEN,1,PHSEBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15685,25209,70.81,19140475,GHANEKAR SAGAR GAJANAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15686,25337,70.75,19125826,PRABHUAJGAONKAR KAMAKSHI DATTATRAYA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15687,25823,70.5,19112267,BHAND RIDDHI GANESH,F,NT2,8,LNTC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15688,28015,69.5,19121037,GUPTA RAHUL BRIJRAJ,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15689,28519,69.25,19110986,PHANSOPKAR NAYAAB ZAINUL ABIDIN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15690,29310,68.88,19127055,KAMERKAR VARDHAN VIJAY,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15691,31443,67.94,19156720,BHUSHAN KRISHNA GAWADE,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15692,31756,67.81,19102918,BALKRISHNA KAMLAKAR NEVAGI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15693,32185,67.63,19110940,KAPDE JUNAID JIKRIYA,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15694,32761,67.38,19109204,KADAM SANSKAR SHAILESH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15695,33948,66.88,19120111,DAMUSHTE MANALI ANIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15696,34370,66.71,19153792,MOHITE ANIKET MILIND,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15697,34401,66.69,19130255,PANCHAL MANDAR VIJAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15698,36806,65.69,19138237,BHOLE VINAY VIJAY,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+15699,37074,65.56,19130986,PRATHAMESH PRAMOD NALAWADE,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+15700,39467,64.56,19153766,DHANANJAY PANDURANG MURKAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15701,43764,62.69,19129123,SNEHAL VIJAY KADAM,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15702,44503,62.31,19110188,KUMBHAR SURAJ BHASKAR,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15703,45076,62.06,19112839,SHINDE YASH NITIN,M,SC,4,DFSC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15704,45932,61.63,19109116,KADGAVE YASHRAJ CHIDAMBAR,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15705,47599,60.75,19141008,GIRKAR KIRAN NARESH,M,OBC,2,GNTA,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15706,47720,60.68,19146853,KHEDEKAR AKSHAY KRUSHNA,M,NT1,7,DFNTB,,702,Man made Textile Chemistry,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+15707,51416,58.0,19104688,YASH PANDURANG THAKUR,M,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15708,53274,55.5,19140520,PRABHUDESAI SHUBHAM GAJANAN,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15709,53642,54.59,19129662,SUSHANT DILIP HIRLEKAR,M,OPEN,1,GOBC,,401,Machanical,301,Computer & IT,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+15939,7639,82.0,19109854,PAWSE SUSHRUSHA KISAN,F,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+15940,8435,81.25,19104296,MODAK ASFIYA NASIR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15941,10640,79.5,19133549,CHAVAN SAKSHI SANTOSH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15942,10986,79.25,19122542,NAMBIAR KIRTHANA SHRIDHARAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15943,12345,78.29,19143202,WAGHARE PRANITA SANTOSH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+15944,13082,77.75,19114707,RAJIWATE ABDUL BASIT JAMIL AHMED,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15945,13857,77.2,19117132,POTPHODE POOJA GANESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15946,14304,76.88,19149270,KHANDEKAR NAYAN HARESH,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15947,14676,76.63,19110796,KHEDEKAR NILAM VISHWAS,F,NT1,7,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15948,16578,75.41,19103027,SATAM SHUBHAM PADMAKAR,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15949,16915,75.2,19117474,PATIL SWARUPA DATTATRAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+15950,17198,75.0,19136397,BHOSALE MAYURI RAJENDRA,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15951,17267,75.0,19109971,PUROHIT MANALI MAHESH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15952,17670,75.0,19111935,KHEDEKAR SANKET MANGESH,M,NT1,7,GNTA,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15953,18187,74.6,19140785,SALASKAR POONAM JITENDRA,F,OPEN,1,GNTC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15954,18835,74.1,19138143,JANGAM MRUNALI AVINASH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15955,19134,73.94,19117851,JADHAV SAYALI ANIL,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15956,20312,73.25,19149790,JUWALE RUSHIKESH KRISHNA,M,NT1,7,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15957,21562,72.6,19114692,TONDLEKAR KSHITIJA KISHOR,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15958,21946,72.4,19127679,ADIT SONAL VIJAY,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15959,22687,72.0,19116592,SHETYE GANDHALI UDAY,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15960,22908,71.91,19125024,KADAM ANIKET ANANT,M,OPEN,1,GSEBC,Physical impairment,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15961,22975,71.88,19155398,KULKARNI SAKSHI SUDHAKAR,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15962,25934,70.44,19105527,MULLAJI NOUMAN HAIDER ALI,M,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15963,29083,69.0,19134712,FAKIH ARYAN ASHRAF,M,OPEN,1,LSEBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15964,30546,68.35,19126906,MUKADAM ARFAT AKHLAK,M,OPEN,1,LSEBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15965,32204,67.6,19159613,DHANSAY UZMA MAZHAR ALI,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15966,32611,67.44,19125741,PALEKAR GURUNATH ASHOK,M,OPEN,1,PHNTD,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15967,32750,67.38,19159300,SURYAWANSHI AKANSHA ASHOK,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+15968,33334,67.13,19112322,GUDHEKAR RONIT SANJAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15969,33627,67.0,19106303,PAWAR SUYOG SAKHARAM,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+15970,37945,65.19,19146426,JADHAV SONALI MANOJ,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15971,41524,63.69,19128337,POTBHARE SNEHA MUKUND,F,OPEN,1,PHSEBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15972,41684,63.63,19115670,SAKPAL SANYAM SANTOSH,M,NT1,7,GNTB,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15973,41965,63.5,19116980,NUPURA ATUL DESHPANDE,F,OPEN,1,DFSC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+15974,42166,63.4,19101888,KODE HRUTIK MADHUKAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+28282,4681,84.82,19134290,TENDOLKAR KRANTI GOPAL,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28283,5362,84.12,19116596,GAVANDI MUSKAN ZAKIR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28284,9318,80.53,19134083,KAMBLI BHAGYASHRI ARAVIND,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28285,11260,79.06,19105188,MASTAN BURHANALI IRFAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28286,15316,76.18,19115387,BORSUTKAR PRAJWAL SANDIP,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28287,16459,75.47,19116702,SAWANT SALONI RAJESH,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28288,17099,75.06,19109076,MAKHJANKAR NOAF NAZIM,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28289,19415,73.76,19114498,MAHADIK MANAS MAHESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28290,20231,73.29,19111012,SAHIL GANGADHAR SHIRKE,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28291,21346,72.71,19134146,MALIK VAIBHAV SANJAY,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28292,21389,72.71,19103243,ABDUL HASEEB KAZI,M,OPEN,1,DFO,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28293,21836,72.47,19100865,KOKARE GANESH GOVIND,M,NT2,8,GNTC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28294,25893,70.47,19155472,KHETRI KAUSHAL KUMAR,M,DT/VJNT(A),11,GNTA,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28295,26115,70.35,19110984,VADAKE AAKANKSHA SANDIP,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28296,28054,69.47,19116691,DESAI SHRIPAD PRAKASH,M,OPEN,1,GST,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28297,28282,69.35,19109167,GURAV TANVI RAJESHKUMAR,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28298,30132,68.53,19110947,MRUNAL MILIND KAMBLE,F,SC,4,LSC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28299,31972,67.71,19153022,NIHAR SACHIN BHINGARDE,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28300,32372,67.53,19110222,PRERANA GAUTAM PATIL,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28301,33213,67.18,19125022,SANDIM SAYALI PRABHAKAR,F,OBC,2,LST,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28302,33642,67.0,19123462,KAMBLE AMRUTA PANDURANG,F,SC,4,GSC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28303,33775,66.94,19134421,SAWANT KRISHNA ANIL,M,OPEN,1,LSEBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28304,34226,66.76,19105352,KAZI SEHREEN MOHAMMED SHAFI,F,OPEN,1,PHNTB,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28305,35037,66.41,19125608,TANAF ABDUL RAHIMAN PATANKAR,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",*,3.0
+28306,37988,65.18,19108821,RAJESHIRKE PRATHAMESH RAVINDRA,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28307,45267,61.94,19128288,KAMBLE SHRUTI SURENDRA,F,SC,4,GSC,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28308,6988,82.61,19143273,MANJUNATH MARUTI NAREWADI,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",*,3.0
+28309,36671,65.71,19141737,GOTAD PRITHVIRAJ SUDESH,M,OBC,2,GOBC,,401,Machanical,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28310,39105,64.73,19156833,SHETE SAGAR MAHARUDRA,M,OBC,2,GOBC,,304,Electrical,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28311,40424,64.14,19132984,HEMANT SUDHAKAR PATIL,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28312,46198,61.47,19120134,MUKADAM DANISH AHMED,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28313,46302,61.43,19132981,RAJESH SUDHAKAR TEREDESAI,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28314,46470,61.35,19118367,DAJGAWKAR ANURAG AJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+28315,47884,60.59,19107529,MURTUZA SHEKHA BASHIR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28316,52521,56.71,19120301,MHASKAR SAMEED RIZWAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28317,54419,50.18,19121116,SOLKAR RAZAAN JAMEEL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+28428,22394,72.18,19126634,SARVESH BALKRISHNA BELWALKAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28429,24919,70.94,19115246,VICHARE AKASH MAHESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28430,25531,70.65,19148131,NIKAM ATUL DATTATRAY,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28431,29753,68.71,19133126,KHAMKAR KASTURI PRADIP,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28432,30435,68.41,19126937,KAVANKAR AATIK ABDULLA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28433,31816,67.76,19139066,TENDOLKAR PRAGATI PRASHANT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28434,33512,67.06,19117997,BHIVASE SWATI JYOTIRAM,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28435,35545,66.18,19110417,KADAM SHIVANI SANDIP,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28436,37403,65.41,19105287,PRATIK BALAPPA VHANANAVAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28437,39967,64.35,19116586,MAHADIK AKANKSHA ANANT,F,NT1,7,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28438,42442,63.29,19126636,VICHARE ABHIJIT SURYAKANT,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28439,45740,61.71,19131405,CHILWAN BILAL IMTIYAZ,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28440,47995,60.53,19103296,PRAJWAL SITARAM SAWANT,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+28441,49040,60.0,19144848,SURVE NIRMIT NITIN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+29018,24273,71.24,19124328,SHINDE SHUBHAM SANJAY,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+29019,29361,68.88,19120269,WATEKAR AISHWARYA VIJAY,F,NT1,7,LOPEN,,302,ENTC,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+29020,31708,67.82,19158599,PAWAR SAYALI MANOJ,F,SC,4,LOPEN,,302,ENTC,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+29021,35540,66.18,19117485,DESAI ANIKET PRADEEP,M,OPEN,1,GOPEN,,305,Instrumentation,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+29022,41296,63.76,19140675,SHETYE SIDDHESH NANDAKUMAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+29023,50046,59.21,19158167,CHAVAN SARVESH PRAKASH,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",#,2.0
+29806,14171,76.97,19139973,KOPUL SHUBHAM RAJESH,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+42968,7176,82.42,19153031,JADHAV SHUBHAM GOVIND,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42969,7249,82.36,19150738,ATHARV SNEHAL SANKPAL,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42970,7925,81.7,19107191,JANGAM SHUBHAM SHANKAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42971,9596,80.3,19142477,MATKAR PRAJITA NARESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42972,9607,80.3,19134092,SALUNKE AMIT PANDHARINATH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42973,10396,79.65,19117142,SAWANT TANVI RAMCHANDRA,F,SEBC,3,LSEBC,,302,ENTC,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42974,12466,78.18,19125505,DEVRUKHAKAR OMKAR SAHADEV,M,SC,4,GSC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42975,12773,77.94,19115474,BANDABE RUTURAJ RAJENDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42976,14600,76.67,19127435,MALPEKAR PARVEJ RIYAJ,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42977,14607,76.67,19118044,PHALLE SOURABH MAHADEO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",*,3.0
+42978,15719,75.94,19133089,PATADE ADITYA SHRIPAT,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42979,18216,74.48,19148159,PHONDEKAR KAJAL GANESH,F,SC,4,LSC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42980,19171,73.88,19141239,SHIVGAN POONAM SUNIL,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42981,23583,71.58,19114445,AKHADE SAURABH SUNIL,M,NT2,8,GNTC,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42982,25954,70.42,19128619,PAWAR ANAND MADHUKAR,M,ST,6,GST,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42983,32585,67.45,19144715,ACHAL AVINASH WAGHATE,F,NT1,7,PHNTB,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+43434,13138,77.7,19147735,KADAM MANASI BHARAT,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43435,13917,77.15,19130163,MHALDAR IMRAN ABDUL,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43436,21778,72.48,19133057,SHIGWAN PRANAV BANDHU,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43437,22373,72.18,19125760,AMBAVAKAR YASH SANTOSH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43438,34169,66.79,19133081,KADAM ANIKET ANANT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43439,39754,64.42,19133106,JOIL ROSHAN SHAMSUNDAR,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",@,5.0
+43440,40392,64.18,19125751,JOGLEKAR ADITYA SHRIPAD,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43441,42634,63.21,19121232,TAMBE ARBAZ AKBAR ALI,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+43442,52116,57.27,19138288,MOHITE KARAN RAVINDRA,M,SC,4,GSC,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43443,52628,56.53,19105979,SAWANT SUYASH SANJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+43444,53659,54.55,19134270,BHOSALE PRATHAMESH SURYAKANT,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+49728,9101,80.71,19114564,SWAROOP SANTOSH RANADE,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+49729,34933,66.47,19117974,MHADDALAKAR YADNESH SACCHINAND,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+49730,43449,62.82,19124448,MALI VIVEK VILAS,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+53975,2666,87.24,19132549,NEVGI VIVEK NITIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",#,2.0
+53976,3579,86.06,19134084,PEDNEKAR RUPALI RAJAN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53977,5738,83.76,19108617,NAKHWA NAVED NASIR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53978,6238,83.29,19107612,MUKRI KAIF RAFIQ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53979,6802,82.76,19132597,MONTEIRO ASHLEY PETER,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53980,7371,82.24,19116382,KAZI FARID ABDUL HAMID,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53981,8180,81.47,19107646,SAHIL SALIM CHIKATE,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53982,8459,81.24,19103249,SAWANT PRANAY PRADEEP,M,OPEN,1,DFNTA,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53983,9302,80.53,19105715,NAIK SHREEPAD ARUN,M,OPEN,1,GST,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53984,10427,79.65,19105264,TOLE SUFIYAN IQBAL,M,OPEN,1,LST,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53985,10671,79.47,19119677,AIWALE VIKAS BASURAJ,M,SC,4,GSC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53986,10998,79.24,19127530,AMBEDKAR AFTAB NAZIR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53987,11077,79.18,19110218,NAIK PRATHAMESH BHALACHANDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53988,11626,78.76,19105094,PRATHAMESH MANGESH SHIVALKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53989,11968,78.55,19114723,PRANAV PRAVIN TALEKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53990,12275,78.31,19125823,JADHAV POOJA MARUTI,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53991,13700,77.29,19117439,PATKAR PRASHANT BALKRISHNA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53992,13792,77.24,19105247,MINESH MANOJ TALAYE,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53993,16542,75.41,19130958,MRUNMAY MANGESH KADAM,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53994,25281,70.76,19116255,ADITI DHANANJAY CHOPDEKAR,F,SBC/OBC,10,LOBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53995,25875,70.47,19105516,PRADYUMNA DILIP HARIHAR,M,NT1,7,PHNTB,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53996,32642,67.41,19110186,NAIK OMKAR SUDHAKAR,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53997,37376,65.41,19143249,AKHADE YOGESH SUBHASH,M,NT2,8,LNTC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53998,38248,65.06,19104672,KUDALKAR HARSHAD VINAYAK,M,SC,4,GSC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+53999,41024,63.88,19129699,RAJRATNA PRADIP KADAM,M,SC,4,GSC,,401,Machanical,401,Machanical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+54015,5471,84.0,19124927,GHUGARE SIDDHARTH ARVIND,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54016,14868,76.48,19114826,PATYE BHUSHAN RAJARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54017,22872,71.94,19131628,MUGALE NOORULHASAN IMRAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54018,30054,68.55,19107268,AVADHUT SUDHIR SAWAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54019,32451,67.52,19104725,BANE ANIKET VILAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54020,33792,66.94,19114684,ASHWIN RATHNAKARAN TAIKANDI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54021,34706,66.55,19114931,SALVI ATHARVA RAJENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54022,35474,66.24,19114454,BOTLE PRANAY UDAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54023,35860,66.06,19115143,PANDYE SHREYAS AJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54024,38333,65.03,19104678,PARSHARAM DEVENDRA KAMALAKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54025,38772,64.85,19115673,AKSHAY VILAS SAWANT,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54026,39637,64.48,19146713,SARDESHPANDE PANKAJ UDAY,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54027,39795,64.42,19134148,PANCHAL KETAN CHANDRAKANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54028,40060,64.3,19104741,SOMAN ATHARVA UMAKANT,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54029,40269,64.24,19122186,KADAM TUSHAR BAJIRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54030,41181,63.82,19144072,TETWALKAR MUAZZAM MUNAWAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54031,41377,63.76,19142839,PRATHAMESH SHIVAJI SHINDE,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54032,42066,63.45,19106419,AADIL ASIF FODKAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54033,42173,63.39,19101656,JOGALE ANIKET PRABHAKAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+54034,43818,62.67,19141133,PARULEKAR PRATHAMESH SUDHIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54035,44147,62.48,19114553,KADAM OMKAR PRAKASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54036,45599,61.76,19125537,SHIRKE NIRANJAN SUDHAKAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54037,46943,61.12,19127332,MAYEKAR SHRINATH KISHOR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54038,47084,61.03,19104604,KHANVILKAR PRATHAMESH RAMESH,M,OPEN,1,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54039,47093,61.03,19134511,SALASKAR SHRUTIN DILIP,M,SC,4,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54040,47449,60.85,19145834,THALIA PALASH SANDEEP,M,OPEN,1,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+54041,47941,60.55,19119700,ZAID NOORMAHAMAD GOLANDAJ,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54042,48061,60.48,19114484,GURAV PRATHMESH SANTOSH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54043,48404,60.29,19116587,PATIL DHIRAJ ANIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54044,49205,60.0,19127683,KASU ALFAZ ALIM,M,OPEN,1,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54045,51069,58.36,19151406,MAHAKAL ADITYA SHARAD,M,OPEN,1,LSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54046,52926,56.06,19104769,MORE VIJAYRAJ CHANDRAKANT,M,OPEN,1,LSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54047,54114,52.88,19117915,CHAURE GITESH BALU,M,ST,6,GST,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54071,5903,83.59,19107532,ANERAO SURAJ RAVINDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54072,9749,80.18,19147624,BORKAR A MAJEED A SATTAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54073,12958,77.82,19114945,BORSUTKAR NITIN NARAYAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54074,13143,77.7,19134176,KELUSKAR PRATHAMESH RAJENDRA,M,SBC/OBC,10,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54075,13704,77.29,19117268,BHURAVANE SUYOG SANDIP,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54076,15885,75.82,19114446,POMENDKAR PRATIK SURYAKANT,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54077,16552,75.41,19110475,PHANSOPKAR AMAAN ASAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54078,17252,75.0,19103327,GURAV PRATHMESH SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54079,17548,75.0,19114886,CHAVAN YASHDEEP MADHUKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54080,19217,73.88,19122203,KULKARNI PRANAV PRASAD,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54081,20007,73.41,19114882,PUSHKARAJ VINOD DHURI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54082,20780,73.0,19105137,KUMBHAR MAYUR SHIVAJI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54083,21370,72.71,19122772,RAHATE OMKAR CHANDRASHEKHAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,@,5.0
+54084,21468,72.65,19103009,BARI SAURAV RAJESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54085,22414,72.18,19149514,SHIRKE SUNNY VIKAS,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54086,23759,71.47,19107053,TANDEL ABDUL YAMIN ERSHAD,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54087,24155,71.29,19114761,REGE RAMCHANDRA GANGARAM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54088,24434,71.18,19104531,SHINDE VIRAJ VIKAS,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54089,24873,70.94,19101419,GHATE MAYUR MANGESH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54090,25297,70.76,19102076,MOHAMED IBRAHIM A MAJID KAZI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54091,25638,70.61,19127780,GHOSALKAR OMKAR SUNIL,M,OPEN,1,PHO,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54092,26003,70.41,19121969,KOTWADKAR IBRAHIM JEELANI,M,OBC,2,LST,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54093,26098,70.36,19114460,DALI SWARUP RAMAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54094,27766,69.59,19127030,NAGALE SAHIL GANPAT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54095,28899,69.09,19142064,VARADKAR SHRIDHAN PRAKASH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54096,29317,68.88,19127027,KHATIB SAIFALI SHAHANAWAZ,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54097,29725,68.71,19104659,DESAI SHUBHAM VIVEKANAND,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54098,31371,67.94,19127086,PARKAR SAGAR SAKHARAM,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54099,31629,67.88,19108904,MHASKAR ZAID LIYAKAT,M,OBC,2,PHOBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,@,5.0
+54100,31812,67.76,19101074,LIGAM PRASAD SURESH,M,OPEN,1,GST,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,#,2.0
+54101,32017,67.7,19131107,LOTANKAR ABHISHEK VIJAY,M,OPEN,1,GST,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54102,34891,66.47,19157077,KATKAR SOURABH SHIVAJI,M,OBC,2,GNTC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,*,3.0
+54103,38106,65.12,19124193,SOLKAR MOHAMADFAEEZ MURADALLI,M,OBC,2,DFNTD,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,&,4.0
+54104,41559,63.65,19105442,MOHITE SUDARSHAN ASHOK,M,SC,4,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54105,42661,63.18,19104747,RANE PRATHAMESH PRAKASH,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54106,42943,63.06,19104611,KADAM SAURABH KIRAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54107,45604,61.76,19118335,INGALE VAIBHAV VISHWAS,M,SC,4,LSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54108,49308,60.0,19154862,AJINKYA SUBHASH NATE,M,NT1,7,GNTB,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54109,53556,54.82,19114504,KHEDASKAR NIKHIL VIJAY,M,SC,4,LSC,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54221,2212,88.0,19154481,PITALE SHUBHAM SURYAKANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54222,5771,83.71,19110524,PANSHIKAR MAHESHWAR SHRIPAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54223,8687,81.06,19131900,MADAV KARAN SUDHAKAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54224,17304,75.0,19114960,DALVI ABHISHEK GANESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54225,17306,75.0,19133894,BADE SURAJ SURESH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54226,19470,73.71,19125498,CHAVAN KUNAL SANJAY,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54227,20438,73.18,19101420,MALI SAHIL SANDIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54228,23428,71.65,19115049,KAZI YAHYA SHARIK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+54229,24647,71.06,19129527,BURAMBADKAR OMKAR MOHAN,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54230,25047,70.88,19110819,MORE ROHIT RAVINDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54231,25652,70.59,19112317,JAMDAR AMOL SAKHARAM,M,OPEN,1,GSC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54232,28272,69.35,19154957,MORE HRISHIKESH ASHOK,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54233,30542,68.35,19145281,SALVI ABHISHEK SANJAY,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54234,32126,67.65,19102086,WAD NISHAD SANTOSH,M,OPEN,1,LST,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54235,32904,67.29,19126181,SAKPAL NIKHIL ANIL,M,SEBC,3,GSC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",&,4.0
+54236,33517,67.06,19126790,RANE AYUSH NARESH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54237,34048,66.82,19130052,BHUVAD ADITYA EKANATH,M,OBC,2,GNTA,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54238,34057,66.82,19100927,MANISH SHANKAR PAWAR,M,OBC,2,LNTC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54239,39014,64.76,19106576,GAIKAR PRASHAN PRAVIN,M,OBC,2,PHST,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54240,39393,64.59,19115842,MATKAR PRANAY RAVIKANT,M,OBC,2,DFSEBC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",^,1.0
+54241,41979,63.47,19118657,SANKALP MARUTI CHAVAN,M,SC,4,GSC,,401,Machanical,401,Machanical,3216,Ratnagiri,"Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri",*,3.0
+55582,22684,72.0,19114407,ARAS VIGHNESH UMESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55583,26026,70.41,19114549,SARGURU SAQUIB SALIM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55584,26377,70.24,19114607,DATE AVISHKAR ARVIND,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55585,31246,68.0,19104375,THARVAL SAMRUDDHI RAJESH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55586,31811,67.76,19114391,PAWAR SHUBHAM DILIP,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55587,42296,63.35,19123663,SUTAR SAURABH VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55588,42396,63.29,19114866,DESAI YASH NANDKISHOR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55589,43722,62.71,19125025,KHADAS MUSHAL ZUBAIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+55590,43728,62.71,19103607,RAJESHIRKE ANIRUDDHA KETAN,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+55591,43874,62.65,19114605,KAVATHANKAR OMKAR GOVIND,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55592,46276,61.45,19144382,BUKHARI ABDULLAH RAFIQUE,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+55593,48076,60.47,19125469,DESHPANDE ATHARVA VINAYKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55594,48980,60.0,19103948,SUTAR SAIF GANI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55595,51930,57.47,19102089,MORE SIDDESH SUHAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",#,2.0
+55596,52773,56.29,19135398,SHAIKH ABDUR RAQUIB RAFEEK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0
+55597,53306,55.41,19153590,DALVI HRISHIKESH RAVINDRA,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",&,4.0
+55598,53729,54.35,19136751,PATIL ADITYA BHIKAJI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,3462,Ratnagiri,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",^,1.0

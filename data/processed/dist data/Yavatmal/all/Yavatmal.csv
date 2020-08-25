@@ -1,0 +1,356 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+81,8158,81.5,19109510,DAWARE ANUP DASHRATH,M,OBC,2,GOPEN,,103,Food Technology,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+82,0,74.93,19115987,AMBHORE ARJUN SANJAY,M,OBC,2,LOPEN,,102,Plastic,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+83,46648,61.27,19115487,SUTE SAHIL VIJAY,M,SC,4,GOPEN,,101,Chemical,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+84,50502,58.85,19142780,PATIL PRAPHULL VASANT,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+85,51551,57.88,19105116,PAWAR SACHIN BABAN,M,NT1,7,GOPEN,Hard of Hearing,702,Man made Textile Chemistry,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+86,52109,57.27,19145475,VYAWHARE ANKUSH VINOD,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+87,52920,56.1,19132947,IMRANALI SHARIFUDDIN SAYYAD,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+88,53113,55.79,19153384,CHAUDHARI AKHILESH PRABHAKAR,M,OBC,2,LOPEN,,701,Knitting Technology,101,Chemical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+877,1086,90.13,19138894,MEHARE PRATYOOSHA NANDKISHOR,M,OBC,2,GOPEN,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+878,1389,89.44,19104751,BHAD TEJAS PRAVIN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+879,1730,88.85,19131209,NAWALE NIKHIL RAJU,M,OBC,2,GOPEN,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+880,1831,88.67,19122892,DHANOKAR CHAITALI NANDKISHOR,F,OBC,2,LOBC,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+881,2088,88.24,19118903,TALMALE MUKESH VISHNUDAS,M,OBC,2,GOBC,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+882,2551,87.39,19106473,SANAP SHRINATH VITTHAL,M,NT3,9,PHNTD,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+883,3617,86.0,19135681,KOLHE SANKET DNYANOBA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+884,7114,82.48,19147817,PASARGE VINOD RAVINDRA,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+885,8360,81.33,19136495,KADAM SUKANYA KISHAN,F,SC,4,LSC,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+886,14009,77.09,19118755,KARHALE TEJSVINI BRAMHAJI,F,ST,6,GST,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+995,3772,85.82,19143491,RATHOD VISHAL DILIP,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+996,6588,82.97,19102599,KANHEKAR PRAJWAL MAROTRAO,M,NT2,8,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+997,10379,79.69,19106971,SONONE MOHINI NANDKUMAR,F,NT1,7,LNTB,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",*,3.0
+998,11133,79.15,19126682,MD MOBIN SHAIKH AHMAD,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+999,12111,78.42,19120592,ALAMWAR OM SHIVANAND,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1000,13419,77.52,19118419,DEO SHUBHAM DHANANJAY,M,OPEN/EWS,5,GSC,,401,Machanical,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1001,14528,76.73,19143908,RATHOD SACHIN NAMDEO,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1002,14869,76.48,19144868,RATHOD PRIYANKA RAJU,F,DT/VJNT(A),11,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1003,19216,73.88,19129641,WATANE SAMIKSHA RAJENDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1004,21189,72.8,19136297,BHOPLE CHANDRAKANT PRAKASH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",*,3.0
+1005,22408,72.18,19127979,MANDADE GOPAL DAYAL,M,NT1,7,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1006,22709,72.0,19128359,JADHAV AVINASH GANESH,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1007,26611,70.12,19135332,GAIKWAD ROHINI SUDAM,F,SC,4,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",#,2.0
+1008,27303,69.82,19125483,MOHRIR PRATIKSHA PRAVIN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",#,2.0
+1009,27706,69.64,19132705,MOHAMMAD SIDDIQUE FAROOQUI MOHD JAVED,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1010,28745,69.15,19142547,THORAT NEHA BHASKAR,F,SC,4,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1011,31331,68.0,19117989,PAWAN VIJAY JADHAO,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1012,31522,67.88,19154227,GHOGARE BALAJI NAMDEV,M,NT1,7,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1013,32450,67.52,19119883,CHAVHAN NIKETAN PREMDAS,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1014,32719,67.39,19100635,KAMBLE ARVIND RAMA,M,SC,4,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1015,34990,66.42,19108619,CHETAN SUNIL PAWAR,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1016,34992,66.42,19151977,JADHAO YASHWANT WAGHJI,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1017,35533,66.18,19121765,DAHALE SIDDHANT AJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1018,36118,65.94,19151360,PATIL BHAKTI AJAY,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1019,38474,64.97,19129322,MAHAJAN RIYA RAVIN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1020,39515,64.55,19147905,GODGHASE HARISH SANTOSH,M,SBC/OBC,10,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1021,40317,64.18,19107188,KADHANE VIKRANT DEVANAND,M,OBC,2,GOBC,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+1022,42600,63.21,19129498,ADE VIJAY DILIP,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1023,43392,62.85,19142044,BHISE NEHA SAMBHAJI,F,ST,6,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1024,44136,62.48,19141920,SAMEER KHAN MEHRAJ KHAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1025,45558,61.82,19141222,KHOKAR MOHMED ASHRAF MOHMED AKRAM,M,OPEN,1,GSC,,401,Machanical,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1026,47401,60.85,19137242,KAJALE KAJAL CHANDRABHAN,F,SC,4,LSC,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+1027,48435,60.24,19145438,NANDURKAR MANVI SUNIL,F,OPEN,1,GOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",#,2.0
+1028,49901,59.33,19127894,DALUI YOGESH NEMAI,M,OPEN,1,PHO,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+1029,50121,59.15,19143004,PUJA KAILAS GAWAI,F,OPEN,1,GSC,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+1030,50537,58.85,19155890,KHAN ARIF WALIULLA,M,OPEN,1,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1031,50903,58.53,19153730,SYED SHAHEZAD ALI SYED AZHAR ALI,M,OPEN,1,GSC,,401,Machanical,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",*,3.0
+1032,51144,58.3,19149096,BOBADE DHANSHRI BALASAHEB,F,NT2,8,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1033,51721,57.7,19129055,PATIL MOHIT GAJANAN,M,OBC,2,GOBC,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1034,53044,55.88,19102576,THADVE BALAJI ANANTRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1079,5210,84.3,19124769,GAHARWAR PAYAL MANOJSINGH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1080,9433,80.42,19126561,GAWANDE DHANASHREE KRUSHNARAO,F,OBC,2,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1081,11029,79.21,19134300,KRITIKA MANOJ HEMNANI,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1082,17982,74.97,19123838,CHAVHAN SWATI SAHEBRAO,F,DT/VJNT(A),11,LOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1083,18340,74.36,19143769,SHEIKH SHAHEJAD SHEIKH SHARIF,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1084,20980,72.91,19138251,MESHRAM PRATIK GIRIDHAR,M,SC,4,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+1085,21228,72.79,19133996,TARANG PRADIP GOURSHETTIWAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1086,21996,72.36,19110885,SAKSHI UMESHRAO JADHAV,F,SC,4,LOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+1087,26085,70.36,19101284,PAWAR SANJAY PANJAB,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1088,26740,70.06,19140662,TONGE UMABHARTI PRAKASH,F,OBC,2,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1089,26994,69.94,19133760,VILAYATKAR ABHILASH VINOD,M,OBC,2,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1090,27428,69.76,19114585,KATKAR TUSHAR NAMDEORAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+1091,32147,67.64,19142851,SANAP DIMPAL NAMDEVRAO,F,NT3,9,LOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1092,33137,67.21,19149484,BIHADE ASHISH RAJENDRA,M,SC,4,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1093,36466,65.82,19116782,VAIDYA ANIRUDHA ANIL,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1094,44027,62.55,19132127,SHEIKH MD SUFIYAN MD MAHMOOD,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+1095,39488,64.55,19128434,KAMATI NITISH LALCHANDRA,M,OPEN,1,MI,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+1101,34563,66.61,19136363,KALWALA SHRUTI RAVINDRA,F,OPEN,1,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+1102,43487,62.81,19131541,MOHAMMAD FARHAN MOHAMMAD FAROOQUE,M,OPEN,1,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+1103,45638,61.76,19121506,SAYYAD SAYYADFARHAN SAYYADLAL,M,OPEN,1,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1104,46396,61.39,19136780,JAWARE MITESH AJAY,M,OBC,2,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",*-,3.0
+1105,48156,60.42,19132819,SHARMA BHUSHAN UMESH,M,OPEN,1,MIMH,,101,Chemical,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#-,
+1106,48286,60.36,19157698,KALE AMRUTA ANIL,F,NT2,8,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",*-,3.0
+1107,48449,60.24,19153331,KHOBRAGADE VAIBHAV GAJANAN,M,SC,4,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1108,48658,60.12,19115924,SD SAQUIB SD SOHEL,M,OPEN/EWS,5,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1109,48856,60.0,19134650,WAGHMARE PRATIKSHA BABAN,F,SC,4,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1110,52688,56.42,19148289,GAIKWAD PRANIT NIRANJANJI,M,SC,4,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1111,52839,56.18,19150126,MESHRAM ADARSH SANJAY,M,ST,6,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1112,53624,54.67,19135256,THAKARE SARVESH DAMODHARJI,M,OBC,2,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+1286,1856,88.61,19125425,THAK PRITAM GAJANAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1287,2391,87.7,19140832,RATHOD ASHUTOSH KISAN,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1288,4942,84.55,19134019,BHANGE GAURAV GAJANANRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1289,5149,84.36,19128875,BHAGAT MAHESH DNYANWARDHAN,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1290,7805,81.82,19119806,GADEKAR VISHAL SHIVDAS,M,NT1,7,GST,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+1291,10275,79.76,19126202,WAGHADE PRAVIN VITTHAL,M,ST,6,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1292,11474,78.88,19131821,KOHAR ABHISHEK VITTHALRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1293,12210,78.36,19148436,RATHOD SUJITA KAILAS,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1294,12215,78.36,19133339,BHOSALE MADHURI KAWANE,F,ST,6,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1295,15966,75.76,19125422,WAGHARE SHANTANU DNYANESHWAR,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1296,18939,74.0,19121302,KALE ATHARVA GAJANAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1297,19628,73.64,19152305,SAYYED SAMEER SAYYED AZGER,M,OPEN,1,LNTA,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1298,20142,73.33,19135430,MALODE PRACHI SUNIL,F,OBC,2,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",#,2.0
+1299,20145,73.33,19133082,JAISINGPURE JANHAVI VINODRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",#,2.0
+1300,20625,73.09,19129923,BHAJBHUJE VAIBHAV BHALCHANDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1301,20867,72.97,19143021,DEVASHISH SHRIKANT GULHANE,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1302,23461,71.64,19132056,MISAL RUPESH RAMBHAU,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+1303,24316,71.21,19145784,NEHARE SHWETA VITTHAL,F,ST,6,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1304,25921,70.45,19134210,RAUT YASH MADANRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1305,26752,70.06,19151822,BURAN REVA HARIDAS,F,OBC,2,LOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1306,29130,68.97,19148753,SHEIKH AMIN ARIF,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1307,29931,68.61,19133163,TURKANE MEGHA GAUTAM,F,OPEN,1,GNTD,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1308,34321,66.73,19107556,NASKULWAR SHREYASAH SHRIKANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1309,34980,66.42,19154742,SHIVANKAR AKSHAY TULSHIDASJI,M,OBC,2,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1310,36026,66.0,19153102,SHAIKH DANISH AKTAR MOIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1311,36422,65.82,19150621,SHAHA JAVED JERVIN,M,OPEN,1,GSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1312,40287,64.24,19143614,MOHMMAD TARIQUE MOHMMAD SADIQUE,M,OPEN,1,LSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1313,42342,63.33,19147231,JADHAV AJAY MANIKRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1314,43923,62.61,19102035,MOHITKAR TEJAS GANESH,M,OPEN,1,GSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1315,45141,62.0,19132165,WANKHEDE SHUBHAM SANTOSH,M,SC,4,GSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+1316,45567,61.81,19129620,KEDARE ANKIT RAJU,M,OPEN,1,GSEBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1317,45785,61.7,19151423,DAHILEKAR PRANAY CHABANRAO,M,SC,4,LSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1318,46232,61.45,19120958,PRASAD PANKAJ HARIHAR,M,OPEN,1,LST,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1319,47085,61.03,19131443,JADHAV MOHINI SANJAY,F,SC,4,GSC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1320,47526,60.79,19139721,SHOEB AHMAD ANSAR AHMAD,M,OPEN,1,GNTB,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1321,49286,60.0,19131728,KAKDE VAIBHAV PRAMOD,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1322,49325,60.0,19131028,MARAPE VISHAL MAROTI,M,ST,6,GST,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1323,49460,60.0,19131936,BAHAD PRANAV PRAMOD,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1324,50050,59.21,19159539,KHEDKAR VAISHANAVI HANUMANT,F,OPEN,1,GNTC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1325,51847,57.58,19108814,RUSHIKESH DHANRAJ LAKADE,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+1326,51857,57.58,19137612,CHUTE SONAL ANANDRAO,F,OBC,2,LOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1327,53736,54.3,19137808,YAVATKAR RUSHIKESH VIJAYRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1328,54209,52.3,19150006,NALGE SAGAR PRASHANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+12811,4308,85.24,19106897,BEDRE PRADIP KAILAS,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12812,4760,84.75,19117501,HIWALE PRANJALI RAVINDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12813,5547,83.94,19117711,VHANDALE AKSHATA DATTA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12814,7676,81.94,19135238,JOSHI VAISHNAVI MAROTI,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12815,9729,80.19,19146837,DENGE URMILA SHIVAJIRAO,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",&,4.0
+12816,19558,73.69,19131511,INGOLE PRAMOD MADHAO,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12817,28603,69.24,19109851,RAHANGDALE YOGESH GENDLAL,M,OBC,2,PHOBC,Physical impairment,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12818,35270,66.31,19143792,KOLWATE SHITAL GANESHRAO,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+13091,3046,86.75,19130941,GADEWAR SHRUTI ANILRAO,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13092,10713,79.44,19149400,DHANAWAT VAISHALI VILASSINGH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13093,18400,74.31,19141748,GURUWANI SAHIL ANIL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13094,18721,74.13,19148835,BEHARE BHAVIKA NAGORAO,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13095,21518,72.63,19150864,BHOPI GAYATRI GANESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13096,26428,70.19,19139628,POLKAT VEDANTI ANIL,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13097,29069,69.0,19150692,NAIK JANHAVI RAJSHEKHAR,F,NT2,8,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13098,30730,68.25,19145113,SAIYAD SADIK SAIYAD MURTUJA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13099,31753,67.81,19151208,PATANGRAO SAKSHI LAXMANRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13100,39461,64.56,19136045,RAUT NISHADA SHARADCHANDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13101,41837,63.53,19102854,PANCHAL HRUTIK GOPALRAO,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+13102,41972,63.5,19158555,KAJAL PARASHRAM RAUT,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+13103,46436,61.38,19120098,RATHOD VIDYA ARJUN,F,DT/VJNT(A),11,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13104,50073,59.18,19159171,SHIWANKAR SHUBHANGI SOMNATH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13105,50239,59.06,19116851,KORAT SHRADDHA SANTOSH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+13154,8594,81.13,19152789,TALE VAISHNAVI GAJANAN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+13155,11672,78.76,19119077,BUTLE JAYESH SUNIL,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13156,20841,73.0,19125593,PANDE ASAWARI RAVINDRA,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13157,21968,72.38,19122674,PANDE VIBHAVARI RAVINDRA,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13158,22748,72.0,19131593,MOON MRUNALI PRAMOD,F,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+13159,23746,71.5,19122312,SHENDE GOURAV ANNAJI,M,NT1,7,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+13160,30588,68.31,19107374,SONIA ASHA THORAT,F,NT1,7,LOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13161,32090,67.69,19117599,ROTHE PRANAV SHRIKANT,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13162,33346,67.13,19133793,FARKUNDE TARA MANOHAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13163,33807,66.94,19114733,RAUT MUGDHA PRAKASHRAO,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13164,36374,65.88,19122535,BHAGAT SAKSHI GOPAL,F,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13165,38090,65.13,19110844,GONDANE PRATIK BHASKAR,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13166,38685,64.88,19130280,DAGWAR ANAND ASHOK,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+13167,41258,63.81,19147523,MANMODE VANAI SATISH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+13168,43641,62.75,19143646,FISFISE SAURABH SUDHAKARRAO,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+13169,46299,61.44,19135428,BAGESHWAR PRASHIK GAUTAM,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+13170,53401,55.23,19136943,NIDAAFREEN MOHD NASIR SHEIKH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+13361,6221,83.31,19104853,SHIRBHATE SUNNY RAJESH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+13362,11341,79.0,19121463,SHEIKH SUFIYAN ABDUL RAZZAK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+13363,17532,75.0,19120280,VANJARI PRANAV VIKAS,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",&,4.0
+13364,26061,70.38,19130774,DHOLE VIVEK DEVANAND,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+13365,29511,68.81,19151957,CHATURKAR CHAITNYA MURALIDHAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+13366,39463,64.56,19133678,AMBALKAR MAYUR GAJANAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",#,2.0
+13367,46170,61.5,19126302,THAMKE SWARUP GOUTAM,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+13368,49199,60.0,19134566,KHOBRAGADE SAMIKSHA BHALCHANDRA,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+24539,7077,82.53,19126118,YELE PRAVIN SEVAKRAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24540,7215,82.41,19144134,HINGWE VIKAS SURESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24541,7458,82.18,19129847,MARWADI CHANDRASHEKHAR SHRIKRUSHNA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24542,7907,81.71,19136897,MORE MANOJ RAJKUMAR,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+24543,8344,81.35,19115807,WASNIK RATNDEEP RAJVILAS,M,SC,4,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24544,8676,81.06,19150056,DONDADKAR MEERA GOPAL,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24545,8698,81.06,19136933,SOMSHETWAR REJESHRI BADNNA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24546,9327,80.53,19120081,GHAVTE AKASH KALYAN,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24547,9756,80.18,19153687,KASLE PRIYANKA SATISH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24548,9964,80.0,19123604,KORATKAR RUTUJA MORESHWARRAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24549,11405,78.94,19143467,BHAMKAR AKANKSHA SHRIRAM,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+24550,12266,78.35,19131825,KAWATKAR SHWETA PANDURANG,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24551,14154,77.0,19104151,SANAP GAYATRI SHIVAJI,F,NT3,9,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24552,14377,76.82,19138266,BHASKARWAR UNNATI MANOJ,F,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24553,15275,76.24,19137976,CHAUDHARY CHETAN PADMAKANT,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24554,16680,75.35,19149755,LOMTE SHUBHASHRI BABURAO,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24555,16863,75.24,19121004,SHEWALE NILESH VASANTRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24556,17686,75.0,19108357,CHAUDHARI KAMLESH VISHVAMBHAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24557,18267,74.41,19141776,PARASKAR MOHINI PRAKASH,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+24558,18290,74.41,19123893,DEHANKAR JAGRUTI SANJAY,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24559,18353,74.35,19117471,MALANI SACHIN DINESH,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+24560,19307,73.82,19143399,AMBIKAR TANUJA DEVIDAS,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24561,19379,73.76,19121243,SHAHADE AKANKSHA SUNIL,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24562,21957,72.38,19120587,AHIRE KAUSTUBH BHAGWAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24563,23204,71.76,19121912,KHAMANKAR VAISHALI VITTHAL,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24564,24759,71.0,19140470,PAWAR AMOL JAGANNATH,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24565,25061,70.88,19128564,JAHAKAR SAURABH VILASRAO,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24566,25313,70.76,19128736,SWAMI OMKAR JAYSHANKAR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24567,25794,70.53,19140829,MASKE YOGESH VYANKATI,M,OPEN,1,GST,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24568,28180,69.41,19139496,KAPSE RENUKA BHAGWAN,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24569,28441,69.29,19153251,PAKADE RUCHITA NARESH,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24570,28856,69.12,19125818,DIWANE ANKITA ANILRAO,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24571,29178,68.94,19148311,MOKALE DARSHANA SHANKAR,F,SC,4,LSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24572,29747,68.71,19123815,NAGPURE RAKESH RAJKUMAR,M,NT1,7,PHNTB,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24573,30529,68.35,19125527,ROY ANJALI ADESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24574,30927,68.18,19127935,SOMKUWAR MANISHA DIWAKAR,F,SC,4,GSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24575,31217,68.06,19111850,GANDHE HRUSHIKESH MUKINDRAO,M,NT2,8,DFNTC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24576,31634,67.88,19111672,KALAMKAR ANUJ SANJAY,M,OBC,2,GOBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24577,31797,67.76,19154626,PAWAR RUTUJA SHASHIKANT,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24578,31968,67.71,19132694,KHAWSHI RITESH RAMDASJI,M,OBC,2,GST,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24579,32533,67.47,19101047,KADU NIKHIL MANOJRAO,M,OBC,2,GNTA,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24580,32813,67.35,19110964,BAJARE MONIKA RAMESHWAR,F,OBC,2,GNTD,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24581,33268,67.18,19103615,BADOLE PRAJKTA CHANDRASHEKHAR,F,SC,4,GSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24582,34227,66.76,19139140,MO MAHEVASH SADAF SHAKIL,F,OPEN,1,PHSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24583,34260,66.76,19123385,KAMBLE SHIVANI RAJENDRA,F,SC,4,LSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24584,35833,66.06,19114423,CHAUDHARI KHILESH PRAMOD,M,OBC,2,DFST,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24585,36164,65.94,19149596,CHAVAN MINAXI SURESH,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+24586,37711,65.29,19121571,RAUT SHROTI ONKARRAO,F,ST,6,LST,,305,Instrumentation,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+24587,38432,65.0,19125931,KANTHE DIPALI RAJENDRA,F,NT1,7,LNTB,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+24588,39142,64.71,19155037,LAGADGIRE CHANDANA SHATRUGHNA,F,NT2,8,LNTC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24589,42126,63.41,19146232,MAKODE NIKITA KAILAS,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24590,47787,60.65,19125724,TELANG ASHISH DILIP,M,SC,4,GSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+24591,52235,57.12,19158019,PATIL PALLAVI BHUJENDRA,F,SC,4,GSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",&,4.0
+24592,52475,56.76,19157856,BIHAR JAYANT WAMANRAO,M,SC,4,GSC,,302,ENTC,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+24851,30984,68.12,19151384,SUDKE ASHWINI AJAY,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+24924,36438,65.82,19123460,KINHIKAR RUTUJA ARVIND,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+24925,40149,64.29,19131939,DHAWALE UTKARSHA PRAFUL,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+24926,42147,63.41,19129499,KAPSE PRANALI PAJENDRA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",*,3.0
+25101,41962,63.5,19131720,PADHYE SHRUTIKA MAHESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+40979,2072,88.25,19135130,AHIRE MANOJ RAMLAL,M,SC,4,GOPEN,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+40980,2434,87.64,19126058,BONTAWAR NISHA BHUMANNA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40981,2826,87.03,19104666,HARINKHEDE KAILASH MUNNALAL,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+40982,3059,86.73,19131300,MISAL ROHIT ASHOK,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+40983,3715,85.88,19122300,SHENDE MAHIMA RAJU,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40984,6977,82.61,19120803,PATIL ONKAR ASHOK,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+40985,7861,81.76,19125761,GOSAVI ANJALI GAJANAN,F,NT1,7,DFNTB,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+40986,9434,80.42,19114465,MASALKAR SOHAN DATTA,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40987,11805,78.67,19152568,NAIK KARUNA GOVARDHAN,F,SC,4,GSC,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40988,46642,61.27,19149955,UIKE RANI NARAYAN,F,ST,6,LST,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40989,50202,59.09,19101563,NAGARGOJE DNYANESHWARI SHIVAJI,F,NT3,9,PHNTD,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+41069,8932,80.85,19157072,JAGTAP DEVANGANA VIJAY,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41070,14954,76.42,19151309,TIWARI AKANKSHA SANTOSH,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41071,17509,75.0,19127527,CHAVHAN SONU SARJU,F,DT/VJNT(A),11,LOPEN,,302,ENTC,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41072,24066,71.33,19131348,BULKULWAR KANCHAN KAILAS,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41073,26171,70.35,19148041,DESHMUKH MAYAURI SANTOSHRAO,F,OPEN,1,LOPEN,,302,ENTC,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41074,28362,69.33,19137517,KASHTE BABALU SOPAN,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41075,28789,69.15,19151017,HULKANE NEETA PRABHAKAR,F,NT2,8,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41076,32768,67.38,19134454,SARANE TUSHAR VISHNU,M,NT1,7,GOPEN,,301,Computer & IT,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41077,32843,67.33,19150644,CHAKKARWAR MOHINI NIRAJ,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41078,33853,66.91,19147284,MAHORE GAURI GANESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41079,37907,65.21,19157561,SHAIKH MUZZIMIL SHAIKH AFSAR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41080,38363,65.03,19145151,KALE PUNAM PRAKASH,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41081,38517,64.97,19134779,JADHAO AAKASH PRAKASH,M,DT/VJNT(A),11,GOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41082,41880,63.53,19123948,JADHAV SHRIRAM GANESHRAO,M,SEBC,3,GOPEN,,401,Machanical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41083,44287,62.42,19159499,SHIVANKAR ROSHANI SOMNATHAPPA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41084,47471,60.82,19130818,USAID ASHAR ABDUL MATEEN,M,OPEN,1,GOPEN,,302,ENTC,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+41085,52513,56.73,19111899,MALANDKAR ABHIJIT PRAKASH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+41132,6583,82.97,19107469,HANUMANTE PAWAN DATTATRAY,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+41133,10622,79.52,19127955,KUNDALWAR SANGITA NARAYANRAO,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+41134,19723,73.58,19135084,KALE NIKITA VIJAY,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+41135,22359,72.18,19121610,UTTARWAR MUGDHA PRAVIN,F,OPEN/EWS,5,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+41136,24948,70.91,19119523,TALMALE ANIKET PRAKASH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41137,25116,70.85,19103140,RATHOD PRASHANT SUDAM,M,DT/VJNT(A),11,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41138,25523,70.65,19103633,JUBER ANIS MEMAN,M,OPEN,1,GOPEN,,302,ENTC,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41139,27589,69.7,19103499,WANNARE KUNAL BHARAT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41140,29878,68.65,19121161,BORKAR ROHAN ANIL,M,OBC,2,GOPEN,,302,ENTC,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41141,30056,68.55,19149147,WANKHADE SWAPNIL VILAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41142,31569,67.88,19131462,DEHANKAR GAYATRI CHANDRAKANT,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41143,31880,67.76,19154752,RATHOD RAVI NARAYAN,M,OPEN,1,GOPEN,,302,ENTC,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41144,32419,67.53,19118418,CHAUDHARI VIKAS GAJANAN,M,NT3,9,GOPEN,,401,Machanical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41145,34172,66.79,19114542,GAWANDE RAHUL GAJANAN,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41146,37633,65.33,19141057,DHANDE PRATIK UMESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41147,38065,65.15,19134502,DIPIKA PRAKASH BORKAR,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41148,39938,64.36,19123222,PATRAKAR PRAJWAL RAMBHAU,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41149,41916,63.52,19131450,UMARATKAR SAKSHI AWADHOOTRAO,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+41150,42733,63.15,19149711,SAYED NOMAN ALI KHURSHID ALI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",*,3.0
+41151,47927,60.55,19131332,RAMTEKE SAYALI HEMANT,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+41152,49986,59.27,19119093,NATKAR MAYUR BANDU,M,SC,4,GOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+41153,50359,58.97,19131286,TODE MAHIMA SUNIL,F,NT2,8,LOPEN,,304,Electrical,304,Electrical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",@,5.0
+41299,30366,68.42,19103669,YOGITA SUNIL GAYAKWAD,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41300,32171,67.64,19131470,TURWILE CHAITANYA KUNTALESHWAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41301,33580,67.03,19134985,GAVANE PRADIP NARAYAN,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41302,36129,65.94,19130629,MUDIRAJ GANESH SATISH,M,NT2,8,LOPEN,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41303,40877,63.94,19131820,BHAGWAT VIKRANT PRAVINRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41304,44246,62.47,19138889,CHAKULE SURAJ MANOHARRAO,M,OBC,2,GSC,,301,Computer & IT,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+41305,46739,61.21,19145404,SOURABH GAJANAN HINGASPURE,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41306,47174,60.97,19151782,APTURKAR MOHNISH SANTOSH,M,OBC,2,LOPEN,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41307,49113,60.0,19131014,MARAPE ANIKET MAROTI,M,ST,6,GST,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+50182,2313,87.82,19127608,TURKAR NIKHIL SAMPAT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50183,2373,87.75,19103157,AJAYKUMAR GIRIDHAR NIDWANCHE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+50184,2960,86.85,19143086,BHURE MAYUR SHRIRAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50185,3690,85.94,19155669,BELE AMAR LAHU,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",@,5.0
+50186,4257,85.29,19121966,RAMTEKE SHREYASH SUBHASH,M,SC,4,GSC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50187,4625,84.88,19121976,INGOLE SHREYAS BHAGWAN,M,SC,4,DFSC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50188,6308,83.24,19100825,VISPUTE PRADDYUMNA SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+50189,6799,82.76,19145406,SHITOLE MAHADEVI SHIVAJI,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50190,7184,82.42,19116573,DAKE SWARAJ DHARMENDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",&,4.0
+50191,7524,82.12,19143968,AJINKYA SUBHASH KARDE,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",&,4.0
+50192,14573,76.71,19132590,PANDIT MINAL PURUSHOTTAMRAO,F,OBC,2,LOBC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50193,18612,74.19,19147307,GHOPE BHAGYASHRI RAMESHWAR,F,SC,4,LSC,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50194,19504,73.71,19129928,PANDIT RUTUJA NANDKISHORRAO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+50195,31715,67.82,19122649,KOTJAWARE SUMIT RAMAJI,M,ST,6,GST,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50196,37375,65.41,19102251,NEHARKAR SHIVSHANKAR AJINATH,M,NT3,9,DFNTD,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50197,39161,64.71,19104910,PARIHAR AKASHSINGH PRADIPSINGH,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",*,3.0
+50428,17333,75.0,19118587,NEWASE SHISHIR ARUN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+50429,29724,68.71,19131229,KUKADE POOJA RAMESH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+50430,30256,68.47,19144529,BARDE OM PANJABRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+50431,37493,65.39,19149394,DHAD SHUBHAM DNYANESHWAR,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+50432,45257,61.94,19143874,PADMAWAR SURAJ ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+50433,52734,56.35,19153690,PATHADE VISHAL SHALIK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",&,4.0
+50562,22864,71.94,19127385,BUJARGE PRANAY KIRAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50563,30406,68.41,19123428,MORE DHIRAJ PANDURANG,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50564,31526,67.88,19120103,GURUBAXANI ANIKET DAMODAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50565,33428,67.09,19107294,ASHWIN PRAKASH TIWARI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50566,34919,66.47,19130433,GHANTE PRACHI SANJAY,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+50567,35363,66.29,19103886,MOHAMMAD ZAID MOHD ASIF,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50568,35873,66.06,19137389,PANDE AKSHAY NAGESH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+50569,39849,64.41,19140408,RAJURKAR ROHIT SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50570,40978,63.94,19113686,WAKEKAR HARSH VILAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50571,44980,62.12,19130385,LONKAR RUCHA SUNIL,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50572,46802,61.18,19120852,NIKAM ANIKET SUBHASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50573,51386,58.06,19102480,INGOLE YOGESH BALIRAM,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+50574,53368,55.29,19131729,SAURABH SANTOSH MASRAM,M,ST,6,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50909,14282,76.88,19114024,NAWADE HRUTIK RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+50910,16187,75.65,19137916,DUBE SAGAR KAMLESHWAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+50911,25999,70.41,19138466,SHARMA AMIT KAMESHWAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",*,3.0
+50912,26963,70.0,19126531,KASHETTIWAR VEDANT SANTOSH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+50913,47991,60.53,19125496,NAGPURE TEJAS ANIL,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+73374,19925,73.47,19144389,TEMKAR SUMIT AVINASH,M,OBC,2,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+73375,21528,72.63,19130175,PANCHAKASHRI VISHAL SANGRAM,M,OPEN,1,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+73376,23587,71.58,19132209,VARMA AKASH RAMNATH,M,OPEN,1,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+73377,24737,71.0,19125078,MANISHA ASHOK BHAJNE,F,OBC,2,LOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+73378,24992,70.9,19103285,PATIL UDDHAV UTTAM,M,SEBC,3,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",#,2.0
+73379,25086,70.86,19135162,KOHALE SNEHAL UDDHAV,F,SEBC,3,LOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+73380,27126,69.9,19133939,NIKESH SURYAKANT MAPARI,M,OBC,2,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",@,5.0
+73381,30461,68.38,19141825,VEER PUJA CHANDRAKANT,F,OPEN,1,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&,4.0
+73382,32471,67.51,19107357,SAMEL MITALI PRADEEP,F,OBC,2,GOPEN,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",@,5.0
+73383,30075,68.55,19104420,PANIGRAHI ADITYA BRUNDABAN,M,OPEN,1,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+73384,31365,67.95,19141124,CHAUDHARI AJAY BALDEO,M,OBC,2,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+73385,35516,66.19,19102781,MADIWAL MOHAN BASWESHWAR,M,OBC,2,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73386,0,64.94,19113659,VRUNDA SURESH GOLLAR,F,OBC,2,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73387,41822,63.56,19131050,LAVATE MAKARAND UTTAM,M,NT2,8,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73388,43031,63.01,19103509,HUNDRE NIKHIL NARAYAN,M,OPEN,1,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73389,44374,62.4,19110363,TIWARI RAHUL SARVESH,M,OPEN,1,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73390,44631,62.25,19100206,SHINDE HARSHAL JAGANNATH,M,SEBC,3,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73391,45821,61.68,19146960,GAURI NAVANATH BHOSALE,F,OPEN,1,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0
+73392,46892,61.15,19122979,AATTAR AMIR SADIK,M,OBC,2,MIMH,,701,Knitting Technology,701,Knitting Technology,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",&-,4.0

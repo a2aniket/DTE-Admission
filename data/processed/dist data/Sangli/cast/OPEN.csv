@@ -1,0 +1,470 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,561,16893,75.21,19104946,AMIT PRAKASH MORE,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+2,562,24702,71.03,19120933,PATIL ROHAN RAJARAM,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+5,565,27958,69.52,19129058,KULKARNI SHIVANI MILIND,F,OPEN,1,LOPEN,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+6,566,28503,69.27,19139509,BHOSALE MAHESH HANAMANT,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+8,568,36294,65.88,19115507,PATIL RUSHIKESH SANJAY,M,OPEN,1,GSC,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+14,574,45167,62.0,19149833,BAGAL DNYANESHWAR HANUMANT,M,OPEN,1,DFNTB,,401,Machanical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+15,575,45801,61.7,19130984,PATIL SWAPNIL SANJAY,M,OPEN,1,LSC,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+20,580,50672,58.73,19126706,KIRAN HIMMATRAO CHAVAN,F,OPEN,1,LOPEN,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+21,581,52905,56.12,19115995,BHILAWADE SHUBHAM DATTATRAY,M,OPEN,1,GNTA,,101,Chemical,101,Chemical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+34,9279,378,92.48,19103176,PRIYA SANJAY KHANDEKAR,F,OPEN,1,GOPEN,,201,Civil,201,Civil,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+47,9692,2502,87.52,19111031,CHIPRIKAR SUYASH SATISH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+50,9695,4117,85.45,19145028,PAKHALI MUSTAFA ABDULKADAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+52,9697,4330,85.21,19105731,LANDGE MOHAMADTAHIR MURAD,M,OPEN,1,GST,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+55,9700,5356,84.13,19129350,YADAV ADESH SHRIKANT,M,OPEN,1,GST,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+64,9709,8213,81.45,19157537,LANDE RUTWIK VIJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+67,9712,8990,80.79,19113467,HIREMATH PRASANN YOGESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+68,9713,9519,80.36,19130464,SHINDE SATYAJEET SUHAS,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+94,10072,20631,73.09,19128073,SHRIDHAR PRASHANT SANDAGE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",#,2.0
+96,10074,22636,72.06,19153298,PATIL TEJASWINI BABASO,F,OPEN,1,LST,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",*,3.0
+102,10080,31882,67.76,19159450,RUSHIKESH VIKAS DAINGADE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",#,2.0
+105,10083,32441,67.52,19136298,RAVAL KETAN LAXMAN,M,OPEN,1,PHO,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",#,2.0
+106,10084,33847,66.91,19139691,TAMBILE SHRIYASH HARSHKUMAR,M,OPEN,1,GOBC,,201,Civil,201,Civil,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+117,10168,2042,88.3,19147336,GAVHANE RUTUJA DATTATRAY,F,OPEN,1,LOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+119,10170,10080,79.94,19131073,VIKAS EKNATH PATIL,M,OPEN,1,GSC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+120,10171,10535,79.58,19151572,JAUNJAL ANIKET SUNIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+124,10175,19535,73.7,19147531,RAUT AKANKSHA RAJENDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+126,10177,23003,71.88,19146497,KARJOL IRAPPA NILKANTH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+129,10180,24843,70.97,19147015,SAWANT VISHVAJEET SUBHASH,M,OPEN,1,GST,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+132,10183,29644,68.75,19157294,JAGTAP VIKRAM JALINDAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+133,10184,32850,67.33,19133849,THAKUR CHAITANYA BALAJI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+135,10186,37901,65.21,19119365,SHARMA SHUBHAM RAJKUMAR,M,OPEN,1,GST,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",*,3.0
+137,10188,38352,65.03,19135307,JANGAM APEKSHA ASHOK,F,OPEN,1,LST,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+141,10192,40278,64.24,19144481,PATIL PRASHANT ASHOKRAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+142,10193,40799,64.0,19130229,JAGTAP HARSHWARDHAN BALASO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+143,10194,41000,63.89,19149042,CHAVAN VIVEK SARJERAO,M,OPEN,1,LOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+145,10196,42741,63.15,19140593,DESAI AKASH ANIL,M,OPEN,1,LOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+148,10199,43664,62.73,19157444,SAWANT SOURABH SANTAJI,M,OPEN,1,GSC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+151,10202,45377,61.88,19116543,GADAD MAHAMMED IRFAN MAHAMMED GOUS,M,OPEN,1,PHST,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+153,10204,46022,61.58,19134724,JANGAM APURVA ASHOK,M,OPEN,1,LOPEN,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+154,10205,46369,61.39,19141177,HAWALDAR SHIVAM SANJAY,M,OPEN,1,LSC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+155,10206,46406,61.39,19137169,DESHMUKH RUTURAJ RAJENDRA,M,OPEN,1,LSC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+156,10207,46653,61.27,19120240,CHOUGULE PRUTHVIRAJ RAJENDRA,M,OPEN,1,LOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+158,10209,46882,61.15,19119441,MUKHIYA RAMNANDAN AMRUT,M,OPEN,1,LSC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+161,10212,48450,60.24,19121479,JAMADAR TAUKEEL RASHID,M,OPEN,1,GST,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+162,10213,49163,60.0,19134435,NALAWADE PRATIK PRAKASH,M,OPEN,1,LNTC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+163,10214,49298,60.0,19129389,VISHWAJEET VILAS PATIL,M,OPEN,1,GNTD,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+164,10215,49401,60.0,19147799,PATIL SHUBHAM SHAHAJI,M,OPEN,1,GOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+165,10216,49714,59.52,19143344,MULLA AKIB NASIR,M,OPEN,1,GOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+166,10217,50342,58.97,19126175,SHAIKH ABUBAKAR FAIYYAZ,M,OPEN,1,GOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+167,10218,50364,58.97,19133405,GHADAGE PRASHANT MANIKARAO,M,OPEN,1,GOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+169,10220,51008,58.42,19144250,PATIL PRATIK DHANAJI,M,OPEN,1,GOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+173,10224,52466,56.79,19149789,BASUGADE SANTOSH VISHWAS,M,OPEN,1,LOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+174,10225,53031,55.94,19139508,KADAM SANGRAM VILAS,M,OPEN,1,LOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+175,10226,53509,54.97,19126193,PATIL CHAITANYA SUBHASH,M,OPEN,1,PHOBC,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+176,10227,53693,54.42,19148610,NIKAM ROHIT YASHWANT,M,OPEN,1,DFNTA,,201,Civil,201,Civil,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+182,11181,14189,76.97,19147917,NADAF SABIYA ALLABAKSH,F,OPEN,1,GOPEN,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+183,11182,15895,75.82,19128233,NADONI ULHAS RAMESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+184,11183,15922,75.82,19146261,DHADAS SHRADDHA BHARAT,F,OPEN,1,GOPEN,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+187,11186,16895,75.21,19123350,CHAVAN OMKAR ANIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+188,11187,17828,74.97,19126281,MAGDUM AMRUTA ARUN,F,OPEN,1,PHST,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+189,11188,20399,73.21,19143992,KAGWADE VRUSHABH SAGAR,M,OPEN,1,LST,,201,Civil,201,Civil,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",*,3.0
+200,11533,2868,86.97,19134037,PATIL OMKAR KIRAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+201,11534,7379,82.24,19134040,PATIL ANJALI JAYKAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+208,11541,22415,72.18,19105867,SHINDE SOURABH GANAPATI,M,OPEN,1,PHO,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+209,11542,23210,71.76,19129373,AVASARE KARTIKI MAHESH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+210,11543,23713,71.52,19147569,PATIL OMKAR VIJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+211,11544,25511,70.67,19113183,PATEL SAHIL INNUS,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+213,11546,26225,70.3,19141667,JADHAV HARSHAD BALASAHEB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+214,11547,29408,68.85,19141688,PATIL SANYUKTA BALASO,F,OPEN,1,GST,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+216,11549,32573,67.45,19128589,PATVEKAR SOHEL MUNEER,M,OPEN,1,LST,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+217,11550,33558,67.03,19126848,PIRJADE MOHAMMADTANVEER ASLAM,M,OPEN,1,LOBC,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+219,11552,34994,66.42,19128024,MURDANDE PARAS SUSHANT,M,OPEN,1,DFNTD,,201,Civil,201,Civil,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+240,20175,609,91.6,19101421,DESHMUKH SMIT DNYANESH,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+246,20181,621,91.56,19102841,PATIL RENUKA RAJARAM,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+247,20182,764,91.06,19132753,PARSEWAR SAMIKSHA SHIRISH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+256,21624,1885,88.56,19139196,JANAWADE ANUJA ANIL,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",#,2.0
+263,21631,3218,86.5,19138898,DESAI SHUBHAM DATTATRAY,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+266,21634,3862,85.75,19138684,PATIL SNEHAL RAJGONDA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+269,21637,4352,85.19,19118255,DESHPANDE PRIYANKA PRASAD,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+277,21645,38031,65.16,19115284,BAMANE PRATIK BHAIRU,M,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+281,21863,7408,82.19,19121473,PATANE AISHVARYA KIRAN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+286,21868,10309,79.75,19157039,MULLA NAHID MAJJID,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+297,22183,4461,85.06,19129881,KULKARNI ABHISHEK GHANSHYAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",@,5.0
+299,22185,6425,83.13,19110304,BABAR SHRADHA GAJANAN,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",*,3.0
+305,22463,15500,76.06,19119218,PATIL SMITA SAMPATRAO,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+310,22657,3177,86.56,19156304,PAWAR PRAJAKTA GANPAT,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+311,22658,8305,81.38,19156333,KHARADE NILISHA NANDKUMAR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+312,22659,15861,75.82,19149957,DESHMUKHPATIL MADHURA BAJIRAO,F,OPEN,1,GSC,,302,ENTC,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+315,22662,21071,72.88,19115954,BARDOL SHABANA MOULA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+316,22663,22089,72.31,19121981,PATHAN MUSKAN ISAK,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+317,22664,23145,71.81,19153529,SURYAWANSHI VARSHARANI KRISHNAT,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+318,22665,26693,70.09,19133634,PATIL RADHIKA SHARAD,F,OPEN,1,LSC,,401,Machanical,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+320,22667,28421,69.29,19150235,PATIL POOJARANI GUNDU,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+321,22668,28811,69.13,19118010,CHINCHANE SHWETA VIJAY,F,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+322,22669,32486,67.5,19127948,KADAM SHUBHAM ANANDRAO,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+323,22670,34673,66.56,19115633,DESHMMUKH TUSHAR KRISHNAT,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+324,22671,35259,66.31,19153523,INGAWALE ANIKET ABASO,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+326,22673,35687,66.13,19143633,HASOLE AJAY SHASHIKANT,M,OPEN,1,GNTA,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+327,22674,36539,65.81,19109626,VAGAWAKAR AKSHAY ANIL,M,OPEN,1,GNTB,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+328,22675,36658,65.75,19158829,GAIKWAD SARIKA PRAKASH,F,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+330,22677,38170,65.1,19110265,DOYEL TAPAN LAGA,F,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",*,3.0
+331,22678,38396,65.0,19116354,ASHWINI SANJAY PADALKAR,F,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+332,22679,38893,64.81,19142249,DHANE SHWETA PRATAPRAO,F,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",*,3.0
+333,22680,41257,63.81,19110343,PATIL AKSHAY JAGNNATH,M,OPEN,1,DFNTD,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+336,22683,43767,62.69,19110047,SHUBHAM BABASO PACHIMBARE,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+338,22685,45693,61.75,19159882,CHAVAN NEHA VIJAY,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+340,22687,54299,51.63,19121047,HARSHWARDHAN BHAGWAN KURALE,M,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+342,23490,12278,78.31,19116774,DESAI MANGESH LAXMAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+343,23491,12858,77.88,19120412,MULANI NAFISA IMTIYAZ,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+344,23492,13431,77.5,19121434,SURYAVANSHI DNYANESHWARI AJITSINH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+345,23493,15036,76.38,19126774,SUKANYA SANJAY SWAMI,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+346,23494,15393,76.13,19139134,KADAM SANTOSH JOTIRAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+347,23495,17118,75.06,19142684,SHINDE MAYURI SANJAY,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+348,23496,17138,75.06,19126502,UPADHYE RUTUJA SHREYANS,F,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+349,23497,19458,73.75,19122545,PATIL SHREYAS SANJAY,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+350,23498,21021,72.88,19139103,CHOUGULE PRATHAMESH GURURAJ,M,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+352,23500,21179,72.81,19154177,CHAVAN VINAYAK SHANKAR,M,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+353,23501,21630,72.56,19153380,GOURAJE RUTUJA ANNASO,F,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+361,23704,2537,87.44,19142651,MULIK ASHUTOSH MAHADEO,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+364,23707,5881,83.63,19140968,NIKAM NIKITA RAJENDRA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+366,23709,10707,79.44,19126807,JADHAV AKANKSHA SHRINIWAS,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+369,23712,18315,74.38,19127801,YADAV RUTUJA GORAKHNATH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+371,23714,18858,74.06,19122812,PATIL ANKITA SANJAY,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+372,23715,18985,74.0,19133722,PATIL GIRIJA DILIP,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+373,23716,19766,73.56,19109024,PATIL MAYURI SANJAY,F,OPEN,1,LNTA,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+375,23718,20696,73.06,19127175,SING POOJA MAHESH,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+377,23720,22318,72.19,19122388,SHINDE GAYATRI RAMESH,F,OPEN,1,LNTC,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+378,23721,22830,71.94,19119250,BURUD MADHURA MARUTI,F,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+380,23723,25935,70.44,19126319,NIKAM ASHWINI SUHAS,F,OPEN,1,LOBC,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+381,23724,28951,69.06,19128406,PATIL BHUSHAN MAHESH,M,OPEN,1,PHNTD,,301,Computer & IT,301,Computer & IT,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+390,34645,34,95.77,19121483,CHADHA KEERATKAUR SATPALSINGH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+391,34646,159,93.89,19133500,MASUTAGE POONAM ABHAYKUMAR,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+392,34647,173,93.75,19115715,PRATIK DATTATRAY PATIL,M,OPEN,1,PHNTD,,302,ENTC,302,ENTC,6007,Sangli,"Walchand College of Engineering, Sangli",#,2.0
+399,36577,1940,88.47,19116365,PATIL PRATIKA RAJENDRA,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+400,36578,2246,87.94,19106704,DHANE ATUL KRISHNAT,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+401,36579,2276,87.89,19113008,RAJPUT RUTUJA RANJITSING,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+403,36581,2902,86.94,19141849,SIMRAN SAMIR MOMIN,F,OPEN,1,GST,,302,ENTC,302,ENTC,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+415,37050,2145,88.12,19142646,MULLA SANIYA FIROJ,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+419,37054,7398,82.24,19118659,VAISHNAVI ANIL MUDE,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+421,37056,8602,81.12,19123186,PAWAR SWAPNALI KESHAV,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+425,37060,20582,73.12,19141759,ROJE PRADEEP SANJAY,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+426,37061,24870,70.94,19152499,DESAI VAIBHAV DATTATRAY,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+428,37063,28940,69.06,19118816,SHAIKH RESHMA RAMJAN,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+430,37065,29903,68.63,19119209,MALI SHITAL DNYANDEV,F,OPEN,1,GOPEN,,301,Computer & IT,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+435,37070,41855,63.53,19150770,PATIL SANKET JAYPAL,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+436,37071,42383,63.31,19110651,MULLA HEENA MUSA,F,OPEN,1,LOPEN,,301,Computer & IT,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+437,37072,42461,63.27,19131422,PATIL SHALAKA SUDAM,F,OPEN,1,GOPEN,,304,Electrical,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+438,37073,45008,62.06,19116335,YADAV RHUSHIKESH RAJENDRA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+441,37162,14891,76.47,19142322,SAYYAD MUSKAN MAHIBOOB,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+442,37163,20410,73.2,19146742,JOSHI RUTUJA GURUPRASAD,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+444,37165,46591,61.29,19150818,PALSE KOMAL GANESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+446,37167,53166,55.7,19153039,PATIL PUJA HARI,F,OPEN,1,LOPEN,,304,Electrical,302,ENTC,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+449,37772,4635,84.88,19105263,PUROHIT NAVINCHANDRA PRAKASHCHANDRA,M,OPEN,1,GNTA,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",*,3.0
+456,37779,6792,82.76,19135254,KHAN SIMARAN AMAJAD,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+459,37782,9837,80.12,19152060,SAWANT PRERANA MARUTI,F,OPEN,1,GST,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+471,37794,19279,73.82,19150787,SAWANT NITISH NETAJI,M,OPEN,1,GSC,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+474,37797,21288,72.75,19132595,BERDE RUCHA NANDKUMAR,F,OPEN,1,GST,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+477,37800,37532,65.35,19127451,PARDESHI PRASAD SHAMRAO,M,OPEN,1,LOBC,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+478,37801,40136,64.29,19117333,ROHIT RAGHAVENDRA KULKARNI,M,OPEN,1,PHSC,,302,ENTC,302,ENTC,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+481,38302,16163,75.65,19146363,SURVE SAVITA BHAGAVAN,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+484,38305,19811,73.53,19150086,PISAL NAMRATA VIJAY,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+489,38310,39170,64.71,19150451,TAMBOLI SIMRAN RAFIK,F,OPEN,1,GOBC,,301,Computer & IT,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+491,38312,40808,64.0,19143610,BURLE ASHWINI BHAGVAN,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+493,38314,45945,61.6,19158832,SAWANT AKSHAY ANANDA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+494,38315,46222,61.47,19139752,MAHADIK ANITA UTTAM,F,OPEN,1,LST,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+495,38316,46593,61.29,19137015,TINGARE SHUBHAM MAHADEV,M,OPEN,1,LNTA,,302,ENTC,302,ENTC,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+498,38574,5046,84.47,19135292,PATIL SUPRIYA HINDURAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+499,38575,11087,79.18,19144166,JAGDALE SNEHAL SANJAY,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+500,38576,12668,78.06,19135118,YADAV SAMRUDHI DATTAJIRAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+501,38577,13290,77.59,19147309,MANE PRAJAKTA PRAKASH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+502,38578,27196,69.88,19149422,PATIL AMRUTA RAMCHANDRA,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+503,38579,32821,67.35,19135667,PATIL SATVASHILA SAMBHAJI,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+504,38580,41375,63.76,19140953,SHAHA SRUSHTI SUBHASH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+505,38581,48290,60.35,19130126,MANASI DHONDIRAM MANE,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+506,38582,51601,57.82,19139719,MULLA ABID MOHAMMADFARUQ,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+508,39796,11833,78.65,19136367,YADAV KARINA BRAMHDEV,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+510,39798,24541,71.12,19136081,APARNA SANTOSHKUMAR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+511,39799,25218,70.81,19150120,SHARIKMASLAT UZMA MANSOOR,F,OPEN,1,LST,,303, Medical Electronics,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+512,39800,25887,70.47,19136595,AIDALE JANHAVI DEEPAK,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+514,39802,31179,68.06,19110532,MUZAMMIL SAYYED ALLABAKASH GIRGAVE,M,OPEN,1,GOBC,,301,Computer & IT,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+515,39803,31486,67.94,19155803,GAVADE SHIVAJI KRISHNA,M,OPEN,1,LOBC,,301,Computer & IT,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+516,39804,33328,67.15,19120961,JAMDADE SAGAR MANSING,M,OPEN,1,GOBC,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+517,39805,34896,66.47,19158623,HABLE AMRUTA BHARAT,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+518,39806,36700,65.71,19136127,PAWAR MANAVI PRADEEP,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+520,39808,37234,65.47,19135807,BHOKARE NAEEMA SARTAJ,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+522,39810,41817,63.58,19136000,SHINDE AMOL MAHESH,M,OPEN,1,GNTB,,304,Electrical,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+523,39811,42213,63.39,19153488,NIKAM VAIBHAV VILAS,M,OPEN,1,LOBC,,304,Electrical,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",*,3.0
+524,39812,44928,62.12,19144273,MALI PRASHANT ANNAPPA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+525,39813,47465,60.82,19158361,KADAM DHANASHREE SHANKAR,F,OPEN,1,GSC,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+528,39816,50474,58.88,19143123,SHAIKH NAEEM IMAM,M,OPEN,1,LSC,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+529,39817,50978,58.47,19131347,PATIL OMKAR CHIRANTAN,M,OPEN,1,GST,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+530,39818,0,58.25,19138512,PATIL DIPAK KRISHNAT,M,OPEN,1,GOBC,,302,ENTC,302,ENTC,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+531,40117,1136,90.06,19130854,HARALE BHAGYSHRI SHRIKANT,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+532,40118,4366,85.18,19147132,CHAVAN SHRADDHA PRAKASH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+535,40121,10057,79.94,19147024,PATIL ASMITA TUKARAM,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+536,40122,17429,75.0,19136280,PATIL SOMESH CHANDRAKANT,M,OPEN,1,GOPEN,,401,Machanical,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+537,40123,21278,72.76,19127418,KADAM AMOL SANJAY,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+538,40124,25317,70.76,19146649,PATIL SONALI SHANKAR,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+540,40126,33234,67.18,19141828,SHINDE HARSHALI HANMANT,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+541,40127,33638,67.0,19146917,PATIL SIMANTINI SHRIDHAR,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+542,40128,33920,66.88,19147076,NAYKAWADI SHUBHANGI SHRIPATI,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+543,40129,34407,66.67,19126907,KULKARNI SNEHA RAJESH,F,OPEN,1,GSC,,304,Electrical,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+544,40130,37372,65.43,19154189,THORAT ASHWINI DHANAJI,F,OPEN,1,GSC,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",&,4.0
+545,40131,45310,61.94,19128771,KULKARNI ONKAR ARUN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+555,47605,103,94.55,19100226,RAJPUT PRATHAMESH SOPAN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+556,47606,171,93.76,19128156,KADAM SAMIKSHA SAMBHAJI,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",#,2.0
+557,47607,231,93.27,19125962,LANDE GOURI VARDHAMAN,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+566,47850,4340,85.19,19148386,DHAMANKAR VIKAS SHIVAJI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+567,47851,4833,84.67,19141113,JADHAV PRATIKSHA VIJAY,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+568,47852,5639,83.88,19128312,PATIL YOGITA CHAVGONDA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+570,47854,6273,83.27,19127882,DAFEDAR ANIS FAYYAZ,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+572,47856,6995,82.61,19145159,HULLE MINAL MEGHAKUMAR,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+573,47857,7871,81.75,19152407,TAMBORAJI YASIN BASHIR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+575,47859,9286,80.55,19120603,MAGDUM SHRADHA RAMESH,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+576,47860,9359,80.48,19119188,PRIYA BERA,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+580,47864,11190,79.09,19120873,MAGDUM SHARVARI SUBHASH,F,OPEN,1,GST,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+582,47866,11819,78.67,19118528,DASHAL POOJA BHIMRAV,F,OPEN,1,LST,,304,Electrical,304,Electrical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+599,47965,1543,89.15,19136301,KADAM AAKANKSHA DADASO,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+600,47966,2189,88.06,19104039,SAMMED SUNIL PATIL,M,OPEN,1,GOPEN,Muscular Dystrophy,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+601,47967,2552,87.39,19130210,MANE ANUSHKA RAJESH,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+608,47974,3575,86.06,19134330,KORE SHRADDHA SHIVAJI,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+609,47975,3643,86.0,19104957,CHAVAN UTKARSHA ADHIKRAO,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+610,47976,3756,85.88,19141893,SAH PRAKASHKUMAR LALANPRASAD,M,OPEN,1,GST,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+616,47982,4261,85.27,19158657,DEVADKAR ROHIT KRUSHNA,M,OPEN,1,LST,,304,Electrical,304,Electrical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+631,48142,10202,79.82,19105488,LOKARE VINAYAK VIJAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+633,48144,13589,77.39,19116071,MULIK VIKRANT PRADIP,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+634,48145,16986,75.15,19149498,DESHMUKH PRANALI MANOHAR,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+636,48147,19167,73.88,19122790,PAWAR SNEHAL YASHWANT,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+637,48148,20404,73.21,19122288,LAD SAHIL UDAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+638,48149,22571,72.06,19154679,ONDKAR ANIKET GHANASHYAM,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+639,48150,22837,71.94,19148805,DESHMUKH PRAJAKTA DATTATRAY,F,OPEN,1,PHO,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+641,48152,26746,70.06,19129793,LAD ABHIJEET PARASHURAM,M,OPEN,1,GSC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",*,3.0
+644,48155,29922,68.61,19153803,NALAWADE ADINATH SUNIL,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+645,48156,30044,68.55,19153938,INDULKAR AKASH RAMCHANDRA,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+646,48157,30486,68.36,19133231,PANDIT NIKETAN VASANT,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+647,48158,30783,68.24,19123011,GANESH KUMAR MALI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+652,48163,33305,67.15,19142140,CHAUGULE AISHWARYA VIJAY,F,OPEN,1,GSC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+654,48165,35971,66.0,19150352,SHIKALGAR KARISHMA HASAN,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+657,48168,39659,64.48,19143377,NAIK VISHAL MARUTI,M,OPEN,1,GST,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+660,48171,42819,63.12,19154553,SALUNKHE AJAYKUMAR BABAN,M,OPEN,1,LNTD,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+661,48172,43389,62.85,19158974,MOHITE MOHINI GANPATRAO,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+662,48173,43912,62.61,19141359,PATIL ANKITA ANANDA,F,OPEN,1,GOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+664,48175,44063,62.55,19151372,AUTE SANDESH JAGANNATH,M,OPEN,1,LSC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+666,48177,44389,62.36,19139489,THORAT PRATIKSHA SUNIL,F,OPEN,1,LSC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+667,48178,44402,62.36,19143423,JADHAV SURAJ RAJARAM,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+668,48179,45086,62.06,19148530,KAPURKAR ABHIJEET MARUTI,M,OPEN,1,LOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+669,48180,45528,61.82,19151033,NIKAM AMOL SAMPAT,M,OPEN,1,LOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+670,48181,46391,61.39,19129910,GAIKWAD SAPNA ARUN,F,OPEN,1,LSEBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",#,2.0
+671,48182,46493,61.33,19148873,PAWAR VIJAY SUHAS,M,OPEN,1,DFOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+672,48183,47201,60.97,19138565,KADAM SHUBHAM BHIMRAO,M,OPEN,1,GST,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+673,48184,47850,60.61,19122411,MOHITE MAHESH GANPATRAO,M,OPEN,1,LST,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+674,48185,48492,60.24,19147133,VIDULA DATTATRAY PAWAR,F,OPEN,1,GNTA,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+675,48186,50655,58.73,19136908,JAGTAP AKASH SHIVAJIRAO,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+676,48187,50716,58.67,19154182,KUMBHAR AKASH CHANDRAKANT,M,OPEN,1,GSEBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+677,48188,50718,58.67,19133696,DESAI PRITI VIKAS,F,OPEN,1,LSEBC,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+679,48190,51084,58.36,19148376,PATIL SURAJ SHANKAR,M,OPEN,1,GST,,304,Electrical,304,Electrical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+685,48856,6206,83.33,19115821,PUNDHIR VINAYAK,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+686,48857,11028,79.21,19147862,PATIL SAKSHI JOTGONDA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+687,48858,11720,78.73,19150872,MOMIN SABA ABDUL AZEEZ,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+689,48860,14437,76.79,19105465,BHAVANA NEMINATH PATIL,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",@,5.0
+690,48861,15515,76.06,19149826,PATIL RUTUJA SANJAY,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+691,48862,15531,76.06,19152890,RANVEER RAMESH KUMBHAR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+692,48863,15585,76.0,19149539,CHOUGULE TEJASHREE KIRAN,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+694,48865,16425,75.52,19135744,MALI POOJA RAJENDRA,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+695,48866,18100,74.97,19155011,ZURE RHUSHIKESH BALASO,M,OPEN,1,LNTA,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+696,48867,18327,74.36,19153154,JADHAV PRADYUMNA PRASHANT,M,OPEN,1,PHO,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+697,48868,18683,74.18,19134249,MULANI ASIF SALIM,M,OPEN,1,GST,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+699,48870,18863,74.06,19134940,SHINDE NIKHIL SADASHIV,M,OPEN,1,LST,,304,Electrical,304,Electrical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+716,49086,563,91.76,19134320,MULANI RUKAIYA MAHAMADHANIF,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+718,49088,5452,84.06,19140988,PATIL SHREYA SHITAL,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+720,49090,6056,83.45,19128514,NIKAM POONAM SHIVAJI,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+721,49091,6704,82.85,19133614,KARANDE ARATI ABAJI,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+728,49098,10960,79.27,19141681,KOLAVANKAR PRAJAKTA MOHAN,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+750,50015,5219,84.29,19121692,MULE PRATHMESH UDAY,M,OPEN,1,GOPEN,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+751,50016,8942,80.82,19128293,PATIL SAURABH MAHADEV,M,OPEN,1,GOPEN,,305,Instrumentation,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+754,50019,12173,78.41,19143065,KSHIRSAGAR AKSHATA BHALCHANDRA,F,OPEN,1,LOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+755,50020,14097,77.03,19129627,PATIL ANKITA SARJERAO,F,OPEN,1,GST,,304,Electrical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+757,50022,20121,73.35,19143284,GALA SHARVI MANOJ,F,OPEN,1,LOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+763,50028,24531,71.12,19122042,KULKARNI AVADHOOT VIVEK,M,OPEN,1,GSC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+771,50036,28291,69.35,19126472,PATIL ONKAR JAYSING,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+772,50037,29366,68.88,19139257,RATHI HARSH SANJAY,M,OPEN,1,LOBC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+775,50040,31099,68.06,19128876,PATIL AKSHAY DINKAR,M,OPEN,1,GSC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+776,50041,33215,67.18,19110007,PUJARI NITISH SHEKHAR,M,OPEN,1,LSC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+779,50044,37835,65.24,19127880,PATIL NIKHIL RAJENDRA,M,OPEN,1,GST,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+782,50047,41596,63.65,19118469,SALAGARE REVATI RAJARAM,F,OPEN,1,LOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+783,50048,41670,63.64,19142357,ANIKET DILIP BHOSALE,M,OPEN,1,GNTC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+784,50049,41973,63.5,19151318,MUJAWAR ANISA RAJU,F,OPEN,1,DFO,,301,Computer & IT,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+785,50050,42959,63.06,19135293,AATMAJ KHICHADE,M,OPEN,1,PHOBC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+786,50051,43858,62.65,19151361,PONKSHE MIHIR SANJAY,M,OPEN,1,GOPEN,,302,ENTC,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+787,50052,44228,62.47,19119033,PATIL SAURABH SAMBHAJI,M,OPEN,1,GNTD,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+788,50053,45589,61.76,19141894,LAD ASHUTOSH SUNIL,M,OPEN,1,PHSC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+789,50054,46315,61.41,19152854,DHANAWADE VINAYAK NAMDEW,M,OPEN,1,GOBC,,401,Machanical,305,Instrumentation,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+796,62300,121,94.29,19118751,KHOT AKSHATA AJIT,F,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6007,Sangli,"Walchand College of Engineering, Sangli",#,2.0
+807,65056,4945,84.55,19115426,SAWANT ANIKET ANANDA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+818,65067,12059,78.47,19155556,MAKANDAR TOHID DILAWAR,M,OPEN,1,LST,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",#,2.0
+821,65070,17855,74.97,19147816,PAWAR SANDESH RAMCHANDRA,M,OPEN,1,GST,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",*,3.0
+822,65071,17941,74.97,19131547,DOIPHODE ANAGHA ABHIJIT,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+836,65085,778,91.0,19106093,SHINDE ANIL SADASHIV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+838,65087,1016,90.31,19113077,DAVARI SATYAM RAJARAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+853,65660,2527,87.47,19146721,PATIL SHRICHARAN KIRAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+856,65663,4627,84.88,19100962,SHIVAM HARIDAS PATIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+864,65671,10370,79.7,19131150,SHEGANE RAVIRAJ RAMCHANDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+865,65672,10485,79.59,19128366,MOMIN AMAN SHARIF,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",*,3.0
+868,65675,11831,78.65,19145304,SURYAVANSHI PARAG ANIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+870,65677,12334,78.29,19142728,ABHIJEET SAHADEV DURGADE,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+871,65678,12492,78.18,19156087,TULAJANWAR IRAPPA SHASHIKANT,M,OPEN,1,LST,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",&,4.0
+872,65679,12666,78.06,19131607,DHALAIT AMAN ANSAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+876,65683,14310,76.88,19129155,SHAIKH AMANULLA RAJU,M,OPEN,1,PHO,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+878,65685,15914,75.82,19118310,PATIL AISHWARYA POPATRAO,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+880,65687,16605,75.39,19115620,GAIKWAD SAHIL DILIP,M,OPEN,1,GST,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",#,2.0
+898,65705,25150,70.82,19140567,PATIL ONKAR YASHWANT,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+900,65707,25544,70.65,19110724,PAWAR OMKAR NIVRUTTI,M,OPEN,1,PHNTA,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+910,65717,35047,66.41,19135809,PATIL SHWETA RAJESHKUMAR,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6269,Sangli,"Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",^,1.0
+930,66038,12568,78.12,19123884,SANKET SURESH REVANKAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+938,66046,16703,75.33,19116701,PATIL ABHAYSINGH ZUNJARRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+941,66049,22572,72.06,19142827,CHAVAN ANKITA SURENDRA,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+942,66050,24454,71.15,19135673,SURYAWANSHI ABHISHEK ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+944,66052,29810,68.67,19119065,PATHAK AMOGH SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+947,66055,33210,67.18,19122725,SHETTI RITESH NITIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+948,66056,33677,67.0,19155130,PUDUSHERI HRUSHIKESH RAJAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+950,66058,35632,66.18,19123179,BANSODE VISHAL SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+952,66060,37394,65.41,19136225,DHOBALE ABHISHEK RAMCHANDRA,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+953,66061,37902,65.21,19147670,AARAGE PRATIK SANJAY,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+960,66068,51482,57.94,19110195,SABALE SHUBHAM PANDURANG,M,OPEN,1,LOPEN,,302,ENTC,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",@,5.0
+961,66089,1746,88.82,19147901,ARAGODI RAKESH ADRASHAPPA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+964,66092,2929,86.88,19138664,DHALAIT SAHIL SALIM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+970,66098,4091,85.47,19110182,KADMUDE SALIM MASTAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+972,66100,4411,85.12,19126943,INAMDAR PARTH BALKRISHNA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+978,66106,5275,84.24,19134569,IBUSHE MUEED ARIF,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+983,66111,5520,84.0,19133333,RAVI SHARANAPPA HOSAMANI,M,OPEN,1,GST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+987,66115,5980,83.53,19136062,MULIK MAYUR VIJAY,M,OPEN,1,LST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+988,66116,6088,83.41,19132714,CHAVAN SAMEER SATISH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",@,5.0
+992,66120,6276,83.25,19143400,PATIL PRITAM BALASO,M,OPEN,1,PHST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+995,66123,6791,82.76,19113087,SHINDE RAHUL SADASHIV,M,OPEN,1,LST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",*,3.0
+1030,66158,23135,71.81,19144092,MANGLEKAR SHRIDHAR DHANAJI,M,OPEN,1,PHO,Physical impairment DEF1,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1033,66161,26142,70.35,19153288,LATKAR PRATIKSHA PRAKASH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+1038,66166,5662,83.82,19153654,JAGDALE RUSHIKESH BABAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1040,66168,7201,82.41,19121364,KOTHALE SAMMED AJIT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1045,66173,8558,81.18,19116865,PATHAK RUSHIKESH BHASKAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1046,66174,8873,80.88,19137929,PATIL SIDDHARTH SANTOSH,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1050,66178,15437,76.12,19102213,INGALE SHUBHAM SHASHIKANT,M,OPEN,1,DFO,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",#,2.0
+1054,66182,19821,73.53,19143553,PATIL TEJASWINI UDAY,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+1062,66768,11230,79.06,19148979,CHOUGULE SANIYA MAJJED,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1068,66774,18271,74.41,19148095,GARGATE UMAKANT SANTOSH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1070,66776,18925,74.03,19142748,RADE SHARAD MARUTI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1075,66781,28731,69.18,19137428,JOUNJAL PRANAV NILKANTH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1079,66785,31948,67.71,19134121,SAVANT MANOJ MANIK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1081,66787,33722,66.97,19107072,SANTOSHA JADHAW,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1082,66788,34776,66.53,19151386,ROTITHOR PARTH PRADEEP,M,OPEN,1,PHO,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1083,66789,35183,66.35,19152322,JADHAV INDRAJEET SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1084,66790,35191,66.35,19137425,SAWANT SHIVRAJ AABASAHEB,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1087,66793,38845,64.82,19137462,PUDALE RUSHABH TANAJI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1088,66794,39409,64.59,19135573,SALUNKHE ROHAN PANDHARINATH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1090,66796,41730,63.59,19141119,PATEL MUZAMMIL MUHAMMAD ALI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",&,4.0
+1091,66797,42002,63.47,19144107,MULLA ANIS AFJAL,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1093,66799,42542,63.24,19148024,CHAVAN SACHIN MANOHER,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1094,66800,43302,62.88,19115516,TAMBOLI MHOMMADSOHEL ASLAM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",#,2.0
+1095,66801,45109,62.03,19153035,BHOSALE AJAY BALASAHEB,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",&,4.0
+1096,66802,46957,61.12,19150051,JAMADR AASADULL AALTAFHUSEN,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",&,4.0
+1097,66803,47001,61.07,19157434,PATIL ATISH SHASHIKANT,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1098,66804,47766,60.65,19159111,DEVAKATE VITTHAL UTTAM,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1100,66806,49947,59.29,19135904,VEER ANIKET LALASO,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1101,66807,50248,59.06,19156870,KIRDAT AMIT ABAJIRAV,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1102,66808,51324,58.12,19157437,JADHAV AVINASH SHRIKRISHNA,M,OPEN,1,GST,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1104,66810,52187,57.18,19139458,ULAGADDE SUKUMAR ASHOK,M,OPEN,1,GST,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1105,66811,52281,57.06,19136829,MAGDUM NITIN BHUPAL,M,OPEN,1,GST,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1107,66813,52404,56.88,19151046,NIKAM DIPAK HANMANT,M,OPEN,1,LST,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1108,66814,52597,56.59,19134570,BODAKE AMOL AVINASH,M,OPEN,1,LST,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1109,66815,52672,56.47,19158360,SHIKALGAR ARBAJ RIYAJ,M,OPEN,1,GNTA,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1110,66816,53423,55.18,19154121,PAWAR ANIKET SAYAJI,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1111,66817,53519,54.94,19147949,KADAM SHRIHARI GANPATI,M,OPEN,1,LNTB,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1112,66818,53542,54.85,19152591,EKHANDE PRIYANKA SANTOSH,F,OPEN,1,LOPEN,,304,Electrical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1113,66819,53832,54.0,19139146,BARGIR NIHAL INNUS,M,OPEN,1,GNTD,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",&,4.0
+1114,66820,54188,52.41,19136867,MOHITE AKSHAY YUVRAJ,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,6304,Sangli,"Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli",^,1.0
+1116,67202,10928,79.29,19152460,PATIL SAYALI VIKAS,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1118,67204,17764,75.0,19134468,CHOUGULE KARAN SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1119,67205,18456,74.29,19156138,MANE ANIKET HANAMANT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1120,67206,18460,74.29,19139482,KADAM PALLAVI NIVAS,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1121,67207,21576,72.59,19123138,SURYAWANSHI SNEHAL SANJAY,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1122,67208,22015,72.35,19136990,GAIKWAD JAGDISH DHANAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1129,67215,37680,65.29,19131408,PATIL ANIKET DINKAR,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+1131,67217,42587,63.24,19152618,PATIL PRAVIN PANDURANG,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1132,67218,42800,63.12,19139355,THORAVE KAMALESH SUNIL,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+1134,67220,44951,62.12,19135135,TUPE AJAY JAYSHING,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1136,67222,45389,61.88,19117721,JADHAV SUSHANT BHASKAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1137,67223,46341,61.41,19153771,KANASE UNMESH ANANDRAO,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1138,67224,46750,61.21,19135694,NANGARE OMKAR BHARAT,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1139,67225,46822,61.18,19156705,BENGADE GANESH BALU,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1140,67226,47248,60.94,19154625,JAMBHALE PAVAN PRAKASH,M,OPEN,1,DFO,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1141,67227,48082,60.47,19151209,JADHAV SHRIKANT VASANT,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1142,67228,48337,60.35,19156927,FAKIR SHAHARUKH ISLAM,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1143,67229,50192,59.1,19154101,SHEWALE KRANTISINH ZUNJARRAO,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1144,67230,50397,58.94,19152772,PAWAR ABHISHEK MADHUKAR,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1147,67233,50637,58.76,19134993,PATIL AKSHAY SANJAY,M,OPEN,1,LNTD,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+1148,67234,50831,58.59,19130588,PATIL PRASHANT VASANTRAO,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1149,67235,51544,57.88,19127313,CHAVAN SHRIDHAR RAMESH,M,OPEN,1,GST,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1151,67237,51839,57.59,19149690,JANGAM SUMEET PRALHAD,M,OPEN,1,GST,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1152,67238,53197,55.64,19134340,NIKAM JAYANT KIRAN,M,OPEN,1,LST,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1153,67239,53601,54.71,19159742,RIKIBDAR SUHEL ASLAM,M,OPEN,1,GNTB,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1154,67240,54002,53.37,19122091,SAWANT PANKAJ HRIDAYNATH,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1155,67241,54108,52.88,19153919,CHAVAN SUMIT TANAJI,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+1156,67242,54131,52.76,19159420,CHAVAN PRANIL BALASO,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",&,4.0
+1158,67244,54370,50.87,19153740,PAWAR SUSHANT MADHAV,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6313,Sangli,"Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva",^,1.0
+1160,69514,7565,82.06,19154468,JADHAV ROHIT NARAYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+1161,69515,14081,77.06,19122901,INAMDAR SARFARAJ IMTIAZ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1163,69517,18475,74.29,19102068,MAGDUM VISHWAJIT SUKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1166,69520,22365,72.18,19121296,SHINDE HARISHCHANDRA PRALHAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1167,69521,23796,71.47,19148063,SHEKH YUSUF ILAI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1168,69522,23895,71.41,19127092,RAKESH RAJU JADHAV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1169,69523,26810,70.06,19141398,BORGANVE PRAMOD SURESH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+1171,69525,28835,69.12,19136196,REVANKAR SAMARTH MAHABALESHWAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1173,69527,29221,68.94,19152388,TAGARE ROHIT ANIL,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+1174,69528,31483,67.94,19120242,SHUBHAM SUBHASH PATIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1175,69529,32247,67.59,19115737,PASHA MOHAMMADGULSHAD NIZAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1176,69530,32810,67.35,19127042,CHAVAN PRASAD UDAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1177,69531,32932,67.29,19104291,PATIL HEMANT ANNASO,M,OPEN,1,PHOBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",*,3.0
+1178,69532,34095,66.82,19121474,BIRADAR ABHIJIT ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1179,69533,34381,66.71,19129979,SANKET SHANTINATH CHOUGULE,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1182,69536,35038,66.41,19111018,UPADHYE SAMMED RAVSAHEB,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",&,4.0
+1186,69540,38862,64.82,19141958,TASGAVE SOURABH RAJENDRA,M,OPEN,1,GST,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",*,3.0
+1187,69541,39728,64.47,19158436,MUAWAR FAIZANAHMAD RUKNUDDIN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1189,69543,40540,64.12,19135678,BALLARI SACHIN DIPAK,M,OPEN,1,PHO,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1191,69545,42955,63.06,19143752,VHASAMANE ONKAR PARSHARAM,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1194,69548,44920,62.12,19142708,PATIL RITESH MAHAVEER,M,OPEN,1,LST,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1195,69549,45121,62.0,19150226,PATIL PRATHAMESH SANJAYKUMAR,M,OPEN,1,LST,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1196,69550,45280,61.94,19135469,MORE BALASO POPAT,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1197,69551,45671,61.76,19122479,ANUSE SHIVANI BHARGAVARAM,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1198,69552,46080,61.53,19152625,KADAM RAVIRAJ DADASO,M,OPEN,1,GNTD,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",#,2.0
+1206,69560,48327,60.35,19115451,KOLE VAIBHAV MAHAVIR,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1207,69561,48616,60.18,19136472,PATIL SAMMED SACHIN,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1208,69562,49407,60.0,19122006,VITEKAR ONKAR LAXMAN,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1209,69563,49439,60.0,19143914,PRADHNYASURYA SAMRAT GAUTAM,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1210,69564,49576,60.0,19159621,NALAVADE VINAYAK TUKARAM,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1216,69570,51718,57.71,19118583,NIMBARGI SHUBHAM KESHAV,M,OPEN,1,PHST,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1217,69571,51997,57.41,19127668,SAMLEWALE M REHAN BALEKHAN,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,6644,Sangli,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",^,1.0
+1220,70165,9823,80.12,19111692,THORAT OMKAR DIPAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+1222,70167,10916,79.29,19136398,DIGAMBAR SHRIKANT BHAKTE,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1223,70168,12962,77.82,19146877,SALUKHE RUSHIKESH DATTATRAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1225,70170,16677,75.35,19153274,PATIL ROHINI SURESH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1228,70173,22853,71.94,19143411,JAGATAP SHIVANI SANTOSH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1231,70176,26016,70.41,19148991,NIMBALKER DIGVIJAYSINGH MAHADEV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1233,70178,30920,68.18,19150937,MULANI SOHEL GULAB,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1234,70179,31140,68.06,19143107,NADAF SIMAN RAFIK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1235,70180,31224,68.06,19102784,PATIL AVINASH ADHIKRAO,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",&,4.0
+1237,70182,32557,67.47,19148983,PATIL PRATHMESH JALINDAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1238,70183,33219,67.18,19136471,JAGTAP SHUBHAM SAMBHAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1239,70184,34215,66.76,19147380,PATIL DHIRAJ SHIVAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1240,70185,34923,66.47,19147574,PATIL RAVINDRA JAYSING,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1241,70186,35048,66.41,19144944,PATIL PRATIK MOHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1243,70188,36406,65.82,19115556,SIDDIQUEE ASRAR MUTAHIR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1244,70189,36498,65.82,19114006,ABUZAR JAFARAHMED DIWAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1245,70190,38284,65.06,19149158,SHINDE TEJRAJ ANKUSH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",#,2.0
+1246,70191,38319,65.04,19135894,JAGTAP TUSHAR SUBHASH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1247,70192,39954,64.35,19122100,PRASAD VIJAYANAND INAMDAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1248,70193,39958,64.35,19148458,KANDEKAR PATIL RUSHIKESH SURESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1251,70196,40874,63.94,19121313,SAURABH SADANAND INAMDAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1252,70197,42803,63.12,19158521,LAD PRATHAMESH PRAMOD,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1256,70201,43307,62.88,19141391,KUMBHOJE CHETAN PARISA,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+1260,70205,44848,62.18,19125706,KULKARNI SHREYAS PRASAD,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1261,70206,44982,62.12,19152984,URUNKAR OMKAR DILIP,M,OPEN,1,PHO,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1265,70210,48083,60.47,19122256,ADARSH KIRAN ALATGI,M,OPEN,1,GST,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+1266,70211,48309,60.35,19147726,JADHAV ATISH JAGANNATH,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1267,70212,48540,60.18,19120608,PATIL SHIVRAJ SURESH,M,OPEN,1,GSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1269,70214,50099,59.18,19117897,PATIL SAMMED DHANYAKUMAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+1270,70215,50175,59.12,19122248,GHARAGE VAIBHAV ATUL,M,OPEN,1,GST,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",*,3.0
+1273,70218,52079,57.29,19131037,SALUNKHE SHREYAS VIJAY,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1274,70219,52701,56.41,19159183,AWATE KETAN KUNDLIK,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0
+1275,70220,54168,52.53,19153506,SHAIKH SAOOD ABDULRAZAK,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",&,4.0
+1276,70221,54297,51.64,19144429,PHATAK SUMIT MADHUKAR,M,OPEN,1,LSC,,401,Machanical,401,Machanical,6762,Sangli,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli.",^,1.0

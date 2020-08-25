@@ -1,0 +1,67 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+7,364,43789,62.67,19142442,MOKASHE AVINASH ARUN,M,ST,6,LST,,101,Chemical,101,Chemical,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+36,4656,8299,81.39,19125932,UIEKEY HARSHID ARJUN,M,ST,6,GST,,201,Civil,201,Civil,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+192,4906,38667,64.91,19122179,MADAVI ABHISHEK RAJU,M,ST,6,GOPEN,,201,Civil,201,Civil,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+378,5218,35714,66.12,19139004,MUKADE OMKAR BHAGWAN,M,ST,6,GST,,201,Civil,201,Civil,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+420,5279,11614,78.79,19111465,PENDHARKAR PAYAL VIJAY,F,ST,6,LST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+428,5287,17967,74.97,19132535,PENDAM SHUBHANGI GANESH,F,ST,6,GST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+429,5288,19959,73.45,19111262,BHALAWE SAKSHI UMESH,F,ST,6,GST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+524,5439,50987,58.44,19107799,SALAME SHASHANK PRABHAKAR,M,ST,6,GST,,201,Civil,201,Civil,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",^,1.0
+575,5490,30483,68.36,19108589,SHENDE ANIKET BHALCHANDRA,M,ST,6,MIMH,,201,Civil,201,Civil,4179,Nagpur,"Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur",^-,
+664,5778,47822,60.63,19157138,BHANDARI SHUBHAM DASHRATH,M,ST,6,GOPEN,,201,Civil,201,Civil,4192,Nagpur,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",^,1.0
+834,6016,33323,67.15,19104621,SHUBHAM UIKEY,M,ST,6,GST,,201,Civil,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+840,6022,35866,66.06,19105562,WADVE AMIT RAMESH,M,ST,6,GST,,201,Civil,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+855,6037,47260,60.94,19151333,TEKAM MUKTANAND LIKHIRAM,M,ST,6,LST,,301,Computer & IT,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+953,16806,11409,78.94,19153975,KUMRE SHRIECHHA RAMGOPAL,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+1109,17080,23921,71.41,19103034,YERMA SUSHIL NAMDEO,M,ST,6,MIMH,,301,Computer & IT,301,Computer & IT,4136,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",*-,3.0
+1317,17416,47367,60.88,19114811,TEKAM PRITI YADORAO,F,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,4145,Nagpur,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",^,1.0
+1338,17490,27332,69.82,19129708,DOHTARE PRAFUL PANDURANG,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+1385,17570,19047,74.0,19104565,UIKEY VAISHNAVI,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1404,17589,19519,73.7,19133031,SHRIRAME GIRISH DILIP,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1495,17743,29761,68.71,19128245,CHAUDHARI NEHA CHATRUGAN,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",^,1.0
+1505,17754,38495,64.97,19118846,PURAM MEGHA LAHU,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",*,3.0
+1518,17768,13382,77.53,19119784,KHANDATE BHAWANA MANIKRAO,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,4179,Nagpur,"Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur",^,1.0
+1590,18201,48632,60.17,19139319,GEDAM DHIRAJ JANARDHAN,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+1662,30005,17711,75.0,19146259,RAUT PRIYANKA NARENDRA,F,ST,6,GST,,302,ENTC,302,ENTC,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+1792,30713,17113,75.06,19126261,KUMBHARE JETAL RISHI,F,ST,6,LOPEN,,302,ENTC,302,ENTC,4136,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",^,1.0
+1842,30908,42844,63.12,19129739,DHURVE SHRAWAN RAMESH,M,ST,6,GOPEN,,302,ENTC,302,ENTC,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+1886,31176,52507,56.73,19123099,SHRIRAME PANKAJ HIRALAL,M,ST,6,GOPEN,,401,Machanical,302,ENTC,4145,Nagpur,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",^,1.0
+1941,31335,39194,64.69,19110600,SONWANE RUPALI YUVRAJ,F,ST,6,LST,,302,ENTC,302,ENTC,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+1973,31519,51560,57.88,19129209,AJAY SABULAL MAWASKAR,M,ST,6,GST,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1998,31544,48321,60.35,19144719,YELKE KISHOR ARUNRAO,M,ST,6,GOPEN,,401,Machanical,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2058,43594,11616,78.79,19140397,SALAME KESHAV DHANRAJ,M,ST,6,GST,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+2148,43765,46664,61.27,19124477,ABHISHEK RAMESH ATRAM,M,ST,6,MIMH,,304,Electrical,304,Electrical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^-,
+2253,43959,31316,68.0,19151177,MADAVI SHILPA DHARAMLAL,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+2283,43989,48017,60.5,19128849,KANGALE NIKHIL SURESH,M,ST,6,GST,,304,Electrical,304,Electrical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+2344,44064,28109,69.45,19141146,UIKEY SAMIKSHA GYANCHAND,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+2345,44065,28371,69.33,19152913,GATE SARANG GANESH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+2351,44071,33862,66.91,19135010,SATPUTE JYOSNA RAMESH,F,ST,6,GOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+2450,44239,33997,66.85,19144233,KURMATE RAKHI RAMAJI,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",^,1.0
+2464,44253,47322,60.91,19137919,BHALAVI ANIKET BALWANT,M,ST,6,LST,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",#,2.0
+2469,44258,51896,57.52,19133677,DHURVE LALIT SHUKRACHARYA,M,ST,6,GST,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",^,1.0
+2521,44375,36587,65.76,19154595,KHURSE SHUBHAM SAKHARAM,M,ST,6,GST,,304,Electrical,304,Electrical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+2550,44404,50373,58.97,19125914,SIMRAN RAMKRUSHN PARCHAKE,F,ST,6,LST,,304,Electrical,304,Electrical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+2578,44448,44856,62.18,19147594,PANDHARE NISHIKANT YOGESHWAR,M,ST,6,LST,,304,Electrical,304,Electrical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+2598,44482,32743,67.39,19131123,DHURWE DHIRAJ RAMESHRAO,M,ST,6,GST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2622,44506,40031,64.3,19124742,KHANDATE AISHWARYA RAMDAS,F,ST,6,LST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2623,44507,46519,61.33,19122226,KODAPE ASHA JIVANLAL,F,ST,6,GST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2664,44574,42030,63.47,19141321,IDPATE AMIT SHIVCHARAN,M,ST,6,MIMH,,302,ENTC,304,Electrical,4172,Nagpur,"Anjuman College of Engineering & Technology, Nagpur",^-,
+2762,45074,24705,71.03,19126314,KUMBHARE MOHIT RAJKUMAR,M,ST,6,GOPEN,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+2788,45100,36912,65.64,19122570,MASARAM PRATIKSHA SUDHAKAR,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+2791,45103,36943,65.63,19116101,KORAM SWAPNIL VILASRAO,M,ST,6,GST,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+2931,56030,21270,72.76,19105836,RAUT YOGENDRA MAHESH,M,ST,6,LST,,401,Machanical,401,Machanical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+3030,56308,33395,67.12,19124645,NEWARE JITENDRA SHIVSHANKAR,M,ST,6,LOPEN,,401,Machanical,401,Machanical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^,1.0
+3035,56313,37238,65.47,19102698,KURSUNGE TILAKCHAND RAMESH,M,ST,6,MIMH,,401,Machanical,401,Machanical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^-,
+3110,56462,34777,66.53,19154450,DHURVE ASEEK SEWAKRAM,M,ST,6,GST,,401,Machanical,401,Machanical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+3200,56562,52191,57.18,19122875,MASRAM YASH SUNIL,M,ST,6,MIMH,,401,Machanical,401,Machanical,4137,Nagpur,"Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur",&-,4.0
+3458,57109,39576,64.53,19149029,KULSANGE KAJAL ARUNRAO,F,ST,6,LOPEN,,401,Machanical,401,Machanical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+3483,57134,47243,60.94,19151268,MADAVI SWAPNIL VINODRAO,M,ST,6,GST,,401,Machanical,401,Machanical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+3512,57258,24810,71.0,19152285,VAIBHAV KUMAR UIKEY,M,ST,6,GST,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",#,2.0
+3514,57260,32666,67.41,19151994,DEHARE ABHIJIT CHARANDAS,M,ST,6,GST,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+3533,57279,50473,58.88,19136813,UIKEY SWAPNIL LAV,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4171,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha's , Priyadarshini Institute of Engineering and Technology, Nagpur",#,2.0
+3700,58282,22033,72.35,19152185,YESNE SHREYASH BHUMESH,M,ST,6,GST,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+3761,58343,52142,57.24,19106805,CHAUDHARI ARVIND SUKARAM,M,ST,6,GST,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+3779,58361,41473,63.71,19144877,VILAS YETIKUMBHARE,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4196,Nagpur,"Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",^,1.0
+3851,58535,47476,60.82,19158525,CHETAN KHANDATE,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+3857,58541,48330,60.35,19121374,DRUSHANT SANJAY MASRAM,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",&,4.0
+3885,58569,54005,53.35,19153324,MATLAM DILIP LAXMAN,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",&,4.0

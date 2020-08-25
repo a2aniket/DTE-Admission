@@ -1,0 +1,466 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+58,29014,69.03,19139529,THORAT YOGITA RAMESH,F,OPEN,1,LOPEN,,101,Chemical,101,Chemical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+59,53674,54.48,19152725,SHIGARE APEKSHA SHIVAJI,F,OPEN,1,LOPEN,,101,Chemical,101,Chemical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",#,2.0
+1375,3823,85.76,19145293,SHAIKH SAQUIB SHAIKH SAHFIQUE,M,OBC,2,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1376,4719,84.79,19154439,INGLE VAISHNAVI SANJAY,F,OBC,2,GSEBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",*,3.0
+1377,7922,81.7,19133970,DESHMUKH ABHILASHA VIJAY,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1378,8502,81.21,19122060,LADDHA GANESH ANILKUMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1379,12972,77.82,19158795,GULVE AJIT LALCHAND,M,SC,4,GSC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",&,4.0
+1380,13412,77.52,19139177,MAHAJAN KAIWALYA GANESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",#,2.0
+1381,19968,73.45,19108829,INGOLE SAMRUDDHI DHANANJAY,F,NT1,7,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1382,21537,72.61,19135030,JADHAO SANDHYA GAJANAN,F,SC,4,LOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1383,25733,70.55,19142774,YASHAWANTE LATA JAGANNATH,F,SC,4,LOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1384,28353,69.33,19137637,PADGHAN APURVA SURESHRAO,F,OBC,2,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1385,30938,68.17,19149210,HIWALE SWATI BHIMRAO,F,SC,4,GSEBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",&,4.0
+1386,35411,66.24,19157486,DESHMUKH VAISHNAVI SUNIL,F,OPEN,1,LOPEN,,302,ENTC,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1387,37767,65.27,19158987,MANDVEKAR DNYANESHWAR SHRIKRISHNA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1388,39315,64.63,19148872,RAUT VAIBHAV BABURAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1389,39509,64.55,19148273,MOHAMMAD UBAIDULLAH SHAIKH ANSAR,M,OPEN,1,LSEBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",&,4.0
+1390,40716,64.0,19122968,JADHAO RUSHIKESH BHUJANGA,M,OPEN,1,LSC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1391,41672,63.64,19147306,AHIR RUSHIKESH SANJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1392,43007,63.03,19136734,POPHALKAR SANKET JIVAN,M,NT1,7,GNTB,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1393,43157,62.97,19141544,BHIDE ADESH NAGESH,M,SC,4,GSC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1394,43162,62.97,19121543,KHIRADE ASHISH APPA,M,SC,4,GSC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1395,46033,61.58,19149035,WADEKAR NITESH NAMDEV,M,OBC,2,GOBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1396,47275,60.91,19136685,DHUNDALE PRATIK ARUN,M,NT3,9,PHO,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1397,47865,60.61,19137054,NAGRE VAIBHAV BHAGWAN,M,NT3,9,DFNTD,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",&,4.0
+1398,48203,60.41,19157051,KADAM WALMIK ATMARAM,M,OBC,2,GNTC,,401,Machanical,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1399,48578,60.18,19137815,MOREY VIRENDRA SUBHASHSING,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1400,51075,58.36,19143087,VIVEK VISHNU DESHMUKH,M,OPEN,1,GST,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1401,52001,57.39,19151410,RAUT AKSHAY DEVIDAS,M,OBC,2,GOBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",#,2.0
+1402,53040,55.89,19157721,IRATKAR VIVEK BHAGWAT,M,OBC,2,LOBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1403,53545,54.85,19155517,GAYAKWAD AJINKYA MADAN,M,OBC,2,LOBC,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+1404,54138,52.73,19139584,SHAIKH MOHD DANISH JAFER,M,OPEN,1,LST,,201,Civil,201,Civil,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",#,2.0
+1464,4674,84.85,19139409,PATIL CHETAN DILIP,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1465,8201,81.45,19118871,NAIK VIKRANT ONKAR,M,SC,4,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1466,20771,73.03,19108650,GAWADE MAYURI RAVINDRA,F,OBC,2,LOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1467,26852,70.0,19150902,BHALERAO RUSHIKESH VISHWANATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1468,32242,67.59,19120764,SOLANKE AKSHAY BABUSING,M,ST,6,LST,,302,ENTC,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1469,32745,67.38,19158843,NIWANE SHUBHANGI VILAS,F,OBC,2,LOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1470,34188,66.79,19149832,NEVE HARSHAL RAJESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1471,35637,66.18,19125111,SHAHAB UL HAQUE ABDUL HAQUE,M,OPEN,1,LOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+1472,37050,65.58,19150913,GORE AKSHAY LAXMAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1473,37059,65.58,19146415,CHAUDHARI KIRAN MAGAN,M,OBC,2,GOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1474,37630,65.33,19138914,NARKHEDE SUJAY VISHWAS,M,OBC,2,GOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1475,38345,65.03,19130844,TAYADE MOHIT PRAVIN,M,SC,4,GSC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1476,38961,64.79,19158703,SAPKAL PANKAJ DILIP,M,OBC,2,GOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1477,40285,64.24,19146282,WAGHODE RUSHIKESH DNYANDEV,M,OBC,2,GOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1478,41518,63.7,19120535,PATIL NANDLAL RAMESH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1479,43226,62.91,19146502,MORE VISHAL MADHUKAR,M,SC,4,LSC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1480,43530,62.79,19115740,SARODE SHUBHAM SURESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1481,43916,62.61,19149090,DHAYADE HRISHIKESH SHRIKRISHANA,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1482,44386,62.37,19114626,SONAWANE DHIRAJ SHANTARAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1483,45063,62.06,19114895,DESHMANE GANESH LAXMAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1484,45799,61.7,19146689,NHAVKAR RAHUL DATTATRAYA,M,OBC,2,GOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1485,46501,61.33,19154099,GHATE AMARDEEP GAJANANRAO,M,OBC,2,LOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",*,3.0
+1486,46624,61.27,19119041,GHUGE SWARUP SUNILRAO,M,NT3,9,LOPEN,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1487,47293,60.91,19157016,SHAIKH RAHIM SHAIKH RAMJAN,M,OPEN,1,PHO,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+1488,48051,60.48,19150151,MAHAJAN ANKIT NANDKISHOR,M,OPEN,1,GSEBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1489,48765,60.06,19145135,PATIL DEVENDRA MANOHAR,M,OBC,2,PHOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1490,49343,60.0,19150238,PAWAR MAYUR MURLIDHAR,M,ST,6,GST,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1491,50053,59.21,19125775,SHEKH SAEED SHEKH BABAR,M,OPEN,1,LSEBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1492,50294,59.03,19157067,SONAWANE KHUSHAL SHIVAJI,M,SC,4,GSC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+1493,50297,59.03,19148064,SUKHSOWALE RUSHIKESH KISHOR,M,OBC,2,GNTB,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+1494,50847,58.56,19116034,TAYDE ADITYA RAJESH,M,OBC,2,GST,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1495,51131,58.3,19139670,PATIL TEJAS RAJESH,M,OPEN,1,GSEBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",*,3.0
+1496,51135,58.3,19120210,GOVIND SHRIRAM NANASAHEB,M,SC,4,GSC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1497,51633,57.82,19136449,MUKUND SHRIKRUSHNA VINAYAK,M,OPEN,1,LSEBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+1498,52690,56.42,19138776,JOSHI ABHINAY ARVIND,M,OPEN,1,DFNTD,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",*,3.0
+1499,52968,56.0,19152965,PATIL DHIRAJ RAJENDRA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1500,53326,55.38,19139564,JADHAO GOPAL DILIP,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1501,53786,54.18,19158619,KALASKAR YOGESH PRAKASH,M,SC,4,LSC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",*,3.0
+1502,54048,53.21,19138611,GHOGARE PALLAVI VASANT,F,OBC,2,LOBC,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1504,3299,86.42,19148427,SOLANKI GOPAL NARAYAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+1505,4500,85.03,19134864,JAMODE VAISHNAVI ANIL,F,OBC,2,LOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+1506,5140,84.36,19116486,HONALE ATUL BHANUDAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1507,10526,79.58,19123182,TAYADE VAISHNAVI MANOHAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1508,15715,75.94,19129195,DEHANKAR ABHISHEK VILASRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+1509,17805,74.97,19115722,SWANSIYA AJIT PURUSHOTTAM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1510,17834,74.97,19124509,HAGE PRITESH RAJESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1511,18536,74.24,19141950,TAYDE MAYURI SHIVDAS,F,OBC,2,LOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1512,19339,73.81,19142492,CHAUDHARY PRASAD VILAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1513,20754,73.03,19129051,GITE NITU MAHADEV,F,NT3,9,GOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1514,21304,72.73,19130516,JATHE DHANASHRI HANUMANTRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1515,21337,72.73,19121001,MALI KAILAS GAJANAN,M,OBC,2,GOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1516,21662,72.55,19128856,KALASKAR SONAM PRAKASH,F,SC,4,GSC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1517,23941,71.39,19142639,RAKSHASKAR SWARAJ GAUTAM,M,SC,4,GSC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1518,23946,71.39,19117179,SODE RIYA NARENDRA,F,ST,6,GST,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1519,25240,70.79,19134741,GURJAR PRANALI VINAYAKRAO,F,OBC,2,GOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1520,26721,70.06,19132429,KALAMKAR VIVEK RAMESH,M,OBC,2,GOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+1521,26814,70.06,19119564,ADITYA JAGDISH DHOK,M,OBC,2,GOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1522,27578,69.7,19113333,JETHWA SHAILESH UMESH,M,OBC,2,LSEBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1523,32068,67.69,19131013,ATOLE DHANASHREE RAJARAM,F,OBC,2,LOPEN,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1524,32140,67.64,19144822,PATIL KUNDAN BHAGWAN,M,OBC,2,LSEBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1525,33730,66.97,19153699,METKAR SNEHAL KISHOR,F,OBC,2,LOBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1526,34871,66.48,19134613,SHINDE NIKHIL SHANKARRAO,M,SC,4,GSC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+1527,35877,66.06,19151412,CHARATE SOURABH RAJENDRA,M,SC,4,LSC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1528,38199,65.09,19132716,DHORE APURV AJAY,M,OBC,2,PHO,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",&,4.0
+1529,38360,65.03,19159064,DHAYE MANISH GAJANAN,M,OBC,2,PHNTD,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+1530,38626,64.91,19157270,HINGANE RAM VINAYAK,M,OBC,2,GSEBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1531,39619,64.48,19106617,DHOKE ROHIT SUNIL,M,NT2,8,GNTC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1532,42359,63.33,19112778,KHASERAO GANESH VIKAS,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1533,47524,60.79,19149812,RATHOD BHAKTI GAJANAN,F,ST,6,GST,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1534,50712,58.67,19103922,GIRI SATYAM VIDHYANAND,M,NT1,7,DFNTB,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+1536,6979,82.61,19128100,ZAMBRE SHRADHA RAJESH,F,OBC,2,LOBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1537,6993,82.61,19159464,JUNARE SHRIKRUSHNA AMBADAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1538,7172,82.42,19112966,MUZAMMIL KHAN MAZHAR KHAN,M,OPEN/EWS,5,DFNTB,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",*,3.0
+1539,8205,81.45,19122751,WANDHE RUPALI GUNWANTA,F,OBC,2,PHOBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+1540,18202,74.55,19132213,JAWKAR SAURABH JAGANNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1541,18784,74.12,19146532,SHAIKH MOHD AHEFAZ SHAFIQUE,M,OPEN,1,LSC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1542,21443,72.67,19153510,JUNARE VAISHALI SANJAY,F,OBC,2,LOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1543,26601,70.12,19147337,GHENGE ANKIT GAJANAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1544,27591,69.7,19118807,IKHARE SUREKHA SHESHRAO,F,SC,4,LOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1545,30081,68.55,19118099,THAMKE JAYASHRI GAJANAN,F,OPEN,1,GST,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1546,33275,67.15,19140285,DHURDE VAIBHAV MAROTI,M,OBC,2,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1547,34848,66.48,19127362,INGLE SIDDHARTH KISAN,M,SC,4,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1548,35451,66.24,19116870,NIMKARDE PRAJAKTA RAJENDRA,F,OBC,2,LOBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1549,36101,66.0,19154788,SOLANKE GANESH SHIVAJI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1550,38371,65.03,19135386,SHAHBAZ KHAN JAVED KHAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1551,42476,63.27,19120568,MASANE TUSHAR SHRIKANT,M,OBC,2,LST,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1552,43129,62.97,19120725,BHISE RUCHI RAMRATAN,F,OBC,2,GNTC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1553,43272,62.91,19146817,CHIPADE PAWAN SURESH,M,OBC,2,GOBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1554,48178,60.42,19109151,MAJAGE VISHAL GOPALKRISHNA,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1555,49629,60.0,19122946,RATHOD MOHINI GANESH,F,DT/VJNT(A),11,GSEBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+1556,50381,58.97,19145869,MALWANDE NILESH VIJAY,M,SC,4,GSC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+1557,50763,58.65,19142100,RATHOD PUNAM DIGAMBAR,F,DT/VJNT(A),11,GSEBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1558,51085,58.36,19158239,MURHE RUSHIKESH SOPAN,M,OPEN,1,LSEBC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+1559,51692,57.75,19139402,WAKODE CHETAN DINKAR,M,SC,4,GSC,,201,Civil,201,Civil,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+12819,869,90.71,19144447,LANDE KIRAN SOPAN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12820,2699,87.19,19143965,HARWANI HARSHIKA DEEPAK,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+12821,4463,85.06,19151636,WAGH TEJAS KAILAS,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+12822,4511,85.0,19136879,BUTE AISHWARYA RAJKUMAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12823,10382,79.69,19152278,DAKE PRATIKSHA DATTU,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12824,11427,78.94,19112590,WANKHADE SONAL RAMESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12825,13257,77.63,19111868,JOSHI SHIVANI SANJAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12826,25826,70.5,19133494,JUGNAKE SHRIKANT LAHOO,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12827,5610,83.88,19117349,UBARHANDE MANISHA NARENDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12828,5760,83.75,19150174,NIRMAL SHIVANI BABURAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12829,6149,83.38,19102745,JADHAV RADHIKA SUNIL,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+12830,9059,80.75,19125235,SATHE MONISH ARUN,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12831,9339,80.5,19128846,DESHMUKH ROHITRAJ SANJAYRAO,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12832,10002,80.0,19114194,CHAUHAN KARTIK HARSUKHABHAI,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12833,23861,71.44,19111890,VISHAL ARUN KOTHALKAR,M,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12834,50398,58.94,19144285,PENDAM AMIT ANIL,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+13136,16534,75.44,19148561,DUKRE KOMAL ANANTA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+13137,17452,75.0,19127479,BAWASKAR PRANJAL MANOHAR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+13138,24396,71.19,19102011,KALE SWAPNIL UTTAM,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+13139,28684,69.18,19108088,THENG INDRAJEET SANTOSH,M,OPEN,1,GSC,,302,ENTC,301,Computer & IT,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+13145,30991,68.12,19130380,MIRKUTE ANUP VILAS,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",&,4.0
+13275,28249,69.38,19145160,RUDRAKSH AKSHAY ADINATH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",*,3.0
+13276,39,61.65,19144603,GAIKAWAD MANISHA RAJENDRA,F,OPEN,1,LOPEN,,0,,301,Computer & IT,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",&,4.0
+13277,45,61.21,19139277,ENDOLE KOMAL VILAS,M,OPEN,1,GOPEN,,0,,301,Computer & IT,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",&,4.0
+13563,26063,70.38,19102949,LONDHE TRUNAL GAJANAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13564,27615,69.68,19144842,JAISWAL SANJANA JAGDISH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13565,29891,68.65,19147835,PATIL YOGESHRI BHAGWAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13566,32250,67.59,19132412,PATIL AKSHATA RAMESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13567,33272,67.16,19142843,KHACHANE HARSHADA RAJESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13568,33912,66.88,19146252,BOBADE SACHIN SHRIKRUSHNA,M,OBC,2,GOBC,,401,Machanical,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13569,34037,66.84,19138718,TAYADE POOJA SANJAY,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13570,37500,65.38,19147169,MANKHAIR GOPAL TRAMBAK,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13571,37800,65.25,19133150,KAKADE AKSHAY SOPAN,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13572,39056,64.75,19127319,JOGUWAD AVINASH BHAGWAN,M,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13573,39732,64.44,19146266,CHAUDHARI PRANJALI PANDURANG,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13574,40609,64.06,19132561,CHAUDHARI SHUBHAM GOVINDA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13575,43876,62.65,19155868,PATIL SHRIKANT BHAGWAT,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13576,44482,62.35,19143124,BORADE MAYUR PRAKASH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13577,46346,61.41,19157045,DESHMUKH TUSHAR GAJANAN,M,OPEN,1,GSC,,302,ENTC,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13578,46784,61.19,19148635,BORLE VAIBHAV PRADIP,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13579,47699,60.7,19115127,SAVKARE HARSHAL SANJAYKUMAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+13580,49553,60.0,19134907,PATIL SHUBHAM PRAMOD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13581,50485,58.88,19150957,WANKHADE SACHIN VINAYAK,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13582,51867,57.55,19151297,SHARMA RASHMI RAJENDRA,F,OPEN,1,DFO,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13583,54109,52.88,19149272,BEHZAD ARIF MOHAMMAD HAROON,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+13600,9354,80.5,19140083,THEROKAR DHANSHRI MURLIDHAR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+13601,10476,79.61,19135836,BAJODE SEJAL GAJANAN,F,NT2,8,LOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+13602,10793,79.38,19104731,PHIRKE SHRUTI PRADIP,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+13603,11581,78.81,19128304,GAWANDE NARAYAN PARASHARAM,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+13604,15292,76.19,19127769,DUTONDE ANJALI BALKRUSHNA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+13605,16453,75.48,19124202,SALAMPURIYA CHANCHAL GIRIDHARI,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13606,19640,73.63,19144086,MALOKAR AARTI SONAJI,F,NT1,7,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13607,19883,73.5,19101829,YADAV SURBHI RAVINDRA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13608,20201,73.31,19128389,WASKAR AMRUTA MAHAVIR,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13609,21851,72.44,19130816,WANI PRANITA PRAMOD,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+13610,23499,71.61,19130585,DALI VAISHNAVI RAMDAS,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13611,28395,69.31,19140082,SHOEB AHMAD KHAN AKHTAR KHAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13612,28794,69.13,19106092,MHALA RUSHIKESH GANESHRAO,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13613,31281,68.0,19132670,MOHAMMAD AADIL MOHAMMAD ASIF,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13614,32652,67.41,19125697,MALI PRAVIN SARANGDHAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+13615,36068,66.0,19153366,DESHMUKH SHWETA DNYANESHWAR,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13616,36288,65.88,19128097,MURHE PRAGATI SUBHASH,F,OBC,2,GST,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13617,42121,63.42,19101989,CHAVAN SAURABH RAJENDRA,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13618,44599,62.29,19129788,KALE AKSHAY SANJAY,M,OBC,2,GNTA,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+13619,45159,62.0,19150716,MANKAR VAISHNAVI PANDURANG,F,OBC,2,GSEBC,,301,Computer & IT,301,Computer & IT,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+13628,14294,76.88,19144521,SHAIKH AJMAL SHAIKH AKBAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+13629,17654,75.0,19149390,DABHADE SAGAR GAJANAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+13630,21470,72.65,19159454,WANKHADE NIKITA PRAKASH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+13631,22759,72.0,19159401,DALI JAYSHRI NARAYAN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+13632,25336,70.75,19139957,MHASAL PRATIKSHA SANTOSH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",&,4.0
+13633,34794,66.52,19158262,BELOKAR VAISHNAVI VASANTA,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+13634,46669,61.25,19158938,AKHARE VISHAKHA KESHAV,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+24593,2251,87.94,19137045,SANGLE PRAJAKTA JANARDAN,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24594,4479,85.06,19128266,BHUSARI GATHA RAVINDRA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24595,4793,84.71,19137234,CHAVAN PRIYANKA GANESH,F,NT1,7,LOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24596,6442,83.12,19145620,YELANE RUSHIKESH MOHAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24597,6491,83.06,19148081,AMBADKAR PURVA VIJAY,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24598,8090,81.56,19130416,GOHATRE ADITYA CHANDRAKUMAR,M,NT2,8,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24599,9191,80.63,19145049,KATHANE ADITYA AMBADAS,M,SC,4,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24600,9470,80.41,19135283,BHAMBERE SHRADDHA SHIVAJI,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24601,9834,80.12,19140136,SHINGADE SANKET SANJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24602,10603,79.53,19101898,RAUT MANOJ DILIP,M,OBC,2,GST,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+24603,10975,79.25,19137035,SANGLE ASHWINI ASHOK,F,OBC,2,LOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24604,11647,78.76,19126237,KOLHE VAISHNAVI VISHNU,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24605,13641,77.35,19125415,JADHAV PRATIK DATTATRAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24606,14224,76.94,19137726,JAISWAL JANHAVI SATISH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24607,14491,76.76,19146234,BHOJEKAR PRANIT RAVINDRA,M,NT1,7,GNTB,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24608,15889,75.82,19136712,SONONE ASHWINI RAJESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24609,16672,75.35,19127829,KHANDARE ADITI GANESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24610,16919,75.19,19142586,RAUT NIDHI SURESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24611,17564,75.0,19145038,JADHAV RAHUL BAPUSAHEB,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24612,18291,74.41,19129502,SAKHARE RUJUTA MADHUKAR,F,SC,4,GSC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24613,20335,73.24,19136646,JAWALKAR SHRADDHA SUBHASH,F,OBC,2,PHO,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24614,23084,71.82,19138972,ZAMBRE GAURI SURESH,F,OBC,2,GST,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24615,24555,71.12,19137421,HATTEL NISHA KEWAL,F,SC,4,LSC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24616,24865,70.94,19127477,DAYMA VAISHNAVI SHRIKANT,F,OPEN/EWS,5,LNTC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24617,29588,68.76,19133319,MANKAR ADITYA PRAKASH,M,OBC,2,GSEBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24618,29995,68.59,19143301,DUKARE LAXMAN BHANUDAS,M,OBC,2,GSEBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24619,32253,67.59,19102452,GAWANDE PRAJWAL VASANT,M,OBC,2,LSEBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+24620,32371,67.53,19134205,MUFEES AHMAD SHAIKH ANIS,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24621,32510,67.47,19124137,SULTANE MILIND MADHUKAR,M,SC,4,PHSC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24622,32640,67.41,19118309,BHAVSAR DIVYA SANJAY,F,OBC,2,LSEBC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24623,32800,67.35,19157747,MAHORE RASHMITA GAJANAN,F,NT1,7,DFNTD,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24624,37108,65.53,19143764,THATE DHIRAJ BABURAO,M,SC,4,GSC,,302,ENTC,302,ENTC,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+24883,25547,70.65,19122358,SAYALI SUNIL JOSHI,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+24884,41075,63.88,19158143,SAUDAGAR MD SHAHAROJ MD ARIF,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+25342,33206,67.18,19143417,HISSAL SHUBHAM SHANKAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+25343,37098,65.53,19133844,SHELKE REVATI BABURAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+25344,39123,64.71,19128281,WAGH PRANJALI SUDHIR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+25345,47823,60.63,19145508,BOMBATKAR VAIBHAV SUKHADEO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+25346,48310,60.35,19123739,PAWAR ADITYA RAJESH,M,NT1,7,GOPEN,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+25347,50546,58.82,19132129,SHAH AISHWARYA SWAPNIL,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+25406,12596,78.06,19123407,AMBUSKAR SAKSHI SHITALKUMAR,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+25407,17421,75.0,19139661,MAHARKHEDE MEGHA RAVINDRA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+25408,22957,71.88,19155688,MULATKAR BHAVANA GAJANAN,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+25409,31628,67.88,19155789,MAKHEJA URWASHI JAYPRAKASH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+40990,1075,90.18,19106268,BODADE RUSHIKESH DINESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40991,1331,89.58,19117467,RAJPUT MANSI UDAYSINGH,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40992,2885,86.94,19106570,ROSHAN GAJANAN RAJAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40993,3451,86.24,19140870,WAGH ASHWINI PRAKASH,F,OBC,2,GOBC,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40994,10362,79.7,19120699,KULKARNI GAYATRI AJIT,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40995,12030,78.48,19122395,GAIKWAD SACHIN VITTHAL,M,SEBC,3,LSEBC,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40996,14525,76.73,19126140,SHEKOKAR SHUBHAM MADHUKAR,M,SC,4,GSC,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+40997,33709,66.97,19143799,PATIL PRASAD TEJRAO,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+40998,42053,63.45,19144881,TEKAM LAXMIKANT VASANT,M,ST,6,GST,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+41184,19525,73.7,19122793,MORE NIKHIL JAGDISH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41185,28088,69.45,19139206,PATIL AKSHAY GAJANAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41186,30553,68.35,19153475,LODWAL NAMRATA RAMKISAN,F,OPEN,1,LOPEN,,302,ENTC,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41187,37169,65.52,19136876,RANE SURAJ PRAMOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41188,39172,64.71,19106807,LONDHE SHUBHAM VIJAY,M,OBC,2,GOPEN,,302,ENTC,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41189,39492,64.55,19157784,ARAKH PRIYA SUNIL,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",&,4.0
+41190,40039,64.3,19155831,GADEKAR AKASH GAJANAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41191,40421,64.18,19155829,BHALERAO PALLAVI ARVIND,F,OPEN,1,LOPEN,,302,ENTC,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41192,45161,62.0,19154111,SHINGADE SURAJ GULABRAO,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41193,45759,61.7,19122536,JADHAO HARSHAL GAJANAN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41194,46447,61.35,19152533,KHADE AKASH BHIMRAO,M,SC,4,GOPEN,,401,Machanical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41195,47406,60.85,19133622,CHORE SAURABH PRAVIN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",&,4.0
+41196,48350,60.3,19158388,KHARCHE POOJA GANESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41197,51520,57.94,19144563,BHOLANE NITA PANDURANG,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41198,52848,56.18,19147699,DONGARDIVE SANDESH SURESH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+41428,21083,72.85,19143959,KHADE SHANTANU KISHOR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+41429,22457,72.12,19143647,BHARAMBE NISHANT PRAMOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+41430,24946,70.91,19105503,TIDKE VIKEE ASHOK,M,SC,4,GOPEN,,304,Electrical,304,Electrical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",&,4.0
+41646,14937,76.44,19149485,JADHAV SUPRIYA SHAILENDRA,F,SC,4,PHSC,,301,Computer & IT,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",*,3.0
+41647,18742,74.12,19107209,MORE NEHA SHESHRAO,F,NT1,7,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41648,22126,72.3,19136661,PATIL BHUSHAN KIRAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41649,25376,70.73,19152922,INGALE MINAKSHI PURUSHOTTAM,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41650,25837,70.48,19148616,PATIL RUTUJA ARVIND,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41651,27058,69.94,19154394,BONDE AMOL GANESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41652,27134,69.88,19139717,CHOPADE MAYURI ANIL,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41653,27139,69.88,19154080,PANZADE POONAM BALVANT,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41654,27573,69.7,19139637,GOSAVI SHUBHAM VINOD,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41655,33848,66.91,19155606,PATIL RAJAT PRAKASH,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41656,33869,66.91,19156430,KHAN RAHILHABIB,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41657,38687,64.88,19139112,NAPHADE VAISHNAVI VILAS,F,OBC,2,LOBC,,302,ENTC,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41658,40061,64.3,19149148,SAWALE KIRAN RAVINDRA,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41659,40413,64.18,19139167,KOLI SURAJ SUBHASH,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41660,40543,64.12,19146451,KALE KUNDAN NARAYAN,M,OBC,2,GNTA,,302,ENTC,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41661,41161,63.82,19127968,GADEKAR MOHIT VIJAY,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",#,2.0
+41662,41255,63.81,19148604,BHAGAT VAIBHAV RAMESH,M,OBC,2,LNTC,,302,ENTC,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41663,42094,63.45,19155894,PATTHE SHEETAL BHAVSING,F,SC,4,LSC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41664,42641,63.21,19141195,INGALE NIRAJ RAMESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41665,43366,62.85,19146389,WARADE SURESH VIKAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41666,43553,62.79,19140699,RAKHONDE AKSHAY VIKRAM,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41667,43555,62.79,19125900,SONAWANE SHUBHAM MOHAN,M,SC,4,GSC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41668,44316,62.42,19156130,GHOGALE SWAPNIL RAMBHU,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41669,46015,61.58,19129169,KANDELKAR SHUBHAM SANJAY,M,SBC/OBC,10,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41670,46484,61.35,19156459,MORE AKSHAY BALU,M,SC,4,GSC,,302,ENTC,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41671,47207,60.97,19143033,PATIL KRUSHNA BRIJALAL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41672,47212,60.97,19155659,ATTARKAR AKSHAY NIVRUTTI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41673,47881,60.59,19134853,WAGHULADE GIRISH RAVINDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41674,48516,60.24,19148896,TAYADE NITIN NIVRITTI,M,SC,4,GSC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41675,48623,60.18,19130232,TAYDE MAMTA ASHOK,F,SC,4,LSC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41676,48762,60.06,19136951,PATIL MANGESH MAHADEO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41677,49203,60.0,19140519,UGALE RAHUL KAILAS,M,OBC,2,LNTD,,302,ENTC,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41678,50107,59.15,19149446,LONKAR SURAJ SHIVAJI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41679,50109,59.15,19133525,PATIL JAYESH SANJAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41680,51622,57.82,19139144,MAHURKAR ANKIT PRAKASH,M,OBC,2,LOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41681,51850,57.58,19139622,SHEGOKAR VAIBHAV RAVINDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41682,52199,57.15,19146444,GHANOKAR SHUBHAM GOPAL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41683,52394,56.91,19155870,PATIL SHUBHAM SUBHASH,M,OBC,2,GSC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41684,52887,56.12,19139270,KAHAR PRASHANT DINESH,M,NT1,7,LNTB,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41685,53613,54.69,19149305,SHAIKH YOUNUS SHAIKH ANEES,M,OPEN,1,GSEBC,,401,Machanical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41686,54100,52.91,19139097,DESHMUKH TEJASWINI RAJESH,F,OPEN,1,GST,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41687,54432,49.94,19139251,DABHADE SHIVANI ANIL,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+41688,4,82.5,19139268,PATIL GANESH YUVARAJ,M,OBC,2,LST,,0,,304,Electrical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+41698,3677,85.94,19108847,SHAHANE KETAKI DINANATH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",@,5.0
+41699,4259,85.27,19140407,MALOKAR PALLAVI PRAKASH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41700,10682,79.45,19135384,INGLE VISHNU SANTOSH,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+41701,10948,79.27,19108544,KAHAR RUPESH ASHOK,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+41702,13673,77.33,19141100,AWACHAR ABHAY SANJAY,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41703,21103,72.85,19159146,NIMKARDE PRATIKSHA GANESHRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",@,5.0
+41704,21869,72.42,19124261,MOHAMMAD NOMAAN ABRAR AHMAD,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41705,23832,71.45,19136072,PATIL VAISHNAVI DINESH,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",&,4.0
+41706,26211,70.3,19101540,NAPHADE ANKITA RAJESH,F,OBC,2,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",&,4.0
+41707,26339,70.24,19126129,KALYANKAR MANSI DIPAK,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41708,26743,70.06,19127184,BAWANE VIJAY SUBHASH,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41709,27013,69.94,19103875,WANKHADE PRATIBHA SURESH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41710,27031,69.94,19136325,AGHADATE POOJA NAJUK,F,NT2,8,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41711,29545,68.79,19147528,HANDE VAISHNAVI MADHAV,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41712,32052,67.7,19123559,DUDANDE NEHA GOPALRAO,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41713,36241,65.94,19114951,DABERAO SUNIL EKNATH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41714,38634,64.91,19111986,KANKALE PRANAV ANIL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+41715,38655,64.91,19112336,GUJAR URVASHI RAVINDRA,F,OBC,2,LOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41716,40329,64.18,19126876,PARADE SWATI RAVINDRA,F,SC,4,LSC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41717,41183,63.82,19105399,JOSHI GANESH BHUPENDRA,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41718,42621,63.21,19158712,KHADE PRASAD ANIL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",&,4.0
+41719,44527,62.3,19147958,PACHPOR PRATHAMESH SURENDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41720,45525,61.82,19119947,HINGMIRE SHUBHAM SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41721,47582,60.76,19135621,TAUR RUSHIKESH DATTATRAY,M,OPEN,1,GOPEN,,302,ENTC,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41722,48438,60.24,19148319,KHANDAGALE GAURAV PRAMOD,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41723,48910,60.0,19115081,SHINGOTE SHIVAM GANESH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",&,4.0
+41724,51012,58.42,19142418,BAWNE ASHISH SHRIKRUSHNA,M,NT1,7,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41725,53289,55.45,19119509,SHEJAO DILIP BHIMRAO,M,SC,4,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41752,15487,76.06,19142654,SATAO SUMIT ANANTA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41753,18081,74.97,19141244,DANDAGE VISHAL RAMESH,M,SC,4,GSC,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",*,3.0
+41754,32444,67.52,19109094,CHIPADE MAYUR MAHADEO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41755,34723,66.55,19101001,BHOJANE ANKUSH GAJANAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41756,40745,64.0,19152576,SOLANKE KISHOR YASHVANT,M,ST,6,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+41757,43259,62.91,19159338,WAGH SHUBHAM JAGANNATH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41758,47829,60.61,19145972,MANKAR ANANTA MANOHAR,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",&,4.0
+41759,48812,60.06,19135194,GOND VIJAY NIVRUTTI,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41760,51805,57.64,19156501,RAVANKAR RUSHIKESH DNYANESHWAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41761,51901,57.52,19120709,ROHANKAR PRANAV PANDURANG,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41762,54431,49.94,19133250,INGLE PRAFULLAKUMAR BALASAHEB,M,SC,4,GSC,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41763,54463,49.45,19159297,MOHAMMED SOHAIL MOHAMMED ZAHEER,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+41764,54531,47.39,19151139,KHAN FAWWAD AHMAD SAJJADULLA,M,OPEN,1,LOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+50198,1067,90.18,19131924,BAL ANJALI SURESH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50199,3420,86.29,19136566,SHENDE KUNAL SHIVLAL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+50200,3554,86.12,19101235,ANAS KHAN AASIF KHAN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50201,3754,85.88,19111185,FASATE PRATIK ANIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50202,4226,85.31,19127869,LADOLE ROSHAN PURUSHOTTAMRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50203,5278,84.24,19123640,KHADE KRUSHNA MOHAN,M,OPEN,1,LST,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+50204,6045,83.47,19132177,KADU KUNAL SHAMRAO,M,OBC,2,DFO,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50205,6145,83.38,19119394,INGLE PANKAJ SHAMRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50206,7132,82.47,19135609,KALE SAKSHI ARUN,F,OBC,2,GOBC,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+50207,7921,81.71,19145329,CHHADI SHUBHAM ASHOKSINGH,M,DT/VJNT(A),11,PHNTC,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",*,3.0
+50208,10401,79.65,19131705,BHOSALE BHARATI DHAIRYSHIL,F,SEBC,3,LSEBC,,401,Machanical,401,Machanical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+50483,17779,75.0,19118785,SUROSHE PRATIK VINAYAK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50484,26009,70.41,19115932,HIWALE AJAY SUNIL,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50485,28933,69.06,19109374,MOMIN MOHAMMED SUZAN MOHAMMED IMRAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",*,3.0
+50486,29700,68.71,19119051,POTDUKHE SANTOSH KASHINATH,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",*,3.0
+50487,32496,67.47,19117918,KAKDE AANANTA RAMDAS,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50488,38213,65.09,19142573,INGALE MAYUR RAJVILAS,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50489,38706,64.88,19138867,SHINDE PAVAN MOHAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50490,42019,63.47,19117260,DANDE DATTA MUKUND,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50491,43467,62.82,19140425,DANISH MOHAMMED AEJAZULLAH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",^,1.0
+50492,45299,61.94,19106579,WAHEED HUSAIN SAJID HUSAIN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1119,Buldhana,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali",&,4.0
+50785,22226,72.24,19135546,CHAVAN KIRAN TOTARAM,F,DT/VJNT(A),11,LOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50786,24684,71.06,19118474,GOLECHHA CHATANYAKUMAR PAVANKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",*,3.0
+50787,37101,65.53,19119660,WAGHOTKAR GOPAL ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50788,38456,65.0,19111790,ALTAMASH AZIMUDDIN ANSARI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50789,41849,63.53,19127487,JADHAO SWARAJ KADUBA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50790,43178,62.94,19136360,KHANDERAO JAYKUMAR LAHANU,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50791,45408,61.88,19155879,TIPARE GAJANAN BABULAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50792,46594,61.29,19115567,UGALE VAIBHAV RAJENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50793,46950,61.12,19134612,NAPTE SHUBHAM SUBHASH,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50794,48210,60.41,19159090,WAYAL VIKAS VITTHAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50795,48612,60.18,19159654,TUSHAR VITTHAL SAPKAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50796,49649,60.0,19158762,TICHKULE ROHIT KIRAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50797,49654,60.0,19139759,FALE VISHAL PRAMOD,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50798,50015,59.24,19148552,JADHAL ANKUSH RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50799,50644,58.76,19151118,KHADE ADESH DEVANAND,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50800,51608,57.82,19152245,JADHAO HARISH BHAURAO,M,DT/VJNT(A),11,GOPEN,,401,Machanical,401,Machanical,1125,Buldhana,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana",^,1.0
+50996,13529,77.41,19134363,TAKALKAR GAURAV RAMCHANDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+50997,23764,71.47,19120665,NAVED KHAN NISAR KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+50998,53428,55.18,19109865,JADHAV SWAJEET DINANATH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1130,Buldhana,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon",^,1.0
+51137,11011,79.24,19148337,GAWANDE UMESH GAJANAN,M,NT2,8,GOPEN,Physical impairment,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+51138,15467,76.12,19151162,CHOPADE DNYNESHWAR JANRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51139,19585,73.65,19149915,KHARCHE VAIBHAV ASHOK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51140,19673,73.59,19137324,KSHIRSAGAR SHUBHAM SHRIKRUSHNA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51141,26794,70.06,19130477,GARUD PRAFULLA JITENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51142,27010,69.94,19136019,PATIL PRUTHVIRAJ MACHHINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51143,29224,68.94,19146371,TAYADE RAJENDRA JANARDAN,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51144,30287,68.47,19136151,PATIL VILAS RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51145,30528,68.35,19137053,GAWANDE NEHA KRUSHNAKUMAR,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51146,32391,67.53,19156447,JADHAV RAHUL DHANRAJ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51147,32546,67.47,19150334,NERKAR MAYUR KAILAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51148,33098,67.24,19136860,NERKAR SHASHIKANT PITAMBAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51149,34222,66.76,19120369,TAYADE SAGAR SHIVAJI,M,SC,4,GSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51150,35066,66.41,19146741,SALUNKHE VIKRANT NIMBA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51151,35325,66.29,19146301,MAHALE PRASHANT VASANT,M,ST,6,GST,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51152,35570,66.18,19126522,REVGADE DNYANESHWAR JANARDHAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51153,35788,66.12,19149920,SALUNKHE VISHAL RAJESH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51154,36106,66.0,19149786,PATIL HEMANT NANABHAU,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51155,37117,65.53,19146401,ATTARDE VENKATESH SUBHASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51156,37991,65.18,19129066,NILE AKSHAY VILAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51157,38238,65.08,19130937,SAWKARE SHEETAL HEMKANT,F,SC,4,LOPEN,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51158,40015,64.35,19146527,BAWISKAR NIKHIL ARWIND,M,SC,4,GSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51159,40695,64.06,19139512,PATIL VISHAL BHAIDAS,M,OPEN,1,LST,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51160,40974,63.94,19129547,KHARCHE SURAJ RAMCHANDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51161,42100,63.45,19128208,PARDHI AKSHAY BHATU,M,ST,6,GST,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51162,43111,63.0,19131043,GHULE KUNAL BALU,M,SC,4,GSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51163,43326,62.88,19133269,PATIL PAVAN VISHNU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51164,43844,62.65,19134867,RAJPUT VILAS GAJANAN,M,OPEN,1,GNTB,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51165,44664,62.24,19139068,ADHAO NILESH BHASKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51166,45012,62.06,19145351,MEDHE PRASHANT PRABHAKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51167,45183,62.0,19133262,LAHANE SHUBHAM BHASKAR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51168,45198,62.0,19147081,PINJARI KAES FAKIRODDIN,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51169,48220,60.41,19145042,PATIL ASHISH KAILAS,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51170,48385,60.29,19138620,SYED SHADAB SYED AMINODDIN,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51171,48585,60.18,19126837,BHOIR SAHIL VIKAS,M,OBC,2,LOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51172,48933,60.0,19133866,SARDAR RAJESH ANIL,M,SC,4,LSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51173,49502,60.0,19138659,CHAUDHARI YASH SUHAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51174,49650,60.0,19153900,KHAROTE KUNAL HEMANT,M,SC,4,LSC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",#,2.0
+51175,50818,58.59,19156463,PARDHE SHUBHAM SANJAY,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51176,51704,57.71,19131000,GAWAI PRATIK SURESH,M,SC,4,LSEBC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51177,51991,57.41,19136091,PATIL PRASHANT RAVINDRA,M,OBC,2,PHNTA,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51178,52049,57.35,19135675,LONE MANGESH BABURAV,M,SBC/OBC,10,PHNTC,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51179,53392,55.24,19142566,RAJPUT GAJENDRASING VIKRAMSING,M,DT/VJNT(A),11,LNTA,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51180,24,64.5,19150751,KALE DIGAMBAR DNYANESHWAR,M,OBC,2,GOBC,,0,,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",&,4.0
+51185,12455,78.18,19137226,BHUSKUTE SONAM GANESHRAO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+51186,13025,77.76,19108271,GAIKWAD ROSHAN SHANTARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51187,14204,76.94,19153016,CHANDULE ABHISHEK VIJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51188,16374,75.53,19159253,VASOKAR DIPAK PRAKASH,M,SBC/OBC,10,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+51189,17400,75.0,19147802,BODADE AJAY RAMDAS,M,SC,4,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+51190,20843,73.0,19126903,SHEIKH AZHARODDIN SHEIKH QAYAMODDIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51191,21813,72.47,19133720,RAUT AJAY RAMDAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51192,23882,71.41,19136155,CHALSE SAURABH RAJESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51193,25992,70.41,19122493,KSHIRSAGAR AKASH AJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51194,26147,70.35,19107935,BHATKAR GAJANAN NAMDEO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51195,36627,65.76,19137201,DESHMUKHSURUSHE ADESH ANIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51196,42547,63.24,19108410,TUMBADE AKASH GAJANAN,M,SC,4,GSC,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51197,44241,62.47,19104365,DONGE AKSHAY KAILAS,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51198,46926,61.12,19142086,BICHARE RUSHIKESH RAGHUNATH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",*,3.0
+51199,47368,60.88,19102756,BORSE NAKUL DIPCHAND,M,NT2,8,GNTC,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",#,2.0
+51200,48717,60.12,19122953,SURYAWANSHI RAKSHANDA DEEPAKRAO,F,NT1,7,LOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51201,50187,59.12,19116946,SOHAIL KHAN ILYAS KHAN,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51202,50553,58.82,19129294,CHAUDHARI GAURAV SHALIGRAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+51233,11997,78.53,19107365,SATPUTALE MAYUR RAMESHWAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+51234,15730,75.94,19129143,SHEVNE VAIBHAV ANIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51235,18388,74.35,19147561,AWACHAR PAVAN SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51236,26678,70.12,19152766,PANDE AKASH SHANTARAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",&,4.0
+51237,27129,69.88,19110480,MHASKE CHANDAN MANIKRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51238,41382,63.76,19145003,ZAMBRE VITTHAL BHASKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",&,4.0
+51239,42429,63.29,19140310,INGALE VINOD NITIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51240,42447,63.29,19135786,PIMPALKAR MANGESH RAMRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51241,45543,61.82,19152692,BHAKRE VITTHAL HARIBHAU,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0
+51242,53892,53.77,19148197,PATHAK VIPIN VINAYAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",^,1.0

@@ -1,0 +1,38 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+4,4,846,90.79,19148502,BIRAJDAR SAURABH DAYANAND,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+9,19,32160,67.64,19109553,WAGH SHUBHAM GAJENDRA,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",^,1.0
+20,696,9488,80.4,19105555,GAWAS MANISHA UMESH,F,SEBC,3,GSEBC,,103,Food Technology,103,Food Technology,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",#,2.0
+31,873,846,90.79,19148502,BIRAJDAR SAURABH DAYANAND,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+50,902,7655,82.0,19121637,DESHMUKH ARPIT KISHOR,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+53,905,25493,70.67,19135233,DESHMUKH VAIBHAVI ANIL,F,SEBC,3,LSEBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+56,908,30749,68.24,19110650,KADAM PRATHMESH PRASHANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+85,937,28095,69.45,19121845,DESHMUKH SHRAVAN DINESHRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+86,938,32452,67.52,19109507,TALE SUSHMIT MADHUKAR,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+116,968,20968,72.91,19124711,THORAT AKASH SUNIL,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",*,3.0
+118,970,31248,68.0,19130781,KADAM AVANTI AVINASH,F,SEBC,3,LSEBC,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+164,1157,31960,67.71,19158678,DESHMUKH PRAJYOT BALWANTRAO,M,SEBC,3,GSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+202,1195,41938,63.52,19127709,INGALE KAUSTUBH MANOJRAO,M,SEBC,3,GSEBC,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+353,1429,50876,58.55,19154412,NALGE DIPRAJ VIJAYRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+360,12801,4454,85.06,19124369,DESHMUKH GOURI MILIND,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+367,12808,6660,82.88,19134485,KOLHE VAISHANAVI KISAN,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+384,12849,41970,63.5,19135343,DESHMUKH PRANAV PRAMOD,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+418,12883,15611,76.0,19124124,KOLSE SAKSHI RAMESH,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+452,12917,31180,68.06,19152979,BHOSALE ADDITYA JAYANT,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+515,12980,34272,66.75,19123774,HARSHE PRATIKSHA BHAGWAT,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+659,13409,28540,69.25,19131590,DESHMUKH VAISHNAVI DILIPRAO,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+709,24533,3027,86.76,19102587,PANDHARE SWAPNIL SURESH,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+710,24534,7202,82.41,19149134,GHOGARE PRAJAWAL PRADIP,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",*,3.0
+723,24633,12681,78.0,19133684,KHADATKAR GAURI SANJAY,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+865,40971,134,94.12,19124145,JADHAV BABASAHEB TUKARAM,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",#,2.0
+867,40973,467,92.12,19115855,MORE PRIYANKA MANIKRAO,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+868,40974,595,91.65,19155022,SHINDE POONAM KAILAS,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+892,41018,26570,70.13,19110597,TAMBE NAYAN ARUN,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+895,41021,37157,65.52,19111635,DESHMUKH SAGAR PRASHANT,M,SEBC,3,LSEBC,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1010,41349,41005,63.88,19102738,ABHIJEET VIJAY MANE,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1068,49489,9060,80.75,19132710,MORE POONAM RAJESH,F,SEBC,3,GSEBC,,303, Medical Electronics,305,Instrumentation,1002,Amravati,"Government College of Engineering, Amravati",#,2.0
+1071,49492,24957,70.91,19138429,AAHER OMKAR VITTHALRAO,M,SEBC,3,GST,,304,Electrical,305,Instrumentation,1002,Amravati,"Government College of Engineering, Amravati",*,3.0
+1082,50177,698,91.29,19110173,GAIKWAD MAHESHWAR DILIP,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1132,50254,42916,63.06,19137742,AJALKAR YASH KISHOR,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1154,50276,40576,64.06,19158302,GHORPADE SAMEER SANJAY,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1178,50300,26004,70.41,19158988,NAYAK SANKET SANTOSH,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+1190,50312,37543,65.35,19151833,ZADE SACHIN KUNDALIKRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",#,2.0

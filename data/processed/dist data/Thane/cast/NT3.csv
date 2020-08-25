@@ -1,0 +1,29 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+27,239,54262,51.88,19157360,SHELKE AKASH YOGESH,M,NT3,9,PHNTD,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+138,3087,8364,81.33,19152188,AVHAD AJAY SHARAD,M,NT3,9,GNTD,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+199,3211,27092,69.94,19138711,DONGARE GAURAV DILIP,M,NT3,9,PHNTD,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+288,3645,38652,64.91,19132157,HULLULE SHIVAM SAMPAT,M,NT3,9,GNTD,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+466,3884,54526,47.64,19107672,DARADE GAURAV UDDHAV,M,NT3,9,LNTD,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+516,4089,51215,58.24,19100248,GITE PRATIK DATTATRAY,M,NT3,9,GNTD,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+545,4457,14616,76.67,19135794,BHABAD SUSHMA GANGADHAR,F,NT3,9,GNTD,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+671,15338,33955,66.88,19124616,KEDAR MONIKA PANDHARINATH,F,NT3,9,LNTD,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+682,15349,4405,85.12,19106042,PRIYANKA SHIVAJI JAYBHAYE,F,NT3,9,PHNTD,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+705,15403,3646,86.0,19132450,JAYBHAY SUPRIYA BALASAHEB,F,NT3,9,GST,,301,Computer & IT,301,Computer & IT,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+825,15527,51572,57.87,19100329,KANDE VISHAL DEEPAK,M,NT3,9,PHNTD,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+1123,16708,53773,54.19,19140269,PIMPLE ANISH SURESH,M,NT3,9,PHNTD,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+1233,27433,37130,65.53,19107158,SANGLE SHIVANI SUBHASH,F,NT3,9,PHNTD,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1282,27887,29502,68.81,19132254,NAGRE SHREYA SANJAY,F,NT3,9,GST,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",*,3.0
+1303,27908,51782,57.65,19147377,SHIRSAT PRAVIN BABASAHEB,M,NT3,9,GNTD,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1376,28028,38863,64.82,19127908,SANGLE VAISHNAVI BALVANT,F,NT3,9,LOPEN,,302,ENTC,302,ENTC,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1498,29681,44359,62.41,19118347,BHABAD GANESH SAKHARAM,M,NT3,9,GOPEN,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1599,42920,38933,64.79,19122286,NAGARGOJE ANIL VALMIK,M,NT3,9,GNTD,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1665,43090,39772,64.42,19110672,NAGARE NIRAJ BHASKAR,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1708,43344,52308,57.03,19101741,VANAVE SANTOSH BABASAHEB,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+1810,53642,1444,89.35,19105784,WAGH VAIBHAV CHINTAMANI,M,NT3,9,GOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1814,53646,2544,87.41,19109884,JAWALE PRATHAMESH JITENDRA,M,NT3,9,GOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1876,53708,7974,81.65,19107281,SANAP PRAJWAL RAMNATH,M,NT3,9,PHNTD,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1930,53763,47889,60.59,19137898,BODKE SHUBHAM GANESH,M,NT3,9,DFNTD,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+2123,54376,27310,69.82,19140376,PATIL ADITYA SUNIL,M,NT3,9,GOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2134,54387,38716,64.88,19104360,SANKHE VEDANT HEMANT,M,NT3,9,GOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",&,4.0
+2135,54388,39394,64.59,19140735,SONAWANE PRASAD CHINDHU,M,NT3,9,LOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2405,55800,26696,70.08,19114019,KARAD SUMIT MOTIRAM,M,NT3,9,GNTD,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0

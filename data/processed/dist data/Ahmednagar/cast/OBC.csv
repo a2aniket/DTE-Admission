@@ -1,0 +1,377 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+3,445,12309,78.3,19122596,GADADE MAHESH SHANKAR,M,OBC,2,GOBC,,101,Chemical,101,Chemical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+4,446,23465,71.64,19122399,WAGHE HRISHIKESH SOPAN,M,OBC,2,LOBC,,101,Chemical,101,Chemical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+11,6651,8796,80.97,19103071,CHAVAN POOJA BABANRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+13,6653,11876,78.61,19109208,GALANDE SHUBHADA RAJENDRA,F,OBC,2,LOBC,,201,Civil,201,Civil,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+16,6656,12651,78.06,19105594,GAIKE KUNAL BALU,M,OBC,2,GOBC,,201,Civil,201,Civil,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+21,6661,15753,75.88,19119508,TAMBE MAHESH RAOSAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",#,2.0
+27,6694,1311,89.64,19107997,GAIKWAD AKASH RAVINDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+28,6695,1930,88.48,19108257,NIKAM SHRUTI ATUL,F,OBC,2,LOPEN,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+37,6704,6194,83.33,19101820,NIKAM BHUSHAN VIJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+38,6705,6333,83.21,19130378,SANVATSARKAR NISHIGANDHA LAXMIKANT,F,OBC,2,LOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+46,6713,8783,80.97,19114893,MAHAJAN RUPESH BHUVNESHWAR,M,OBC,2,GOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+50,6717,9539,80.36,19121066,DONGARE ANIKET NANASAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+51,6718,9808,80.12,19107854,MARKAD SUPRIYA TUKARAM,F,OBC,2,LOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+52,6719,10539,79.58,19123038,BORAWAKE VAISHNAVI KALIDAS,F,OBC,2,GOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+54,6721,11958,78.55,19138625,CHAUDHARI TEJUS BAPU,M,OBC,2,GOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+61,6729,6115,83.39,19105332,DALVI SHIVANI RAJU,F,OBC,2,LOPEN,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+62,6730,11809,78.67,19144572,NIMONKAR MONALI VIJAY,F,OBC,2,LOBC,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+64,6732,14603,76.67,19106228,SIDDHA SUYASH PRADIP,M,OBC,2,GOPEN,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",@,5.0
+67,6735,15348,76.18,19124421,GADHAVE GANESH NARAYAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+69,6737,16427,75.52,19127588,ASWALE ANKITA SANTOSH,F,OBC,2,GOBC,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+74,6743,817,90.88,19127603,PAWAR SANKET ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",#,2.0
+79,6748,5329,84.18,19108327,PRAFULLKUMAR VASUDEO MAHALE,M,OBC,2,GOPEN,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",@,5.0
+80,6749,5334,84.18,19153361,GODSE RUTUJA ANKUSH,F,OBC,2,LOPEN,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+82,6751,5986,83.52,19146846,BATTISA DURGESH KISHOR,M,OBC,2,GOBC,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+83,6752,6127,83.39,19115891,MANDLIK SHRIKANT MACCHINDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+85,6754,7317,82.3,19102526,MANDLIK GIREEDHAR ASHOK,M,OBC,2,DFOBC,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+88,6757,8794,80.97,19154344,BHOR VARSHA BHAUSAHEB,F,OBC,2,LOBC,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+89,6758,13233,77.64,19148004,NEWASKAR AISHWARYA SANJAY,F,OBC,2,GOBC,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",&,4.0
+108,7039,40924,63.94,19139588,JANGALE MAHESH ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",#,2.0
+110,7041,42168,63.39,19131214,BERAD NILAY NANDKUMAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",#,2.0
+112,7043,43403,62.85,19133336,MAHANDULE AKSHAY CHHANGAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",&,4.0
+124,7055,50670,58.73,19117489,GORE SAGAR UTTAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",@,5.0
+129,7082,50496,58.86,19143055,GAIKWAD SUMIT ARJUN,M,OBC,2,MIMH,,401,Machanical,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+130,7083,50524,58.85,19154378,GANGARDE AJAY CHAKRADHAR,M,OBC,2,MIMH,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+146,7221,26228,70.3,19102734,RASAL PRATIK ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+152,7227,32457,67.52,19151185,GENDKAR TEJAS DILIP,M,OBC,2,GOPEN,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+169,7244,45184,62.0,19144054,KARDILE ABHIJIT ANIL,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+170,7245,45234,61.94,19142572,DHAGE PRASHANT RAJENDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+171,7246,45372,61.88,19159641,PANMALKAR ROHIT RAJENDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+173,7248,46158,61.52,19130112,THOMBARE MAYUR SATISH,M,OBC,2,LOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+174,7249,46495,61.33,19120314,LOKHANDE PRASAD VITTHAL,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+176,7251,47288,60.91,19159567,PANMALKAR VAIBHAV VASANT,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+177,7252,47750,60.67,19136949,BORUDE SATYAM GORAKH,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+181,7256,49410,60.0,19136575,BHADAKE SACHIN DASHARATH,M,OBC,2,LNTC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+184,7259,49555,60.0,19159649,DHADGE RAJESH NARAYAN,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+185,7260,49627,60.0,19159675,BORUDE PRITHVIRAJ ANANT,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+187,7262,49893,59.33,19121668,WAGH MAHESH SIDDHESHWAR,M,OBC,2,GSEBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+188,7263,50115,59.15,19119837,YELWANDE AJINKYA RAGHUNATH,M,OBC,2,LOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+194,7269,50998,58.42,19130762,BARAVKAR ABHISHEK CHANDRAKANT,M,OBC,2,LOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+199,7274,53512,54.97,19154501,BHUJBAL GOPAL GOVIND,M,OBC,2,GOBC,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+207,7458,11847,78.63,19119828,BANKAR SHUBHAM SANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+210,7461,16887,75.21,19141528,KANSE DINESH NANASAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",*,3.0
+219,7470,30189,68.48,19135331,RAYKAR ASHVINI DNYANDEV,F,OBC,2,LOPEN,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+223,7474,33732,66.97,19128163,KALMAKAR AVINASH SADASHIV,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+225,7476,39108,64.73,19143719,KHAMKAR AMOL MARUTI,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+228,7479,42304,63.33,19116483,SHINDE POONAM SHAHAJI,F,OBC,2,LOPEN,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+231,7482,46740,61.21,19143979,KHAMKAR ABHISHEK ASHOK,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+234,7485,48272,60.36,19147810,NALE VIJAY DIGAMBAR,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+235,7486,48487,60.24,19142194,SHINDE KIRAN NAVNATH,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+239,7490,51297,58.18,19122340,GULDAGAD JATIN SURESH,M,OBC,2,GOBC,,201,Civil,201,Civil,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+262,7647,14198,76.97,19135159,KALAMKAR KETAN RAJENDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+265,7650,20880,72.97,19142109,CHORAGE GAURAV VITTHAL,M,OBC,2,GOPEN,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+273,7658,25273,70.79,19136480,PADOLE ANGAD ANIL,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+275,7660,26484,70.18,19142373,KALE PRIYANKA SOMNATH,F,OBC,2,LOPEN,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+277,7662,30076,68.55,19146174,PAWAR AKSHAY RAMESH,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+278,7663,30362,68.42,19136123,NAWALE SAURABH BALASAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+282,7667,33319,67.15,19135453,BHALEKAR VIJAY GAHINATH,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+285,7670,35306,66.3,19123879,PATARE ASHISH SANJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+286,7671,35927,66.06,19132104,SONAWANE BHARAT ASHOK,M,OBC,2,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+287,7672,36010,66.0,19116348,GORE AARTI MOHAN,F,OBC,2,LOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+290,7675,38656,64.91,19150005,DAKE JANHAVI KISHOR,F,OBC,2,LOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+292,7677,40500,64.12,19118300,DEVADHE YOGESH DNYANESHWAR,M,OBC,2,PHOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+293,7678,40575,64.06,19148547,RANDHAWANE SANJOT ADINATH,F,OBC,2,LOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+308,7752,4429,85.09,19115793,BELHEKAR DEEPALI BABAN,F,OBC,2,LOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+310,7754,9840,80.12,19126431,BELEKAR OMKAR KISHOR,M,OBC,2,GOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+315,7759,16990,75.15,19134029,NAGARE TEJAS BHAGWAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+316,7760,17846,74.97,19106663,ANHAD PRATIKSHA RAJENDRA,F,OBC,2,LOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+317,7761,17864,74.97,19113148,GONDHALE SHIVAM MADHAVRAO,M,OBC,2,GOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+319,7763,20633,73.09,19108971,KALE SNEHAL SUNIL,F,OBC,2,GOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",*,3.0
+321,7765,22653,72.06,19109725,BORUDE SHUBHAM UTTAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+326,7770,27977,69.52,19132674,GAIKWAD OMKAR SOMNATH,M,OBC,2,GOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+329,7773,28996,69.03,19148579,BANKAR RUSHIKESH BHAUSAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+332,7776,31699,67.82,19118551,GHULE RUPALI TUKARAM,F,OBC,2,LOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+335,7779,33719,66.97,19136438,DINESH PRAMOD URMUDE,M,OBC,2,GOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+341,7785,34993,66.42,19120356,SONAWANE AKSHADA PRADIP,F,OBC,2,LOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+349,7984,9290,80.55,19130075,LONDHE AVIRAJ SUNIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+358,7993,39195,64.69,19109240,KOLHE ABHIJIT SUDAM,M,OBC,2,GOBC,,201,Civil,201,Civil,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+369,18916,3366,86.35,19128404,AMOLIK PALLAVI RAVINDRA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+370,18917,4478,85.06,19120820,CHOLKE SHIVANI DEEPAK,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+371,18918,7159,82.44,19152418,ROHOM AKSHADA DATTATRAY,F,OBC,2,LST,,301,Computer & IT,301,Computer & IT,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+375,18922,7689,81.94,19143642,PAWAR PRIYANKA DIPAK,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",@,5.0
+377,18924,9385,80.47,19136186,KANAWADE VISHAL ASHOK,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+379,18965,927,90.53,19128825,AUTI RUTUJA SHIVAJI,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+382,18968,2235,88.0,19134155,RANODE PRITAM DNYANESHWAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+383,18969,2255,87.94,19134679,BORNARE RAJESHRI FAKIRRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+385,18971,3693,85.94,19127741,WAKCHAURE VAISHNAVI DATTATRAYA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+387,18973,4650,84.88,19125879,LONDHE RUTUJA NANASAHEB,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+399,18985,5957,83.56,19133511,WAKTE MAYURI ANIL,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",#,2.0
+401,18987,6375,83.18,19130040,GORAKSHA AKSHADA PRAMOD,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+406,18992,6686,82.88,19146270,NAGARKAR GAYATRI BALASAHEB,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",*,3.0
+409,18995,13221,77.65,19116894,KARDILE CHANDRAKANT ASHOK,M,OBC,2,GST,,301,Computer & IT,301,Computer & IT,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+410,18996,14059,77.06,19126442,JADHAV ABHIJIT APPASAHEB,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+412,18998,17572,75.0,19138808,SHINDE KALYANI BABASAHEB,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",#,2.0
+419,19005,1409,89.41,19108546,SHINGOTE PALLAVI DINKAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+420,19006,1426,89.38,19148788,TALEKAR SAMRUDDHI JALINDAR,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+421,19007,1569,89.12,19117670,KASHID AMRUTA RAJENDRA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+426,19012,6434,83.12,19107347,PATHAK AKSHAY MAHADEV,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+435,19021,3691,85.94,19114666,ITHAPE PRADNYA RAJENDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+438,19024,7192,82.41,19140794,JAPE UDAYSHREE DILIP,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+439,19025,7514,82.12,19138580,JADHAV SHRUTI SOMNATH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+447,19272,18828,74.12,19143975,TAJANE MADHURI SADASHIV,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^,1.0
+449,19274,22078,72.31,19109728,FULDEORE AISHWARYA JAGDISH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",&,4.0
+456,19281,24248,71.25,19142665,KARDILE NEHA CHABURAO,F,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",&-,4.0
+460,19285,27774,69.59,19136854,MOMIN HEENA RAFIK,F,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",&-,4.0
+461,19286,31831,67.76,19118050,SHINDE HARSHAL SUNIL,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+464,19289,34273,66.75,19136443,KATORE ANIKET SANJAY,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+465,19290,34282,66.75,19117606,PADOLE JAYESH AJAY,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+467,19292,39390,64.59,19146569,KULTHE RATNDEEP SUDHIR,M,OBC,2,MIMH,,401,Machanical,301,Computer & IT,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^-,
+470,19380,21902,72.41,19137700,WAGH RUTUJA TUKARAM,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+473,19383,32079,67.69,19114758,SHEJUL POOJA PRAMOD,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+474,19384,32202,67.63,19119961,DHONDE MEGHA PRAKASH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+476,19386,48748,60.06,19139982,BANSODE RUSHIKESH SHIVAJI,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+477,19387,52599,56.59,19159694,SHAHANE VINIT VIJAY,M,OBC,2,GOPEN,,401,Machanical,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+482,19541,5961,83.54,19141215,KHAMKAR JAYSHRI RAMDAS,F,OBC,2,GOBC,,302,ENTC,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+492,19551,20309,73.25,19148236,FARANDE PALLAVI SANJAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+496,19555,24782,71.0,19151940,BANKAR VISHAL DATTATRAYA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+501,19560,28387,69.31,19142246,PATIL NAMRATA VIKAS,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+502,19561,28530,69.25,19140730,SHINDE PRITI RAMESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",#,2.0
+505,19564,34973,66.44,19141417,LANDE VAISHNAVI CHANDRAKANT,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+509,19568,37941,65.19,19135942,HIRAVE SHUBHANGI NAMDEO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+520,19751,21292,72.75,19144542,VIDHATE SARIKA KEDARNATH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+523,19754,23249,71.75,19116293,WAGH SUVARNA VIJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+525,19756,24119,71.31,19152531,JADHAV PRAJAKTA RAVINDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",#,2.0
+528,19759,27864,69.56,19145990,ARGADE VIKAS DATTATRAYA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",*,3.0
+535,19766,33338,67.13,19133481,RAKTATE AKASH DILIP,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+538,19769,35667,66.13,19143816,FAND PRITI BALASAHEB,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",&,4.0
+558,19863,6567,83.0,19142842,GHODAKE AMRUTA RAJENDRA,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+559,19864,9052,80.75,19108450,SAYKAR PUNAM MAHADEV,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+562,19867,17420,75.0,19133746,THORAT KALYANI RAJENDRA,F,OBC,2,GST,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+563,19868,19309,73.82,19152443,SHIRSAT KOMAL PRAKASH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+565,19870,19456,73.75,19123902,PAWAR NIKITA VITTHAL,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+566,19871,20940,72.94,19125450,JEJURKAR POOJA RAVSAHEB,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+576,20030,13658,77.33,19148972,PHATANGARE PRATIK SUDHAKAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+586,20040,26369,70.24,19125916,DESHMUKH ONKAR ASHOK,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+587,20041,37251,65.47,19139007,RAHANE VAIBHAV BHAGWAT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+595,20049,22296,72.24,19113382,INAMKE SHUBHAM RAJENDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+596,20050,26051,70.38,19141502,PAGAR TEJASWINI POPATRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+599,20053,31785,67.8,19114570,ARTI TUKARAM THUBE,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+611,20065,52605,56.59,19134439,AGARKAR ASHUTOSH SUDHIR,M,OBC,2,GOBC,,401,Machanical,301,Computer & IT,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+612,20066,54179,52.46,19122023,BHOYAR JITESH KHUSHALRAO,M,OBC,2,GOBC,,401,Machanical,301,Computer & IT,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+617,33131,13129,77.71,19125733,SHINDE KAVERI VIJAY,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+618,33132,14792,76.53,19117798,SIDLAMBE NIKITA BHIMRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+619,33133,17854,74.97,19109555,PATIL ANJUSHA ARUN,F,OBC,2,LOBC,,201,Civil,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+621,33135,19927,73.47,19126387,KASAR DIPALI DIPAK,F,OBC,2,LOBC,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",#,2.0
+622,33136,20821,73.0,19140429,KORDE ROHIT RAHUL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+623,33137,20922,72.94,19129737,MALWADE TANISHA DNYANESHWAR,F,OBC,2,GOBC,,301,Computer & IT,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+632,33146,32804,67.35,19146484,CHANDAR AKSHADA BALASAHEB,F,OBC,2,GOBC,,301,Computer & IT,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+633,33147,32940,67.29,19133216,BHUSE ANURADHA KRUSHNANATH,F,OBC,2,LOBC,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+634,33148,34630,66.59,19152308,PAGARE DIGAMBAR RAJENDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+637,33151,40722,64.0,19137215,GAYAKE ASMITA RAJENDRAKUMAR,F,OBC,2,GOBC,,301,Computer & IT,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",#,2.0
+638,33152,40801,64.0,19123903,MANE VAISHNAVI BABASAHEB,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+639,33153,43356,62.88,19103453,RANDHAVANE SACHIN BAPU,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+641,33155,46200,61.47,19153128,NAVALE AMOL BALASAHEB,M,OBC,2,GOBC,,302,ENTC,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+642,33156,48262,60.36,19134063,WAGH RUSHIKESH SUDHAKAR,M,OBC,2,GOBC,,201,Civil,302,ENTC,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+655,33277,10933,79.29,19133952,GAVHANE SAMADHAN NANASAHEB,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+657,33279,14227,76.94,19115231,NIMBONE VAISHNAVI SHESHRAO,F,OBC,2,LOBC,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+658,33280,18898,74.06,19102098,JADHAV PALLAVI PANDURANG,F,OBC,2,GOBC,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+662,33284,32071,67.69,19115563,KHULE SAKSHI DEVIDAS,F,OBC,2,LNTA,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+666,33288,39569,64.53,19154959,DEOKAR PRAJIT RAVINDRA,M,OBC,2,LST,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+671,33293,23768,71.47,19141349,GHODAKE ANKITA POPAT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+672,33294,29975,68.59,19133003,TUPE SHWETA SHIVAJIRAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+673,33295,30401,68.41,19118098,BAGWAN AINUL REHAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+680,33336,2982,86.82,19116081,LANDGE ANNASAHEB EKNATH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+684,33340,8960,80.82,19150696,KHATODE AKANKSHA BHAUSAHEB,F,OBC,2,GOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+685,33341,9406,80.47,19142797,KOLHE PRADIP SOMNATH,M,OBC,2,GOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+697,33353,9771,80.18,19130010,RAUT SHRADDHA RAJENDRA,F,OBC,2,GNTD,,301,Computer & IT,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+698,33354,11407,78.94,19127431,DESHMUKH JYOTSNA ANIL,F,OBC,2,LOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+700,33356,12497,78.18,19154319,VARPE AISHWARYA NAVNATH,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+702,33358,13896,77.18,19147029,PHAPALE AARTI RAVINDRA,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+704,33360,15195,76.29,19126884,HASE SUPRIYA RAJENDRA,F,OBC,2,GSC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+707,33363,18979,74.0,19125371,SHINDE PRITI SANDEEP,F,OBC,2,GOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+709,33365,23790,71.47,19127133,SUTAR KOJAGIRI ADINATH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+714,33370,39149,64.71,19115828,SATPUTE AKASH KAILAS,M,OBC,2,GOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+716,33372,41728,63.59,19136496,KASAR PRASHANT BALU,M,OBC,2,GSC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+721,34076,8894,80.88,19126351,RAYKAR RUSHIKESH RAJARAM,M,OBC,2,GOPEN,,401,Machanical,302,ENTC,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",&,4.0
+727,34082,16289,75.59,19122651,KUTAL NISHIGANDHA BANDU,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+740,34319,11150,79.12,19153801,KHOLLAM HARSHADA PRAMOD,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+742,34321,20846,73.0,19147906,DAITULE SHRADDHA DINKAR,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+751,34330,39572,64.53,19135475,JAGTAP MAHESH GHAMAJI,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+753,34332,45451,61.88,19140602,CHANNE APARNA BALKRUSHNA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+754,34333,48002,60.53,19136907,HARDE MAHESH BALBHIM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+755,34378,11743,78.71,19133873,MOKATE POOJA VISHNU,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+756,34379,25534,70.65,19158632,BHANAGE GANESH JALINDAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+757,34380,35364,66.29,19142653,SURYAWANSHI PANKAJ ANIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+762,34505,34618,66.59,19137323,JAGTAP TUSHAR KISHOR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+765,34521,16676,75.35,19136317,GAGARE NIKHIL KAILAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+768,34524,46821,61.18,19147399,DHAVANE PARMESHWAR SARJERAO,M,OBC,2,GOPEN,,401,Machanical,302,ENTC,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+772,34528,50163,59.12,19153382,NAGARE NILESH RAMDAS,M,OBC,2,GOPEN,,401,Machanical,302,ENTC,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+777,34533,53081,55.82,19149900,SHEVANTE VIKRAM RAJENDRA,M,OBC,2,GOBC,,401,Machanical,302,ENTC,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+778,34534,54272,51.8,19158735,INDRE RAVINDRA NAGORAO,M,OBC,2,GOPEN,,305,Instrumentation,302,ENTC,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+779,45853,3831,85.76,19127039,KAKLIJ PRAJKTA BAPU,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",#,2.0
+782,45856,8792,80.97,19128146,PUND SIDDHANT SACHIN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+783,45857,10347,79.71,19139606,DENGALE AKASH MACHHINDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",*,3.0
+787,45861,17807,74.97,19117675,BHANAGE POOJA MACHHINDRA,F,OBC,2,LOBC,,304,Electrical,304,Electrical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+791,45865,3443,86.24,19135775,SONAWANE DIVYA RAJU,F,OBC,2,LOBC,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+793,45867,6651,82.91,19119638,LOKHANDE DIPA UMESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+794,45868,8134,81.52,19100858,BODHE PRATIK MAROTI,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",#,2.0
+800,45874,19249,73.88,19144218,WAGHMARE PANDURANG GANESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+801,45875,21226,72.79,19125699,SATRE MAHESH PARASRAM,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+803,45877,24476,71.15,19131789,PRANAV SANDIP RAUT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+804,45878,25089,70.85,19115850,LANDAGE DHANASHREE POPAT,F,OBC,2,GOPEN,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",@,5.0
+815,45889,45145,62.0,19110585,SHALGAR SUMIT KIRAN,M,OBC,2,PHOBC,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",*,3.0
+817,45891,3503,86.18,19117377,BODKHE VAIBHAV NAMDEVRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+820,45894,6915,82.67,19139199,SHELAR VAIBHAV VILAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+821,45895,7183,82.42,19122761,SONAWANE HEMANT ARUN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+822,45896,8638,81.09,19110771,ONKAR LAXMAN KAWATE,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+823,45897,9699,80.24,19122246,DANDWATE HRUSHIKESH PRAKASH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+827,45901,15771,75.88,19133176,MALODE ARPITA ANAND,F,OBC,2,GOPEN,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+835,46130,42479,63.27,19102582,BHUJBAL SOHAM MANGESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^,1.0
+840,46135,51049,58.41,19156392,SONAWANE NITIN SHANTARAM,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^,1.0
+856,46493,42589,63.24,19148772,PATIL KRUPESH KISHOR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+858,46495,47290,60.91,19155227,MAKUDE SHIWANI SANJAY,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+862,46719,5215,84.3,19152153,DETHE RAMDAS KUNDLIK,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+872,46729,18116,74.97,19131349,KUMBHARAKAR GAURAV ASHOK,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+873,46730,19835,73.52,19146770,GAIKWAD RAHUL PRAVIN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+882,46739,26602,70.12,19156435,NIKAM ASHVINKUMAR SANTOSH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+883,46740,26898,70.0,19144754,PAITHANKAR PRASHANT ASHOK,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+896,46753,39517,64.55,19127051,RAUT PANKAJ EKNATH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+900,46757,42986,63.03,19146857,MARKAD RUSHIKESH SUDHAKAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+901,46758,44515,62.3,19139716,SONAWANE PRATIK LAXMAN,M,OBC,2,LOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+903,46760,45242,61.94,19154190,BORUDE SACHIN SHIVAJI,M,OBC,2,LOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+905,46762,46571,61.29,19124396,GIRME SHUBHAM DILIP,M,OBC,2,LOBC,,401,Machanical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+907,46764,48442,60.24,19151179,DAWANGE JAGDISH SHIVAJI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+911,46768,51592,57.82,19138460,TAMBE ANIKET BABAN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+913,46770,52799,56.24,19131234,LAGE VIKAS GORAKSHANATH,M,OBC,2,PHOBC,,401,Machanical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+916,46773,0,51.09,19156498,DUKALE PRASAD VASANT,M,OBC,2,LOBC,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",&,4.0
+925,47081,9583,80.31,19134195,WARUDE BHAVANA ANIL,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+927,47083,15325,76.18,19154074,KORDE PAWAN GANESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+930,47086,30423,68.41,19143406,JACHAK YASHODHAN SUNIL,M,OBC,2,GOBC,,302,ENTC,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+933,47089,38736,64.88,19136460,DATIR SUYOG SUNIL,M,OBC,2,GOBC,,302,ENTC,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+935,47091,41245,63.82,19136431,SHETE RUSHIKESH KAILAS,M,OBC,2,LOBC,,302,ENTC,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+941,47097,46499,61.33,19147376,KUDALE ONKAR SANJAY,M,OBC,2,GOBC,,304,Electrical,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+946,47102,47643,60.71,19139197,KHARCHE ASHISH SONAJI,M,OBC,2,LOBC,,401,Machanical,304,Electrical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",&,4.0
+961,49860,37596,65.33,19114902,TEJASVI DEVRAM GHULE,F,OBC,2,GSEBC,,201,Civil,305,Instrumentation,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+962,49861,44455,62.35,19108694,NARAWADE KOMAL VIJAY,F,OBC,2,GOBC,,302,ENTC,305,Instrumentation,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+969,59896,9029,80.76,19120520,DUMBARE VISHAL DNYANESHWAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+972,59899,12947,77.82,19125321,PATIL PRATIK ULHAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+976,59903,14665,76.63,19135176,INGALE HITESH SUNIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+978,59905,15002,76.41,19147711,PATIL PRITESH VIJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+980,59907,16009,75.76,19144026,BOLIJ NACHIKET DATTATRAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",#,2.0
+981,59908,16059,75.71,19107513,KSHITIJ SANJAY BURHADE,M,OBC,2,LNTA,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+982,59909,17362,75.0,19128973,BANKAR AKASH SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+986,59913,18467,74.29,19136129,PAWAR RUSHIKESH BALASAHEB,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",*,3.0
+987,59914,18911,74.06,19129306,JOSHI RUSHIKESH YASHWANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+988,59915,19428,73.76,19143961,KADAM SACHIN GANGADHAR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+991,59918,19806,73.53,19155628,KORE SHREYAS APPASAHEB,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",#,2.0
+992,59919,20337,73.24,19148878,DIGHE SAURABH SANJAY,M,OBC,2,GSC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+995,59922,21905,72.41,19115928,SHINDE DNYANESHWARI SHIVAJI,F,OBC,2,LOBC,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",&,4.0
+997,59924,23409,71.65,19147640,CHAUDHARI DNYANESHWARI SHARAD,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+1004,59931,32215,67.59,19134152,PAPAL SAYALI SHANTARAM,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+1011,59938,42408,63.29,19159061,PAWASE PRIYANKA APPASAHEB,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+1012,59984,1981,88.41,19130866,KARANDE AJAY DADASO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+1015,59987,3839,85.76,19134235,GODGE ADITYA SHESHRAO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+1017,59989,4696,84.82,19130272,GORE TEJAS KASHINATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",*,3.0
+1021,59993,6047,83.47,19129284,KALE PAVAN BADRINATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+1024,59996,13961,77.12,19113341,PATARE CHETNA RAMBHAU,F,OBC,2,LOBC,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+1032,60004,7613,82.0,19103373,BAREEN MUNAWWAR BAGWAN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1033,60005,9043,80.76,19117710,JADHAV JAGDISH BHAUSAHEB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1034,60006,9397,80.47,19106032,GAWADE GAURAV PRAVIN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1043,60015,25993,70.41,19108558,KALE PRATIKSHA UTTAM,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1044,60016,26253,70.29,19121582,GHODKE SHUBHAM VRUSHABHNATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1052,60024,30244,68.47,19115628,SHAIKH ARBAZ FARUKH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",#,2.0
+1053,60025,31617,67.88,19152904,GAVHALE MANOJ TRAMBAK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",*,3.0
+1057,60029,33474,67.06,19116176,SONAWANE SWAPNIL RAJENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",#,2.0
+1058,60030,33919,66.88,19147752,KHAIRE AKSHAY GANPAT,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1076,60048,48305,60.35,19135507,BEDRE SHWETA SHARAD,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",#,2.0
+1078,60050,48898,60.0,19142182,THORAT SAURABH ANILKUMAR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1079,60051,49755,59.41,19141176,BANKAR NANDKUMAR KISHOR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1081,60053,50681,58.71,19109002,THORAT SHUBHAM SHIVAJI,M,OBC,2,PHOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1087,60063,2545,87.41,19147006,SAHANE VIVEK VILAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1093,60069,5244,84.25,19110544,DHOLI PRASAD VITTHAL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1094,60070,5335,84.18,19112365,INDURKAR YASH SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1096,60072,5552,83.94,19142740,PATIL KALPESH NIMBA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+1097,60073,5673,83.82,19106210,PATIL NIKHIL RAJU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1098,60074,6474,83.06,19114387,SHETE VAISHNAVI SUKDEO,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1103,60079,13874,77.18,19112653,MAHAJAN VAISHNAVI SUBHASH,F,OBC,2,LOBC,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1116,60765,34491,66.65,19133171,BORUDE GANESH SAWKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",*,3.0
+1126,60775,45592,61.76,19123304,JAWALE PRATHMESH RAJENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",#,2.0
+1135,60951,11744,78.71,19152039,BORUDE PRATHAMESH SUDHIR,M,OBC,2,LNTB,,402,Production,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+1139,60955,16068,75.71,19129860,REVEKAR MANGESH RAMESH,M,OBC,2,GSEBC,,402,Production,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+1142,60958,20448,73.18,19144862,HARISHCHANDRE SACHIN SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1144,60960,22761,72.0,19137088,BHALERAO SUDARSHAN POPATRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1151,60967,30669,68.29,19137269,DESHMUKH VISHAL MADHUKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1152,60968,31627,67.88,19113286,RAMKRUSHNA LINGMURTI TUMANPELLI,M,OBC,2,GSEBC,,402,Production,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+1153,60969,33773,66.94,19138437,PATHARE SWAPNIL SURESH,M,OBC,2,GSEBC,,402,Production,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+1155,60971,34638,66.59,19138499,KOLATE AKSHAY BALASAHEB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1157,60973,35188,66.35,19138386,DAGADE RUSHIKESH KALYAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+1174,60990,45070,62.06,19126485,NIMBALKAR ATHARVA RANGANATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1182,60998,49307,60.0,19148742,KELKAR ASHUTOSH CHANDRAKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1184,61000,49849,59.35,19152636,DEOTARSE SARTHAK SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1185,61001,50165,59.12,19114385,SHINDE SUYASH SUNIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+1187,61003,52485,56.76,19122267,MHASKE JAYDEEP BABASAHEB,M,OBC,2,PHOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",*,3.0
+1193,61017,16562,75.41,19146220,GAIKWAD AKASH RAJENDRA,M,OBC,2,GOPEN,,402,Production,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1201,61025,47490,60.82,19137445,SHINDE PRAVIN ASHOK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+1208,61302,13626,77.35,19134444,GHODEKAR SWAPNIL NAVNATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",*,3.0
+1209,61303,15548,76.06,19119405,SHINDE SURAJ HARIBHAU,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1211,61305,18278,74.41,19134644,NAWALE NILESH RAMDAS,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1212,61306,18786,74.12,19143321,JADHAV VAISHNAVI SHARAD,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1213,61307,20109,73.35,19144662,GHODKE SANKET SUNIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1215,61309,22871,71.94,19140508,GIRAMKAR SOHAM SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1217,61311,25437,70.71,19145077,KSHIRSAGAR GANESH PURUSHOTTAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1219,61313,26152,70.35,19146945,MAKHARE PRATIKSHA SHIVAJI,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1222,61316,28568,69.24,19153670,MAHAMUNI RUSHIKESH BALBHIM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1226,61320,29612,68.76,19134530,LADHANE AKSHAY PANDURANG,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1242,61336,49375,60.0,19139753,BHAMERE DILIP PANDIT,M,OBC,2,GOBC,,101,Chemical,401,Machanical,5303,Ahmednagar,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",^,1.0
+1252,61571,7972,81.65,19136053,RAYKAR SANTOSH HANUMANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1253,61572,9020,80.76,19102114,KHETRE SHUBHAM EKNATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1255,61574,9660,80.24,19113358,KSHIRSAGAR AKSHAY VINAYAK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1256,61575,10104,79.88,19151436,DHADAGE SARANG BHASKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1257,61576,10408,79.65,19145612,RAUT MAYUR SHIVAJI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1265,61584,14734,76.59,19147326,PAWASE CHETAN RAJENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1269,61588,15449,76.12,19146445,SUDRIK ANIKET RAJENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1274,61593,17795,74.99,19144511,PUND MARUTI MACCHINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1276,61595,18450,74.3,19155363,BORADE RUPESH CHANDRAKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1282,61601,21585,72.59,19147262,KOLHE NAYAN BAPU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1285,61604,23108,71.82,19102455,DHADGE SHUBHAM YOGESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1287,61606,25001,70.88,19130428,PUND AKSHAY KACHARU,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1290,61609,29614,68.76,19142811,RAUT AMOL RAMESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",&,4.0
+1291,61610,31311,68.0,19154046,TEKALE SWAPNIL CHANGDEO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1295,61614,32360,67.53,19140869,RASKAR MANASI KISHOR,F,OBC,2,LOBC,,402,Production,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1305,61684,12697,78.0,19111531,JAVHERI NILESH KIRAN,M,OBC,2,GOBC,,302,ENTC,401,Machanical,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+1314,61693,33197,67.18,19119384,SATHE JIVHALA MAKARAND,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+1317,61696,40683,64.06,19118173,MANE SHUBHAM MACHHINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+1318,61697,41415,63.71,19146955,SHINDE SWAPNIL BHAUSAHEB,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+1323,61949,8956,80.82,19150578,SAINDORE SACHIN SOMNATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1326,61952,15035,76.38,19143782,GAWALE AKSHAY DNYANESHWER,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1334,61960,26008,70.41,19153323,CHAUDHARI GAGAN BALASAHEB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1339,61965,32409,67.53,19150408,WABALE AMOL RAMESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1341,61967,35433,66.24,19125813,WABALE VIVEK ABASAHEB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1345,61971,42001,63.47,19153573,SALUNKE TEJAS MOHAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1346,61972,42662,63.18,19139677,JADHAV DNYANESHWAR KHANDU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1349,61975,45954,61.59,19128719,BORAWAKE TUSHAR SUDHAKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1350,61976,45976,61.59,19115832,MOMIN AKIB FAROOQUE,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",&,4.0
+1353,61979,46465,61.35,19135323,MULE HARISH BARKU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1354,61980,47116,61.0,19141980,PHOPSE ROHIT POPAT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1358,61984,49933,59.29,19134922,LONDHE SANKET NANDKUMAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",#,2.0
+1359,61985,50745,58.65,19151088,KHANDAGALE PAVAN ANNASAHEB,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+1364,62017,6317,83.24,19103627,BHAGWAT DINESH SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1365,62018,7471,82.15,19122994,WADHAVANE VAIBHAV POPAT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1380,62033,23102,71.82,19118907,SHENDE RAMKRUSHNA DATTATRAYA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1391,62044,30431,68.41,19123805,JAISWAL GAURAV RAVINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1394,62047,31204,68.06,19116417,POKALE SACHIN DINKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1398,62051,32923,67.29,19153048,AHIRRAO JAYODIP HEMANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1400,62053,33399,67.12,19148863,PATIL SHIVAM SATISH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1403,62056,36437,65.82,19101818,MHASKE DEEPAK SANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",*,3.0
+1406,62059,37524,65.35,19152467,BELHEKAR SHUBHAM NAMDEO,M,OBC,2,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1408,62061,39817,64.41,19157392,KOLHE PRASHANT DILIP,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1409,62062,39997,64.35,19135584,JADHAV RUSHIKESH NANDU,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1411,62064,41416,63.71,19120607,PAWADE AKSHAY SANTOSH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1412,62065,41659,63.64,19146355,DHADGE SUYOG BALU,M,OBC,2,PHOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1414,62067,43579,62.76,19120428,SHAIKH RIHAN MAHAMADHANIF,M,OBC,2,LOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1429,72888,7698,81.94,19134041,SHINDE RAHUL MADAN,M,OBC,2,GOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1432,72891,10782,79.39,19148109,HADKE PRAJYOT SHANKAR,M,OBC,2,GOBC,,102,Plastic,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1437,72896,25057,70.88,19151527,GORE ONKAR SAUDAGAR,M,OBC,2,GOPEN,,404,Metallurgy (Foundry Technology),402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1438,72897,25263,70.79,19101317,DESHMUKH PRAKASH RAJARAM,M,OBC,2,GOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1439,72898,25878,70.47,19100852,VENKATESH SHIVPRASAD JAGTAP,M,OBC,2,GOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1440,72899,26290,70.29,19135291,KAKAD ABHISHEK SANJAY,M,OBC,2,GOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1441,72900,26859,70.0,19133229,GADAKH ASHUTOSH GORAKSHNATH,M,OBC,2,GOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1442,72901,27216,69.88,19133019,PANDE VISHAL SOMNATH,M,OBC,2,GOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1443,72902,27636,69.65,19144948,KOTE ABHISHEK BHAGWAT,M,OBC,2,GNTA,,301,Computer & IT,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",&,4.0
+1444,72903,27715,69.64,19155548,ABHANG OMKAR SUNIL,M,OBC,2,GOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1448,72907,31942,67.71,19119753,MANDLIK MAHIMA TATYASAHEB,F,OBC,2,LOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1449,72908,33553,67.03,19134324,BAGAD SANKET MARUTI,M,OBC,2,LNTB,,201,Civil,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+1450,72909,34488,66.65,19148793,SONAWANE RAMKRUSHNAHARI SHANTARAM,M,OBC,2,LOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1451,72910,34604,66.59,19112600,GHULE SHIVAM BABASAHEB,M,OBC,2,PHOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1454,72913,36852,65.65,19155506,DHADGE SHUBHAM NANDKUMAR,M,OBC,2,GSC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0

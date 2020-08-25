@@ -1,0 +1,414 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+698,23349,71.7,19154544,MANDAL RAKHI BHOLANATH,F,OPEN,1,LOPEN,,103,Food Technology,103,Food Technology,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+699,26579,70.13,19139511,MALSHIKHARE NILESH SHIVAJIRAO,M,OBC,2,GOPEN,,102,Plastic,103,Food Technology,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+700,35576,66.18,19142456,ADAGALE SURAJ NAMDEV,M,SC,4,GOPEN,,201,Civil,103,Food Technology,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+701,54439,49.85,19156970,GOLDAR VIVEK KARTIK,M,OPEN,1,GOPEN,Physical impairment,103,Food Technology,103,Food Technology,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2107,3738,85.88,19136723,GHULE MUKESH HARIBHAU,M,NT3,9,GOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2108,5480,84.0,19141437,MUNDE GITANJALI ROHIDAS,F,NT3,9,GST,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2109,6392,83.15,19119975,MANGIRE TANUJA RAMAKANT,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2110,7040,82.55,19138084,WADJE PRANITA RAMESH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2111,8056,81.58,19148199,DESHMUKH AISHWARYA VIJAY,F,SEBC,3,LSEBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2112,8127,81.52,19138482,MURUMKAR SNEHAL DATTA,F,SEBC,3,PHSEBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2113,10140,79.88,19127391,CHAVAN PRANAV BAPPA,M,SEBC,3,GOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2114,11026,79.21,19143227,VEDPATHAK VAISHNAVI SURYAKANT,F,OBC,2,GOBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2115,11445,78.91,19131795,MUNDHE KAVITA TUKARAM,F,NT3,9,GOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2116,12694,78.0,19115196,TANDALE PRADIP BABURAO,M,NT3,9,GOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2117,13325,77.58,19101082,AMBEKAR PIYUSH RAHUL,M,OBC,2,GOPEN,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2118,14333,76.85,19145226,DHUMAL DIPAK PRAKASH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2119,15456,76.12,19121757,SHINDE ABHIJIT ANNASAHEB,M,SC,4,GSC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2120,15504,76.06,19128053,GURAV VAISHNAVI SURYAJI,F,OBC,2,GOBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2121,18554,74.24,19126710,ZUNJEPATIL PRITI SOMNATH,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2122,19311,73.82,19126438,DANDGE RAKHEE SANGRAM,F,SC,4,GSC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+2123,20051,73.39,19151785,PANDIT VAISHNAVI MANOJKUMAR,F,OBC,2,GOBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2124,27585,69.7,19145723,YADAV NEHA KAMLAKAR,F,OBC,2,LOBC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+2125,27681,69.64,19133613,KAMBLE PUJA HANUMANT,F,SC,4,LSC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2126,29925,68.61,19144461,GAVKARE PALLAVI MADHUKAR,F,NT2,8,LNTC,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2127,30509,68.36,19143648,AKASH ANAND PAWAR,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+2230,2909,86.91,19117112,VANJARE ASHVINI RAMJI,F,SC,4,LOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2231,5141,84.36,19137874,GAWATE SURAJ ASARAM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2232,12606,78.06,19112490,DHONGADE MAHESH ANAND,M,SC,4,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+2233,18107,74.97,19133362,KATKAR SURAJ RUSHIKESH,M,OBC,2,PHOBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+2234,19512,73.7,19110325,MASAL AISHWARYA ARJUN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2235,21233,72.79,19114107,VIVEK VIJAY KOTECHA,M,OPEN,1,GST,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+2236,24580,71.09,19132034,SATPUTE VAISHNAVI BHASKAR,F,SC,4,LOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2237,25248,70.79,19140703,BADODE ANIKET RAJU,M,SC,4,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2238,26204,70.3,19136870,CHANDANE DINESH BHARAT,M,SC,4,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2239,27202,69.88,19113962,SAGAR MAHADEV VARAT,M,OBC,2,GOBC,,401,Machanical,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2240,28198,69.39,19117673,HAWALE KOMAL SUNDERRAO,F,SEBC,3,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2241,33142,67.21,19135950,SYED MOHAMED JARJISH UZZAMA JAMIL UZZAMA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",#,2.0
+2242,33705,66.97,19148615,CHATE SHIVRAM CHATRABHUJ,M,NT3,9,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2243,34146,66.79,19147507,RAKH PRAVIN DATTA,M,NT3,9,GOPEN,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",#,2.0
+2244,35130,66.36,19136530,SHAIKH FURQAN SHAIKH MAKSOOD,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2245,35386,66.25,19110084,GIRI GANESH DNYANOBA,M,NT1,7,GNTB,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+2246,36114,65.94,19131252,SHINDE SAYALI SANJAY,F,SEBC,3,LSEBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2247,36378,65.88,19107039,VANAVE PRIYANKA PARAMESHWAR,F,NT3,9,PHNTD,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2248,36888,65.64,19131711,AKHADE SULOCHANA SUDAM,F,OBC,2,LOBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2249,37613,65.33,19147996,GAIKWAD PRAMOD MAHADEV,M,OPEN,1,LST,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",#,2.0
+2250,37631,65.33,19142168,MUNDE RAHUL RAMRAO,M,NT3,9,LNTB,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2251,37732,65.27,19150272,MANE PRUTHVIRAJ HANUMANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2252,38338,65.03,19143306,BANGAR LAHU SHRIDHAR,M,NT2,8,GNTC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2253,38783,64.85,19155239,FARTALE NAVNATH SHRIRAM,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2254,39907,64.36,19132668,VIDYAGAR PRATIK HARISHCHANDRA,M,SC,4,GSC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2255,40082,64.3,19156963,GAIKWAD SHWETA BAPUSAHEB,F,SC,4,LSC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+2256,40328,64.18,19131971,ZOTING YOGESH KAKASAHEB,M,OBC,2,LOBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2257,41147,63.82,19115436,GAIKWAD AKSHAY NARAYAN,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2258,44301,62.42,19134281,GAIKWAD SHUBHAM POPAT,M,SC,4,GSC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",*,3.0
+2259,49054,60.0,19140042,BAND SUBHASH GORAKH,M,OBC,2,GOBC,,201,Civil,201,Civil,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+2260,2201,88.06,19129537,MANE VIDHYA BALASAHEB,F,SEBC,3,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2261,3468,86.24,19159102,AVACHAR SUNIKET VIJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",#,2.0
+2262,6590,82.97,19112815,KOYTE SHUBHDA SHIVRUDRA,F,OBC,2,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2263,7525,82.12,19146810,HAVALE SHALINI BALASAHEB,F,SEBC,3,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2264,10017,79.94,19141072,KULKARNI PRITI PRAKASH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2265,11038,79.21,19112082,MUNDE PRITI SUGRIV,F,NT3,9,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2266,12742,78.0,19153239,BORGE HYDARSAB SHADULSAB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2267,13485,77.45,19141037,MUNDE ABHAY ANNASAHEB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2268,13760,77.27,19105561,MUNDE NIRAJ HARIHAR,M,NT3,9,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2269,14167,77.0,19158917,PHAPALE VIKAS GULAB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2270,16998,75.15,19137664,NADA MIRZA AIJAZ,F,OPEN,1,PHST,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+2271,18183,74.61,19152374,DHOND SAINATH VAIJANATH,M,NT3,9,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2272,19974,73.44,19130181,JADHAV SHUBHAM MANIKRAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2273,20643,73.09,19154847,POHARE DAMINI DATTRAO,F,SC,4,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2274,20655,73.09,19138207,DHANWADE GANESH ABHIMANRAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2275,22590,72.06,19144646,KOKARE MARGESHRI GOVIND,F,NT2,8,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2276,23353,71.7,19151784,PANCHMAHALKAR SACHIN GOROBA,M,NT2,8,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2277,23722,71.52,19154251,NAIKAL VISHVAJEET BABASAHEB,M,SEBC,3,PHSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2278,24351,71.21,19107926,SHAIKH MUSTAQEEM QUADEER,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2279,24356,71.21,19152960,SAYYED FAISAL SAYYED AQEEL SIDDIQUE,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2280,24943,70.91,19130918,KANDE NETRA WAMAN,F,NT3,9,LOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2281,25235,70.79,19123381,MUNDE DIPALI BHAGWAT,F,NT3,9,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2282,28761,69.15,19159453,SONTAKKE KAPIL UTTAM,M,SC,4,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2283,29260,68.91,19138675,GITTE MONIKA SHIVAJIRAO,F,NT3,9,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2284,29962,68.61,19155848,WAGHMARE PRITAMKUMAR BHAGWANRAO,M,SC,4,GSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2285,30043,68.55,19137831,BHARATE ROHIT SANJAY,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2286,30371,68.42,19129619,GIRI MOTI VISHNU,M,NT1,7,GNTB,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2287,30786,68.24,19159188,CHINCHKAR RAHUL RAJESAHEB,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2288,30811,68.24,19137275,DIXIT SHUBHAM SANJAY,M,OBC,2,GST,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2289,31062,68.12,19141415,BIRKULE NAGESH VIRBHADRA,M,OPEN,1,GST,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2290,31108,68.06,19124585,INGLE SUDHAKAR LUXMAN,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2291,31110,68.06,19151616,INGALE HANUMAN RAMRAO,M,NT1,7,GST,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2292,31222,68.06,19149872,JADHAV VISHAL VITTHAL,M,OPEN,1,LST,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2293,31234,68.06,19141182,RATHOD NAVNATH SHIVAJI,M,DT/VJNT(A),11,DFNTA,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2294,32167,67.64,19144528,KAWALE HANUMANT BHAURAO,M,NT2,8,GNTC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2295,32604,67.45,19136346,SHINDE ABHIJEET VIJAY,M,SC,4,GSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2296,32871,67.33,19147953,KEKAN RAHUL BALASAHEB,M,NT3,9,GNTD,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2297,33716,66.97,19141236,GARAD PRAVIN DINKARRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2298,33729,66.97,19149904,KALE PRASHANT SANDIPAN,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2299,34431,66.67,19159334,SHINDE RUSHIKESH SURESH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2300,34443,66.67,19142613,SHAIKH AASIF SHAIKH SAADIQ,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2301,35414,66.24,19131522,RATHOD ROHINI NAVANATH,F,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2302,36369,65.88,19118337,KUMBHAR SURAJ PANDURANG,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2303,36631,65.76,19133968,SHELKE BHAGYASHRI BALAJIRAO,F,NT2,8,LNTC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2304,37016,65.58,19144381,KUTE AKSHAY SHIVLAL,M,SEBC,3,LSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2305,37899,65.21,19149840,BAGUL NILESH RANGNATH,M,SC,4,GSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2306,38051,65.15,19144874,SAKHARE ABHIJEET LAXMAN,M,SEBC,3,LSEBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2307,38781,64.85,19144986,GAYKE AKASH RAM,M,NT2,8,PHNTC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2308,39334,64.61,19132469,DUDHANE PUJA KAILAS,F,SBC/OBC,10,LOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2309,40675,64.06,19139737,NICHLE MOHINI ASHOK,F,OBC,2,LOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2310,42210,63.39,19133602,KOMAL KASBE,F,SC,4,LSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2311,43654,62.73,19127341,TUPE VINOD MADHUKAR,M,SC,4,GSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2312,43901,62.61,19149776,RAUT KAJAL RAMRAO,F,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",*,3.0
+2313,45341,61.94,19107688,SHINDE VAIBHAV NARAYANRAO,M,SC,4,GSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2314,46254,61.45,19119302,BANSODE SANJAYA BHASKAR,M,SC,4,LSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2315,47535,60.79,19149614,RAUT SAURABH UTTRESHWAR,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2316,48025,60.48,19145707,DORLE KOMAL SHANTINATH,F,OBC,2,LOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2317,48047,60.48,19150765,SONTAKKE KRISHNA RAMA,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2318,48444,60.24,19128634,SALVE PRIYANKA SUBHASH,F,SC,4,LSC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2319,49679,60.0,19131442,MD AQIB MD AYUB,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2320,52104,57.27,19152589,KHATIK JAMIRKHA MUNIRKHA,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2321,52161,57.21,19151877,VIBHUTE DHIRAJ SHRIKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+2322,53827,54.06,19140086,GAIKAR RITESH VASUDEV,M,OBC,2,GOBC,,201,Civil,201,Civil,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14143,5902,83.59,19127627,PURANDARE DISHA DATTATRAYA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14144,11299,79.0,19114999,SWAMI KOMAL SHIVRAJ,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14145,11688,78.75,19130057,ANKITA GOPALRAO BHAGAT,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14146,12089,78.44,19115473,HERKAR POOJA SADASHIV,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14147,12366,78.25,19129535,SUKHADA DEVANAND SOUNDALE,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+14148,17653,75.0,19127893,WAGHMARE MAYA PRALHADRAO,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14149,19897,73.47,19123606,KAMBLE PRAGATI GANGADHAR,F,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14150,21455,72.65,19139635,CHILLE SNEHA SOMNATH,F,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+14151,22323,72.19,19135761,DHANASURE SUJATA SHIVRAJAPPA,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14152,24028,71.35,19128788,DAYMA RUTIK SHAMSUNDAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14153,24129,71.31,19130324,SUMEDHA BALASAHEB CHAVAN,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+14154,24501,71.13,19114601,KHAKE DHANSHREE RAMESHWAR,F,OBC,2,LNTC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+14155,26325,70.24,19108942,TAMBAT AMARNATH RAOSAHEB,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14156,26901,70.0,19129548,NAYBAL DURGA MANCHAKRAO,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14157,27488,69.75,19111963,BIRAJDAR SAKSHI SURESH,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14158,27504,69.71,19151092,PAWAR ROHIT KALYAN,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14159,27741,69.63,19153581,NAIKNAVARE JYOTI BABASAHEB,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14160,28985,69.06,19142689,MHAMANE PRIYANKA SURYAKANT,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14161,29504,68.81,19137456,KHEDKAR SHITAL SUBHASH,F,NT3,9,GNTA,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14162,30021,68.56,19152859,KUMBHAR ROHIT REVANNATH,M,OBC,2,DFST,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+14163,30315,68.44,19146795,KHARATMOL BALAJI SIDRAM,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14164,30970,68.12,19153236,DESHMUKH VRUSHALI VYNKATESH,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",@,5.0
+14165,31270,68.0,19139479,PATIL PRATIKSHA MAHESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+14166,34400,66.69,19119223,MASKE POURNIMA VIJAY,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+14292,8465,81.24,19158162,PAWAR SAMIKSHA SHANTILAL,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14293,13789,77.25,19151989,MULE JITESH VINOD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14294,14598,76.69,19121605,SHAIKH MISBA KHAJA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14295,15235,76.24,19151971,SHAIKH KAUSAR FATEMA FAROOQ AHMED,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14296,17771,75.0,19152097,SANA KAUSAR SYEDA MIR SAJID ALI SYED,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14297,21738,72.52,19151068,CHOURE PRATIKSHA BHAGWAN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14298,23207,71.76,19150560,BAHIR VIVEK RAMCHANDRA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14299,24136,71.29,19151404,GAIKWAD SUSHMITA BARMA,F,DT/VJNT(A),11,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14300,24930,70.94,19137901,CHAVAN AISHWARYA ANKUSH,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14301,29319,68.88,19103084,JAGTAP KARAN REVANNATH,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",#,2.0
+14302,30963,68.13,19140088,KARGUDE ABHISHEK ASHOK,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14303,31203,68.06,19146933,DEVKULE SACHIN SHIVAJI,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14304,31447,67.94,19147741,PAWAR VILAS SAHEBRAO,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14305,31825,67.76,19140053,NANDE SHUBHANGI DATTATRYA,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14306,31917,67.75,19159575,MOHD ASLAM MOMIN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14307,35709,66.12,19122416,PURALE SHWETA RAMESHWAR,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14308,37289,65.47,19146667,WANDEKAR ABHISHEK BHAUSAHEB,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14309,38388,65.0,19140117,KADAM SOURAV PRAKASHRAO,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14310,41564,63.65,19151946,UNDRE SHUBHAM SURYAKANT,M,OPEN,1,GST,,401,Machanical,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+14311,42281,63.35,19150495,GIRAM RAHUL VAIJINATH,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+14312,42372,63.31,19151165,JADHAV MEGHA JALINDHAR,F,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14313,45700,61.75,19126737,GAIKWAD RUSHIKESH VAIJNATH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14314,51536,57.88,19147768,MASKE VIJAY RAMCHANDRA,M,OPEN,1,LSC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14315,52400,56.88,19124574,DAMBHE KALYAN KARBHARI,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14334,9267,80.56,19129245,RAUT JYOTI BAHADUR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14335,31963,67.71,19144604,DIPAK BAPPASAHEB JADHAV,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14336,35442,66.24,19152196,BHOGAVKAR ASHWINI BALASAHEB,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14337,50333,59.0,19154077,CHAVAN POOJA ANKUSHRAO,F,DT/VJNT(A),11,LOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14338,52180,57.18,19145724,KHARAT SANDEEP DEEPAK,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+14397,16860,75.24,19152521,MAHADAK SWATI MAHADEO,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14398,18524,74.25,19105112,HANDE LAXMAN TRIMUKH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14399,26319,70.25,19154914,RATHOD RAMDAS SHIVAJI,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14400,27240,69.88,19138224,BALEGAVE SAIMURTI RAMRAO,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14401,27875,69.56,19128631,HARKAL ASHVINI MANJULNATH,F,NT2,8,LOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14402,29344,68.88,19150569,TANDLE ANJALI WALMIK,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14403,29377,68.88,19156189,PATANGE SHUBHANGI SANJAYRAO,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14404,31782,67.81,19134543,GAIKWAD MADHAV RAMESH,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14405,34123,66.81,19103575,KHADE MANJUSHA BALIRAM,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14406,34132,66.81,19115838,DHENGALE ABHIJEET TRIMBAK,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14407,34521,66.63,19126850,BADVE SHRADHA PRADIPRAO,F,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14408,35103,66.38,19136995,ANDHALE GITANJALI LAXMAN,F,NT3,9,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14409,35365,66.29,19143958,KUMBHAR MEGHRAJ PARMESHWAR,M,OPEN,1,GSC,,302,ENTC,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14410,36821,65.69,19158477,JADHAV ASHWINI BHAUSAHEB,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14411,37087,65.56,19150481,USTAD JUBER ASHIM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14412,41689,63.63,19156139,JADHAVAR GEETANJALI ANANTRAO,F,NT3,9,PHNTD,,301,Computer & IT,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14413,41904,63.53,19151350,RUPNAR TRIMBAK NARHARI,M,NT2,8,GNTC,,302,ENTC,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14414,43953,62.59,19159857,KARAD DNYANESHWAR ANGAD,M,NT3,9,GNTA,,401,Machanical,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14415,50062,59.2,19125799,BHORE AMAR ASHOK,M,OPEN,1,GST,,302,ENTC,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+14416,54441,49.82,19150402,PAWAR RAVIRAJ DADARAO,M,OPEN,1,GOBC,,401,Machanical,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",*,3.0
+14417,29,63.68,19127151,RATHOD VILAS BHAGAVAN,M,DT/VJNT(A),11,GOBC,,0,,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14418,49,60.26,19131280,SWAMI PRAVIN ASHOK,M,OPEN,1,GOBC,,0,,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14419,53,59.18,19144516,PAWAR SACHIN TRYAMBAK,M,DT/VJNT(A),11,LOBC,,0,,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+14420,67,54.76,19145805,KALE AKASH BAJIRAO,M,SC,4,LOBC,,0,,301,Computer & IT,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+26203,3793,85.82,19145505,SHITOLE DHANASHREE VIJAYKUMAR,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26204,6793,82.76,19120031,TAT BHAGWATI SHRIRAM,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+26205,10931,79.29,19120227,PATEL RAMSHA HIFZUR RAHMAN PATEL,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26206,23772,71.47,19143053,ZADKE VAISHALI PRALHAD,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26207,29490,68.82,19138009,KADAM MEENA RAJU,F,SC,4,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26208,29631,68.76,19131325,SEEMA BHIMSEN AMBEKAR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+26209,31123,68.06,19115731,HARE PRATIKSHA SURYAKANT,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26210,31305,68.0,19111076,BANG RUTUJA GHANSHAM,F,OPEN,1,GOPEN,,301,Computer & IT,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+26211,32830,67.35,19124787,SHUBHAM KADWADE VYANKATRAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26212,38681,64.88,19143017,SINGARE PRATIKSHA SURESH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26213,47032,61.06,19130934,MORE TANUJA KAMLAKAR,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+26302,19988,73.43,19146675,KAMBALE AJAY SHIVAJI,M,SC,4,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26303,21517,72.63,19153080,CHOUDHARI ASRUBA GOKUL,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26304,26002,70.41,19147610,BORUL TUSHAR DILIPRAO,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26305,26354,70.24,19156732,HINGMIRE SHUBHANGINI VIJAY,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26306,30695,68.29,19147911,KADAM ADITYA VITTHALRAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26307,40197,64.24,19153767,NEHA KHAN MOIEN KHAN,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26308,41327,63.76,19122257,PARATKAR MAROTI PRABHAKAR,M,NT2,8,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26309,42717,63.18,19154367,BHOJANE SHRIKRISHNA BABASAHEB,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26310,44097,62.53,19159327,WADCHAKAR PRITI SAMBHAJI,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+26367,16675,75.35,19107948,NAGARGOJE SUSHMA RAMESH,F,NT3,9,LOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26368,28438,69.29,19141669,GITE SUPRIYA SANTRAM,M,NT3,9,GOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26369,33489,67.06,19143292,KAMBLE PRIYANKA GANGADHAR,F,SC,4,LOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26370,36831,65.65,19110078,JOSHI APURVA SANTOSHRAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26371,40127,64.29,19140020,DANGE NILESH PUSHPSHIL,M,OPEN,1,GOPEN,,305,Instrumentation,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26372,47140,61.0,19155525,GAURAV NAVNATH WAGHMARE,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26373,47255,60.94,19127837,KUSUMKAR VRUSHABH GANESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+26374,50785,58.61,19131701,NAGAPURE SUDARSHAN DATTATRAYA,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+26375,53995,53.39,19147074,SONWANE PAWAN DILIP,M,NT3,9,GOPEN,,201,Civil,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+26376,19,66.0,19108424,PHAD SHITAL VINAYAK,F,NT3,9,LOPEN,,0,,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+26377,21,65.33,19138200,SHAIKH MURTUJAALI DILDAR,M,OPEN,1,GOPEN,,0,,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+26378,42,61.38,19158596,MUNDE SHIVSHANKAR BALAJI,M,NT3,9,GOPEN,,0,,302,ENTC,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+42083,1485,89.27,19135650,AGALE AMRUTA ABASAHEB,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42084,3467,86.24,19126960,PRAJNA RAMKRISHNA RAI,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42085,5797,83.7,19129032,KARBHARI SUMAYYA KHAJAMIYA,F,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42086,6512,83.03,19107806,DHAWLE SACHIN MAHADEV,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+42087,11287,79.03,19109833,SARWADE NEHA KUMAR,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42088,12628,78.06,19129448,SAKHARE RUTUJA RAM,F,OPEN,1,PHO,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42089,13039,77.76,19117933,TEJASWINI HANUMANT KANDE,F,NT3,9,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+42090,14425,76.79,19111000,KHISTE AMEYA ASHOK,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42091,15364,76.18,19136416,YADAV NIKITA DADASAHEB,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42092,18647,74.18,19119288,KALE PRANITA SURESHRAO,F,NT2,8,GNTB,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42093,19093,73.94,19135289,VARMA SHIVANI RAMDEVJI,F,OBC,2,LOBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42094,19201,73.88,19143133,GARAD PRATIDNYA PREMANAND,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+42095,19527,73.7,19122559,KULKARNI SAMPADA SHARADRAO,F,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42096,21086,72.85,19147691,BIDGAR NILESH KUNDLIK,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+42097,24695,71.03,19113871,NAGAPURE MANSI ARUN,F,OPEN/EWS,5,GST,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+42098,24729,71.03,19106586,SIRSAT TEJASHWINI SHRIDHAR,F,SC,4,GSC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42099,27154,69.88,19139440,DESHMUKH SUJATA SARJERAO,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42100,27697,69.64,19137864,MULEY VIJAYSHREE VASANTRAO,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42101,32024,67.7,19135447,PALKE NIKITA BAPURAO,F,SC,4,GSC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42102,35560,66.18,19116960,PUJARI PARMESHWAR MAHADEV,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42103,37486,65.39,19154814,TIPPARKAR PRATIKSHA MANAJAI,F,NT2,8,LNTC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42104,40218,64.24,19136779,KALME NITIN VYANKATRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42105,42987,63.03,19158170,THAKUR RAMJI KIRANSINGH,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42106,44156,62.48,19134752,FAKIR SHAMSHADBI JAHANGIR,F,OBC,2,LOBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+42107,47198,60.97,19136437,NARNAWARE SAMIKSHA PIRAJI,F,SC,4,LSC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42108,47533,60.79,19132186,MOTADE VALLABH HANMANT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+42109,49299,60.0,19123738,KADAM NAINA SANDIPAN,F,SC,4,DFSC,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42110,32016,67.7,19109597,PATHAN MOHD NIHAL KHAN TAJ KHAN,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+42111,37471,65.39,19142071,KSHIRSAGAR SHAILESH SANJAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+42112,37876,65.21,19153582,DESHMUKH KALYANI PRADIP,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42113,45791,61.7,19143809,GHUTE ANIL MADHUKARRAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42114,46610,61.27,19114224,AGHAV GOKUL SATISH,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+42115,47516,60.79,19148053,ALGULE SACHIN BHARATRAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42116,47638,60.73,19149566,JADHAV PAVAN BHASKARRAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42117,0,56.97,19159153,GAJAKOSH RAHUL RAGHUNATH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+42286,10677,79.45,19150318,RAUT RUTUJA RAMNARAYAN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42287,20641,73.09,19152785,TAUR MAYURESH MADANRAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42288,21434,72.67,19147107,BADE SACHIN SHRIMANT,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42289,23062,71.82,19127345,AAMNE DURGA GOPAL,F,SBC/OBC,10,LOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42290,23697,71.52,19124660,M SALAHUDDIN M YOUSUF,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+42291,26092,70.36,19148106,GHOLAVE RAHUL SANDIP,M,NT3,9,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42292,26408,70.24,19137668,NAWSUPE AJAY BALASAHEB,M,SC,4,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42293,28606,69.24,19155169,ZEERMIRE NARAYAN HARIDAS,M,SEBC,3,GSEBC,,302,ENTC,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42294,30504,68.36,19155454,GAIKWAD GOVIND DATTA,M,DT/VJNT(A),11,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42295,31349,68.0,19131745,KADAM SHIWANI BHAGWANRAO,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42296,31643,67.88,19150990,ANERAO JAGADISH PRASHANT,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42297,32274,67.58,19131955,KALE ADITYA JALINDAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42298,34026,66.85,19151504,KAMBLE PAVAN BINDUSARA,M,SC,4,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42299,35152,66.36,19149954,GIRI VAIBHAV BABURAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42300,36043,66.0,19149060,KALBHOR AKSHAY DATTTRAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42301,36447,65.82,19140172,BAVISKAR BHUSHAN VITTHAL,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42302,36560,65.76,19149115,HANGE SHWETA SAMBHAJI,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42303,36904,65.64,19148988,THORAT POOJA SADASHIV,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42304,38511,64.97,19152871,GHUGE POOJA ABLUK,F,NT3,9,GNTD,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42305,39080,64.73,19131723,VAKHARE SANTOSH BANDURAO,M,OPEN,1,GSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42306,39767,64.42,19145833,GIRI ASHWINI BHAGAVAT,F,NT1,7,GOPEN,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+42307,39780,64.42,19150686,PANDHARE SACHIN RAGHUNATH,M,SBC/OBC,10,GOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42308,39787,64.42,19156809,MADLE ASHVIN MILIND,M,SC,4,GSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42309,0,64.36,19109920,SHUBHAM PRALHAD DEVKATE,M,NT2,8,GOBC,,201,Civil,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+42310,40534,64.12,19109017,SANAP PRATIKSHA DILIP,F,NT3,9,GSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42311,42474,63.27,19130970,GITE PRAVIN BIBISHEN,M,NT3,9,LSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42312,44532,62.3,19122114,GHATRAO VIKAS DILIP,M,OPEN,1,GST,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42313,45118,62.0,19150113,JADHAV ROHIT NARAYAN,M,OPEN,1,GST,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42314,45424,61.88,19151093,KEDAR RAMESHWAR NAVNATH,M,OPEN,1,LST,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42315,45439,61.88,19148548,SHINDE YOGESH LAXMAN,F,NT2,8,GNTC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42316,46409,61.39,19114287,RIDDE MAHADEO VASANT,M,OPEN,1,LSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+42317,46665,61.26,19150164,EKAL PRAMOD BHAGWAN,M,NT2,8,GNTA,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+42318,47080,61.03,19148410,AGALAVE PRAMOD BHARAT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42319,47500,60.81,19156301,TIDKE GOKUL SHIVAJI,M,NT3,9,GSEBC,,404,Metallurgy (Foundry Technology),304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42320,47719,60.69,19156811,KENDRE MAHESH SHRIRAM,M,NT3,9,LOBC,,301,Computer & IT,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42321,48766,60.06,19158911,PATIL SURAJ SHIVAJI,M,OPEN,1,LNTB,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42322,50354,58.97,19153043,DHIRE AKASH GOVARDHAN,M,SC,4,GSC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42323,52246,57.09,19129030,LAMB PRATIKSHA CHATRAHUJ,F,OPEN,1,GOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42324,52886,56.12,19150173,MORE VIKAS DEVRAO,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42325,53050,55.88,19153181,MUTHAL ANIL MOTIRAM,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42326,53442,55.15,19150125,MORE VAIBHAV DEVRAO,M,OPEN,1,LOBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42327,53699,54.42,19142300,SONWANE VISHWJEET VASANTARAO,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+42328,62,56.24,19128720,DHONGADE AKSHAY BALIRAM,M,SC,4,DFSC,,0,,304,Electrical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52129,9659,80.24,19135635,SHAIKH LATIF LAYAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52130,19497,73.71,19149226,VAIBHAV SURESH DHAVARE,M,SC,4,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+52131,20595,73.12,19134027,KULKARNI SNEHAL SHYAM,F,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52132,23105,71.82,19127361,PURI VAIBHAV DATTATRAY,M,NT1,7,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52133,34456,66.65,19133406,BHOSLE ANIKET BHASKAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52134,35055,66.41,19126002,BAGAL SHIVSHANKAR ATMARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",*,3.0
+52135,36198,65.94,19134258,BIDWE MAHESH RAMESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52136,38590,64.94,19109901,SYED ADIB MUSTAHEZIB,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52137,43284,62.88,19132466,VAWHLE RAHUL FULCHAND,M,SC,4,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52138,44615,62.29,19115686,MUNDE RAHUL BHASKAR,M,NT3,9,GOPEN,,301,Computer & IT,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",&,4.0
+52139,45961,61.59,19140252,TONDARE MANMATH SUDHAKAR,M,OPEN,1,GOPEN,,402,Production,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",#,2.0
+52140,46177,61.47,19134591,MOHAMMAD ABDUL RAZZAQ RAHEEM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2133,Beed,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",^,1.0
+52353,16089,75.71,19151962,GADE SHAHADEV BABAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52354,27499,69.71,19144879,SHINDE AKSHAY VISHNU,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",*,3.0
+52355,28447,69.29,19131314,DHAKA AKANKSHA SATYANARAYAN,F,SC,4,LOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52356,29475,68.82,19151903,KEDAR KRUSHNA ANIL,M,NT3,9,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52357,29754,68.71,19147254,AHIRE ABHIJEET BHAGWAT,M,SC,4,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52358,30547,68.35,19147184,MIRPAGAR NIKHIL LUKHAJI,M,SC,4,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52359,30722,68.25,19150919,DHOTRE GANGARAM SURESH,M,DT/VJNT(A),11,GSEBC,,303, Medical Electronics,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52360,32355,67.53,19153615,KOHLE MAYUR NARAYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52361,32905,67.29,19151932,BAMDALE VISHAL BHARAT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52362,34608,66.59,19159144,JAGTAP GAHININATH SHRIRAM,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",#,2.0
+52363,36184,65.94,19150620,LANDE SHUBHAM SHIVAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52364,38001,65.18,19152120,SHAIKH ANIS ALIMIYA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52365,38999,64.76,19147847,SURWASE KOMAL BHASKAR,F,SC,4,LOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52366,40446,64.12,19131890,TAK RUSHIKESH SUNIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52367,40656,64.06,19146894,VANJARE PRASHANT MAHADEV,M,SC,4,GSC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52368,41577,63.65,19150881,GADHE DADASAHEB KALYAN,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52369,41707,63.59,19153073,KSHIRSAGAR DEEPAK ASHOKRAO,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52370,42908,63.06,19146943,MANE MANOJ LAKSHMAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52371,43432,62.82,19148801,MULEY RAJ VISHWAMBHAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52372,44125,62.53,19152040,JADHAV TUKARAM KISHANRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52373,44253,62.47,19147780,GARJE MAYURESH NIVRTTI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52374,44781,62.18,19145792,MOHAMMAD MAHEMUD AYAZ MOHAMMAD MUSA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52375,46055,61.56,19154018,DANDGE PRATIK PRAKASH,M,OPEN,1,LOBC,,402,Production,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52376,46314,61.41,19130870,DABHADE SACHIN LAXMAN,M,SC,4,GSC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52377,47058,61.06,19147845,MANE PRADEEP DAMODHAR,M,OPEN,1,LST,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52378,47244,60.94,19150404,JAMBHALE AVISHKAR NAVANATH,M,OPEN,1,GST,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52379,47468,60.82,19151320,VARADE PRITESH SUNIL,M,OPEN,1,GST,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52380,47644,60.71,19128574,MITKARI VIKRAM BADRINATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52381,48502,60.24,19154670,RAUT VISHAL BHANUDASRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52382,48860,60.0,19151004,BADE INDRAJEET GANGADHAR,M,NT3,9,DFNTD,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52383,49623,60.0,19158923,HADE AJAY RAMESH,M,OPEN,1,GNTD,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52384,51040,58.41,19150338,SONAWANE SATYAJIT EKNATH,M,SC,4,LSC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52385,51474,57.94,19157411,AGHAV SUYOG LAXMAN,M,NT3,9,LNTB,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52386,52095,57.29,19152947,SARWADE AKASH KRISHNA,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52387,52173,57.18,19155999,SHINDE RAVINDRA DATTATRAY,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52388,53628,54.63,19155204,SHINDE SHUBHAM BHAUSAHEB,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52389,53844,53.97,19145222,SANDEEP NAGNATH TRIPATI,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52390,53974,53.47,19153017,SHINDE PAWAN RAMRAO,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",&,4.0
+52391,54250,51.94,19150347,LENAR PRADEEP RAMESH,M,SC,4,LSC,,401,Machanical,401,Machanical,2136,Beed,"Aditya Engineering College , Beed",^,1.0
+52398,7141,82.47,19151847,KHAN YUNUS AHEMAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52399,7569,82.06,19121786,ARBUNE SWAPNIL MUKUND,M,SBC/OBC,10,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52400,9679,80.24,19146865,MAHAJAN SUNIL ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52401,12071,78.47,19135333,PAWAR SACHIN MACHINDRA,M,DT/VJNT(A),11,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52402,15428,76.12,19123197,VAIBHAV MARUTI BHOSLE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52403,16868,75.24,19153343,MASKE BHAGAVAT VISHNU,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52404,17211,75.0,19146814,DHANADE ABHIJIT SHIVRAJ,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52405,19492,73.71,19139956,GIRAM GANESH BABURAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52406,20748,73.03,19136635,GAIKWAD ADITYA PREMRAJ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52407,21128,72.82,19147405,GORE ONKAR BALIRAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52408,21480,72.65,19123307,BEDRE GAJANAN VIKRAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52409,21930,72.41,19153172,PARANDKAR MAHADEV ASHOKRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52410,22512,72.12,19157945,KALUMALI PRATIK DHANANJAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52411,23761,71.47,19151956,KAVITKAR TUSHAR VIJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52412,23771,71.47,19157502,GAJANAN UMAKANT BANALE,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52413,24311,71.24,19136739,SHAIKH KHALED SADEQUE,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52414,25422,70.71,19140219,SUJIT JALINDAR THORAT,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52415,25543,70.65,19137237,AKASH CHANDRAKANT PURI,M,NT1,7,GNTB,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52416,26772,70.06,19100794,KHOSE AJIT DIGAMBARRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52417,26929,70.0,19135376,KARANDE MEGHRAJ MAHADEV,M,OPEN,1,PHO,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52418,27319,69.82,19134415,SACHIN GOVIND NAGARGOJE,M,NT3,9,LSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52419,28235,69.39,19152030,KHAN SHAHRUKH UMAR KHAN,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52420,28572,69.24,19136254,KAZI NASIRODDIN NAIMODDIN,M,OPEN,1,GST,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52421,28573,69.24,19144802,PAVAR AKASH VITTHALRAO,M,OPEN,1,GST,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52422,28590,69.24,19126041,BHOSLE SHRINIWAS JAGNNATHRAO,M,OPEN,1,LST,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52423,29372,68.88,19141232,DEODHARE SHUBHAM KALYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",&,4.0
+52424,30229,68.47,19134298,YADAV SHANKAR DATTATRAYA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52425,30869,68.18,19152739,KAMBLE ASHOK ARJUNRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52426,32566,67.47,19136425,SHAIKH AYAS JAVED,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52427,32826,67.35,19112163,HANEGAONKAR M MUNTAJIM A HAKANI,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52428,33201,67.18,19136446,CHAVAN SHUBHAM RATAN,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52429,34112,66.82,19148195,MUNDE SHRIKRISHNA BHAGWAT,M,NT3,9,LNTD,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52430,35083,66.41,19135596,KHEDKAR VIRENDRA RAJESHWAR,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52431,36591,65.76,19104598,RATHOD RAVI BHAGWAN,M,DT/VJNT(A),11,LNTA,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52432,36676,65.71,19104185,SONWANE KUNAL SHIVAJIRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52433,37460,65.39,19149080,SURVASE AMAR MAHIPAT,M,SC,4,GSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52434,37735,65.27,19156184,RATHOD NAGNATH DHONDIRAM,M,DT/VJNT(A),11,PHNTA,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52435,38734,64.88,19155856,PADMUKH RASIKA RAMKRUSHNA,F,SC,4,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52436,39548,64.53,19110393,CHATE SHAILA RATAN,F,NT3,9,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52437,40407,64.18,19138216,JOSHI SHWETA PRAKASH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52438,40982,63.94,19131997,SONULE VIJAY UDHAVRAO,M,ST,6,GST,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52439,41234,63.82,19123223,MUNDE SONAL VAIJANATH,F,NT3,9,LOPEN,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52440,41362,63.76,19107677,THORAT PAVANKUMAR SHIVANAND,M,SC,4,GSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52441,41727,63.59,19153850,KHARDEKAR PRATIK RAJKUMAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52442,42012,63.47,19125164,BONDRE BHARAT SHRIRAM,M,NT2,8,GNTC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52443,42438,63.29,19154785,BARAHALIKAR PRATHAMESH PRADIP,M,SC,4,GSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52444,43480,62.82,19132057,SHIRAPURE RAHUL RAVIKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52445,44199,62.47,19143654,GANGANE SHUBHAM DNYANOBA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52446,44442,62.35,19138911,TELBHARE RAJESHWAR NIVARTTI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52447,44747,62.24,19123404,GHUNDRE ASHOK SAMBHAJI,M,NT2,8,DFNTC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52448,44841,62.18,19145319,TARALKAR MAYUR BIBHISHAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52449,46558,61.31,19146512,GUNDLE RISHIKESH KISHANRAO,M,SC,4,LSC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52450,46813,61.18,19155729,POTEKAR MANMATH BHASKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52451,48499,60.24,19155801,JIRWANKAR PRASAD PURUSHOTTAM,M,OBC,2,LOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52452,48899,60.0,19137745,KADAM RAVINDRA RAMDAS,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52453,50167,59.12,19158277,GHODKE ASHISH SHAHAJI,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52454,53939,53.59,19148497,GOPANPALE NARESH SOMNATH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0

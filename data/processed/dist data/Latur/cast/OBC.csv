@@ -1,0 +1,62 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+3,1987,2964,86.85,19131839,MANIYAR MOHAMMAD NAWAB SHAFIYODDIN,M,OBC,2,GOBC,,201,Civil,201,Civil,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+5,1989,7305,82.3,19135706,BORSUNE ASHWINI GOPAL,F,OBC,2,GOBC,,201,Civil,201,Civil,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+12,2505,10451,79.64,19119402,SWAMI YOGESHWAR BALAYYA,M,OBC,2,GOPEN,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+17,2510,15975,75.76,19103051,TELANGE ANJALI MURALIDHAR,F,OBC,2,LOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",*,3.0
+22,2515,20520,73.15,19119777,HARALKAR MANSI DATTATRAY,F,OBC,2,LOPEN,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+25,2518,22548,72.06,19142755,SAUDAGAR NAVID LAYAKALI,M,OBC,2,GOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",*,3.0
+39,2532,31009,68.12,19107338,SWAMI MANGESH DINKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+43,2536,34700,66.55,19158736,KASLE ANUJA MOHAN,F,OBC,2,LOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+48,2541,38197,65.09,19137890,LINGAYAT ANURADHA BALASAHEB,F,OBC,2,LOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+60,2553,42336,63.33,19114476,GAWLI HANMANT VIJAYKUMAR,M,OBC,2,GOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+64,2557,42980,63.03,19152500,FUTANE PRATIK RAJKUMAR,M,OBC,2,GOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+65,2558,43146,62.97,19128819,SAGAR VIKAS ARVIND,M,OBC,2,GOBC,,201,Civil,201,Civil,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+82,2575,30926,68.18,19137374,ALAPURE POOJA UMAKANT,F,OBC,2,LOPEN,,201,Civil,201,Civil,2255,Latur,"Balaghat Engineering College,Ruddha, Ahmedpur",^,1.0
+93,2586,41050,63.88,19115705,KADWADE SHUBHAM SANGAMESHWAR,M,OBC,2,GOBC,,201,Civil,201,Civil,2255,Latur,"Balaghat Engineering College,Ruddha, Ahmedpur",^,1.0
+107,2642,12881,77.88,19121705,MANIYAR NEHA SABA GAFFAR,F,OBC,2,LOBC,,201,Civil,201,Civil,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",^,1.0
+113,2648,15595,76.0,19128127,NILAME SUJATA SANJAY,F,OBC,2,LOBC,,201,Civil,201,Civil,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",*,3.0
+138,2673,34429,66.67,19103303,SWAMI SHWETA UMAKANT,F,OBC,2,LOBC,,201,Civil,201,Civil,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",#,2.0
+149,13981,7782,81.82,19130982,MANDE SUPRIYA VIVEK,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+153,13985,12087,78.44,19134341,SWAMI PRATIBHA UMAKANT,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",@,5.0
+154,13986,25924,70.44,19127321,MUDHOLKAR DEEPALI PRADEEPRAO,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",*,3.0
+165,13997,14686,76.63,19117248,RUBY NAAZ SHAIKH SAMAD,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+179,14011,22847,71.94,19157590,KATHARE AVISHKAR DEEPAK,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+186,14018,25407,70.71,19134610,SHELGE PRADUMNA VAIJNATH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+187,14019,25816,70.5,19142396,PANCHAL SHITAL MANCHAKRAO,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+188,14020,26818,70.06,19156399,PANCHAL RATNAMALA SANDIPAN,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+190,14022,28262,69.38,19132145,MATHAPATI APARNA ASHOKRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2129,Latur,"M.S. Bidve Engineering College, Latur",#,2.0
+197,14534,23476,71.63,19103548,GOMARE GAURAVI SHIVARAJ,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",&,4.0
+207,14544,51225,58.24,19124466,JAGTAP SHIVANI RAVINDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",#,2.0
+224,14677,30389,68.41,19144199,FULSE ANJALI VYANKAT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",*,3.0
+235,14688,40323,64.18,19128517,SAVANE ANJALI SANAJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",^,1.0
+236,14689,41038,63.88,19100866,PANCHAL VAIBHAV SHIVAJI,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",&,4.0
+239,14692,41842,63.53,19122377,WAGHMARE ABHIJIT NAGNATH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",^,1.0
+245,25964,4528,85.0,19129549,DURUGKAR MAYURI ATUL,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,2129,Latur,"M.S. Bidve Engineering College, Latur",#,2.0
+260,25979,17226,75.0,19134659,GONDARKAR RAJNI VISHNUDAS,F,OBC,2,LOBC,,302,ENTC,302,ENTC,2129,Latur,"M.S. Bidve Engineering College, Latur",#,2.0
+286,26005,35764,66.12,19113784,KOTLAPURE GANESH BABRUWAN,M,OBC,2,GOBC,,302,ENTC,302,ENTC,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+291,26010,37663,65.29,19122352,LOBHE VRUSHALI NANDKISHOR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+301,26020,54363,50.94,19135504,CHEVALE SONALI VANKATRAO,F,OBC,2,GOBC,,302,ENTC,302,ENTC,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+311,42029,5856,83.64,19105042,THOLEKAR PRIYANKA DAYANAND,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+320,42038,14174,76.97,19101380,BIJAPURE SIMRAN ABDULHAMID,F,OBC,2,LOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+332,42050,22603,72.06,19158283,TAMBOLI ARBAJ SHAMSHODDIN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+334,42052,27569,69.7,19151269,GODBHARLE VISHAL SHIVAJI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+339,42057,33888,66.91,19111396,PHUTANE SAGAR VANKETRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+340,42058,34413,66.67,19154711,WAGHMARE SUPRIYA SATISH,F,OBC,2,GOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+341,42059,35599,66.18,19125205,AMBURE SHRADDHA SANJAY,F,OBC,2,LOBC,,304,Electrical,304,Electrical,2129,Latur,"M.S. Bidve Engineering College, Latur",&,4.0
+346,42488,18533,74.24,19153256,JAMBHALE ANJALI RAMESHWAR,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+347,42489,23779,71.47,19152786,TELANGE KAILAS RAJKUMAR,M,OBC,2,GOBC,,401,Machanical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",#,2.0
+364,42506,37585,65.33,19148303,BHATKE AJIT RAMESH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+366,42508,37873,65.21,19151910,RAUT VAIBHAV RANGNATH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+370,42512,40458,64.12,19128952,MAHINDRAKAR CHETAN SURENDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",#,2.0
+376,42518,45798,61.7,19154255,KHADAKE AMIT GURUNATH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+377,42519,46518,61.33,19123659,WALAMPALLE NIKITA GOPINATH,F,OBC,2,LOBC,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+382,42524,51203,58.24,19143250,BEMBDE RUSHIKESH DINKAR,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",#,2.0
+383,42525,51455,58.0,19121580,PANCHAL DINKAR BIBHISHAN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,2254,Latur,"Vilasrao Deshmukh Foundation Group of Institutions, Latur",^,1.0
+395,42557,40337,64.18,19101991,PATIL ABHIJEET RAMESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,2255,Latur,"Balaghat Engineering College,Ruddha, Ahmedpur",^,1.0
+413,51909,7793,81.82,19131597,POTDAR ROHIT BALAJI,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+415,51911,9676,80.24,19129053,SUTAR AKSHAY OMNATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+420,51916,12805,77.94,19104509,SUGARE SHUBHAM SATISH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+423,51919,17399,75.0,19154836,WALAMPALLE AMAR GURUNATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",^,1.0
+424,51920,18483,74.29,19154980,TAMBOLI UZMA FARUKH,F,OBC,2,LOBC,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",&,4.0
+426,51922,28834,69.12,19132627,CHILLARGE GANESH RAJABHAU,M,OBC,2,LOBC,,401,Machanical,401,Machanical,2129,Latur,"M.S. Bidve Engineering College, Latur",#,2.0
+485,53008,50422,58.91,19159396,KUCHME SHRINIWAS CHANDRAKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,2522,Latur,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",^,1.0

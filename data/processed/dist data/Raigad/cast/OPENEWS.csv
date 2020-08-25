@@ -1,0 +1,33 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+8,126,11624,78.78,19117146,KULKARNI VALLABH KAILASRAMAN,M,OPEN/EWS,5,EWS,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+19,137,12181,78.4,19113630,CHIMAVKAR MUSTAQEEM MOHAMMAD SAYEED,M,OPEN/EWS,5,LOPEN,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",&,4.0
+32,150,35501,66.2,19147473,JALGAONKAR SUFIYAN A AZIZ,M,OPEN/EWS,5,EWS,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+34,152,37315,65.45,19101449,DHOKLE NAKIB NISAR,M,OPEN/EWS,5,LOPEN,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+54,172,18422,74.3,19111290,MULLA ADIB MOHAMMED AFZAL,M,OPEN/EWS,5,GOPEN,,101,Chemical,101,Chemical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+102,2815,17955,74.97,19133094,SHAIKH PIRSAB MAQBULSAB,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",*,3.0
+157,2870,14515,76.73,19105759,RUSHIKESH ATUL JAGTAP,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+315,3489,11454,78.91,19106350,KULAWADE AJINKYA BANSHIDHAR,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^,1.0
+464,3703,25950,70.42,19105395,CHIWARE PRAJAKTA KALLAPPA,F,OPEN/EWS,5,LOPEN,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+465,3704,26607,70.12,19132219,SHAIKH FAIZAN AHMED JUMERAT ALI,M,OPEN/EWS,5,LSEBC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+636,4356,29433,68.85,19147879,BURKUL SANDESH SIDRAM,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+834,14813,1693,88.9,19106166,JALGAONKAR ZARRIN NIYAZ ALI,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+866,14845,13102,77.71,19112059,ANSARWADEKAR SNEHA VIKASRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+919,15004,21156,72.82,19101183,MIRZA SAFWAN ASHFAQ,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",&,4.0
+952,15037,54062,53.12,19105701,DEO POOJA PRABHAKAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+1016,15141,30691,68.29,19124095,JOSHI NIDHI GOPAL,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+1337,16677,16471,75.47,19133800,KULKARNI SUSHIL VIJAYKUMAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1402,26783,10082,79.94,19107132,PATIL OMKAR SUNIL,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1405,26786,12563,78.12,19131960,DHANURE JAGANNATH ANNARAO,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1634,42745,9947,80.0,19113306,PRABHU SNEHA RAVIDAS,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1689,42801,19949,73.45,19119579,MANTHALKAR ANAND SHAMSUNDER,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1691,42803,21561,72.6,19103579,GANGREKAR ADNAN ABDUL RAZZAK,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+1842,43422,27998,69.5,19120448,DALVI MUSTAFA MUSADDIQ,M,OPEN/EWS,5,MI,,304,Electrical,304,Electrical,3439,Raigad,"Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",#,2.0
+1908,53276,3552,86.12,19126674,KULKARNI SACHIN SURESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1939,53326,17495,75.0,19125169,KHAREKAR RUSHIKESH SHAM,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+2017,53404,11560,78.82,19116876,PRABHUSHIRODKAR SARTHAK SUNIL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2056,53443,22699,72.0,19109689,ALJI MAFIZ MUJIBH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2070,53457,37520,65.36,19101609,AKULA SIDDHI MANGESH,F,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2132,53519,54407,50.41,19124153,AKLEKAR UMER MUKHTAR AHMED,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+2455,54753,27886,69.53,19100460,DHANSAY YASIR ARIF,M,OPEN/EWS,5,MIMH,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",#-,
+2462,54760,30657,68.29,19113994,JAFFER ADIL BASHIR,M,OPEN/EWS,5,MIMH,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",#-,
+2880,55918,29477,68.82,19107767,KHOT AAFNAN REHAN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0

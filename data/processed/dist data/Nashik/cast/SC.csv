@@ -1,0 +1,415 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+0,396,5728,83.76,19125242,SABLE AKSHAY DATTATRAY,M,SC,4,GOPEN,,101,Chemical,101,Chemical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1,397,10459,79.64,19131196,TATHE SHAMALI ARUN,F,SC,4,LOPEN,,101,Chemical,101,Chemical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+11,407,40335,64.18,19111870,RAMTEKE ROHAN SAGAR,M,SC,4,GSC,,101,Chemical,101,Chemical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+14,411,24880,70.94,19128334,HARSHALI ASHOK JADHAV,F,SC,4,LSC,,102,Plastic,101,Chemical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+25,422,49456,60.0,19152366,GAIKWAD SAGAR RAJENDRA,M,SC,4,GOPEN,,101,Chemical,101,Chemical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",&,4.0
+43,6466,9205,80.61,19101412,GHOLAP SEJAL ASHUTOSH,F,SC,4,LSC,,201,Civil,201,Civil,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+45,6468,11120,79.15,19124870,SOMWANSHI KIRTESH MAHENDRA,M,SC,4,GSC,,201,Civil,201,Civil,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+53,6476,11717,78.73,19105637,AHIRE AJAY SURESH,M,SC,4,GSC,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+70,6493,24462,71.15,19144775,WAGH POOJA ANNASAHEB,F,SC,4,LSC,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+72,6495,30870,68.18,19109748,BORADE MANSI VIJAY,F,SC,4,GSC,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+73,6496,31360,68.0,19124589,WAGH NIKHIL DATTU,M,SC,4,GSC,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+83,6506,1597,89.06,19139424,SALVE GAURAV RAJENDRA,M,SC,4,GSC,,201,Civil,201,Civil,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+101,6524,4488,85.03,19115344,PATHADE TRUPTI LAXMAN,F,SC,4,LSC,,201,Civil,201,Civil,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+102,6525,5517,84.0,19128746,SALVE DIPALI KISAN,F,SC,4,GSC,,201,Civil,201,Civil,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",#,2.0
+113,6536,15145,76.3,19154924,JADHAV TEJAS SHANTILAL,M,SC,4,GOPEN,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+143,6566,33310,67.15,19154238,SHINDE GAURAV PRADIP,M,SC,4,GSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+144,6567,33562,67.03,19105278,POTE SHALINI RAGHUNATH,F,SC,4,GSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",&,4.0
+146,6569,36204,65.94,19146990,ARNE PARASHRAM BHANUDAS,M,SC,4,GSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",#,2.0
+153,6576,46013,61.58,19157623,KHAIRNAR MILIND RAJENDRA,M,SC,4,GSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+154,6577,46652,61.27,19100062,PRATIK VIJAY SHILAWAT,M,SC,4,LSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",#,2.0
+159,6582,50045,59.21,19109602,AHIRE LALIT RAJU,M,SC,4,GSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+160,6583,51504,57.94,19140932,PAGARE SHUBHAM RAJENDRA,M,SC,4,LSC,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+180,6604,29410,68.85,19153170,SALAVE SACHIN TANAJI,M,SC,4,GOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+208,6632,43508,62.79,19131623,DANI ATUL DODHA,M,SC,4,GSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+214,6638,46897,61.15,19153985,CHAVHAN SAURABH ASHOK,M,SC,4,LSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+217,6641,48671,60.12,19122634,MAIRALE ANITA KAILAS,F,SC,4,LSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+221,6645,50776,58.61,19107833,MANWAR SHUBHAM CHANDRAMANI,M,SC,4,GSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",#,2.0
+222,6646,51950,57.45,19139363,KANKARIYA VINAYAK RAJU,M,SC,4,GSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+223,6647,53258,55.52,19158295,PATALPURE KHEMCHAND GANGADHAR,M,SC,4,GSC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+236,6679,9900,80.06,19135111,JIWANE MANASI DEVANAND,F,SC,4,LSC,,201,Civil,201,Civil,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+242,6685,13916,77.15,19120375,RAJBHOJ ROSHAN ASHOK,M,SC,4,GSC,,201,Civil,201,Civil,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+250,6693,23963,71.39,19140769,BAGUL BHARTI GORAKH,F,SC,4,GSC,,201,Civil,201,Civil,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+266,7011,17874,74.97,19158041,AHIRE SNEHAL MADHUKAR,F,SC,4,GOPEN,,201,Civil,201,Civil,5173,Nashik,"SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)",^,1.0
+277,7022,18341,74.36,19122019,AHIRE ROHIDAS NIMBA,M,SC,4,MIMH,,201,Civil,201,Civil,5173,Nashik,"SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)",^-,
+303,7109,27826,69.58,19125502,WANKHEDE RUSHIKESH GANESH,M,SC,4,GOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+317,7123,31592,67.88,19138990,KSHIRSAGAR SACHIN RAMESH,M,SC,4,GOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+337,7143,36755,65.7,19107605,GAIKWAD YASHODHIR RAMESH,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+343,7149,38502,64.97,19137871,CHANDANSHIVE NEHA PRAKASH,F,SC,4,LSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+344,7150,39373,64.61,19150157,GORDHE BHUSHAN SUNIL,M,SC,4,LSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",*,3.0
+346,7152,40327,64.18,19120380,AHIRE KIRAN KARBHARI,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+349,7155,40878,63.94,19145606,ULHARE SURAJ VILAS,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+365,7171,44712,62.24,19130193,GAIKWAD NAMRATA VILASRAO,F,SC,4,LSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+372,7178,0,61.21,19119462,SONAWANE VARSHA SUNIL,F,SC,4,LSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+393,7199,49548,60.0,19149947,ROKADE SHUBHAM PRAKASH,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+402,7208,52112,57.27,19100397,PAWAR SIDDHRTH SHASHIKANT,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+403,7209,52941,56.06,19142144,JADHAV SONU MANGESH,M,SC,4,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+426,7297,14278,76.91,19118042,RUSHIKESH SHARAD DOKHE,M,SC,4,GSC,,201,Civil,201,Civil,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+427,7298,15144,76.3,19115267,DESHPANDE TANAYA SANJAY,F,SC,4,LSC,,201,Civil,201,Civil,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+428,7299,16494,75.45,19137846,AHIRE VISHAL RAJENDRA,M,SC,4,GSC,,201,Civil,201,Civil,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+442,7313,40655,64.06,19120359,SAWAKARE TEJASWINI CHANDU,F,SC,4,LOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+444,7315,41633,63.64,19136260,KEDARE MEGHA VIJAY,F,SC,4,LOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",^,1.0
+467,7338,48563,60.18,19119525,KALE PRATIK VILAS,M,SC,4,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+473,7344,49531,60.0,19131928,NIKAM YOGESH VIKRAM,M,SC,4,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+518,7445,42770,63.15,19118501,KATARNAVARE NILESH RAJENDRA,M,SC,4,MIMH,,201,Civil,201,Civil,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",&-,4.0
+528,7562,3895,85.7,19108386,PAGARE AKASH VIJAY,M,SC,4,GOPEN,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+567,7601,17992,74.97,19137358,WAGH POOJA POPAT,F,SC,4,LSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+568,7602,18559,74.24,19103150,SURADKAR APURVA RAVINDRA,F,SC,4,LSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+575,7609,20370,73.21,19111731,GOHIL MORESHWAR SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+576,7610,20421,73.19,19127160,BARVE POOJA VIJAYSING,F,SC,4,LSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+581,7615,21556,72.61,19155440,KARANDE MANISH VILAS,M,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+589,7623,27719,69.64,19106937,SALVE DIPAK MURLIDHAR,M,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+593,7627,31468,67.94,19119706,GANGURDE RIDDISHA SANJAY,F,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+594,7628,31481,67.94,19142356,MORE MANISHA RUSTUM,F,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+598,7632,35466,66.24,19120374,SHIRSATH DURGESH SURESH,M,SC,4,DFSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+599,7633,36027,66.0,19148876,MORE AKSHADA SHARAD,F,SC,4,GSC,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+610,7800,15281,76.24,19124914,KALPITA AHIRE,F,SC,4,LOPEN,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+615,7805,21791,72.48,19122912,AHIRE KOMAL RAJESH,F,SC,4,LSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+639,7829,30372,68.42,19128433,BHADANGE NIKHIL MILIND,M,SC,4,GSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+642,7832,32864,67.33,19139497,ALHAT SAURABH RAJENDRA,M,SC,4,GSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+648,7838,36758,65.7,19108523,SHEWALE SWARALI SANTOSH,F,SC,4,LSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+652,7842,42852,63.09,19144114,BAVISKAR NIKET SUNIL,M,SC,4,GSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+653,7843,47746,60.67,19120769,GAIKWAD RITESH LAXMIKANT,M,SC,4,GSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+655,7845,48420,60.25,19154076,NETARE HARISH ANANT,M,SC,4,GSC,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+662,7917,27026,69.94,19143007,SOLASE ROSHAN KONDAJI,M,SC,4,GOPEN,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+665,7920,32165,67.64,19115257,PATOLE KUNAL ASHOK,M,SC,4,GSC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+667,7922,32712,67.39,19142712,BHALERAO SUJATA PRAKASH,F,SC,4,LSC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+676,7931,39775,64.42,19118757,SHARDUL SAKSHI GULAB,F,SC,4,GSC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+678,7933,40397,64.18,19154008,GANGURDE SHUBHAM SANJAY,M,SC,4,GSC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",*,3.0
+724,7979,49049,60.0,19147729,SALVE ABHISHEK PRAKASH,M,SC,4,LSC,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+725,7980,50669,58.73,19158020,BANGARE MAHADEV ATMARAM,M,SC,4,GSC,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+726,7981,51595,57.82,19135394,KANKUTE SACHIN LAXMAN,M,SC,4,GSC,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",#,2.0
+728,7983,52165,57.21,19121419,PAGARE TEJAS BALASAHEB,M,SC,4,GSC,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+828,8109,25619,70.61,19103617,WAGHMARE SHWETA SURESH,F,SC,4,LSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+830,8111,26099,70.36,19106715,PATAIT SNEHAL RAJENDRA,F,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+832,8113,26501,70.18,19146243,JADHAV AVIRAJ HIRAMAN,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",&,4.0
+840,8121,27567,69.7,19150121,DHAWLE PAYAL LAXMAN,F,SC,4,LSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+844,8125,28641,69.21,19124075,AWARE ATIT SHANKAR,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+847,8128,30862,68.18,19110023,SAWKARE GAURAV TUKARAM,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+848,8129,31553,67.88,19137826,MAHALE PRANJAL RAJENDRA,F,SC,4,LSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+850,8131,34004,66.85,19144144,ROHAM PRASHANT BHASKAR,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+853,8134,36909,65.64,19143220,PAGARE MADHURI DILIP,F,SC,4,LSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+857,8138,39097,64.73,19135061,JADHAV DHANANJAY SANJEEV,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+858,8139,39335,64.61,19129582,WANKHEDE JAGRUTI CHANDRAKANT,F,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+859,8140,39636,64.48,19116879,THORAT PRANAV SHARAD,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+860,8141,39901,64.36,19134883,DONDE SURAJ ANIL,M,SC,4,GSC,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+871,18632,8851,80.94,19104612,JADHAV DAKSHA AJIT,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+885,18646,20563,73.12,19119332,BORSE VRUSHALI YASHWANT,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+895,18656,8523,81.19,19106519,PAWAR MANDAR ROHIDAS,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+904,18665,21264,72.76,19137830,NIRBHAVANE SHRAVANI SANJAY,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+905,18666,22333,72.19,19106985,KULVE RUCHIKA NANDKISHOR,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+909,18670,5506,84.0,19120679,HIRE SAKSHI ASHOK,F,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",&,4.0
+911,18672,7950,81.69,19108803,AMBHORE SNEHA RAJESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+927,18688,24748,71.0,19107421,BORSE PRATHAMESH SANJAY,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+928,18689,25071,70.88,19115039,SABLE VRUSHALI SUBHASH,F,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",#,2.0
+940,18701,2517,87.5,19124091,JAWARE HIRAL BAPU,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+944,18705,5965,83.53,19126212,PATEKAR KOMAL SANJAY,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+945,18706,7016,82.59,19155018,TAK AARTI KAILAS,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+955,18716,9481,80.41,19127417,DUNBALE PRACHI RAJENDRA,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+984,18745,30928,68.18,19155475,KHARAT YOGESH DNYANESHWAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+986,18747,51694,57.75,19152880,SURWADE MEGHA RAMLAL,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+988,18750,14759,76.56,19136681,ZALTE POOJA SANJAY,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1000,18762,21980,72.38,19124047,KAPIL CHANDRAMOHAN MOHITE,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1026,18788,31996,67.71,19123447,RANSHIGE KRISHNA DEEPAK,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",&,4.0
+1030,18792,33689,67.0,19131211,BAGUL SANDIP DADAHARI,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1053,18816,31957,67.71,19102212,INDAVE SIDDHANT SUSHILKUMAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1054,18817,38826,64.82,19127212,BAGUL PRANALI PRADIP,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1079,18842,43070,63.0,19111818,AHIRE ANISH RAJESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1082,18845,44604,62.29,19122453,PARAD VRUSHALI KIRAN,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1083,18846,47675,60.71,19120524,GAVALE PRADNYA BHALACHANDRA,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1084,18847,50005,59.24,19126520,WANKHEDE RAHUL KAILAS,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+1089,18853,20552,73.13,19157020,PATHARE SARIKA SUNIL,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+1094,18858,23904,71.41,19122325,BAVASKAR PRITESH PRAMOD,M,SC,4,GOPEN,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+1095,18859,25819,70.5,19145694,PARVE BHAGYALAXMI KAILAS,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",#,2.0
+1118,18882,37001,65.59,19147349,GAIKWAD RANI HIRAMAN,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",*,3.0
+1121,18885,38397,65.0,19122612,BHOITE ANUJA SHAMRAO,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+1129,18893,41686,63.63,19115449,AHIRE SAURABH RAMESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+1132,18896,43312,62.88,19106114,NIKAM RUPALI SANJAY,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+1145,18909,53670,54.5,19155785,KAMBLE NILESHKUMAR RAMESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+1168,18945,15693,75.94,19127904,PAWAR RAGHUVEER RAJESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1169,18946,16938,75.18,19109100,AHIRE KOMAL DILIP,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1170,18947,16948,75.18,19119344,MORE SAKSHI RAMAKANT,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",#,2.0
+1184,18961,20009,73.41,19140499,MORE MANSI ARJUN,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1237,19321,27923,69.53,19101144,NARENDRA VASANTRAO DHAKNE,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1238,19322,28014,69.5,19133443,AHIRE VAIBHAV SANJAY,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1240,19324,28686,69.18,19133713,KALE SNEHA SUNIL,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+1242,19326,29370,68.88,19150114,AHIRE SANDIP RAMESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1246,19330,41438,63.71,19125803,KALE SHEJAL VASANT,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1279,19363,26305,70.25,19103333,RAO KAMAKSHI RAKESH,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+1288,19372,29762,68.71,19119825,AHIRE SAKSHI BHALCHANDRA,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1291,19375,41445,63.71,19126896,AHIRE SAYALI RAJENDRA,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1292,19376,41881,63.53,19119496,SONAWANE RAHUL PRADIP,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+1321,19471,17742,75.0,19123751,DANGALE ADITI ANAND,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1322,19472,19213,73.88,19123829,BAGUL PRANALI PRASHANT,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1323,19473,23780,71.47,19100757,INGOLE SAGAR ASHOK,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",#,2.0
+1341,19491,28413,69.29,19148166,AHIRE DIPALI ASHOK,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+1344,19494,30873,68.18,19122142,GAIKWAD DEEPALI RAJESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+1362,19512,50971,58.47,19115895,KHARE SUMEDH MILIND,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",^,1.0
+1375,19525,0,67.06,19159589,JARE SONALI RAGHUNATH,F,SC,4,MIMH,,301,Computer & IT,301,Computer & IT,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^-,
+1413,19662,19978,73.44,19114647,SOLSE DURGA JAGAN,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1415,19664,25325,70.76,19104209,MONDKAR DHIRAJ SANDEEP,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1416,19665,25576,70.63,19118588,SALUNKE SABHYATA MACHHINDRA,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1417,19666,26025,70.41,19118180,PAGARE ROSHANI RAJENDRA,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1422,19671,41259,63.81,19111175,INGLE ARCHANA RAJENDRA,F,SC,4,DFSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1430,19679,17444,75.0,19122365,RAMVANSHI NAYNA RAVINDRA,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1436,19685,21266,72.76,19108872,JAGTAP BARKHA ASHOK,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1465,19714,32820,67.35,19127822,KHARAT DIPALI RAJENDRA,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1477,19726,41826,63.56,19112856,BORASE PANKAJ ISHWAR,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+1478,19727,42546,63.24,19117462,KAMBLE PRADNAYA PRAMOD,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1480,19729,48567,60.18,19133444,KAMBLE SAMMYAKA RAVINDRA,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1481,19730,52972,56.0,19146443,PAATALPURE POOJA ASHOK,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1482,19731,54551,45.82,19150342,BORSE AARTI NAMDEO,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",#,2.0
+1492,19741,17625,75.0,19134872,DEEPTI SUBHASH JADHAV,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+1529,19912,24640,71.06,19124500,AHIRE PRANEETA SUDAM,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+1530,19913,26578,70.13,19122264,CHAVAN KAJAL ASHOK,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+1531,19914,31133,68.06,19115523,DHENGLE SAKSHI BALASAHEB,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+1532,19915,32894,67.31,19149187,PATHAK MANDAR NAND,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+1533,19916,33195,67.19,19125566,JADHAV VAIBHAV BHAURAO,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+1534,19917,33377,67.12,19130712,UGHADE HARSHADA SADANAND,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+1548,19963,18526,74.25,19153755,SURYAWANSHI SHRADDHA NAGANATH,F,SC,4,LOPEN,,301,Computer & IT,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+1561,19976,26186,70.31,19113058,BHAMARE NAVINKUMAR SANJAY,M,SC,4,PHSC,,301,Computer & IT,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",#,2.0
+1566,19981,36664,65.75,19144889,KALE DARSHAN MAHESH,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+1567,19982,44121,62.53,19117637,MORE SUMEDHA BHAUSAHEB,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+1568,19983,49433,60.0,19134462,SALVE TEJAL RAJESH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",#,2.0
+1593,20008,30033,68.56,19130269,PANPATIL YASH NITENDRA,M,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",#,2.0
+1609,20024,37501,65.38,19107260,JADHAV RASHMI VINOD,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+1610,20025,37674,65.29,19141566,WAGH PALLAVI JAGDISH,F,SC,4,LSC,,301,Computer & IT,301,Computer & IT,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",#,2.0
+1612,20027,43867,62.65,19158797,MAHAGAVE POOJA SURYAKANT,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+1613,20028,50770,58.63,19104643,MUKUNDE MANSI PRADEEP,F,SC,4,GSC,,301,Computer & IT,301,Computer & IT,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+1620,32899,6882,82.71,19131788,PANPATIL ANISHA NITENDRA,F,SC,4,LSC,,302,ENTC,302,ENTC,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+1634,32913,26023,70.41,19102762,JADHAV RITESH SHYAM,M,SC,4,GSC,,302,ENTC,302,ENTC,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+1637,32916,30115,68.53,19127403,JADHAV DIKSHA PRABHAKAR,F,SC,4,GSC,,302,ENTC,302,ENTC,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+1639,32918,1749,88.82,19137480,SONAWANE YOGESH RAMESH,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1641,32920,5280,84.24,19101189,KAPURE DHIRAJKUMAR JANKIRAM,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1646,32925,13471,77.47,19130995,RAM MADHU GAURISHANKAR,F,SC,4,LOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1650,32929,17710,75.0,19148481,TRIBHUVAN ASHOK KAILAS,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1653,32932,23887,71.41,19134834,SARKATE SIMARAN BHASKAR,F,SC,4,LSC,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1654,32933,24899,70.94,19130753,KALYANI SANJAY KHARAT,F,SC,4,GOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1660,32939,34126,66.81,19137735,BAVISKAR HARSHAWARDHAN RAJENDRA,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",&,4.0
+1671,32963,4143,85.41,19134892,MORE KARUNA CHANDRAKANT,F,SC,4,LSC,,302,ENTC,302,ENTC,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1673,32965,6505,83.06,19131766,PANPATIL AMISHA NITENDRA,F,SC,4,GSC,,302,ENTC,302,ENTC,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1686,32978,23559,71.59,19124761,DONDE VRUSHALI NAMDEV,F,SC,4,LSC,,302,ENTC,302,ENTC,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1702,33014,42163,63.41,19116899,BHOSALE MAYUR RAJENDRA,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1703,33071,13556,77.41,19144478,AVHAD GAURAV BALASAHEB,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+1704,33072,24677,71.06,19148418,GAIKWAD KAUSTUBH GOVIND,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+1707,33075,48191,60.41,19153718,JADHAV MEGHA SANJAY,F,SC,4,LOPEN,,302,ENTC,302,ENTC,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+1713,33230,12498,78.18,19149190,SHINDE ANJALI VINAYAK,F,SC,4,LOPEN,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1722,33239,26820,70.06,19150653,KALASARE HARSHAL KISAN,M,SC,4,GOPEN,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1732,33249,41600,63.65,19124268,TALWARE KAVITA BALIRAM,F,SC,4,GSC,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1735,33252,50475,58.88,19100644,SURWADE SHUBHAM MANOHAR,M,SC,4,GSC,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+1780,33924,7295,82.31,19153665,SHIRSALE BHAVANA DEEPAK,F,SC,4,LOPEN,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1806,33950,25708,70.56,19141451,YASHAVANTE SIMARAN SURESH,F,SC,4,LSC,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1813,33957,35580,66.18,19107585,LANDGE SHUBHAM BABAN,M,SC,4,GSC,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1817,33961,39180,64.69,19147788,PANDE EKTA SANJAY,F,SC,4,LSC,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1819,33963,40937,63.94,19127292,NIKAM SAKSHI DEEPAK,F,SC,4,LSC,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1825,33969,53577,54.76,19125264,NARWADE SUMEDH DILIP,M,SC,4,GSC,,302,ENTC,302,ENTC,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+1879,45554,30902,68.18,19132146,LONE RUTUJA ARUN,F,SC,4,LSC,,304,Electrical,304,Electrical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+1881,45556,33572,67.03,19111084,SONKAMBLE BHUSHAN SURESH,M,SC,4,GSC,,304,Electrical,304,Electrical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",*,3.0
+1897,45572,1687,88.91,19133662,KAMBLE YASH VIKRAM,M,SC,4,GSC,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1917,45592,6525,83.03,19133841,MORE NIKITA ASHOK,F,SC,4,LSC,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1918,45593,6602,82.97,19112068,GAURAV SAWKARE,M,SC,4,GSC,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1919,45594,7293,82.31,19128983,UJGARE AVANTI MILIND,F,SC,4,GSC,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+1928,45603,2497,87.52,19113437,ZALTE ANUSHKA ARUN,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1950,45625,18028,74.97,19102885,KURHADE RAJSHREE KEDARNATH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1960,45635,26246,70.3,19107623,BANKAR PRAGATI POPAT,F,SC,4,LSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1961,45636,26359,70.24,19154559,GAIKWAD VISHAL BAJIRAO,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1963,45638,28650,69.21,19104396,SALVE ABHAY ANANDA,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1964,45639,30872,68.18,19149604,TIRMAKHE SHRADDHA PRASHANT,F,SC,4,GSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",&,4.0
+1973,45648,35408,66.24,19147350,TARADE PRASAD RAJENDRA,M,SC,4,GSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1978,45653,36903,65.64,19150678,PAWAR MALTI RAMLAL,F,SC,4,LSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1983,45658,40755,64.0,19140722,SALVE RUTUJA ANIL,F,SC,4,LSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+1988,45663,44746,62.24,19159429,SHINDE SHRADDHA RAJU,F,SC,4,LSC,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2027,45759,14439,76.79,19136633,SARWAN MANASI RAMESH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2031,45763,22630,72.06,19137636,JAMDHADE PALLAVI CHANDRAKANT,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2035,45767,30655,68.29,19148634,MOHITE BALI MADHUKAR,F,SC,4,LSC,,302,ENTC,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2042,45774,40527,64.12,19120962,GANGURDE HARSHAD VASANT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2057,45789,50782,58.61,19158415,KHAMKAR VIKAS VASANT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2063,45795,54030,53.29,19152822,ADHANGLE AKSHAY ANAND,M,SC,4,GSC,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2073,45833,10683,79.45,19137371,KAKADE RUTIKA DILIP,F,SC,4,LSC,,304,Electrical,304,Electrical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+2085,45845,17887,74.97,19132352,SARDAR SNEHAL BHARAT,F,SC,4,GSC,,304,Electrical,304,Electrical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",#,2.0
+2086,45846,18328,74.36,19117477,SASANE DHANASHREE JALINDAR,F,SC,4,GSC,Physical impairment,304,Electrical,304,Electrical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+2096,46195,14961,76.42,19129889,THAKARE SONALI TATYABA,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+2112,46211,25486,70.67,19131495,TUPLONDHE MONIKA DHONDIRAM,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+2116,46215,27180,69.88,19131199,AVHAD SHWETA SANTOSH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2136,46235,35978,66.0,19132250,JADHAV DARSHANA SIDDHARTH,F,SC,4,LSC,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2142,46241,40450,64.12,19120293,SONAWANE SUMEET RAHUL,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2146,46245,42065,63.45,19120536,SONAWANE AADESH KASHINATH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2159,46258,46614,61.27,19153093,ARANE PRATIK VIJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2174,46273,50668,58.73,19158124,AUTE ASHWINI BHARAT,F,SC,4,LSC,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+2215,46352,11873,78.61,19115580,PAWAR SHUBHAM YASHWANT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",@,5.0
+2217,46354,12216,78.36,19143830,HIRE YOGITA PRADIP,F,SC,4,LSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2236,46373,15443,76.12,19130612,GANGURDE SAYALI MILIND,F,SC,4,LSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2239,46376,19752,73.58,19112793,JADHAV DEVESH SUNIL,M,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2241,46378,20863,72.97,19128081,KATARE PRASHIK RAJU,M,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2243,46380,22471,72.12,19118142,SALVE AKANKSHA GHANSHYAM,F,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2244,46381,22484,72.12,19111762,NIKALE ANKIT ARUN,M,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2246,46383,24950,70.91,19116622,PAGARE YASH SUSHILKUMAR,M,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2249,46386,29281,68.91,19121054,SALVE RASIKA MANOJ,F,SC,4,LSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2251,46388,31662,67.82,19118918,SOLSE GAURI VINAYAK,F,SC,4,PHSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+2253,46390,32987,67.27,19131040,TAYADE PRIYANKA CHANDRAKANT,F,SC,4,GSC,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",*,3.0
+2266,46464,22530,72.12,19158131,TAYADE VIVEK AJAY,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+2271,46469,28888,69.09,19149332,RANBHOR PRATHMESH CHANDRAKANT,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+2286,46614,12862,77.88,19112188,SHINDE PAURNIMA ASHOK,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2303,46631,20518,73.15,19123999,MOCHI RAHUL KACHARU,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2315,46643,24211,71.27,19134403,PAGARE RUSHIKESH SUBHASH,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2320,46648,25258,70.79,19102537,LONDHE CHANDRAKANT BHAUSAHEB,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",@,5.0
+2327,46655,27145,69.88,19113205,UNMESH DIPAK AHIRE,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+2350,46678,32042,67.7,19146638,PAGARE SAYALI ASHOK,F,SC,4,LSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2356,46684,33586,67.03,19110861,BORALE DEEPESH VIJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2358,46686,33717,66.97,19154269,GANGURDE NIKITA ANKUSH,F,SC,4,LSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2359,46687,33879,66.91,19133413,BHALERAO BHUSHAN VIJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2370,46698,36412,65.82,19152086,MORE AJAY SUNIL,M,SC,4,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+2383,46711,41165,63.82,19115958,SOHANI RAKHI NANDKISHOR,F,SC,4,LSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2384,46712,41207,63.82,19149367,KHARAT VISHAL BHIMRAO,M,SC,4,GSC,,302,ENTC,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+2385,46713,41631,63.64,19121221,PATAIT CHAITALI BABASAHEB,F,SC,4,LSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+2387,46715,43267,62.91,19104579,MURKIKAR SHREYASH SHIVAJI,M,SC,4,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2388,46716,44945,62.12,19129921,LONDHE SHUBHAM ARUN,M,SC,4,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+2422,46868,35303,66.3,19152317,AHIRE OMKAR SANJAY,M,SC,4,GSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2440,46886,41893,63.53,19130792,AHIRE DIPALI SUDHAKAR,F,SC,4,LSC,,302,ENTC,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2442,46888,43261,62.91,19133680,GUJAR DEVIDAS BALU,M,SC,4,PHSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2443,46889,43381,62.85,19137320,BAGUL NILESH KANTILAL,M,SC,4,GSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2444,46890,43725,62.71,19132062,KATARE MONALI KUNAL,F,SC,4,LSC,,302,ENTC,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2448,46894,45773,61.7,19139590,SONAWANE SUMEDH ASHOK,M,SC,4,GSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2451,46897,47854,60.61,19133664,AHER SURAJ MEGHARAJ,M,SC,4,GSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",*,3.0
+2454,46900,52340,56.97,19140060,THAKARE NISHANT RAMESH,M,SC,4,LSC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+2464,46978,24969,70.91,19136316,GAWARE NIKITA LAHANU,F,SC,4,LSC,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+2483,46997,52392,56.91,19126063,BOBADE RUSHIKESH CHANDRAKANT,M,SC,4,GSC,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+2518,47120,34309,66.73,19158953,BAGUL PRASANNAJEET RANJEET,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5411,Nashik,"Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.",^,1.0
+2521,47123,49306,60.0,19141095,PATHARE POONAM SUBHASH,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5411,Nashik,"Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.",^,1.0
+2526,47172,9924,80.06,19133915,SAWALE AADESH BARIKRAO,M,SC,4,GOPEN,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+2530,47176,13667,77.33,19129050,RAMRAJE SRUSHTI ANAND,F,SC,4,LOPEN,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+2537,47183,15908,75.82,19140158,SHIRSAT ISHA SANJAY,F,SC,4,LSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+2556,47202,28891,69.09,19128567,ZUTING SAKSHI SADASHIV,F,SC,4,GSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+2558,47204,34547,66.61,19126881,BHUJBAL NUPUR HEMANT,F,SC,4,GSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+2559,47205,36077,66.0,19124562,NILE ABHISHEK SHARAD,M,SC,4,GSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+2561,47207,39343,64.61,19158149,INGLE PRANAL RAMESH,M,SC,4,DFSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+2563,47209,43013,63.03,19157563,SHIRSAT SHUBHAM SIDHARTH,M,SC,4,GSC,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",*,3.0
+2572,49832,29191,68.94,19129354,MAHALE SANGHAPRIYA TOPALSING,F,SC,4,LOPEN,,302,ENTC,305,Instrumentation,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+2584,49844,45164,62.0,19118869,PADAYA HARSHAD MANOJ,M,SC,4,GSC,,301,Computer & IT,305,Instrumentation,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",&,4.0
+2611,59387,7900,81.71,19126003,MORE PRATHAMESH BALIDAS,M,SC,4,GSC,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+2617,59393,11991,78.53,19118988,BHALERAO RAJ AJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+2618,59394,14041,77.06,19134495,MHASKE SHREYAS BHALCHANDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",#,2.0
+2621,59397,28960,69.06,19121589,TEJALE ANUJA SANJAY,F,SC,4,LSC,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+2623,59399,33090,67.24,19152726,JADHAV TRUPTI SANJAY,F,SC,4,LSC,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+2630,59406,5578,83.94,19105780,TUPLONDHE MILIND BABAN,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2662,59438,17597,75.0,19135464,JADHAV DARSHAN RAVINDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2665,59441,22283,72.24,19132661,KHARE PRATHAMESH BHAUSAHEB,M,SC,4,GSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2671,59447,30251,68.47,19134183,PAGARE PRANIT DADARAO,M,SC,4,GSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",*,3.0
+2672,59448,30681,68.29,19113089,BHADANE DIPAK VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",#,2.0
+2673,59449,30937,68.18,19123111,DAMODAR SHUBHAM GAUTAM,M,SC,4,GSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2674,59450,31304,68.0,19128640,DHONGADE PRASAD SUMUKH,M,SC,4,LSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2676,59452,34219,66.76,19110351,SONAWANE CHANDRAMANI PRATAP,M,SC,4,LSC,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2680,59456,40100,64.29,19141767,GANGURDE ANUSHKA NITIN,F,SC,4,LOPEN,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2682,59458,45282,61.94,19153825,RAGADE KAJOL DILIP,F,SC,4,LOPEN,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+2692,59468,1156,90.0,19117607,JADHAV DHGANANJAY SUNIL,M,SC,4,GSC,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+2700,59476,3172,86.59,19127652,MORE BHUSHAN BALU,M,SC,4,GSC,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+2702,59478,4370,85.18,19131909,HIRE AKSHATA BHASKAR,F,SC,4,LSC,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+2715,59491,4973,84.53,19130316,WATHORE VICKY TANAJI,M,SC,4,GSC,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+2717,59493,6864,82.71,19121661,KAMBLE VIJAY PRAVESH,M,SC,4,GSC,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+2732,59508,18465,74.29,19154662,SONAWANE MAYUR VIKAS,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2741,59517,26128,70.35,19144923,KANADE SHUBHAM JAYVANTRAO,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2747,59523,29368,68.88,19149382,KHAIRNAR ANIKET SANJAY,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2755,59531,33102,67.24,19158758,CHAVAN CHANDRASHEKHAR RAJENDRA,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",&,4.0
+2758,59534,33686,67.0,19138636,MANWATKAR DHIRAJ RAMKRISHNA,M,SC,4,GSC,,404,Metallurgy (Foundry Technology),401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2761,59537,34764,66.53,19123205,PAIKRAO PALLAVI KAILAS,F,SC,4,LOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2768,59544,37833,65.24,19134433,AHER GANESH BALASAHEB,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2769,59545,38050,65.15,19156868,INGLE RAJESH ASHOK,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2773,59549,41142,63.82,19122879,BANDRE JAYESH VASANT,M,SC,4,GSC,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2777,59553,42043,63.47,19110725,WANKHEDE VINAY SHRIDHAR,M,SC,4,GSC,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2785,59561,47909,60.59,19115357,SIDDHARTH DEORAM SALVE,M,SC,4,GSC,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2788,59564,51886,57.53,19156345,BHALERAO PRATHAMESH SUBHASH,M,SC,4,GSC,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2790,59566,52862,56.18,19148569,THORAT TUSHAR RAJENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+2806,59676,25683,70.59,19145355,AHER HRISHIKESH MAHENDRA,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",*,3.0
+2810,59680,26888,70.0,19143176,DABHADE ASHOK KAILAS,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",*,3.0
+2824,59694,35378,66.25,19127787,BHAWAR SANGRAM SAMPAT,M,SC,4,GSC,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+2830,59700,39017,64.76,19154496,TANMAY SHANTARAM DONDE,M,SC,4,GSC,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",#,2.0
+2848,59718,49016,60.0,19103044,JADHAV SANKET VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+2851,59721,50821,58.59,19101724,GAIKWAD SAHIL VILAS,M,SC,4,GSC,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+2855,59725,51333,58.12,19138249,SONKAMBLE NITESH SURYAKANT,M,SC,4,GSC,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+2863,59762,9421,80.44,19139720,KAKWIPURE BHUSHAN SUNIL,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2884,59783,23394,71.65,19137010,BAGUL MANGESH BALU,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2886,59785,26017,70.41,19130615,THOMBRE SHUBHAM VALU,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2887,59786,26943,70.0,19151859,VARDHE VISHAL SUBHASH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2897,59796,31859,67.76,19107780,ABHANG SHUBHAM SUBHASH,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2905,59804,35362,66.29,19157074,MORE DARSHAN NARHARI,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2915,59814,39949,64.35,19124189,DIVEKAR EKTA DEVIDAS,F,SC,4,LOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2922,59821,41776,63.58,19115377,GHOLAP RAHUL BABURAO,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2924,59823,42259,63.35,19147311,DONGARDIVE GAURAV EKNATH,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2929,59828,44624,62.29,19153110,AHIRE VAIBHAV TARACHAND,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2934,59833,46474,61.35,19106357,BAVISKAR SAGAR ARUN,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2937,59836,47266,60.94,19119764,PAGARE RAJESH JAGANATH,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2948,59847,49228,60.0,19110107,DHOTRE AJINKYA APPA,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2953,59852,49954,59.29,19100023,NIKAM AJAY VISHWANATH,M,SC,4,GSC,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+2984,59955,9324,80.53,19112409,PAWAR VISHAL SUPADU,M,SC,4,GSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+2998,59969,18688,74.18,19121020,AHIRE SHUBHAM SAHEBRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+2999,59970,18851,74.06,19158173,GANGURDE SHUBHAM SURESH,M,SC,4,GSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+3000,59971,19928,73.47,19115639,SANGLE MARK SANJEEV,M,SC,4,PHSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+3005,59976,25076,70.88,19110456,GAIKWAD TEJASHVI JAGDISH,F,SC,4,LSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+3012,59983,46829,61.18,19158422,HIRE ANKITA BHASKAR,F,SC,4,LSC,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+3067,60743,34111,66.82,19133776,UBALE SANDIP SADASHIV,M,SC,4,MIMH,,401,Machanical,401,Machanical,5173,Nashik,"SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)",^-,
+3101,60842,27516,69.71,19105496,DHAWASKAR VISHAL SANJAY,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3106,60847,30231,68.47,19129466,AVHARE ROHAN RAVINDRA,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3107,60848,31029,68.12,19129652,KATARE RUSHIKESH BHAULAL,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3121,60862,36379,65.88,19120379,GANGURDE ANIKET KIRAN,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3132,60873,39401,64.59,19151124,BANSODE DHIRAJ BHAUSAHEB,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3148,60889,45055,62.06,19128361,DHAKOLIYA ADARSH BINESH,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+3156,60897,46804,61.18,19147165,SALVE PRATHAMESH SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+3168,60909,52144,57.24,19134420,KEDARE SUSHANT RAMKRUSHNA,M,SC,4,GSC,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+3215,61124,13728,77.29,19131533,JADHAV ROHAN KAILAS,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3217,61126,14148,77.0,19126248,BIRARI AKASH MOHAN,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3221,61130,18158,74.75,19110645,GAWARE ANIKET BALU,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3222,61131,18194,74.59,19115725,KAMBLE AKASH VILAS,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3223,61132,20717,73.06,19128702,WAGH NARESH SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",#,2.0
+3227,61136,23970,71.38,19133767,LOKHANDE SHUBHAM DEVIDAS,M,SC,4,GSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3229,61138,24877,70.94,19128726,BAVISKAR PRASHIK RAJENDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",#,2.0
+3230,61139,25171,70.82,19119211,BAVASKAR KIRAN NAMDEV,M,SC,4,PHSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3240,61149,32407,67.53,19123002,LAHORI SALONI ANIL,F,SC,4,LSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3245,61154,52223,57.12,19151922,PATALPURE SHUBHANGINI ASHOK,F,SC,4,LSC,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+3265,61298,40789,64.0,19149634,KALE AKASH KAILAS,M,SC,4,LOPEN,,401,Machanical,401,Machanical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+3274,61424,31031,68.12,19141405,BRAMHANE YOGESHWAR BHASKAR,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+3293,61477,7736,81.88,19138730,SONAWANE HARSHAD VILAS,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+3327,61511,17676,75.0,19124136,DHENDE ASHISH ANAND,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+3356,61540,26878,70.0,19124292,SHIRSATH NISHANT SHANKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",&,4.0
+3364,61548,33831,66.94,19144724,WANKHADE BHUSHAN VINOD,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+3369,61553,38965,64.76,19146100,INGALE ROHIT PRAKASH,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+3371,61555,39279,64.65,19120590,JADHAV ESHWAR NARAYAN,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+3372,61556,41716,63.59,19137887,SHINDE SWARAJ DEEPAK,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+3374,61558,43624,62.76,19130827,KHANDARE PANKAJ VASANTA,M,SC,4,LSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+3375,61559,45309,61.94,19107619,KHARE AKASH SHANKAR,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+3377,61561,48101,60.47,19155059,HIRE HARSH SANJIV,M,SC,4,GSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+3379,61563,49741,59.41,19157674,MOHITE PRATEEK SHASHIKANT,M,SC,4,LSC,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+3402,61737,28720,69.18,19104578,SONAWANE ANIRUDDHA RAJU,M,SC,4,GSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3414,61749,32223,67.59,19155926,DAMODAR ANIKET PANJABRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+3418,61753,33382,67.12,19110075,PALANDE ANKUSH MAHENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3421,61756,34256,66.76,19128035,PATAIT SHIVDHAN SANJAY,M,SC,4,LSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3424,61759,35587,66.18,19105598,KOTHMIRE VAIBHAV ANIL,M,SC,4,GSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3433,61768,42261,63.35,19140323,BHALERAO SAHIL SURYAKANT,M,SC,4,LSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3434,61769,43051,63.0,19138678,MORE PANKAJ BHAGWAN,M,SC,4,PHSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+3435,61770,44472,62.35,19144990,JADHAV KARTIK KAILAS,M,SC,4,LSC,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+3449,61851,28708,69.18,19132644,MORAVKAR SAHIL BHARATLAL,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3462,61864,46073,61.53,19139454,AAWARE ABHIJIT SHARAD,M,SC,4,GSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3464,61866,46461,61.35,19142498,GANGURDE NILESH RATAN,M,SC,4,GSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3467,61869,48590,60.18,19130377,PAGARE SHUBHAM SAHEBRAO,M,SC,4,GSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3468,61870,48604,60.18,19142917,SALVE PRAJESH PRADEEP,M,SC,4,GSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3470,61872,51043,58.41,19154547,MODHE PRANAV GOVIND,M,SC,4,LSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+3472,61874,52421,56.88,19131166,MORAVKAR ADITYA RAJESH,M,SC,4,LSC,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",*,3.0
+3475,61901,6360,83.18,19152271,GAIKWAD RAVINDRA ASHOK,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+3507,61933,49451,60.0,19148335,GANGURDE PRATIK GOTIRAM,M,SC,4,GSC,,401,Machanical,401,Machanical,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+3514,62080,14832,76.53,19106506,SONAWANE BHAWESH RAMESH,M,SC,4,GOPEN,,401,Machanical,401,Machanical,5411,Nashik,"Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.",&,4.0
+3593,62183,21694,72.53,19114966,DAWRE TEJAS RAJESH,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3601,62191,22583,72.06,19108372,ADHANGALE PIYUSH RAJENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+3602,62192,23905,71.41,19130170,SONAWANE NAYAN MAHENDRA,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+3603,62193,25611,70.61,19142099,DHIWARE RUSHIKESH VIJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+3606,62196,29103,69.0,19130192,GELOTH ASHISH INDRAJIT,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3607,62197,29480,68.82,19122896,JAGTAP AMOL SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3608,62198,30675,68.29,19135535,SONTAKKE ROSHAN SANJAY,M,SC,4,GSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",#,2.0
+3611,62201,38838,64.82,19122731,ALHAT PRAMOD MACHHINDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3613,62203,42133,63.41,19152303,HIWALE PRASHANT RAJENDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3614,62204,43538,62.79,19134670,MHASDE PRITESH RAJENDRA,M,SC,4,LSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3616,62206,44769,62.18,19120969,AHIRE ANURAG GAMBHIR,M,SC,4,DFSC,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3617,62207,48393,60.29,19137369,GANGURDE VAIBHAVI SURESH,F,SC,4,LOPEN,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+3640,72866,39565,64.53,19132367,NARWADE NIKHIL SANJAY,M,SC,4,GSC,,401,Machanical,402,Production,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",*,3.0
+3642,72868,44371,62.41,19136248,RUSHAB WETALE,M,SC,4,GSC,,401,Machanical,402,Production,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+3643,72869,45239,61.94,19110371,SABLE TEJAS ASHOK,M,SC,4,GSC,,401,Machanical,402,Production,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+3646,72872,46544,61.33,19110357,MICHELLE MANOJ JOG,F,SC,4,LOPEN,,701,Knitting Technology,402,Production,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",&,4.0

@@ -1,0 +1,47 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+9,9717,6215,83.31,19134479,KM SUCHITA SOLANKAR,F,NT2,8,PHO,,201,Civil,201,Civil,6270,Satara,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",^,1.0
+22,9730,22875,71.94,19135897,KHARAT RUSHIKESH NANDKUMAR,M,NT2,8,GNTC,,201,Civil,201,Civil,6270,Satara,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",^,1.0
+30,10030,7457,82.18,19128988,PUJARI AMIT ASHOK,M,NT2,8,PHNTC,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",&,4.0
+39,10039,15661,76.0,19148096,JANKAR SHARAD MADHUKAR,M,NT2,8,GOPEN,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+55,10055,33006,67.27,19149401,RUPNAWAR SAGAR VIJAY,M,NT2,8,LNTC,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+72,10100,52547,56.67,19122206,PISE PRANAY KISAN,M,NT2,8,GOPEN,,201,Civil,201,Civil,6305,Satara,"S.D.N.C.R.E.S'S.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara",*,3.0
+104,10695,48515,60.24,19142180,DHALE HANMANT ASHOK,M,NT2,8,GNTC,,201,Civil,201,Civil,6466,Satara,"Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad",&,4.0
+126,10727,16875,75.23,19125928,KHATAL RAJSHREE MADHUKAR,F,NT2,8,LOPEN,,201,Civil,201,Civil,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+138,10739,29935,68.61,19142424,YEDAGE PRATIKSHA GOVIND,F,NT2,8,LOPEN,,201,Civil,201,Civil,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+173,10774,44424,62.36,19147338,PATIL RAMCHANDRA SHIVAJI,M,NT2,8,DFNTC,,201,Civil,201,Civil,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",#,2.0
+174,10775,44702,62.24,19142581,KALE PRUTHVIRAJ KISAN,M,NT2,8,LNTC,,201,Civil,201,Civil,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+213,11582,47214,60.97,19137172,TAMBE AJAY KASHINATH,M,NT2,8,GNTC,,201,Civil,201,Civil,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+218,11587,50857,58.55,19143430,SHENDAGE DHIRAJ KALIDAS,M,NT2,8,LNTA,,201,Civil,201,Civil,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,&,4.0
+229,12229,28884,69.09,19104174,KALE SHANTANU MOHAN,M,NT2,8,GOPEN,,201,Civil,201,Civil,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",^,1.0
+235,12235,39372,64.61,19109426,GADEKAR RUPALI TUKARAM,F,NT2,8,LNTC,,201,Civil,201,Civil,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",^,1.0
+260,21879,9416,80.44,19134033,BANDGAR VIKAS PANDURANG,M,NT2,8,GOPEN,Locomotor Disability,301,Computer & IT,301,Computer & IT,6270,Satara,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",&,4.0
+299,22457,36623,65.76,19138895,RUPNAR SONAM SIDDHANATH,F,NT2,8,LNTC,,301,Computer & IT,301,Computer & IT,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",*,3.0
+343,23224,9725,80.19,19123237,SHENDAGE ANKITA RAMDAS,F,NT2,8,GOPEN,Physical impairment,301,Computer & IT,301,Computer & IT,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+388,24315,43766,62.69,19144247,BIDGAR VAIBHAV POPAT,M,NT2,8,LNTC,,301,Computer & IT,301,Computer & IT,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",^,1.0
+397,34629,3084,86.71,19107516,SULE SANGRAM LAXMAN,M,NT2,8,DFNTC,,302,ENTC,302,ENTC,6005,Satara,"Government College of Engineering, Karad",#,2.0
+467,39256,10323,79.71,19146895,RAUT SNEHAL RATNADIPAK,F,NT2,8,GNTC,,302,ENTC,302,ENTC,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",&,4.0
+520,40006,36635,65.76,19153990,KALE HARSHAL ARJUN,F,NT2,8,GNTC,,302,ENTC,302,ENTC,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",&,4.0
+524,40010,47999,60.53,19107443,DHAVAN ANUP SUNIL,M,NT2,8,GOPEN,,302,ENTC,302,ENTC,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",^,1.0
+575,48259,3111,86.67,19158806,THORAT AARTI LAHU,F,NT2,8,LOPEN,,304,Electrical,304,Electrical,6318,Satara,"Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi",^,1.0
+619,48524,35315,66.3,19114787,KOLAPTE SAKHARAM BIRU,M,NT2,8,GOPEN,,304,Electrical,304,Electrical,6466,Satara,"Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad",^,1.0
+656,48568,23167,71.76,19122149,KALE SHITAL CHANGDEV,F,NT2,8,LNTC,,304,Electrical,304,Electrical,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+659,48571,26644,70.12,19131494,THORAT ABA BALU,M,NT2,8,PHNTC,,304,Electrical,304,Electrical,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",&,4.0
+665,48577,31546,67.88,19138686,PINGALE SOMESHWAR ANKUSH,M,NT2,8,GSEBC,,304,Electrical,304,Electrical,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",&,4.0
+709,49018,42644,63.21,19136074,KOLEKAR RAJU VILAS,M,NT2,8,LNTC,,304,Electrical,304,Electrical,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",^,1.0
+729,49350,51086,58.36,19132105,CHORAMALE SAGAR DATTU,M,NT2,8,GNTC,,304,Electrical,304,Electrical,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",^,1.0
+733,62274,185,93.65,19143071,MOTE ABHISHEK JALINDAR,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,6005,Satara,"Government College of Engineering, Karad",#,2.0
+749,65740,14066,77.06,19141198,SHENDAGE SHUBHAM PRALHAD,M,NT2,8,DFNTC,,401,Machanical,401,Machanical,6270,Satara,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",^,1.0
+760,66675,12057,78.47,19128176,SONALKAR POONAM AJIT,F,NT2,8,LOPEN,,401,Machanical,401,Machanical,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+827,67445,44357,62.41,19148802,KHARAT HIMMAT PANDURANG,M,NT2,8,LNTC,,401,Machanical,401,Machanical,6318,Satara,"Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi",^,1.0
+962,70025,14465,76.76,19154493,THORBOLE DAYANAND RAMCHANDRA,M,NT2,8,GOBC,,401,Machanical,401,Machanical,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",&,4.0
+996,70059,44100,62.53,19129994,VALKUNDE SUSHANT HARIBHAU,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",^,1.0
+999,70062,45637,61.76,19136803,HONMANE SAGAR ADINATH,M,NT2,8,DFNTC,,401,Machanical,401,Machanical,6757,Satara,"Yashoda Technical Campus, Wadhe, Satara.",^,1.0
+1034,70275,21914,72.41,19155119,TALVAR AARTI BABASO,F,NT2,8,GOPEN,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1040,70281,23900,71.41,19138591,TAMBE SHUBHAM KISAN,M,NT2,8,GOPEN,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1043,70284,25285,70.76,19118508,MADKAR PRIYANKA MOHAN,F,NT2,8,GOPEN,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1051,70292,30136,68.53,19153702,KOLEKAR VAIBHAV DNYANDEV,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1057,70298,33509,67.06,19153858,GULDAGAD ADINATH SAMBHAJI,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1068,70309,35735,66.12,19103623,PATIL RUSHIKESH SURESH,M,NT2,8,GNTC,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1074,70315,38995,64.76,19138532,SONWALKAR MONALI ABAJI,F,NT2,8,LNTC,,401,Machanical,401,Machanical,6766,Satara,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,^,1.0
+1132,71866,44197,62.47,19110247,MADANE VAIBHAV PANDURANG,M,NT2,8,PHNTC,,401,Machanical,401,Machanical,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",*,3.0
+1146,71880,51771,57.65,19118137,MOTE SANDIP JAYSINH,M,NT2,8,GSEBC,,401,Machanical,401,Machanical,6797,Satara,"Dnyanshree Institute Engineering and Technology, Satara",*,3.0

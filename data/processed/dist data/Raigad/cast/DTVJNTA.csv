@@ -1,0 +1,32 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+4,122,5290,84.2,19126699,RATHOD NITIN JALINDAR,M,DT/VJNT(A),11,PHNTB,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+98,2811,10541,79.58,19140774,RATHOD GOPAL GANESH,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",#,2.0
+151,2864,13924,77.15,19139729,PATOLE SURAJ MARUTI,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+153,2866,14106,77.03,19107570,RATHOD RITIK ROHIDAS,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+217,2931,21423,72.67,19104085,TANWAR RAHUL KARTAR,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+266,2981,50990,58.43,19132486,JADHAV PRATIK YASHWANT,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+303,3018,49619,60.0,19138310,KACHWAY RAJESHWAR DEEPAK,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+442,3681,5647,83.88,19138705,LASHKARE KAILAS SHIVDAS,M,DT/VJNT(A),11,GOPEN,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+460,3699,25252,70.79,19134548,RATHOD SONALI INDAL,F,DT/VJNT(A),11,LOPEN,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+498,3737,46502,61.33,19121968,RATHOD RAJ DHANRAJ,M,DT/VJNT(A),11,LNTA,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+607,4129,53468,55.09,19159275,SHINDE NIKHIL ANANDA,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+801,4605,43419,62.85,19145651,PARDESHI NIKI HARSING,M,DT/VJNT(A),11,GNTA,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+950,15035,26033,70.41,19110860,BHOSALE SHRUTI SUNIL,F,DT/VJNT(A),11,LNTA,,301,Computer & IT,301,Computer & IT,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+1011,15136,27364,69.81,19139174,JADHAV POOJA MURALI,F,DT/VJNT(A),11,LNTA,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1022,15147,37939,65.19,19129279,RATHOD MANOJ HARI,M,DT/VJNT(A),11,GNTA,,301,Computer & IT,301,Computer & IT,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+1420,26801,28122,69.44,19119652,JADHAV YOGITA SATISH,F,DT/VJNT(A),11,LNTA,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1590,40889,34052,66.82,19140708,BABHALE SAIPRASAD BALASAHEB,M,DT/VJNT(A),11,DFNTC,,301,Computer & IT,303, Medical Electronics,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+1602,42713,10542,79.58,19129700,PAWAR DIGAMBAR UDDHAV,M,DT/VJNT(A),11,DFNTA,,304,Electrical,304,Electrical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+1659,42770,16709,75.32,19152219,CHAVAN MAYURI JAGDISH,F,DT/VJNT(A),11,LNTA,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",#,2.0
+1670,42781,38488,64.97,19138295,JADHAV KRUSHNA RAMRAO,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1673,42784,43804,62.67,19119671,RATHOD PUNDLIK CHAGAN,M,DT/VJNT(A),11,PHNTA,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1885,43556,48268,60.36,19111552,RATHOD ADARSH ARVIND,M,DT/VJNT(A),11,GNTA,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+1941,53328,38243,65.06,19133846,GIRASE DIGVIJAY BHARAT,M,DT/VJNT(A),11,DFNTA,,401,Machanical,401,Machanical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+1949,53336,18665,74.18,19142130,RAJPUT SAURABH MAHENDRASING,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+2053,53440,21608,72.59,19111825,JADHAV VIVEK DEVIDAS,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2078,53465,53310,55.41,19159568,RATHOD PAYAL BHAIDAS,F,DT/VJNT(A),11,LNTA,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2079,53466,53373,55.29,19105672,KACHHAWAY RUSHANT KISHOR,M,DT/VJNT(A),11,PHNTA,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2161,53548,30524,68.35,19134008,PAWAR TEJAS GOTU,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2288,53957,48106,60.47,19110021,PATIL CHINMAY VILAS,M,DT/VJNT(A),11,GNTA,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2289,53958,53579,54.76,19102724,PATIL NIKHIL RAVINDRA,M,DT/VJNT(A),11,LNTA,,401,Machanical,401,Machanical,3198,Raigad,"Konkan Gyanpeeth College of Engineering, Karjat",^,1.0
+2839,55877,8321,81.35,19140019,PAWAR LAHU RAJEBHAU,M,DT/VJNT(A),11,GOPEN,,401,Machanical,401,Machanical,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0

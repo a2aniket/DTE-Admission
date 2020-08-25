@@ -1,0 +1,36 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+47,6714,8797,80.97,19103930,BAVISKAR GAURAV JAGDISH,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+99,7030,21883,72.42,19124085,VIDYE SIMRAN LALAYYA,F,SBC/OBC,10,LOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",#,2.0
+100,7031,27839,69.58,19110326,ASHTEKAR POOJA MANOJ,F,SBC/OBC,10,LOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",&,4.0
+126,7057,51378,58.06,19116119,CHANNA MEGHA PRASHANT,F,SBC/OBC,10,LOPEN,,201,Civil,201,Civil,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",#,2.0
+172,7247,45683,61.76,19106638,YENGANDUL ROHAN AMBADAS,M,SBC/OBC,10,GNTB,,201,Civil,201,Civil,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+284,7669,34883,66.48,19138315,KOTA SAMARTH DEEPAK,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+330,7774,29125,68.97,19146364,MYANA KUNAL JAYWANT,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",^,1.0
+336,7780,33723,66.97,19132624,HALGAONKAR OMKAR SUNIL,M,SBC/OBC,10,GOBC,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",@,5.0
+345,7789,38063,65.15,19143568,ADIGOPUL NAMRATA MANOHAR,F,SBC/OBC,10,GNTD,,201,Civil,201,Civil,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+389,18975,5225,84.29,19135951,ZOND VAISHNAVI SANJAY,F,SBC/OBC,10,GOBC,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+427,19013,6452,83.12,19109272,SATPUTE VAISHNAVI DIPAK,F,SBC/OBC,10,GOBC,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",#,2.0
+471,19381,25645,70.59,19140586,NANDAL AKSHATA KRUSHNAHARI,F,SBC/OBC,10,LOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+472,19382,27498,69.71,19125672,BOLLI AKSHATA SANJAY,F,SBC/OBC,10,LOPEN,,301,Computer & IT,301,Computer & IT,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",#,2.0
+556,19787,50834,58.59,19140784,DIWAN AJINKYA DILIP,M,SBC/OBC,10,GOBC,,401,Machanical,301,Computer & IT,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+561,19866,16138,75.69,19109052,TAKLE KHUSHBOO RAJESH,F,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+564,19869,19356,73.81,19146466,DHOTRE SAKSHI PRASHANT,F,SBC/OBC,10,GOPEN,,301,Computer & IT,301,Computer & IT,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",#,2.0
+589,20043,44662,62.24,19116726,BAPTE TANMAI PRASHANT,F,SBC/OBC,10,LOBC,,301,Computer & IT,301,Computer & IT,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",&,4.0
+654,33276,9968,80.0,19130617,KOSHTI SHREYA DEEPAK,F,SBC/OBC,10,GOBC,,302,ENTC,302,ENTC,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+686,33342,11325,79.0,19100008,HAVARE RUTUJA BALASAHEB,F,SBC/OBC,10,LOBC,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",*,3.0
+797,45871,12204,78.36,19144332,KODAM AISHWARYA DEVIDAS,F,SBC/OBC,10,LOBC,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+809,45883,30841,68.18,19138004,HARKE RUSHIKESH GANESH,M,SBC/OBC,10,LST,,304,Electrical,304,Electrical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+865,46722,8285,81.39,19138786,KATKAR KARAN SANJAY,M,SBC/OBC,10,GOPEN,,304,Electrical,304,Electrical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1049,60021,28031,69.47,19112213,LAKKAM PRANAV VILAS,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+1123,60772,42561,63.24,19133489,BODAKHE SHANTANU RAJENDRA,M,SBC/OBC,10,GOPEN,,401,Machanical,401,Machanical,5176,Ahmednagar,"G. H. Raisoni College of Engineering and Management, Ahmednagar",^,1.0
+1154,60970,33957,66.88,19104665,UNAWANE ATHARWA MUKUND,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1176,60992,0,61.59,19133900,MADAS VISHAL LAXMAN,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",&,4.0
+1181,60997,48918,60.0,19136768,MAHATEKAR PUSHKAR PARESH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5179,Ahmednagar,"Vishwabharati Academy's College of Engineering, Ahmednagar",^,1.0
+1261,61580,12525,78.12,19153735,TAPLE PRITI BALASAHEB,F,SBC/OBC,10,LOPEN,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1280,61599,19039,74.0,19108638,GAWANDI TEJAS GANESH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+1316,61695,40005,64.35,19148444,LATNE HARIOM DINESH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5382,Ahmednagar,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti",&,4.0
+1325,61951,13963,77.12,19151762,FISKE SUJIT SUBHASH,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",&,4.0
+1395,62048,32227,67.59,19112144,CHOUDHARI KUNDAN DAULAT,M,SBC/OBC,10,GOBC,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+1430,72889,8599,81.12,19135387,MANKAR PRATHAMESH SUDHIR,M,SBC/OBC,10,GOPEN,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1455,72914,38277,65.06,19138522,KONTAM NISHA KESHAV,F,SBC/OBC,10,LOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+1458,72917,40468,64.12,19138529,ADIGOPUL VARSHA SATISH,F,SBC/OBC,10,LOBC,,401,Machanical,402,Production,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0

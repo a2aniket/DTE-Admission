@@ -1,0 +1,45 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+33,4653,1452,89.33,19118370,LAKHADIVE SANDHYA BHAGVAN,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+80,4700,12400,78.24,19115732,THAKUR KAMESH JOGENDRA SINGH,M,OPEN/EWS,5,MI,,201,Civil,201,Civil,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+350,5190,10480,79.6,19145118,LOYA MEHUL RAJKUMAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+380,5220,36460,65.82,19151462,SUDEEPTO SUPRABHAT GHARAMI,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+411,5270,5432,84.06,19111872,SHAIKH IRISH MOHAMMAD FIROZ,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",#,2.0
+427,5286,16800,75.27,19118775,MISHRA NIKITA AJAY,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+970,16885,3227,86.5,19118669,RATHI VISHAKHA VITTHALDAS,F,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+971,16886,3332,86.38,19123235,GANDHI EKTA ANILKUMAR,F,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+977,16892,4474,85.06,19151134,TRIPATHI SIDDHI RAJESH,F,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+981,16896,5193,84.31,19124915,TRIPATHI RIDDHI RAJESH,F,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+982,16897,5543,83.94,19115990,CHANDAK DISHANT SANTOSH,M,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+1004,16919,19765,73.56,19112870,KHETAN BRAJESH SURENDRA,M,OPEN/EWS,5,MI,,301,Computer & IT,301,Computer & IT,4116,Nagpur,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",#,2.0
+1022,16970,15591,76.0,19111871,BHAGWATKAR GUNJAN CHANDRASHEKHAR,F,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^,1.0
+1164,17135,4597,84.94,19110085,DUBEY RAKSHA SHRIKANT,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,4139,Nagpur,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur",^,1.0
+1205,17243,21244,72.76,19118577,PATHAK ADHISH MAHESH,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,4142,Nagpur,"Ankush Shikshan Sanstha's G. H. Raisoni Institute of Engineering & Technology, Nagpur",#,2.0
+1333,17485,10562,79.56,19116113,DEMETI KHUSHAL UMAMAHESH,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+1399,17584,8079,81.56,19117953,DESHPANDE SAYALI SANDEEPRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1453,17638,13193,77.65,19119705,SUYOG KULKARNI,M,OPEN/EWS,5,MIMH,,301,Computer & IT,301,Computer & IT,4174,Nagpur,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur",*-,3.0
+1523,17773,32478,67.5,19148313,BAIS RAJAT GOPALSINGH,M,OPEN/EWS,5,MIMH,,301,Computer & IT,301,Computer & IT,4179,Nagpur,"Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur",*-,3.0
+1635,18365,46290,61.44,19119846,JOSHI RUSHABH RAMCHANDRA,M,OPEN/EWS,5,MIMH,,301,Computer & IT,301,Computer & IT,4305,Nagpur,"G.H.Raisoni Academy of Engineering & Technology, Nagpur",*-,3.0
+1675,30147,2855,87.0,19142919,THAKUR DARSHANSINGH RAJENDRASINGH,M,OPEN/EWS,5,MI,,302,ENTC,302,ENTC,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+1676,30148,3169,86.59,19140170,KALLA AMIT MADANMOHAN,M,OPEN/EWS,5,MI,,302,ENTC,302,ENTC,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+1683,30155,3405,86.3,19138462,AGAM ATUL MULEY,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+1966,31512,14581,76.7,19149444,PATKI JANVI NITIN,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1985,31531,51197,58.24,19142230,ZUBAIR KHAN SALEEM KHAN,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",*,3.0
+2055,43591,5942,83.58,19135839,PARTH ANUPAM MULEY,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+2071,43636,393,92.42,19124415,DARAMWAR SHRUTI SURYAKANT,F,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+2072,43637,1473,89.29,19123814,BHALERAO ATHARV PRASHANT,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+2079,43644,10676,79.45,19141145,KHANDELWAL VAISHNAVI SHRINIVAS,F,OPEN/EWS,5,LOPEN,,304,Electrical,304,Electrical,4116,Nagpur,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",^,1.0
+2546,44400,49888,59.33,19148906,UTAGE VAIBHAV KASHINATH,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",*,3.0
+2595,44479,17908,74.97,19147381,SANOBAR ANJUM SHAIKH ANIS,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2597,44481,20256,73.27,19138645,VIDHATE SAURABH ANIL,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2927,56026,4402,85.12,19146703,KULKARNI SUBHASH KAILAS,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,4025,Nagpur,"Government College of Engineering, Nagpur",*,3.0
+2945,56121,4531,85.0,19123762,AGRAWAL UJJWAL UMESH,M,OPEN/EWS,5,MI,,401,Machanical,401,Machanical,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",#,2.0
+2954,56130,15100,76.35,19122776,THAKUR JUHI,F,OPEN/EWS,5,MI,,401,Machanical,401,Machanical,4116,Nagpur,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",^,1.0
+2955,56131,16086,75.71,19111040,KHANDELWAL RITIK RAJESH,M,OPEN/EWS,5,MI,,401,Machanical,401,Machanical,4116,Nagpur,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",^,1.0
+3145,56504,7272,82.35,19112606,MAHANAG ATHARAV PRAKASH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,4137,Nagpur,"Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur",^,1.0
+3368,56997,44997,62.1,19151830,KULKARNI VENKATESH VIJAY,M,OPEN/EWS,5,EWS,,403,Packaging Technology,401,Machanical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+3504,57250,4759,84.75,19105774,SANE PRERANA SHASHIKANT,F,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+3508,57254,6706,82.85,19151138,CHOUDHARI ATHARVA ANUP,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",*,3.0
+3559,57324,0,60.24,19149569,AHMAD FARAZ MOHD FAYYAZ,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,4172,Nagpur,"Anjuman College of Engineering & Technology, Nagpur",&,4.0
+3568,57361,7309,82.3,19132769,SARTHAK ANJIKAR,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,4174,Nagpur,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur",@,5.0
+3577,57370,11384,78.95,19136423,ALONI ONKAR SANJAY,M,OPEN/EWS,5,MIMH,,401,Machanical,401,Machanical,4174,Nagpur,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur",*-,3.0
+3666,58248,6168,83.35,19114770,ABDUL RAHIL LATIF,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",*,3.0

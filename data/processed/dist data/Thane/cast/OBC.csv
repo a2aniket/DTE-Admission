@@ -1,0 +1,553 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,213,10250,79.8,19111010,LAD OMKAR RUSHIKUMAR,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+7,219,14880,76.48,19102937,PATIL SHUBHAM MAHADEV,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+8,220,15494,76.06,19124195,DIKSHA MAHENDRA PATIL,F,OBC,2,LOPEN,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+10,222,16100,75.7,19102948,YADAV HRISHIKESH SANTOSH,M,OBC,2,LSEBC,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+11,223,18188,74.6,19100835,PRATHAMESH SADANAND KATKAR,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+14,226,22451,72.12,19124289,VEKHANDE GAURAV SHANKAR,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+16,228,26571,70.13,19100531,RUKSAR KABIR MULANI,F,OBC,2,LOBC,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+29,241,3913,85.67,19123703,PATIL PRANIT SHANKAR,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+32,244,9825,80.12,19119759,PATIL SHUBHAM CHANDRAHAS,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+34,246,9955,80.0,19129590,ANIKET DATTARAM CHINKATE,M,OBC,2,DFOBC,,101,Chemical,101,Chemical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+35,247,19391,73.76,19135751,GHARAT PRACHI PRAVIN,F,OBC,2,LOPEN,,101,Chemical,101,Chemical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+38,250,39382,64.6,19109847,SHRUTI VILAS PATIL,F,OBC,2,LOBC,,101,Chemical,101,Chemical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+41,253,12938,77.82,19116067,THOMBARE ROHIT DEEPAKRAO,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+46,258,29934,68.61,19102316,TEJESH BALARAM PATIL,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+48,260,34151,66.79,19123297,PATIL PRATIK SHASHIKANT,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+53,265,39766,64.42,19142371,SUTAR SAGAR SAMPAT,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+55,267,41477,63.7,19152062,INAMDAR SAHIL SALIM,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",&,4.0
+58,270,43055,63.0,19125049,MANASI MOHAN MHATRE,F,OBC,2,LOBC,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",*,3.0
+65,277,46388,61.39,19130830,MHATRE HINDUJA SUNIL,F,OBC,2,LOPEN,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+79,291,52689,56.42,19103358,JOSHI NAVIN SHRIKANT,M,OBC,2,GOBC,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+90,811,44128,62.51,19154017,DUDWADKAR SAURABH RAVINDRANATH,M,OBC,2,GOPEN,,304,Electrical,130,,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+91,812,47105,61.02,19100273,MISTRY ROHAN SNEHALKUMAR,M,OBC,2,GOPEN,,304,Electrical,130,,3471,Thane,"New Horizon Institute of Technology & Management, Thane",*,3.0
+92,813,50267,59.05,19109977,KULYE SANDESH SURESH,M,OBC,2,GOPEN,,304,Electrical,130,,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+97,3046,209,93.43,19111852,KULE GAURAV RAJESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+100,3049,602,91.64,19124271,GANDHE YOGI RUSHIKESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+101,3050,689,91.31,19112077,MAGAR VAISHNAVI PRAKASH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+103,3052,775,91.03,19132602,BORASE ANUSHKA ASHOK,F,OBC,2,LOPEN,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+113,3062,1366,89.5,19124749,KADAM SONALI JAGANNATH,F,OBC,2,LOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+114,3063,1484,89.27,19109715,PATIL DARSHAN RAVINDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+117,3066,1966,88.42,19112357,NIRMAL AKASH LAXMAN,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+120,3069,2308,87.86,19110918,PASHTE TANVIN GANGARAM,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+122,3071,2595,87.33,19126600,SWAPNALI SITARAM HEREKAR,F,OBC,2,LOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+123,3072,2596,87.33,19118809,KHARIK ABHIRAT VINOD,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+124,3073,2679,87.21,19102633,JADHAV GAURAV SHRIKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+126,3075,3342,86.36,19110116,JOSHI PRIYA KRISHNA,F,OBC,2,LOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+144,3093,500,92.0,19113545,TUNGAR RUCHITA VINAYAK,F,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",&,4.0
+153,3102,3402,86.3,19121286,MHATRE AJAY SHASHIKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+155,3104,3471,86.2,19100537,VERMA ANUJ NANDKISHORE,M,OBC,2,GOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+158,3107,3774,85.82,19104359,CHINAWALE MANSI VINOD,F,OBC,2,LOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+160,3109,4101,85.45,19120273,MHATRE SNEHA RAM,F,OBC,2,LOBC,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+170,3119,1225,89.86,19111882,GHADE JAYANT SANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+176,3125,7166,82.42,19129494,MHATRE PRAJAKTA SUNIL,F,OBC,2,LOBC,,201,Civil,201,Civil,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+182,3194,3773,85.82,19130352,SHELAR POOJA BALKRISHNA,F,OBC,2,LOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+183,3195,4202,85.33,19120208,PAWAR AISHWARYA JAGANNATH,F,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",*,3.0
+184,3196,5260,84.24,19137586,PATIL BHAVIKA GANESH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+185,3197,9276,80.55,19127873,NIPURTE DAMINI SUDAM,F,OBC,2,LOBC,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+186,3198,9489,80.4,19131238,TANDALE AKSHAY RAMDAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+188,3200,9989,80.0,19145846,GURAV SIDDHESH VIJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+189,3201,10139,79.88,19127395,GHODVINDE PRIYANKA RAVINDRA,F,OBC,2,LOBC,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+190,3202,10615,79.52,19125232,VELHAL APURVA NAMDEV,F,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+191,3203,11376,78.97,19132734,VELHAL ANJALI NAMDEV,F,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+193,3205,14334,76.85,19129984,DHAMANE SAYALI RAGHUNATH,F,OBC,2,GOBC,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+194,3206,15054,76.36,19112285,JADHAV VAISHNAVI BALU,F,OBC,2,GOBC,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+195,3207,15317,76.18,19131258,PARTOLE DINESH BHIMRAO,M,OBC,2,GOBC,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+196,3208,16006,75.76,19127460,KHARIK GAURI TUKARAM,F,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+197,3209,16207,75.64,19133274,SASE PRASHANT SANTOSH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+211,3270,23815,71.45,19119736,SATVI GANESH ANIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+212,3271,24951,70.91,19100083,DAWARE VAIBHAV SANJAY,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+213,3272,25804,70.5,19145189,DHAMKE UTTAM VASANT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+214,3273,25862,70.48,19148556,THAKARE LEENA ARJUN,F,OBC,2,LOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+218,3277,26708,70.06,19106178,KONGERE ROSHAN RAGHUNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+219,3278,27084,69.94,19120073,KENE PANKAJ DILIP,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+222,3281,30979,68.12,19126328,KOR PRASHANT RAJARAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+223,3282,31642,67.88,19129601,JADHAV SHRIRAM SUDAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",*,3.0
+225,3284,32161,67.64,19113415,ANDHERE BHUSHAN RAMESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+243,3302,51631,57.82,19106539,MOMIN MOHD MUSTAFA MOHD MUZZAMIL,M,OBC,2,MI,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+245,3304,31661,67.82,19146346,THAKARE PRITI SUBHASH,F,OBC,2,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",&-,4.0
+250,3309,40047,64.3,19132810,DHAMNE SUJIT GAJANAN,M,OBC,2,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+251,3310,40599,64.06,19100988,JOSHI BHAVIKA SHIVAJI,F,OBC,2,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+253,3312,44146,62.48,19132000,WAKADE VIKAS KRISHNA,M,OBC,2,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+256,3315,45797,61.7,19109281,AHIRE SACHIN NARAYAN,M,OBC,2,MIMH,,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+259,3616,8074,81.58,19124975,CHAUTHE ANIKET SUNIL,M,OBC,2,GOPEN,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+263,3620,16430,75.52,19138518,SAPKAL ROHAN PRAMOD,M,OBC,2,GOPEN,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+269,3626,23694,71.52,19109698,JADHAV RITESH DIPAK,M,OBC,2,GOPEN,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+277,3634,32977,67.27,19148369,PATIL PRATHAMESH SUNIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+278,3635,33170,67.21,19112234,SHAIKH NAWAZ ZULFIKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+283,3640,36777,65.7,19103489,PATIL HARSHAD NAMDEV,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+284,3641,36929,65.64,19155382,PAWASKAR SIDDHESH SUDHIR,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+301,3658,47301,60.91,19112773,KONDLEKAR PRATIK MAHENDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+303,3660,47925,60.55,19142196,GAYKAR YOGINI DATTATRAY,F,OBC,2,LOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+304,3661,47939,60.55,19119938,THAKUR ANURAG KAILAS,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+306,3663,48628,60.18,19138103,SURYAVANSHI VASUDEV SURYAKANT,M,OBC,2,GOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+313,3670,50937,58.48,19146113,TIWAR DIPALEE DNYANESHWAR,F,OBC,2,LOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+315,3672,52250,57.09,19111265,PAWSHE BHAVESH SUDAM,M,OBC,2,LOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+319,3676,53458,55.09,19112978,PATIL VITTHAL CHANDRAPAL,M,OBC,2,LOBC,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+337,3755,4316,85.21,19107726,KHAMBALE DARSHAN JAGANNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+338,3756,5991,83.52,19119701,GITE DIVYESH SHARAD,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+341,3759,18995,74.0,19109423,PATIL RUTIK SURESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+342,3760,23346,71.7,19111521,TARE PARAG EKNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+348,3766,25117,70.85,19145634,PATIL JATIN ASHOK,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+350,3768,26330,70.24,19109284,PATIL ROHIT SHRIKANT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+360,3778,30079,68.55,19105535,DAYARE BHUSHAN PRABHAKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+363,3781,30744,68.24,19104571,KUMBHAR TUSHAR MANOHAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+368,3786,32698,67.39,19103161,SRUJAN PRAMOD NAWAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+374,3792,35886,66.06,19151747,MHATRE PREM RAKESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+378,3796,37314,65.45,19139980,MHATRE PRANITA KAMALAKAR,F,OBC,2,LOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",*,3.0
+383,3801,38773,64.85,19120400,REWALE TUSHAR VIJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+385,3803,40333,64.18,19109320,PATIL MONISH PRAVIN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+386,3804,40651,64.06,19114651,VIKAS CHANDRASHEKAR LAKDE,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+404,3822,45940,61.63,19107790,SUTAR VARUN BALWANT,M,OBC,2,GOBC,,301,Computer & IT,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+406,3824,47178,60.97,19108408,PATIL ROHIT RAJESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+408,3826,47299,60.91,19104954,PATIL NIKHIL GANGARAM,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+424,3842,49376,60.0,19101971,MULLA ZAHIDALI NAZIRUDDIN,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+427,3845,49790,59.39,19114469,SASE BHAVIT RAMCHANDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+431,3849,50527,58.85,19126307,BHOIR SARVESH UMESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+435,3853,51051,58.4,19127342,VELHAL RAJ RUPALI,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+436,3854,51067,58.36,19138893,BHOIR AKSHAY GURUNATH,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+456,3874,53511,54.97,19157624,SHINDE GIRISH CHANDRASHEKHAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+458,3876,53621,54.67,19131567,SONANIS HRITIK SUNIL,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+462,3880,54074,53.03,19110723,KUNKE SURAJ PRABHAKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+464,3882,54161,52.55,19133136,BHONDIWALE UJWAL GAJANAN,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+465,3883,54410,50.36,19147849,VISHAL MADAN KUMTHEKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+467,4040,6456,83.09,19115280,SHIMPI RUSHIKESH DEVIDAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+470,4043,16326,75.58,19135575,BHOIR JATIN RAJENDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+471,4044,19218,73.88,19153779,BHOIR TEJAL SUNIL,F,OBC,2,LOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+472,4045,19850,73.52,19134810,PATIL HARSHAL EKNATH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+473,4046,22132,72.3,19145046,WAGHCHAURE AMOL RAMESH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+474,4047,22276,72.24,19146791,PALAVI PRIYANKA SADASHIV,F,OBC,2,LOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+476,4049,29575,68.79,19153638,PADWAL JAGRUTI SHANTARAM,F,OBC,2,LOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+479,4052,31142,68.06,19144624,PATIL DEVENDRA HARIBHAU,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+480,4053,35283,66.3,19121895,SHELKE HUMANSHU JANARDAN,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+481,4054,35300,66.3,19108946,PATERE VIVEK VILAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+482,4055,39200,64.67,19137891,DHAMNE VINAYAK SANTOSH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+487,4060,43125,62.97,19134128,PATIL GHANSHYAM RAVINDRA,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+488,4061,43693,62.73,19146613,THAKARE KALYANI JANARDAN,F,OBC,2,LOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+489,4062,43809,62.67,19149501,PAWAR SANKET SANJAY,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+491,4064,44046,62.55,19117118,KHAPRE ABHAY MANGESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+492,4065,44525,62.3,19121142,BHOIR DIVYA DATTARAYA,F,OBC,2,LOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+496,4069,46874,61.15,19117216,PADVAL PRATIK PRABHAKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+501,4074,47845,60.61,19123500,PADWAL GANESH LAXMAN,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+502,4075,47937,60.55,19110596,PANDHARE DINESH MADHUKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+503,4076,48618,60.18,19126739,THAKARE MAHESH KRISHNA,M,OBC,2,GOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+505,4078,48664,60.12,19155301,PATIL PRASHANT SUDAM,M,OBC,2,LOBC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+511,4084,50350,58.97,19108107,KHARE SUMIT MADAN,M,OBC,2,GSC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+512,4085,50351,58.97,19124928,PATIL RAJ KIRAN,M,OBC,2,LST,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+513,4086,50595,58.79,19121542,BANGAR SAGAR VIJAY,M,OBC,2,GSC,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+524,4436,6774,82.79,19112581,ZAMBRE NIRAJ RAJENDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+526,4438,8061,81.58,19118395,MHATRE SANSKRUTI SANDEEP,F,OBC,2,GOPEN,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",*,3.0
+528,4440,8855,80.91,19108375,RASAL SHAMESH BHANUDAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+529,4441,8986,80.8,19105209,GAIKWAD PRIYANKA DHANAJI,F,OBC,2,LOPEN,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+534,4446,10843,79.33,19128960,TARE HARSHALA PUNDLIK,F,OBC,2,LOBC,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+542,4454,14006,77.09,19111712,DESALE VINAYAK RAMESH,M,OBC,2,GOBC,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+544,4456,14517,76.73,19101804,PRATIK VIJAY TALEKAR,M,OBC,2,GOBC,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+549,4461,16585,75.4,19125984,SHEKHAR GANESH KAJAVE,M,OBC,2,PHOBC,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+555,4467,25498,70.67,19120703,KHAIRNAR PALLAVI DEEPAK,F,OBC,2,LOBC,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+570,4482,5418,84.06,19103201,WAGH RASHMI VISHWASRAO,F,OBC,2,LOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+571,4483,5494,84.0,19103931,PATIL SAIRAJ DAYARAM,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",#,2.0
+573,4485,5999,83.52,19132592,SHINDE AMEYA PRASHANT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+574,4486,6466,83.09,19103174,DIGASKAR JAY PANDIT,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+579,4491,6918,82.67,19113965,MHASKAR NIRMIT RAMCHANDRA,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",#,2.0
+580,4492,6981,82.61,19112334,VISHE SWAPNIL VILAS,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+581,4493,7254,82.36,19131326,PATIL SAURABH PRAKASH,M,OBC,2,GOPEN,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+588,4500,48988,60.0,19157128,WARE VIKET AJIT,M,OBC,2,MI,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+597,4509,7427,82.18,19118408,PATIL RUSHIKESH DEEPAK,M,OBC,2,MIMH,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",*-,3.0
+600,4512,8431,81.27,19113021,RANE KSHITIJ SATISH,M,OBC,2,MIMH,,201,Civil,201,Civil,3475,Thane,"A. P. Shah Institute of Technology, Thane",^-,
+604,15040,516,91.94,19132118,RAMANE PRACHI EKNATH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+608,15044,1171,89.94,19137444,VIKRANT SHAHANE,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+609,15045,1679,88.93,19124801,VEKHANDE SNEHAL MORESHVAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+621,15057,2141,88.13,19104886,GURAV PRANJALI MILIND,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+622,15058,2495,87.53,19103187,JADHAV PRANIT BHAI,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+631,15067,2100,88.2,19106626,PATIL HARSHAL MANOHAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+632,15068,3129,86.65,19103476,RANE DISHA VINIT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+633,15069,3703,85.94,19132344,PATIL ASHISH RAJ,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+645,15312,1667,88.94,19107434,CHAVAN TUSHAR CHANDRAKANT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+646,15313,1761,88.8,19124130,PATIL PRIYANKA PRAKASH,F,OBC,2,GST,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",*,3.0
+650,15317,2129,88.14,19113150,PATIL TRIVENI DNYANESHWAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+651,15318,2606,87.31,19129683,SNEHA GAJENDRA PATIL,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+655,15322,2994,86.81,19126668,PITAMBARE PRIYANKA SHRIRAM,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+659,15326,5000,84.5,19109156,CHINAWALE PARAG PRAMOD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+661,15328,5300,84.19,19104716,PATIL NISHANT GANESH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+665,15332,7284,82.33,19110112,DHAKE SANKET TUKARAM,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+683,15350,6471,83.07,19106111,BARHATE VEDANG UDAY,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+684,15351,6732,82.82,19101648,ZOPE PIYUSH JAYANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+687,15354,7958,81.69,19120621,BHAMARE MANASI SUNIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+688,15355,8890,80.88,19113786,CHAUDHARI YASH ARUN,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+690,15357,9137,80.67,19123714,PATIL BHAGYASHRI NITIN,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+702,15400,1101,90.12,19135183,BHALDAR SIMRAN SHAKIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+706,15404,4005,85.57,19101665,WANKHEDE TUSHAR SURESH,M,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",#,2.0
+714,15412,5233,84.29,19112104,PATIL DARSHAN SAINATH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+715,15413,6773,82.79,19125583,KHOGARE RASHMI HANUMAN,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+728,15426,3958,85.63,19134645,SONAWANE NIKITA SACHIN,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+729,15427,4016,85.56,19103322,MUNDHE RUTUJA MAHENDRA,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+730,15428,4078,85.5,19127355,PATIL GAURAV RAJENDRA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+738,15437,3189,86.56,19102063,BHUVAD SHUBHAM SANJAY,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+741,15440,5458,84.06,19100541,WADKAR SIDDHESH DATTARAM,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+742,15441,5577,83.94,19111477,POORVA VIJAY PAWAR,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+749,15449,4921,84.59,19110422,SHRADDHA PRASHANT SONARE,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+750,15450,6019,83.5,19103552,MADHAVI SANKALP RAVINDRA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+753,15453,11067,79.19,19100458,SARODE DIMPLE JANARDAN,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+760,15460,9315,80.53,19113294,MOMIN MOHAMMED AVES GHULAM RASOOL,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+762,15462,12189,78.38,19124180,REPALE SAYLI SHAHAJI,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+772,15473,10658,79.47,19100239,DANDEKAR SHREYAS NILESH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+778,15479,14502,76.75,19125650,PATIL NANDINI SHIVAJI,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+779,15480,15034,76.38,19111740,THAKARE SANKET RAVINDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+784,15485,17388,75.0,19111514,PATIL HRITIKA PANDIT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+792,15493,25571,70.63,19112030,GANDHI YASH SANTOSH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+794,15495,25881,70.47,19124551,SHIVRAME DATTAPRASAD VITTHAL,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+797,15498,27479,69.75,19113161,MAHADIK SIDDHI SUNIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+800,15501,29391,68.87,19122657,PAWAR NAMRATA RAJU,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+809,15511,9168,80.65,19111505,GRISHMA TARMALE,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+814,15516,15342,76.18,19138165,BHATKAR MOHD AMMAR MOHD JALIL,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+815,15517,16565,75.41,19111856,KASHIVALE VENKATESH DAMODAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+816,15518,21471,72.65,19109113,BHOR DEEPALI SHIVAJI,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+819,15521,24661,71.06,19100430,POURNIMA ANIL KHARADE,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+852,15571,1257,89.76,19126781,MHATRE TANMAY KESHAV,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3197,Thane,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",^,1.0
+884,15980,25463,70.69,19113608,GHOSHTEKAR ROHIT GIRIDHAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+885,15981,26895,70.0,19118797,PAWAR VEDANGI RAVINDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+896,16031,28991,69.04,19102828,MADKE PRATIKSHA NANDKUMAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+899,16034,32622,67.44,19100246,BHOIR PRAGATI SURESH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+926,16061,54291,51.69,19155989,SHAIKH MOHAMMED FAIQUE MOHAMMED ANWAR,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+941,16076,29463,68.82,19106646,KONGERE DAMINI GANESH,F,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+944,16079,35328,66.29,19103132,GHUDE HRUTIK JAGANNATH,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+945,16080,35345,66.29,19151964,CHIRME GANESH SOPAN,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+946,16081,35409,66.24,19142437,VISHE SMITA NARAYAN,F,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+949,16246,8308,81.38,19111727,BORNARE DEVEN DNYANESHWAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+951,16248,11494,78.88,19123967,WADVALKAR ANUSHKA PRAKASH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+955,16252,15216,76.25,19113664,BAIT KASTURI DEEPAK,F,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+980,16277,38445,65.0,19109723,BHOIR KAUSTUBH SUBHASH,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+988,16285,47493,60.82,19111539,NARVEKAR ISHAN GANESH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+991,16288,54285,51.71,19133730,GULHANE SAURABH MANOHARRAO,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+1014,16361,19604,73.65,19113493,MANJREKAR SHUBHAM SUNIL,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1018,16365,20186,73.31,19114916,WASKE AISHWARYA SANJAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1027,16374,22470,72.12,19112074,MORE SANKET PRAMOD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1031,16378,24874,70.94,19100188,CHAVAN HARSHAD SAMBHAJI,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1046,16393,34947,66.47,19107098,TEJESH VILAS RAUT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1053,16400,38834,64.82,19102568,NEHA AJAY PATIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1055,16402,39331,64.63,19110990,MANJREKAR ANIKET HARESH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1058,16405,42287,63.35,19106259,LAKESHRI SHRIRAJ VILAS,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+1064,16411,49193,60.0,19131596,BOMBE SHILPA ARUN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+1067,16414,54527,47.61,19108626,THAKUR SHAMALI SURESH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+1069,16467,24536,71.12,19106027,KALE VIVEK RAMESH,M,OBC,2,GOPEN,,302,ENTC,301,Computer & IT,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1097,16495,54541,46.71,19123058,PEDNEKAR DEVENDRA MANOJ,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1109,16694,11525,78.86,19101762,CHINCHKAR SNEHAL MAHESH,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+1111,16696,12624,78.06,19135234,PATIL MEGHA YASHAVANT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+1113,16698,13512,77.44,19114074,TANKSALE MUKTA MILIND,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+1115,16700,14500,76.75,19111276,BANDRE AJIT ANANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+1118,16703,16085,75.71,19124847,JADHAV NIKHIL HANUMANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",#,2.0
+1121,16706,22886,71.94,19113078,GHODVINDE SWARANGI SANJAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+1127,16712,3384,86.31,19105407,PATIL SHWETA SHIVAJI,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+1150,27348,2386,87.71,19108289,BHOIR RITESH JEEVAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1155,27353,4006,85.56,19100137,NAKTE TEJAL SANJAY,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1156,27354,4239,85.3,19121342,MALI SULEKHA RAJARAM,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1157,27355,4660,84.88,19106394,PRATIDNYA SHRIDHAR MHATRE,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1162,27360,6886,82.7,19111444,CHAUDHARI SHIVANI JAGDISH,F,OBC,2,PHOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1178,27376,8475,81.24,19103278,KAMERKAR SHIVANI AJIT,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",#,2.0
+1180,27378,11565,78.82,19100552,GHANVAT PRITAL NAVNATH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",*,3.0
+1191,27389,11664,78.76,19106630,PARASRAM KAKASAHEB SATALE,M,OBC,2,DFOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1196,27394,18178,74.64,19109254,KALAL NAMRATA TANAJI,F,OBC,2,GST,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1197,27395,18747,74.12,19113691,VISHWAKARMA SWATI KAILAS,F,OBC,2,GST,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",#,2.0
+1199,27397,21207,72.79,19112637,BHOIR PRANAV BALARAM,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1201,27399,23381,71.66,19130290,BAWASKAR DIKSHA ANIL,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",#,2.0
+1202,27400,24105,71.32,19128372,SHAIKH RIFAT NIJAM,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1203,27401,24537,71.12,19119893,SURYAWANSHI YASH SUBHASH,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1204,27402,26830,70.06,19116387,GUDEKAR PANKAJ PANDURANG,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1217,27417,22068,72.34,19116248,VAIDYA AKASH MANOJ,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1218,27418,23274,71.71,19114680,CHAVHAN SHANTANU RAJENDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1232,27432,34141,66.8,19123578,PATIL BHAVESH VINAYAK,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1242,27442,44724,62.24,19146050,THALE VAISHALI ARVIND,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1244,27444,47478,60.82,19147472,PATIL RAJ KRISHNA,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1245,27445,48219,60.41,19111584,GITESH KOLHE,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1255,27761,50980,58.46,19132700,BADGUJAR GANESH SUDHAKAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1256,27762,51713,57.71,19149942,DERVANKAR OMKAR RAGHUNATH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1261,27866,5287,84.2,19114389,VAVEKAR NIDHI KISHOR,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1271,27876,15601,76.0,19140112,WALKE SAURABH SANJAY,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1275,27880,17150,75.05,19128552,PASHTE ANUSHKA YASHWANT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1277,27882,24624,71.06,19151776,PATIL CHETAN RAJENDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1278,27883,24991,70.9,19109181,TARMALE PRANALI MALU,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1281,27886,29048,69.0,19110425,THAKUR PRATIBHA PRADIP,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1289,27894,36361,65.88,19104590,HEMANT RAVINDRA CHAUDHARI,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1292,27897,40757,64.0,19159124,MOKAL SHRADDHA SANTOSH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1293,27898,40987,63.94,19124767,SARVESH SANTOSH THAKUR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1299,27904,44586,62.29,19134429,BHOPI MAYUR SUNIL,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1305,27911,4684,84.82,19108400,MAYURESH ANANT KAMANE,M,OBC,2,GOBC,,301,Computer & IT,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1309,27915,14040,77.06,19109501,SATVE SONAL MAHIPAT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1313,27919,17056,75.12,19126938,GAIKAR AKSHAY HARISHCHANDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1322,27928,20920,72.94,19137803,PAWAR PRAJYOT PRABHAKAR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1324,27930,22769,72.0,19123255,RAMBADE VAIBHAV PRAKASH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1326,27932,23489,71.63,19109259,JAYANT SANTOSH SHINDE,M,OBC,2,GOBC,,301,Computer & IT,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1328,27934,24032,71.35,19112852,BUCCHE AARTI LAKSHMAN,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1330,27936,24520,71.12,19153444,PATIL KOMAL DILIP,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1332,27938,25085,70.86,19101659,INGLE SONAL PRADIP,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1342,27948,35756,66.12,19125178,PATIL MAYUR SOPAN,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1348,27954,40104,64.29,19125219,ACHAREKAR ANUJA AVINASH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1352,27958,52422,56.88,19113505,MHATRE PRESHITA VIKAS,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1354,27962,26252,70.29,19157025,GAVHANE SEEMA NIVRUTTI,F,OBC,2,LOPEN,,401,Machanical,302,ENTC,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1359,27992,14807,76.53,19128037,SONAR KRUSHNA SANTOSH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1374,28026,29713,68.71,19133118,BHOIR KETAN RAMCHANDRA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1377,28029,39590,64.53,19105323,CHAVAN DIKSHITA JITENDRA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1383,28035,51357,58.1,19132650,KOTHAWADE VISHAL VIJAY,M,OBC,2,GOPEN,,304,Electrical,302,ENTC,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1389,28091,13976,77.12,19116241,LONSHIKAR PRITI GOPAL,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",#,2.0
+1392,28094,16846,75.24,19111469,RAUT MONALI APPASAHEB,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1407,28110,42591,63.24,19136136,ZEESHAN HAIDER IQBAL HUSSAIN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1414,28193,1026,90.3,19110959,BHILARE ABHISHEK ANKUSH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3197,Thane,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",^,1.0
+1417,28196,5026,84.47,19118045,PATIL POOJA SANTOSH,F,OBC,2,MIMH,,302,ENTC,302,ENTC,3197,Thane,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",^-,
+1437,29070,20481,73.18,19101341,JOSHI SWAPNIL ASHOK,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+1438,29071,20574,73.12,19114331,CHAUDHARI JANHAVI UTTAM,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+1440,29073,31975,67.71,19117186,PATIL CHINMAY KALURAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+1445,29078,39277,64.65,19151229,KIRPAN PRIYANKA DASHARATH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+1446,29079,41409,63.71,19137823,RAUT ANKITA ANANTA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+1447,29080,44227,62.47,19115960,MHASKAR MAYUR SOMNATH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+1450,29083,49324,60.0,19135943,PATIL AVINASH JAYAVANT,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+1456,29449,23034,71.83,19137991,PEDNEKAR DIKSHA NARAYAN,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+1458,29451,37065,65.57,19148167,PRATHAMESH MAHADEV BHARATI,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+1465,29520,25532,70.65,19123991,KENDRE SAHIL SANJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3423,Thane,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",^,1.0
+1490,29673,22516,72.12,19159016,SHELAR PRATIK PRAKASH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1494,29677,30427,68.41,19119009,UBALE AKHIL VIJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1495,29678,30539,68.35,19114773,SHELAR PRANALI SANTOSH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1497,29680,43712,62.71,19142338,MADKE TEJAL CHANDRAKANT,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+1500,29934,2345,87.79,19113045,PUNYARTHI SRUSHTI SANJAY,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+1511,29945,45092,62.06,19120804,KADAM MAYUR BHANUDAS,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+1513,29947,48493,60.24,19119398,PATIL RITESH JANARDAN,M,OBC,2,LOPEN,,302,ENTC,302,ENTC,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+1516,42837,3657,86.0,19108977,MANJREKAR SURAJ SHASHIKANT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1517,42838,6708,82.85,19104073,GHUDE SHUBHAM SHRIHARI,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1518,42839,6715,82.85,19106930,MAHADIK SHUBHAM GANESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1519,42840,6905,82.67,19100752,BOROLE PREMCHAND PRAMOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1523,42844,7585,82.06,19107102,PATIL VIKRANT VILAS,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1524,42845,8567,81.15,19129829,SABALE ROSHAN SURESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1528,42849,9447,80.42,19107245,TONDWALKAR MIHIR DNYANESHWAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1530,42851,10252,79.8,19140195,HUNARI VINAY RAJAN,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1536,42857,12582,78.07,19117064,ZOPE HARSHAL RAVINDRA,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1540,42861,13830,77.21,19115504,BAPARDEKAR SURAJ SAHADEV,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1542,42863,14413,76.8,19142066,SAPALE AISHWARYA ASHOK,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1544,42865,16582,75.4,19147689,BHAGNE AMIT JAYANT,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1546,42867,16702,75.33,19109477,PATIL GAURAV AMRUTRAO,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1549,42870,18014,74.97,19145852,PATIL KUNDAN PANDHARINATH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1550,42871,18054,74.97,19100942,BELE HRITIK ANIL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1555,42876,19962,73.45,19122473,GHARAT SUMIT LALCHAND,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1558,42879,20282,73.27,19126288,BHOIR GAURI MALHARI,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1559,42880,20396,73.21,19113750,CHAVAN SUYOG KHUSHAL,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1561,42882,20885,72.95,19113911,BOBALE SIDDHESH SANTOSH,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1563,42884,21192,72.8,19137733,MATAL SIDDHESH ANANT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1566,42887,21684,72.54,19112295,HINGMIRE VAISHNAVI NITIN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1569,42890,23032,71.86,19112309,TERVANKAR VINAYA VASANT,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1570,42891,23164,71.77,19125231,GHANEKAR JAYESH VASANT,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",@,5.0
+1571,42892,23622,71.54,19131331,NEWALKAR SMITESH DEVENDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1582,42903,28742,69.15,19113972,KERKAR PRASAD PRAVIN,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1583,42904,29023,69.03,19113068,KAUSTUBH VILAS TELI,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",*,3.0
+1585,42906,32154,67.64,19120028,NARKHEDE MAYUR ANANT,M,OBC,2,PHOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",*,3.0
+1587,42908,32967,67.27,19137633,PADVAL KAJAL LADKU,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1588,42909,33459,67.08,19130286,KARSHINKAR AADITI SURESH,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1597,42918,38180,65.09,19127821,SONONE VAISHNAVI VIJAY,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1611,42932,640,91.5,19126852,GAWANDE YUVRAJ BABARAO,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1621,42942,2436,87.64,19107046,PATIL HARSH VINOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1634,42955,43792,62.67,19103507,SHARMA RAVI SANJAY,M,OBC,2,MI,,304,Electrical,304,Electrical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1643,42964,374,92.5,19130938,DESALE MANASI GURUNATH,F,OBC,2,MIMH,,304,Electrical,304,Electrical,3197,Thane,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",^-,
+1647,43072,3474,86.2,19148185,PASHTE MANSI KASHINATH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1648,43073,8732,81.0,19149184,DHAMKE UDAY SANTOSH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1649,43074,12039,78.48,19118590,NIPURTE NEHA NAVANATH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1650,43075,14605,76.67,19110641,PATIL VRUTTIKA RAJESH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1651,43076,16323,75.58,19110717,SHIRKE SONAL PRAVIN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1652,43077,16498,75.45,19110792,KHADE SACHIN MADHUKAR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1655,43080,25728,70.55,19110467,RASAL NILESH DAMU,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1656,43081,28209,69.39,19110457,SHIRKE SNEHAL PRAVIN,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1661,43086,36327,65.88,19135560,PATIL DARPAN MANGESH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1662,43087,37310,65.45,19144554,DHASADE KANCHAN SHANKAR,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1666,43091,40553,64.12,19113572,RUPESH ANANT GHEVADE,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+1667,43092,43810,62.67,19154464,PATIL PRASAD PRAMOD,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1668,43093,48939,60.0,19141567,TIWAR ARUNA SHANTARAM,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+1669,43094,49000,60.0,19151635,CHAUDHARI CHARULATA PANDHARINATH,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+1673,43108,45670,61.76,19125835,PARAB CHIRAG VITHAL,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1674,43109,45894,61.64,19156841,MEHER YOGESH TULSHIRAM,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1675,43110,46623,61.27,19140721,PATIL SHUBHAM SANTOSH,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1676,43111,46986,61.09,19127800,BAGADE PRATHAMESH UMESH,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1683,43118,52150,57.21,19152004,BOMBE YOGESH SURESH,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1684,43119,53261,55.52,19148291,PATIL HRITIK SANTOSH,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1685,43120,53304,55.43,19158636,PAWAR SEEMA LAXMAN,F,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1686,43121,53488,55.03,19118446,SOMAVATE SIDDHESH SURESH,M,OBC,2,MIMH,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+1697,43333,47284,60.91,19109981,JADHAV PRATIK VISHWANATH,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+1699,43335,48591,60.18,19112555,MANDALE ROHAN KISHOR,M,OBC,2,GOPEN,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+1714,49574,3258,86.47,19133959,MHATRE TANAYA PRASAD,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1715,49575,7906,81.71,19100616,YASH LAVESH MHATRE,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1718,49578,15629,76.0,19117357,AMRUTE PRATHAMESH SUNIL,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1722,49582,18214,74.5,19125482,BHOIR ASHISH SHANTARAM,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1725,49585,21394,72.7,19127607,SARVESH SANDEEP MAYEKAR,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1727,49587,22070,72.33,19104868,JADHAV KETAN HARKESH,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1730,49590,24146,71.29,19133462,JAMBHALE DIPIKA DINKAR,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1736,49596,26785,70.06,19124156,MITHBAVKAR AMEY GURUNATH,M,OBC,2,PHOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",*,3.0
+1742,49602,32824,67.35,19124943,TANDEL VIRAJ SUNIL,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1744,49604,33410,67.1,19121763,SHELAR DIVYA PRAKASH,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1745,49605,33626,67.0,19112552,SAPLE MRUNALI RATNAPRAKASH,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1751,49611,39869,64.4,19112572,KODE SAURABH YUVRAJ,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1757,49617,43172,62.94,19101632,PATIL SAMEER DINKAR,M,OBC,2,GOBC,,401,Machanical,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1761,49621,44584,62.29,19150498,THALI NIRBHAY BHARAT,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1762,49622,44585,62.29,19156009,MHATRE PRIYAL BALKRISHNA,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1763,49623,44745,62.24,19113273,KOKATE SAMRUDDHA KAILAS,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1767,49627,47036,61.06,19128475,PATIL DHIRAJ VASUDEV,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1769,49629,47700,60.7,19145489,VINAYAK PRADIP LOKHANDE,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1771,49631,48886,60.0,19119414,PENDHARE ANKITA ANIL,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1774,49634,49796,59.39,19125066,OMKAR HARESHWAR THALI,M,OBC,2,GSC,,304,Electrical,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",&,4.0
+1780,49640,52923,56.07,19155359,MHATRE SONALI NITIN,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+1782,49662,3501,86.18,19132379,PATIL BHAVIK NARAYAN,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1785,49665,6727,82.82,19104863,PATIL MRUNAL ANIL,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1787,49667,8469,81.24,19111713,WADEKAR BHAKTI MANGESH,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1789,49669,9836,80.12,19121614,MHATRE DIVYA UPENDRA,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1790,49670,11330,79.0,19120864,MHATRE SANJANA MANIRAM,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1791,49671,11644,78.76,19152229,JUIKAR NITESH PRANITKUMAR,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1794,49674,19661,73.6,19112884,APTE PRACHI DILIP,F,OBC,2,LOBC,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1798,49678,26265,70.29,19115078,PATIL JAY PRAKASH,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1807,49687,52647,56.5,19159757,ADARSH DINKAR BATAWALE,M,OBC,2,GOBC,,305,Instrumentation,305,Instrumentation,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1811,53643,1748,88.82,19101736,DEEP TUKARAM BHOYAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1813,53645,2458,87.59,19118792,PATIL SWAPNIL RAJENDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1818,53650,3914,85.65,19102391,KOLHE TUSHAR AVINASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1820,53652,4196,85.35,19116940,NIWATE ANKIT DILIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1823,53655,5004,84.48,19101036,HANDGE TANAY ARUN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",*,3.0
+1827,53659,9012,80.76,19107185,VISHE DIVYA BABAN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1831,53663,14228,76.94,19145700,GHAGAS ASAVARI RAMESH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+1834,53666,18395,74.32,19112146,SHELAR SAYALI DNYANESHWAR,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",#,2.0
+1841,53673,2582,87.35,19104897,KALE PRATHAMESH NITIN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1842,53674,2621,87.29,19132199,MHATRE AKHILESH CHANDRASHEKHAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1845,53677,3244,86.47,19126292,SURVE ONKAR JITENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1846,53678,3979,85.59,19109368,JATAR NIKITA RAMESH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1849,53681,5533,83.94,19104107,YOGESH VIJAY PATIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",*,3.0
+1853,53685,13692,77.3,19106681,GHERADE RUTUJA MARUTI,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3189,Thane,"Bharati Vidyapeeth College of Engineering, Navi Mumbai",^,1.0
+1857,53689,910,90.59,19113385,HALDANKAR VARUN VASUDEO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1865,53697,4189,85.35,19115799,KUMBHAR PALLINATH SURESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1866,53698,4292,85.24,19114982,CHAVAN ADITI AVINASH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1869,53701,4735,84.76,19100867,RAUT SAHIL JAGDISH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1870,53702,4798,84.71,19126249,BHANGRATH TEJAS MURLIDHAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1882,53714,17036,75.12,19108196,RANE VIDULA VIKAS,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1886,53718,27279,69.82,19138125,NANAWARE PRERANA MADHUKAR,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1891,53723,4225,85.31,19114810,MORE RIDDHESH PRADEEP,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1896,53728,18175,74.65,19125573,PATIL NIKHIL ANIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",#,2.0
+1897,53729,19599,73.65,19102467,CHAUDHARI ROHAN ISHWAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+1906,53739,6235,83.29,19126135,MANJE AKASH ASHOK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1909,53742,7780,81.82,19112551,BAGUL TUSHAR PANKAJ,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1912,53745,8667,81.06,19129247,DINKAR RAHUL LAXMAN,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+1914,53747,10389,79.68,19113576,SAHIL NAVALE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1918,53751,13121,77.71,19120743,PATIL ADESH SUNIL,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1920,53753,14733,76.59,19100162,AMRUTKAR KALPIT PRAKASH,M,OBC,2,PHOBC,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",#,2.0
+1932,53765,7229,82.38,19131907,BHOIR DARSHAN VASANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1935,53768,8171,81.47,19109420,GAIKAR PRATHMESH DASHRATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+1944,53777,11552,78.82,19122187,MHATRE ABHIDNYA SUNIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1945,53778,11637,78.76,19112494,JADHAV HARSHAL VIKRAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+1947,53780,13900,77.18,19114670,PATIL SUSHANT BABAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+1950,53783,16376,75.53,19103021,BARI SIDHHARRTH DINESH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+1952,53785,19845,73.52,19109905,POWAR DHIRAJ PRAKASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1956,53789,31934,67.71,19108055,MHATRE MANALI ANANT,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1964,53797,53209,55.59,19104406,MOHALKAR DHANASHRI CHAKRADHAR,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+1965,53807,2628,87.29,19124510,BHATADE OMKAR MAHESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1979,53821,7232,82.38,19139452,CHAUDHARI ISHWARI CHANDRASHEKHAR,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1980,53822,10592,79.53,19118012,VISHE KOMAL SUNIL,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+1983,53825,23418,71.65,19110043,MAHAJAN POOJA VINOD,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+2007,53849,5092,84.41,19100807,DHAMKE SUJIT DHARMA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",#,2.0
+2009,53851,5289,84.2,19119747,VARDAM PRATHMESH VITTHAL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",#,2.0
+2015,53857,26458,70.18,19127623,KAWADKAR RIDDHI NITIN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+2016,53858,28461,69.28,19126553,MHADDALKAR VAISHNAVI BHARAT,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",#,2.0
+2032,53874,412,92.35,19122359,SHELAR RAHUL VASANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3197,Thane,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",^,1.0
+2038,54243,6628,82.94,19107202,CHOUDHARI ADITYA CHANDRASHEKHAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2039,54244,8334,81.35,19127131,VEKHANDE SANKET DEEPAK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2040,54245,10911,79.29,19103257,VYAPARI ROHIT RAMESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2041,54246,11162,79.12,19148578,VISHE PRATIK ANANTA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2042,54247,11436,78.94,19146240,MOMIN MUZZAMMIL JAMAL AAMIR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+2045,54250,16373,75.53,19113926,PATIL ROHIT ANIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+2047,54252,18360,74.35,19100461,PATIL DHIRAJ AVINASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",*,3.0
+2049,54254,19641,73.63,19100520,MEHER DHIRENDRA RAMCHANDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+2050,54255,19702,73.59,19113480,AYUSH ASHOK PATIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+2053,54258,20319,73.24,19134080,PATIL GUNAWANT VIJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2054,54259,20902,72.94,19154075,DESALE NAVNATH RAGHUNATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2055,54260,20936,72.94,19101041,DIGASKAR JATIN PRAFUL,M,OBC,2,LST,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+2058,54263,21133,72.82,19120670,PADVAL DHIRAJ KANTARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2059,54264,21390,72.71,19158063,JADHAV VISHAL RAMESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2061,54266,22153,72.29,19129874,BARSHI NACHIKET YASHAWANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2065,54270,23183,71.76,19129754,GAGE AATISH KASHINATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2066,54271,23269,71.71,19113047,CHAUDHARI RAHUL RAJARAM,M,OBC,2,GNTD,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+2069,54274,24007,71.35,19117749,SABALE ANKITA MADAN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2076,54281,26628,70.12,19110213,BHOIR RAJ ROHIDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2080,54285,28032,69.47,19117553,DONGRE TEJAS BALU,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+2083,54288,29325,68.88,19102603,AMBRE PRANAY SHYAM,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2084,54289,29336,68.88,19116130,MAHAJAN HITESH DATTATRAY,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2085,54290,29822,68.67,19145931,JAGUSHTE PRIYANKA PRAVIN,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2089,54294,31448,67.94,19107301,SHIRKE PRATIK DILIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2091,54296,33397,67.12,19133701,KAMBLI TEJAS SHRIKANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+2094,54299,34228,66.76,19100449,SANANSE TEJUS DINKAR,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2097,54302,34550,66.61,19104707,PATIL RUSHIKESH KACHARU,M,OBC,2,LNTA,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2098,54303,34633,66.59,19102574,TUSHAR V GURAV,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+2099,54304,35053,66.41,19100680,GARGE MAYURESH SHIRISH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2102,54307,37099,65.53,19143161,VEKHANDE KAILAS RAMESH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2103,54308,37563,65.35,19109128,PAWAR ROSHAN BAPURAO,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+2121,54374,21069,72.88,19128738,VIVEK GADGE,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2125,54378,30144,68.53,19127528,SHAIKH SOHEL BILAL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2127,54380,32399,67.53,19115831,SHAIKH SAMEED SIRAJ AHMAD,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2133,54386,37956,65.18,19151000,SHAIKH SHABNOOR ANIS,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#,2.0
+2137,54390,40119,64.29,19155555,MOMIN USAMA FAYYAZ,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2138,54391,40550,64.12,19113618,PATIL BHAVESH HARISHCHANDRA,M,OBC,2,LOPEN,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",&,4.0
+2145,54398,52899,56.12,19126650,MOMIN MOHAMMAD MAAZ JAMEEL AHMAD,M,OBC,2,MI,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+2148,54401,41991,63.47,19107865,ANIKET TANAJI BHOIR,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+2151,54404,42394,63.29,19116954,MOHAMMAD DANISH MOHD SUFIYAN ANSARI,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+2153,54406,42441,63.29,19121795,CHINCHOLKAR KARAN SHRIRAM,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+2157,54410,45247,61.94,19120946,BHOIR DHIRAJ KRISHNA,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",*-,3.0
+2160,54413,48998,60.0,19128181,DEHERKAR ATHARVA NILESH,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+2162,54415,49923,59.29,19100292,PATIL SWAPNIL PRALHAD,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",#-,
+2163,54416,49929,59.29,19157633,BHONDAVE SUDESH DATTATRAY,M,OBC,2,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+2171,54899,19325,73.82,19151484,TARE JAYESH NARAYAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2172,54900,22129,72.3,19119902,PATIL SAMADHAN CHAITRAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2175,54903,22623,72.06,19145900,AGARKAR SURAJ GULAB,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+2178,54906,24859,70.96,19129744,RAWNANG AADARSH GANESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+2182,54910,28714,69.18,19130142,RAWNANG PRANAV SHANKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+2195,54923,35209,66.35,19156008,SHIKHARE OMKAR VINOD,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",*,3.0
+2201,54929,36618,65.76,19158013,HELONDE PRASAD MAHADEV,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2205,54933,38011,65.18,19140258,SANKET SHANKAR JAMBE,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+2206,54934,38107,65.12,19138337,DAPHALE KARUNA SANTOSH,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+2208,54936,38565,64.94,19125210,CHAUDHARI LABHESH VINAYAK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2209,54937,39129,64.71,19143570,ADIT SUYASH SAKHARAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+2210,54938,39389,64.59,19145215,PATIL MAYUR KALIRAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+2213,54941,39998,64.35,19106591,PATIL PRANAY BHAGWAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2222,54950,42592,63.24,19112875,ANIKET RAJANIKANT PATIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2223,54951,42805,63.12,19122317,SHINDE OMKAR DATTA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",&,4.0
+2250,54978,48751,60.06,19117379,SINALKAR PRADIP BHIMAJI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+2270,54998,51656,57.76,19126671,PASHTE MAYUR NARESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2276,55004,53247,55.53,19119428,BHAGAT OMKAR KASHINATH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2283,55011,54486,48.88,19120895,PATIL BHAVESH MADHUKAR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+2300,55156,33021,67.27,19109268,GURAV VINAYAK SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+2311,55221,29298,68.9,19133012,KARSHINKAR RUSHIKESH SADASHIV,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",&,4.0
+2325,55235,38882,64.82,19101150,PATIL VAIBHAV VINOD,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+2326,55236,43036,63.0,19108276,RUSHIKESH RAVINDRA NACHANKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",#,2.0
+2344,55254,52208,57.15,19137837,PATIL RUSHIKESH MAHENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+2351,55469,8052,81.59,19121620,CHAUDHARI DEVESH NANDKUMAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2354,55472,24433,71.18,19131929,SAMBARE SANDESH RAVINDRA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2356,55474,32793,67.35,19140049,PATIL AKSHAY SUDHAKAR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2358,55476,34510,66.65,19158026,PATIL MAYUR KISAN,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2360,55478,39173,64.71,19115868,PRANAY RAJENDRA BHOIR,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",&,4.0
+2362,55480,43456,62.82,19109832,KADAV VISHAL JAYWANT,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2364,55482,45027,62.06,19117706,THAKARE SUYOG PRAKASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2365,55483,45517,61.82,19101891,MESTRI CHINMAY MARUTI,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",*,3.0
+2367,55485,46599,61.29,19100543,LODHE HARSHAL SUBHASH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2369,55487,47677,60.71,19123424,DANDKAR YOGESH YASHWANT,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+2370,55488,48320,60.35,19110276,GHARAT KETAN PUNDLIK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2372,55490,48936,60.0,19119771,BHAKARE KUNAL BALARAM,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2376,55494,52275,57.06,19124865,CHAUDHARI PRANAV CHANDRAKANT,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+2377,55495,53085,55.82,19143346,DHANKE YASH DILIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",#,2.0
+2382,55777,6100,83.41,19131874,PATIL AKSHAY SUBHASH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2388,55783,6857,82.71,19101325,DEOKAR SIDDHESH LAXMAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",@,5.0
+2390,55785,7720,81.92,19106249,NARKAR SAHIL SANDEEP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2391,55786,8029,81.6,19121847,NAVALE ANIKET SHAILESH,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2394,55789,9658,80.24,19112749,DICHWALKAR NIMISH RAMDAS,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2395,55790,11327,79.0,19124032,TANKSALE SHUBHAM VAMAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2396,55791,12550,78.12,19104649,BAMNE TEJAS PRAKASH,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2398,55793,17719,75.0,19109334,MHADESHWAR ATHARVA UMESH,M,OBC,2,DFO,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2428,55823,20361,73.24,19103974,KADAM RAHUL RAVINDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2429,55824,22701,72.0,19101271,PATIL HARSHAD KRUSHNA,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2432,55827,26871,70.0,19135700,NARALKAR MAYUR DIPAK,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",&,4.0
+2433,55828,26959,70.0,19105215,DHANDE VARAD NANDKISHOR,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2435,55830,29739,68.71,19122156,PRATIK PATIL,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2442,55837,42205,63.39,19126610,SHETE ABHIJEET BALASAHEB,M,OBC,2,LOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+2457,55852,54334,51.29,19151724,ADSARE KISHOR LAXMAN,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3471,Thane,"New Horizon Institute of Technology & Management, Thane",&,4.0
+2458,55853,2420,87.65,19105550,KAPURE SAURABH SHARAD,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+2461,55856,3089,86.71,19105128,JAGTAP SHUBHAM GANESH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+2464,55859,4248,85.29,19108177,GAIKWAD LALIT SUNIL,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+2465,55860,14571,76.71,19125274,MATKAR GAURI GOVIND,F,OBC,2,LOPEN,,401,Machanical,401,Machanical,3475,Thane,"A. P. Shah Institute of Technology, Thane",^,1.0
+2482,72778,25025,70.88,19112221,MESTRY OMKAR SADASHIV,M,OBC,2,GOPEN,,401,Machanical,402,Production,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",&,4.0
+2486,72782,39260,64.65,19113720,KINI MEHUL VISHWANATH,M,OBC,2,GOPEN,,401,Machanical,402,Production,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",#,2.0
+2495,72791,51240,58.19,19156326,GUJARE HITESH GANESH,M,OBC,2,GOBC,,401,Machanical,402,Production,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0

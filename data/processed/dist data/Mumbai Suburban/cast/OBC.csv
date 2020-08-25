@@ -1,0 +1,126 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+3,208,5091,84.41,19130283,SIDDHESH PRAKASH CHALKE,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3182,Mumbai Suburban,"Thadomal Shahani Engineering College, Bandra, Mumbai",^,1.0
+4,209,5658,83.86,19108679,GOHIL MEGHA ATUL,F,OBC,2,MIMH,,101,Chemical,101,Chemical,3182,Mumbai Suburban,"Thadomal Shahani Engineering College, Bandra, Mumbai",^-,
+7,297,629,91.52,19102856,PANCHAL NIKHIL VISHNU,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+8,298,864,90.73,19101806,BHAGWAT OMKAR DINESH,M,OBC,2,GOPEN,,101,Chemical,101,Chemical,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+14,2792,51,95.33,19106302,KONDILKAR ANKIT BHASKAR,M,OBC,2,GOPEN,,201,Civil,201,Civil,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+16,2794,54,95.3,19146218,WANKHEDE PRATIK PRADIP,M,OBC,2,GOBC,,201,Civil,201,Civil,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+18,2796,426,92.3,19125335,PATIL DAKSHATA SURESH,F,OBC,2,LOBC,,201,Civil,201,Civil,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+25,3024,601,91.64,19109160,PATIL JANHAVI VYANKATESH,F,OBC,2,LOPEN,,201,Civil,201,Civil,3176,Mumbai Suburban,"Thakur College of Engineering and Technology, Kandivali, Mumbai",^,1.0
+51,3154,12555,78.12,19157249,MOHAMMAD SAAD MOHAMMAD AMIN,M,OBC,2,MI,,201,Civil,201,Civil,3201,Mumbai Suburban,"Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai",^,1.0
+60,14853,10055,79.94,19111598,BHOSALE UTKARSHA UDAY,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3035,Mumbai Suburban,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",^,1.0
+66,14860,9628,80.29,19130258,SHINKAR SHWETA SATISH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3035,Mumbai Suburban,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",^,1.0
+75,14869,2478,87.57,19113978,ROKADE KARTIK DAMODAR,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+76,14870,2663,87.24,19109724,MAYEKAR DEEP PRASAD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+77,14871,2950,86.88,19108022,SOMJI APURVA ANANT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+89,14883,2987,86.81,19101233,AMBOLKAR RIYA GURUNATH,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",#,2.0
+90,14884,3284,86.43,19124976,MENGJI PRIYA RAJU,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",#,2.0
+112,14977,3357,86.35,19102516,JUIKAR ROHAN MOHAN,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3148,Mumbai Suburban,"Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai",^,1.0
+124,15187,497,92.0,19132005,SASWADE HRUTUJA CHETAN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3176,Mumbai Suburban,"Thakur College of Engineering and Technology, Kandivali, Mumbai",^,1.0
+148,15211,148,94.0,19131869,SHAIKH NIHA KAMALUDDIN,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3181,Mumbai Suburban,"K.J.Somaiya College of Engineering, Vidyavihar, Mumbai",^,1.0
+162,15225,245,93.2,19125037,GAYKAR KIRAN SANTOSH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3181,Mumbai Suburban,"K.J.Somaiya College of Engineering, Vidyavihar, Mumbai",#,2.0
+199,15274,336,92.71,19113393,KSHIRSAGAR AADARSH DAYANAND,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^,1.0
+205,15280,913,90.57,19123288,MOHANE CHAITANYA CHANDRAKANT,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^,1.0
+228,15303,670,91.36,19111413,DERE MONIKA NAVANATH,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+229,15304,839,90.81,19138333,MASURKAR SHIKHA SHASHIKANT,F,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",#,2.0
+247,15643,271,93.06,19106664,PATIL SHUBHAM HARESHWAR,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+265,15716,2449,87.63,19103549,THAKUR VISHAL BALKRUSHNA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",#,2.0
+270,15721,4821,84.69,19104047,DHAVAL TEJASWINI GANPAT,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+271,15722,4877,84.63,19104048,RAUT KRUTIK DIPESH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+285,15736,3652,86.0,19105146,KANGANE KIRTI SUBHASH,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+286,15737,5035,84.47,19102936,TARAL SANKESH SHANTARAM,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",#,2.0
+288,15739,5581,83.93,19111548,GHOLAP PURVA SANJAY,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+289,15740,6021,83.5,19109209,RAUT VEDANT VILAS,M,OBC,2,DFOBC,,301,Computer & IT,301,Computer & IT,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",#,2.0
+295,15746,966,90.47,19112392,CHAUDHARI PRATIKSHA MADHUKAR,F,OBC,2,LOPEN,,301,Computer & IT,301,Computer & IT,3204,Mumbai Suburban,"St. Francis Institute of Technology,Borivali, Mumbai",^,1.0
+334,15829,1219,89.88,19112933,BHADAWALAKAR DHANESH SHIVAJI,M,OBC,2,MIMH,,301,Computer & IT,301,Computer & IT,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^-,
+340,15835,725,91.19,19106052,KARANGUTKAR ANIKET PRAMOD,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",#,2.0
+355,15925,108,94.44,19119613,BAGAYATKAR TANAY SHRIKANT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+357,15927,215,93.38,19155514,NALAWADE PRASHANSA PANDURANG,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+363,15933,126,94.19,19101604,PATIL SAISH RAVINDRA,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+364,15934,152,94.0,19106084,DESHMUKH SAURABH DILIP,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+380,26840,17142,75.06,19108728,PADWAL UTKARSHA RAVINDRA,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3035,Mumbai Suburban,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",^,1.0
+383,26858,26419,70.2,19111956,MEJARI TEJAL SATYAVAN,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3035,Mumbai Suburban,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",^,1.0
+387,26904,3808,85.8,19100130,TALAVADEKAR MANSI MAHESH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+388,26905,3921,85.65,19107328,CHURI CHAITRANGI SANDEEP,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+389,26906,4140,85.41,19129480,GHANEKAR PRACHI GANPAT,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+390,26907,4152,85.4,19103698,PATIL DHANSHREE RAVINDRA,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+393,26910,5766,83.71,19107251,VARTAK NABHIKA DIPAK,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+396,26913,6807,82.76,19107114,GAWADE AAKANKSHA SANJAY,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+399,26916,8196,81.47,19124871,PATKAR PRATHAMESH PRAMOD,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+400,26917,8988,80.8,19113381,CHAVAN SHRUTIKA MANGESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+401,26918,9000,80.79,19141952,VANJARE SWETALI NARAYAN,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+410,26927,29883,68.65,19157931,VEER PRATIK KRISHNA,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",*,3.0
+445,27122,32950,67.29,19101569,MAYEKAR TANMAY PRADEEP,M,OBC,2,MIMH,,302,ENTC,302,ENTC,3148,Mumbai Suburban,"Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai",^-,
+508,27598,1536,89.15,19124757,PANGE MANAS MADHUSUDAN,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3181,Mumbai Suburban,"K.J.Somaiya College of Engineering, Vidyavihar, Mumbai",#,2.0
+511,27601,1814,88.71,19101145,INGLE JAY AJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3181,Mumbai Suburban,"K.J.Somaiya College of Engineering, Vidyavihar, Mumbai",#,2.0
+527,27617,1769,88.79,19121056,BORSE NEHA BHAURAO,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3182,Mumbai Suburban,"Thadomal Shahani Engineering College, Bandra, Mumbai",^,1.0
+536,27700,23163,71.79,19106998,KOTHAVALE MRUNAL PRADIP,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^,1.0
+538,27702,4815,84.7,19103413,PHANSEKAR TANVI JAGDISH,F,OBC,2,MIMH,,304,Electrical,302,ENTC,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^-,
+542,27706,35129,66.37,19124273,DARJI DHRUMIL BHARATKUMAR,M,OBC,2,MIMH,,302,ENTC,302,ENTC,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^-,
+546,27710,539,91.86,19101124,GORE SWAPNIL VIJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+551,27715,2174,88.07,19111180,JADHAV SAHIL SAMBHAJI,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+552,27716,2782,87.07,19108712,MISAL ISHIKA SUHAS,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+554,27718,3377,86.31,19111338,VARHADI SHRUTI MANGESH,F,OBC,2,MIMH,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^-,
+557,27721,4081,85.49,19113147,KOLAMBE KIMAYA YASHWANT,F,OBC,2,MIMH,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^-,
+561,27725,1647,88.97,19139892,VENGURLEKAR JAIE SHRIKRISHNA,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+563,27727,3004,86.79,19121293,JADHAV NAMRATA CHANDRAKANT,F,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",*,3.0
+567,27731,4900,84.6,19111016,MALI CHAITANYA VASANT,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+572,27736,5351,84.14,19101627,GADAGE HARSHAD SUDAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+574,27738,5852,83.64,19112277,ADVIRKAR AMEY CHANDRASHEKHAR,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+576,27740,7772,81.87,19134568,NANCHE SHUBHAM SUBHASH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+594,28263,877,90.71,19104120,BHIDE SNEHAL SHIRISH,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+595,28264,1229,89.82,19100871,KADAM MRINMAYI ASHOK,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+605,28274,1437,89.37,19111892,MASANE HARSH VINOD,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",#,2.0
+617,28339,18791,74.12,19146020,GURAV SHUBHAM SANJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3201,Mumbai Suburban,"Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai",^,1.0
+679,28496,16571,75.41,19102739,NARKAR ABHISHEK VIVEK,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",#,2.0
+680,28497,19559,73.68,19132925,JADHAV TEJAL VILAS,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+681,28498,22303,72.21,19100565,DAGARE AKSHAY RAMESH,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+686,28503,49772,59.41,19105745,BANDBE MITESH MANOHAR,M,OBC,2,LOBC,,302,ENTC,302,ENTC,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",*,3.0
+722,28546,10575,79.53,19112157,SARVESH CHANDRASEN KARGUTKAR,M,OBC,2,MIMH,,302,ENTC,302,ENTC,3204,Mumbai Suburban,"St. Francis Institute of Technology,Borivali, Mumbai",^-,
+739,28772,11593,78.81,19109670,NAPHADE ANKIT PRASHANT,M,OBC,2,MIMH,,302,ENTC,302,ENTC,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^-,
+745,28778,4726,84.79,19101815,MANISH NITIN PATIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+746,28779,4803,84.71,19124356,RANIM ABHISHEK KRISHNA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+747,28780,4904,84.59,19112480,TAWTE AADESH SHAMSUNDER,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+752,28785,9694,80.24,19102215,SAHIL SURYAJI PATIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",*,3.0
+768,28801,14529,76.73,19112982,KUMBHAR SACHIN BABU,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+769,28802,14747,76.57,19113852,RAUT TUSHAR SANJAY,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+773,28806,20537,73.14,19123912,JANGAM ANUJ SATISH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",#,2.0
+774,28807,21533,72.61,19108052,GAIKAR ANGAD PANDURANG,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+778,28811,26704,70.07,19125086,GUND ABHISHEK MANGESH,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+785,28818,33839,66.92,19117447,PATIL SAHEEL SHYAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+788,28821,42583,63.24,19112811,BELEKAR SACHIN NAMDEV,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",^,1.0
+793,28833,8162,81.5,19110494,PASHTE AKSHAY BHAI,M,OBC,2,MIMH,,301,Computer & IT,302,ENTC,3209,Mumbai Suburban,"K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai",&-,4.0
+816,29004,760,91.07,19110449,ATTARDE NIRMAL PURUSHOTTAM,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+817,29005,774,91.05,19122315,CHAURASIA OM VIJENDRAKUMAR,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+823,29011,914,90.57,19113956,PATKAR KRUTIKA MAHESH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+824,29012,1015,90.31,19124280,MANALI DEEPAK BERDE,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+835,40896,40024,64.31,19112824,SALUNKE NISHANT SANTOSH,M,OBC,2,GOPEN,,303, Medical Electronics,303, Medical Electronics,3182,Mumbai Suburban,"Thadomal Shahani Engineering College, Bandra, Mumbai",^,1.0
+840,42697,99,94.61,19113073,KOTHAWADE PRATHAMESH RAJENDRA,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+841,42698,287,92.97,19126341,MALKAR SANJANA RAJENDRA,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+850,42988,3371,86.33,19117962,RAUT NIKHIL PRAMOD,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+863,43001,5894,83.6,19108199,BHARANKAR SAMIKSHA PRADEEP,F,OBC,2,LOPEN,,304,Electrical,304,Electrical,3204,Mumbai Suburban,"St. Francis Institute of Technology,Borivali, Mumbai",^,1.0
+878,43016,13265,77.62,19116415,JADHAV ASHWINI DEEPAK,F,OBC,2,MIMH,,304,Electrical,304,Electrical,3204,Mumbai Suburban,"St. Francis Institute of Technology,Borivali, Mumbai",^-,
+879,49504,7723,81.9,19110372,MHATRE PARIKH MACHHINDRANATH,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+884,49509,20150,73.33,19111504,HALDANKAR SANSKRUTI NAWNATH,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+901,49645,490,92.06,19123860,MULLA IRFAN RAFIQ,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+902,49646,648,91.47,19105833,PATIL GAURAV KAMALAKAR,M,OBC,2,GOPEN,,305,Instrumentation,305,Instrumentation,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+903,49647,1193,89.9,19111110,BAGUL VAIBHAVI VILAS,F,OBC,2,LOPEN,,305,Instrumentation,305,Instrumentation,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^,1.0
+912,49656,4897,84.6,19125442,BHOIR KUNAL GOVIND,M,OBC,2,MIMH,,305,Instrumentation,305,Instrumentation,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^-,
+914,49658,5500,84.0,19120060,MANORE ASHUTOSH ARVIND,M,OBC,2,MIMH,,305,Instrumentation,305,Instrumentation,3185,Mumbai Suburban,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",^-,
+917,53261,119,94.31,19103233,THOKAL ADITYA SHANKARRAO,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+922,53266,911,90.59,19117078,RUTUJA SHASHIKANT WANI,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+924,53268,7518,82.12,19147276,SALUNKE SOMNATH ASHOK,M,OBC,2,PHOBC,Physical impairment,401,Machanical,401,Machanical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+932,53293,2104,88.19,19100953,BHANDARI SMIT JITENDRA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+935,53296,3863,85.74,19113168,MALI AMAN DILIP,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+938,53299,9108,80.71,19112527,TAMBE SHREEYA SANJAY,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+955,53609,6316,83.24,19113836,MALI SIDDHARTHA SUSHIL,M,OBC,2,MI,,401,Machanical,401,Machanical,3176,Mumbai Suburban,"Thakur College of Engineering and Technology, Kandivali, Mumbai",^,1.0
+957,53611,197,93.5,19108504,PEDNEKAR KEDAR DATTARAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3181,Mumbai Suburban,"K.J.Somaiya College of Engineering, Vidyavihar, Mumbai",^,1.0
+968,53961,258,93.12,19102889,AHIRRAO NISHANT SANJAY,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0
+1011,54189,756,91.1,19134073,PATIL OMKAR DEEPAK,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^,1.0
+1012,54190,946,90.48,19123320,JOGALE PIYUSH PARSHURAM,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^,1.0
+1016,54194,1348,89.55,19148952,SHIRSAT ANAND DASHRATH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^,1.0
+1017,54195,1470,89.3,19103223,KAMBLE SUDESH SUBHASH,M,OBC,2,GOPEN,,401,Machanical,401,Machanical,3208,Mumbai Suburban,"Don Bosco Institute of Technology, Mumbai",^,1.0
+1039,72756,7136,82.47,19126012,BHOGALE DARSHANA SURESH,F,OBC,2,LOPEN,,102,Plastic,402,Production,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^,1.0
+1043,72760,23663,71.53,19105341,OMBALKAR ADITYA CHANDRAKANT,M,OBC,2,GOPEN,,402,Production,402,Production,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",^,1.0
+1049,72766,50915,58.5,19132052,ADITYA VITHOBA CHAVAN,M,OBC,2,GOPEN,,402,Production,402,Production,3184,Mumbai Suburban,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",#,2.0
+1061,72838,37870,65.22,19133251,PATIL KAJAL ASHOK,F,OBC,2,LOPEN,,402,Production,402,Production,3199,Mumbai Suburban,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",^,1.0

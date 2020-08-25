@@ -1,0 +1,120 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+6,1600,507,92.0,19106118,PARSEWAR SNEHA DIGAMBER,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+14,1846,10849,79.33,19125300,KOTALWAR PRASHANT RAMRAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+15,1847,12472,78.18,19157889,ARSHIYA SAFOORA SHAIKH AHMAD,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+16,1848,13847,77.21,19131675,PATHAK SAMEER SARANGDHARRAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+21,1853,21897,72.42,19148243,GAIKWAD ARCHANA PRAMOD,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+22,1854,22680,72.0,19102360,THAKUR YUVARAJSINH HANUMANSINH,M,OPEN,1,PHO,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+23,1855,24954,70.91,19123531,GACCHE DHANSHRI PARTHVIRAJ,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+27,1859,26906,70.0,19140738,DHAGE BALAJI GOPINATH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+30,1862,27906,69.53,19140355,MOTBA SHITAL BABURAO,F,OPEN,1,GOBC,,402,Production,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+35,1867,30889,68.18,19148884,THAKUR KRANTI RAJKUMAR,F,OPEN,1,GOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+38,1870,32038,67.7,19142990,TULSE SONI MAROTI,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+40,1872,34731,66.55,19102827,PADALWAR MANISHA MADHAVRAO,F,OPEN,1,LOBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+44,1876,37580,65.33,19137416,PATIL RADHA GUNWANT,F,OPEN,1,LOBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+45,1877,39113,64.73,19140793,SONALE SACHIN PURBHA,M,OPEN,1,GST,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+46,1878,39115,64.73,19121486,MOHAMMAD HAMZA BAIG,M,OPEN,1,LOBC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+48,1880,40559,64.12,19107329,ANSARI MOHMADABDULLAH MOHMADMASOODUDDIN,M,OPEN,1,LST,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+49,1881,41522,63.7,19146211,SHAIKH NAVEED SHAIKH ZAHEER,M,OPEN,1,LNTC,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+56,1888,43386,62.85,19157684,INGALE SUMIT SHIVAJI,M,OPEN,1,GNTD,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+59,1891,46873,61.15,19157205,KOTALWAR ASAVARI AVADHUT,F,OPEN,1,PHST,,201,Civil,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+61,1893,50470,58.88,19124686,SUKHMANI JASRAJSINGH GOBINDSINGH,M,OPEN,1,GOBC,,401,Machanical,201,Civil,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+77,2726,11212,79.09,19105108,MODI NEHA BALAJI,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",*,3.0
+80,2729,27718,69.64,19154167,KADAM NEHA SANJAY,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",*,3.0
+83,2732,33887,66.91,19100985,MEDPALWAR NISHANT ASHOK,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+84,2733,38370,65.03,19116674,RATNAPARKHE AJAY DASHRATH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+85,2734,40521,64.12,19154937,DANDE LAXMIKANT ARVIND,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+88,2737,46630,61.27,19115794,ALANDKAR KOMAL VEYANKATRAO,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",#,2.0
+89,2738,47192,60.97,19144327,MAKODE SHREYASH PAVAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",#,2.0
+91,2740,50273,59.03,19133794,NAZIYA NASREEN MUHAMMED NISAR AHMED,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",#,2.0
+92,2741,50657,58.73,19135117,ASHFAQ HUSSAIN MOHAMMED ALTAF HUSSAIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+93,2742,51158,58.3,19157938,MOHAMMED JAFAR MOHAMMED SAYEEDUDDIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+94,13692,816,90.88,19136318,JADHAV SEJAL BABURAO,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+95,13693,1004,90.38,19109402,MOHAMMED ROMAN AHMED MOIHUDDIN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+120,13826,37993,65.18,19149284,DESHPANDE PRATHAMESH ATUL,M,OPEN,1,GOPEN,,401,Machanical,301,Computer & IT,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+121,13827,49362,60.0,19111033,SALEH AHMED BAHUSSAIN SK AHMED BAHUSSAIN,M,OPEN,1,GOPEN,,201,Civil,301,Computer & IT,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+122,13828,54548,46.06,19122353,GARGE PRATHAMESH SATISH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+124,13918,2889,86.94,19111537,MADADGAR HARSHADEEPKAUR RAVINDERSINGH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+125,13919,3041,86.75,19108426,HUSNA RUKHSAR MD JAVEED SALEEM,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+126,13920,3596,86.06,19140109,BORWANDKAR MANGESH BALASAHEB,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+128,13922,8455,81.25,19124584,KHAN ALTAMASH MOHSINKHAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+129,13923,9272,80.56,19146632,MOHAMMED SAAD MOHAMMAD ABDULQUDDUS,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+131,13925,10242,79.81,19121587,KADAM JAGJYOTSINGH HARPALSINGH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+132,13926,11145,79.13,19136075,KOSALGE AADITI AVINASH,F,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+133,13927,11636,78.76,19142138,MAHAJAN HARSHADA BHIMRAO,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+150,13944,15490,76.06,19139736,PENSHANWAR RAJSHEKHAR KISHOR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+152,13946,15830,75.88,19150250,ALIM LALANI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+153,13947,17339,75.0,19104607,DESHPANDE SHRAWANI NITEEN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+154,13948,17537,75.0,19122228,MISTRI TEJPAL SINGH RASPAL SINGH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+156,13950,21054,72.88,19104373,SHAIKH SUMAYYA ABDUL LATEEF,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",@,5.0
+157,13951,21070,72.88,19157725,WALBE NARENDRA MADHUKAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+161,13955,25833,70.5,19146123,JOSHI SIDDHI SHRIKANTRAO,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+163,13957,28013,69.5,19110139,NILLAWAR SOHAN SANTOSH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",&,4.0
+165,13959,29649,68.75,19157506,NALBALWAR MANSI DHANANJAY,F,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+166,13960,30166,68.5,19151012,PATIL SHATAKSHI ANILRAO,F,OPEN,1,GNTA,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+171,13965,32076,67.69,19121433,SUHAIB ABDUL WAASEA ABDUL SATTAR,M,OPEN,1,PHNTC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+172,13966,32077,67.69,19134288,GHUMAN GURSHERSINGH BALJEETSINGH,M,OPEN,1,PHSEBC,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+174,13968,33946,66.88,19100971,SURNAR VISHAL RAJKUMAR,M,OPEN,1,DFST,,301,Computer & IT,301,Computer & IT,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+185,14738,21187,72.81,19154120,BELKAR MINAKSHI BAPURAO,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+186,14739,39608,64.5,19151884,SHINDE PAWAN DILIP,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",#,2.0
+203,25856,3364,86.35,19115187,DHAMPALWAR SAMPADA SANTOSH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+205,25858,6719,82.82,19139215,GHONSIKAR VYANKATESH GIRISHRAO,M,OPEN,1,GOPEN,,401,Machanical,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",*,3.0
+207,25860,10407,79.65,19152484,DESHMUKH RANI ASHOKRAO,F,OPEN,1,GOPEN,,303, Medical Electronics,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",*,3.0
+209,25862,14922,76.47,19110710,PARMAR RANI BALAJISINGH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+214,25867,20027,73.41,19157064,KHADE AKSHATA CHANDRAKANT,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",&,4.0
+215,25868,20184,73.31,19104312,BHANEGAOKAR MAYURI VIJAYRAO,F,OPEN,1,LOPEN,,303, Medical Electronics,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+219,25872,31435,67.94,19156532,GADEKAR NIKITA BALAJI,F,OPEN,1,GOPEN,,304,Electrical,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",&,4.0
+221,25874,41254,63.81,19157757,HIVRALE PRAMOD SHIVAJIRAO,M,OPEN,1,GOPEN,,301,Computer & IT,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",*,3.0
+222,25875,41899,63.53,19115341,CHOUDHARY NIHAL CHANDAJI,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+223,25876,43346,62.88,19115665,JADHAV MANJUSHA DHANRAJ,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+237,41938,11615,78.79,19151773,AAFRIN BEGUM SHAIKH AHMED,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+242,41943,20533,73.15,19142058,SAYYAD BILAL ALI SAYYAD SARFRAZ ALI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+243,41944,21770,72.48,19150245,AMEENA TASKEEN MD TAYYAB ALAM,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+246,41947,24956,70.91,19127481,MOHD ABDUL AHAD SIDDIQUI MOHD ABDUL MAJEED SIDDIQUI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+248,41949,27584,69.7,19132181,JANGILWAD NIKHIL MAROTI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+255,41956,37044,65.58,19143516,PATHAN AHEMAD RAZA KHAN GULAM JEELANI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+259,41960,41198,63.82,19117040,YADAV SHUBHAM BANSILAL,M,OPEN,1,LST,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+262,41963,42516,63.27,19153566,NAGLA GHANSHYAM SHANKARLAL,M,OPEN,1,LSEBC,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+265,41966,44668,62.24,19156505,CHITTE NAGESH VAYNKATI,M,OPEN,1,LSEBC,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+274,41975,48044,60.48,19100607,SURYAWANSHI TUSHAR JAIVANT,M,OPEN,1,PHST,,304,Electrical,304,Electrical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+285,42627,27451,69.76,19150638,JONDHALE POOJA BALAJI,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+286,42628,28777,69.15,19150793,YADAV KALPANA SHRIKISHAN,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+291,42633,35581,66.18,19131621,DACHAWAR VAISHNAVI DILIP,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",^,1.0
+298,42640,49604,60.0,19137986,JAKULWAD VARSHA DIPAKRAO,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+301,42643,53508,54.97,19154081,SONKAMBLE ANJALI GANGADHAR,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+303,49499,4043,85.53,19120987,KANASE PRAJKTA RATNAKAR,F,OPEN,1,GOPEN,,305,Instrumentation,305,Instrumentation,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+308,51290,229,93.28,19108144,CHAITANYA SANDIPKUMAR CHANDAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+316,51634,5047,84.47,19102092,ARSALAN SIDDIQUI MD SAIFUDDIN SIDDIQUI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+318,51636,15376,76.18,19132306,NARWADE RUSHIKESH RAMESHRAO,M,OPEN,1,LOPEN,,402,Production,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+322,51640,18761,74.12,19151969,SYED UMAR FAROOQUE SYED FAIZULLAH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+323,51641,19022,74.0,19114468,MOHAMMED ADNAN KHAN GOUS KHAN,M,OPEN,1,LOPEN,,402,Production,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+325,51643,22233,72.24,19117071,THAKUR OMKARSINGH KISHORSINGH,M,OPEN,1,LOPEN,,402,Production,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+327,51645,24408,71.18,19149353,MOHAMMED ZAKIUDDIN FAROOQUI MOHAMMED FAZALUDDIN FAROOQUI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+329,51647,26151,70.35,19151633,DESHMUKH SWAPNIL ANANDRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+330,51648,27078,69.94,19111086,ABDUL KHALEQUE ABDUL AZEEM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+333,51651,28036,69.47,19142989,KULKARNI GAJANAN ARUN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",*,3.0
+334,51652,29383,68.88,19125002,ABDUL REHMAN ABDUL MAJID,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+335,51653,30562,68.35,19119513,BARADKAR AMIT VISHWASRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+336,51654,30680,68.29,19134013,RAJEWAR GOVIND JITENDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+337,51655,31163,68.06,19106957,KANGULE ANKOSH JEJERAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+340,51658,33936,66.88,19139460,KADAM KUNAL KALYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+346,51664,37535,65.35,19107583,SYED REHAN HASHMI SYED RIZWAN HASHMI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+347,51665,38042,65.15,19119889,SHAIKH RAFIK ISMAIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",#,2.0
+349,51667,39563,64.53,19150514,AMBEKAR PRITAM RAJENDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+356,51674,43983,62.59,19141833,YERAWAR PANDURANG CHANDRAKANT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+360,51678,48072,60.47,19109476,KEDARI SAYLEE SURYAKANT,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",&,4.0
+361,51679,48600,60.18,19122234,KADPEWAD VIJAY MAROTI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+362,51680,49728,59.47,19159213,HAZURIA NIRBHAVSINGH MANJEETSINGH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+364,51682,50082,59.18,19137603,NADAF SALMAN BABUMIYA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+367,51685,52876,56.18,19151444,WAHEWAL PRAVESH MADHAVRAO,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2116,Nanded,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",^,1.0
+371,51889,3359,86.35,19107736,SHAIKH SHAKEEB UMAIR SK SHAKEEL AHMED,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+375,51893,4596,84.94,19110761,TARANJOTH KAUR GURMEET SINGH KUNJIWALE,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",#,2.0
+378,51896,11184,79.12,19124236,CHOUDHARI PAVAN PRASHANTRAO,M,OPEN,1,PHO,Locomotor Disability,401,Machanical,401,Machanical,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+388,53192,32539,67.47,19147537,BHUKTARE SARIKA TUKARAM,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",&,4.0
+389,53193,35947,66.06,19132384,SHAIKH SHADAB SHAIKH IQBAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",#,2.0
+390,53194,47121,61.0,19140277,NAGARE SHRUTI SURESH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2573,Nanded,"Gramin College of Engineering, Vishnupuri, Nanded",*,3.0
+394,72731,8550,81.18,19132139,VAZARKAR SAKSHI MILIND,F,OPEN,1,LOPEN,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+397,72734,12548,78.12,19112037,SIRSAT SHRADHA ARVIND,F,OPEN,1,GOPEN,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",&,4.0
+398,72735,13296,77.59,19104340,MAHAMMAD MINHAZ ABDUL SAMAD SHAIKH,M,OPEN,1,GOPEN,,402,Production,402,Production,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",*,3.0
+406,73393,6405,83.14,19107090,BACHHUWAR SNEHA SHIVKUMAR,F,OPEN,1,GOPEN,,701,Knitting Technology,701,Knitting Technology,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+410,73397,19159,73.9,19136750,JANWADE POOJA VIRAPPA,F,OPEN,1,GNTA,,701,Knitting Technology,701,Knitting Technology,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0

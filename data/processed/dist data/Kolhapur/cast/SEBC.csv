@@ -1,0 +1,405 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,452,17240,75.0,19101062,NALAWADE SAMIR ARVIND,M,SEBC,3,GSEBC,,103,Food Technology,101,Chemical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",&,4.0
+5,456,21764,72.49,19141937,RATHOD SWAPNIL BALASAHEB,M,SEBC,3,GSEBC,,701,Knitting Technology,101,Chemical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+10,461,42044,63.46,19143089,PATIL SONAL RANGRAO,F,SEBC,3,LSEBC,,404,Metallurgy (Foundry Technology),101,Chemical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+18,469,51418,58.0,19154728,SHINGATE NIKHIL ABHIMANYU,M,SEBC,3,GOPEN,,101,Chemical,101,Chemical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",*,3.0
+22,536,38921,64.79,19122480,TUKARAM DADARAO THORAT,M,SEBC,3,GOPEN,,101,Chemical,101,Chemical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+24,538,42320,63.33,19123270,ROHIT JIJABA PAWAR,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+27,541,47840,60.61,19152780,YADAV VISHAL SUBHASH,M,SEBC,3,LST,,101,Chemical,101,Chemical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",*,3.0
+28,542,48454,60.24,19154596,CHAVAN ABHISHEK ASHOK,M,SEBC,3,PHST,,101,Chemical,101,Chemical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",*,3.0
+33,548,918,90.55,19150788,CHOUGALE YUVRAJ CHANDRAKANT,M,SEBC,3,GOPEN,,101,Chemical,101,Chemical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+39,554,13574,77.39,19115515,SHINDE KSHITIJ ASHOK,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+59,8215,2399,87.69,19130734,PATIL SAMIKSHA KUMARSINH,F,SEBC,3,GOPEN,,201,Civil,201,Civil,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+60,8216,2723,87.15,19141187,BIRAJDAR SUJATA SUDHAKAR,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+62,8218,3143,86.63,19149049,PATIL SONAL SAJANA,F,SEBC,3,GOPEN,,201,Civil,201,Civil,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",&,4.0
+64,8220,3676,85.94,19126708,PATIL RUTUJA RAMESH,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+69,8225,5365,84.12,19149885,MANE AISHWARYA BALASAHEB,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+85,9294,7312,82.3,19118064,JADHAV RUSHIKESH BAJIRAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+90,9299,11956,78.55,19136594,CHAVAN PRIYANKA SURESH,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+97,9306,17997,74.97,19135049,PATIL ABHISHEK DINKAR,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+101,9310,21096,72.85,19147844,PATIL SWAPNIL SANJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+106,9315,27579,69.7,19147128,NIKAM SURAJ PANDURANG,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",#,2.0
+107,9316,28477,69.27,19156400,JAGTAP ABHISHEK ASHOK,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+109,9318,29768,68.69,19135517,KANASE NIKHIL PANDIT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+126,9435,1541,89.15,19139659,MANE AMRUT AMAR,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+130,9439,2835,87.0,19126867,SALOKHE SHRADDHA SAHDEV,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+131,9440,3063,86.73,19149541,PATIL MAYURI ABASO,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+140,9530,1964,88.42,19117241,YADAV SHIVANI HEMANT,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+143,9533,3240,86.48,19137910,CHAVAN MAHESH DHANANJAY,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+148,9538,4207,85.33,19146473,BANDAR SOURABH DILIP,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+150,9540,4486,85.03,19122777,MOHITE PUJA ANNASAHEB,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+151,9541,4527,85.0,19131722,KADAM VAISHNAVI VIKAS,F,SEBC,3,GOPEN,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",@,5.0
+158,9548,7248,82.36,19122646,MORE VISHWAJEET ANIL,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+161,9551,8220,81.44,19130641,CHOUGALE DIVYA DILIP,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",*,3.0
+164,9554,9549,80.35,19104124,INDULKAR ATHARV SATAPPA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+165,9555,10273,79.76,19130607,SHRUTIKA HEMANT JADHAV,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+166,9556,10368,79.7,19104280,CHITRUK SHARADCHANDRA PADMAKAR,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+167,9557,10620,79.52,19136677,NALAWADE GOUTAMI VIJAY,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+186,9585,511,91.94,19127380,BACHATE SAKSHI VINAYAK,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+189,9588,1181,89.94,19133322,DESAI SOURABH UDAYSING,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+192,9591,1284,89.7,19117768,BABAR ABHISHEK ANAND,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+196,9595,1439,89.35,19116200,DESAI SHARVARI BHASKAR,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+197,9596,1760,88.8,19147639,RANDIVE SWAROOP BAJIRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+198,9597,2077,88.24,19129065,SHINDE RANJEET RAJENDRA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+223,9622,49064,60.0,19125901,JADHAV SHUBHAM ANANDA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",&,4.0
+228,9627,52007,57.39,19117461,CHAVAN SHISHIR BHAGAWAN,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",&,4.0
+230,9637,2356,87.76,19153176,THORAT RUSHIKESH LAXMAN,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+235,9642,3817,85.76,19105851,PHATAK SANIKA ANIL,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+236,9643,3901,85.69,19155518,MANE PRATHAMESH KHANDU,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+237,9644,4320,85.21,19122666,PAWAR SWAPNALI ASHOK,F,SEBC,3,PHST,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+248,9655,4166,85.39,19111041,MISAL HARISH SUBHASH,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+250,9657,4495,85.03,19120903,HASABE SUSHANT BABURAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+254,9661,5373,84.12,19135578,DESAI ROHIT DILIP,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+255,9662,5640,83.88,19103748,PRASAD ANKUSH PATIL,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+256,9663,5851,83.64,19109114,MALVI GURUDAS KRISHNAT,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+257,9664,6262,83.27,19112763,TAVADE PRATHAMESH DHANAJI,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+258,9665,6267,83.27,19154522,PAWAR SUBODH VIJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+260,9667,6709,82.85,19101766,VISHWAJEET MOHAN MOKASHI,M,SEBC,3,PHST,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+261,9668,6776,82.79,19115224,SHINDE OMKAR VIKAS,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+262,9669,6994,82.61,19120739,DEEPAK WALKE,M,SEBC,3,DFNTD,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+263,9670,7811,81.81,19147145,PATIL ARUNA KRISHNAT,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",&,4.0
+264,9671,8350,81.33,19146329,LOKHANDE SWAPNALI BALASAHEB,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+265,9672,9180,80.63,19137356,MORE ANUSHKA SHRIKRISHNA,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+295,9832,11277,79.03,19152434,PATIL NARAYAN ALIAS AMOL VISHNU,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+303,9840,14447,76.79,19140865,MANE SURAJ BABAN,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+307,9844,16204,75.64,19146784,WASKAR OMKAR BAJRANG,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+310,9847,16595,75.39,19127038,PATIL ROHIT HIMMATRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+316,9853,19025,74.0,19129271,MANE VISHWAJEET LAXMAN,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+317,9854,19058,73.94,19128521,SALOKHE TEJASWINI VISHNU,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+318,9855,19190,73.88,19120659,PATIL SANKET SANJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+325,9862,24014,71.35,19143104,FARAKATE SHIVANI SANJAY,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+343,9940,6609,82.94,19117121,PATIL RUTUJA KRISHNAT,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+349,9946,10278,79.76,19112229,DESAI ANIRUDHA AMIT,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",*,3.0
+352,9949,11193,79.09,19126165,YADAV RANVEER AMAR,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+356,9953,13319,77.58,19146855,PAWAR ASHITOSH EKNATH,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+358,9955,14264,76.91,19137924,MANE SALONI SANDIP,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+359,9956,14339,76.85,19120291,YADAV RUSHIKESH SHIVAJI,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+363,9960,15390,76.13,19155465,SAWANT GAURAV BALASO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+369,9966,17809,74.97,19112923,PATIL MRUNAL MADHUKAR,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+370,9967,17885,74.97,19128678,FARAKATE SNEHAL SURESH,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+371,9968,17931,74.97,19139846,KHOT SHIVANI BAJIRAO,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+398,10240,25253,70.79,19150900,PATIL DIGVIJAY MANOHAR,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+399,10241,26046,70.38,19141812,BHOSALE PANKAJ VISHWJEET,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",#,2.0
+401,10243,26838,70.0,19155866,SARNOBAT SNEHA UTTAM,F,SEBC,3,GSEBC,,201,Civil,201,Civil,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+404,10246,31388,67.94,19118853,JAGADALE SWAROOP SACHIN,M,SEBC,3,LSEBC,,201,Civil,201,Civil,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",#,2.0
+406,10248,33589,67.03,19129220,PATIL HARSHAVARDHAN VISHWASRAO,M,SEBC,3,PHSEBC,,201,Civil,201,Civil,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+420,10262,5742,83.76,19131417,BELEKAR NARENDRA RAHUL,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",*,3.0
+428,10270,12050,78.48,19135716,HARICHANDRA RAMCHANDRA SHINDE,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+431,10273,15806,75.88,19136246,PRATIKSHA ABASAHEB PATIL,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+448,11829,19733,73.58,19152926,KAWALE YOGESH VIJAY,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+456,11837,21664,72.55,19106754,JAGADALE RUCHITA RAJESH,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+458,11839,22500,72.12,19114590,DANGAT KRUSHNATH SURESH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",&,4.0
+461,11842,23806,71.45,19144773,CHOUGALE ROHIT RAMCHANDRA,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+465,11846,26991,69.94,19150874,SALVI SATYAM SANTOSH,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+470,11851,28994,69.03,19125756,JADHAV ROHIT PANDURANG,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+472,11853,29688,68.73,19148424,ANIKET TANAJI JADHAV,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+473,11854,29847,68.65,19119694,REGADE PRUTHVIRAJ MAHADEV,M,SEBC,3,PHSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+474,11855,30058,68.55,19107211,PATIL DIVYARANI VINAYAK,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+476,11857,30334,68.42,19127257,PATIL ADITYA TANAJI,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+477,11858,30641,68.3,19131571,SOURABH GANESH POL,M,SEBC,3,GNTD,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+485,11866,35002,66.42,19114363,NIKAM ABHIJEET NANASAHEB,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+490,11871,43008,63.03,19147636,SHINDE ANKITA VITTHAL,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+532,12329,27394,69.76,19128597,SHINDE JAYANT DHONDIRAM,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",&,4.0
+534,12331,30338,68.42,19120288,JAMBHALE DHANASHRI BALASO,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+541,12338,36907,65.64,19122577,KILLEDAR PATIL ABHISHEK SHASHIKANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+543,12340,39081,64.73,19119404,DESAI OMKAR PRASHANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",*,3.0
+544,12341,41511,63.7,19129002,PATIL VAIBHAV CHANDRAKANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",#,2.0
+545,12342,42132,63.41,19124114,SHINDE VAIBHAV VASANTRAO,M,SEBC,3,LSEBC,,201,Civil,201,Civil,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",#,2.0
+550,12565,1604,89.03,19148474,BHOSALE DIVYA PRATAPSINH,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",*,3.0
+553,12568,6457,83.09,19136396,PATIL PRATIKSHA MARUTI,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+555,12570,9439,80.42,19147572,WAGARE SUSHANT BANDOPANT,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+561,12576,12293,78.3,19139129,JATHAR RUTUJA KRISHNAT,F,SEBC,3,LOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+562,12577,12460,78.18,19154704,JADHAV SHIVAM YASHAVANT,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+563,12578,14526,76.73,19121762,PATIL NIKHIL NITIN,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",*,3.0
+564,12579,14857,76.48,19153440,CHAVAN PRIYANKA DHANAJI,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+568,12583,16503,75.45,19136689,NALAWADE GOURI RAMESH,F,SEBC,3,LSEBC,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+577,12592,22478,72.12,19143710,BHOSALE ADITYA ANKUSH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+582,12597,23589,71.58,19131800,KASHID VISHWAJEET CHANDRAKANT,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+594,12609,33755,66.95,19125596,PRATEEL PRAKASH MAGADUM,M,SEBC,3,DFSEBC,,201,Civil,201,Civil,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+619,12634,28466,69.27,19123302,PATIL HARSHAVARDHAN MARUTI,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",&,4.0
+624,12639,31633,67.88,19151930,RAJIGARE ROHAN EKANATH,M,SEBC,3,GOPEN,,201,Civil,201,Civil,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",^,1.0
+629,12644,32711,67.39,19106758,PATIL PARTH NANDKUMAR,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",&,4.0
+656,12671,41284,63.76,19128598,PATIL HARSHAL SUBHASH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",*,3.0
+667,12682,43236,62.91,19154485,PATIL OMKAR RAJARAM,M,SEBC,3,GSEBC,,201,Civil,201,Civil,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",*,3.0
+715,20189,3942,85.63,19117504,AMATE ANKITA TANAJI,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+717,20191,5696,83.81,19141562,BIRADAR SHAHUBAI ASHOK,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+719,20193,6554,83.0,19124021,SALUNKHE SAHIL SHASHIKANT,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+720,20194,8101,81.53,19101863,DESAI SHREYAS VISHWAS,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",*,3.0
+721,20195,9118,80.69,19117589,JADHAV ANKITA BALASAHEB,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+723,20197,9239,80.59,19141765,BHATMARE PRIYANKA RAMESH,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+728,20202,12192,78.38,19121518,VIJAYA KUMAR PATIL,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+731,20205,14398,76.81,19105513,BORAGE RUTUJA VIJAY,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+732,20206,14582,76.69,19126969,PATIL SAYALI MOHAN,F,SEBC,3,PHNTB,,301,Computer & IT,301,Computer & IT,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+741,21646,10880,79.31,19130153,MAGADUM MAYURI BABAURAO,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+750,21655,19781,73.55,19147620,PADWAL VIPUL MOHAN,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",#,2.0
+751,21656,20614,73.1,19147792,JADHAV PRATHAMESH BALASO,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",*,3.0
+753,21658,22496,72.12,19151505,YADAV ALOK VILAS,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+756,21661,26847,70.0,19114517,SANKPAL RAMESHWARI RAMRAO,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+766,21757,2030,88.31,19139232,CHAVAN RATI SANJAY,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",@,5.0
+767,21758,2137,88.13,19143847,KADAM MRUNAL SANJAY,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+771,21762,4171,85.38,19134478,SAWANT PRATIBHA RAVINDRA,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",*,3.0
+772,21763,4293,85.24,19118621,PATIL DHANASHRI SAMBHAJI,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+784,21783,4389,85.13,19115410,POWAR PALLAVI AJIT,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",*,3.0
+785,21784,5352,84.13,19104776,KARANDE NILAM VITTHAL,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+787,21786,6278,83.25,19114023,PATIL ANKITA VITTHAL,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+789,21788,7030,82.56,19128320,BABAR NEHA PRADIP,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+798,21817,1879,88.58,19103114,MANASI SUDHIR PATIL,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+807,21826,3748,85.88,19110187,MANE ABHISHEK VINAYAK,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+816,21835,5355,84.13,19102228,MALAGE SAKSHI RAJENDRA,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+818,21837,6275,83.25,19108787,KHAMKAR POONAM MAHADEV,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+822,21841,9346,80.5,19158468,PATIL TEJASWINI SUNIL,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+825,21844,9945,80.0,19147956,KANSE VIRAJ VISHRANT,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+828,21847,11590,78.81,19102999,MORE YASHRAJ NIRANJAN,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+844,22099,10552,79.56,19142762,KOULAGE SHREYA SHEKHAR,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+847,22102,16351,75.56,19128728,VETURLEKAR SWARUPA GAJANAN,F,SEBC,3,DFSEBC,,301,Computer & IT,301,Computer & IT,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+851,22106,7949,81.69,19103133,CHORAGE PRAMIRAJ RAJENDRA,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+854,22109,10126,79.88,19152998,INGAWALE SANJANA MANOJ,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+856,22111,20093,73.38,19119339,RAMANE JYOTI DHANAJI,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+860,22261,10705,79.44,19127595,PATIL TEJASHRI SHRIRANG,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+862,22263,12083,78.44,19124333,METHE NITA TUKARAM,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+863,22264,13081,77.75,19130906,KHAVARE PRANALI NAMDEV,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+864,22265,13254,77.63,19127227,DESAI DNYANESHWARI MAHESH,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+865,22266,13342,77.56,19126503,SAWANT PRIYANKA NIVRUTTI,F,SEBC,3,GST,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+866,22267,13513,77.44,19112216,PADWAL SAMRUDHI SANJAY,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+892,22706,34404,66.69,19150461,SHINDE VAIBHAVI SUDHIR,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",*,3.0
+893,22707,34470,66.65,19128600,HAPASE SHRUTIKA SHASHIKANT,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",&,4.0
+894,22708,37789,65.25,19104706,PAWAR SNEHA DHANAJIRAO,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",#,2.0
+900,22714,46401,61.39,19104466,PATIL VIKAS MAHADEV,M,SEBC,3,GSEBC,,401,Machanical,301,Computer & IT,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+909,22724,5054,84.44,19107067,ROMALI VIVEK SAWANT,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+912,22727,9046,80.75,19153929,KARANDE ANUJA SHASHIKANT,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+918,24100,17337,75.0,19107680,PATIL MAYURI MARUTI,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+919,24101,18308,74.38,19116451,SAYALI HANMANT GHOLASE,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+936,24344,18304,74.38,19107546,SHINDE DHANSHREE AJITKUMAR,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+942,24350,48348,60.31,19143257,DESAI PRATHMESH SHASHIKANT,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",#,2.0
+944,24440,5947,83.56,19152580,BARKALE TRIVENI KRISHNAT,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+946,24442,11312,79.0,19153466,NARWADE SHRUTI SURESH,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",*,3.0
+948,24444,13605,77.38,19111975,JADHAV SANIYA SATISH,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+954,24450,17694,75.0,19126448,KADAM HEMLATA HANAMANT,F,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+956,24452,19033,74.0,19143888,JADHAV SHUBHAM DHANANJAY,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+957,24453,21015,72.88,19117996,BHOSALE VAIDEHI SHAILENDRA,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+960,24456,21523,72.63,19110816,SALUNKHE SAPANA TANAJI,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+961,24457,21636,72.56,19127957,SALVI POOJA SUDHAKAR,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+972,34653,8641,81.07,19150623,ROKDE VAIBHAV VINAYAK,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+974,34655,10801,79.35,19125399,SHINGARE PRIYANKA SANJAY,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+975,34656,14118,77.0,19127470,SALAVI SHIVANI PANDURANG,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+977,34658,16939,75.18,19141549,BHUJBAL VAISHNAVI MADHAV,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+983,34664,35836,66.06,19152408,PATIL RUTUJA RANGARAO,F,SEBC,3,LSEBC,,301,Computer & IT,302,ENTC,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",*,3.0
+1012,36615,33924,66.88,19146753,PATIL ABHISHEK DIPAK,M,SEBC,3,GSEBC,,301,Computer & IT,302,ENTC,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",&,4.0
+1036,36784,4744,84.76,19134876,GAIKWAD SONALI GANESH,F,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+1039,36787,6312,83.24,19137011,JADHAV SHWETA SURESH,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+1045,36793,15756,75.88,19123798,PATIL DIVYA PANDURANG,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1048,36796,4870,84.63,19102563,NERLEKAR SOURABH VISHWAS,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+1065,36813,17236,75.0,19135657,PATIL AISHWARYA BABASO,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",*,3.0
+1066,36814,17344,75.0,19115898,PATIL SLESHA MARUTI,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1089,36837,44636,62.25,19159099,KAGWADE SOURABH SANJAY,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1093,36879,5684,83.82,19105676,PATIL NITA GANGARAM,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",*,3.0
+1100,36886,16238,75.63,19129640,SURVE APARNA ANANDA,F,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1101,36887,17010,75.13,19130943,PATIL RINKAL TANAJI,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1103,36889,18170,74.69,19119743,GHODAKE PRATHAMESH MOHAN,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1108,36894,22786,72.0,19144138,LONDHE PATIL PRADNYA PRAKASH,F,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1110,36896,23727,71.5,19128546,PATIL DHANASHRI SANJAY,F,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",@,5.0
+1112,36898,26249,70.29,19146907,PATIL PRAJAKTA JAYSING,F,SEBC,3,GST,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1118,36904,29500,68.81,19128976,VANJARE DIVYA DIPAK,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",@,5.0
+1123,36909,41022,63.88,19105322,PANDIT YOGITA RAMESH,F,SEBC,3,DFO,,302,ENTC,302,ENTC,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1128,36970,1803,88.71,19145917,POWAR SUPRIYA UTTAM,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1131,36973,6736,82.82,19116639,TOPKAR SAYALI MARUTI,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",#,2.0
+1134,36976,8175,81.47,19151554,DALAVI VAISHNAVI SANJAY,F,SEBC,3,GNTA,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1137,36979,1916,88.51,19102779,PATIL DHIRAJ KRISHNAT,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1138,36980,1939,88.47,19122302,MAGAR ANIKET SUNIL,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1139,36981,4539,85.0,19120745,PATIL NIRAJ RAJARAM,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1141,36983,9398,80.47,19114022,PATIL SNEHAL BALASO,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1146,36988,10786,79.38,19120990,MANE SHUBHANGI DILIP,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1159,37001,35102,66.39,19130916,NANGARE PATIL MADHAVI MARUTI,F,SEBC,3,LOPEN,,301,Computer & IT,302,ENTC,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",*,3.0
+1182,37519,28823,69.12,19135563,JAGTAP VRUSHALI JAYSING,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+1200,37537,51853,57.58,19153184,GHADAGE KOUSTUBH SANJAY,M,SEBC,3,GOPEN,,201,Civil,302,ENTC,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+1208,37951,18508,74.25,19129216,PATIL ARPITA RANGRAO,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+1210,37953,25574,70.63,19106463,JAGTAP SUKHADA SUHAS,F,SEBC,3,LOPEN,,301,Computer & IT,302,ENTC,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",&,4.0
+1213,37956,29305,68.88,19117876,NAIK SHIVANI PRAKASH,F,SEBC,3,LSEBC,,301,Computer & IT,302,ENTC,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",*,3.0
+1214,37957,30830,68.19,19106469,JAGTAP SHUBHADA SUHAS,F,SEBC,3,LSEBC,,301,Computer & IT,302,ENTC,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",&,4.0
+1216,37959,31183,68.06,19107697,PATIL PRAJKTA DAJIBA,F,SEBC,3,LSEBC,,301,Computer & IT,302,ENTC,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",&,4.0
+1242,38650,10809,79.35,19126555,PATIL SEEMA SURESH,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1258,38666,25702,70.56,19155956,PATIL SHREYA SUBHANJI,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1263,38671,28913,69.06,19155953,PATIL SHRADDHA SANTAJI,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1302,38710,2364,87.76,19118355,KHAVARE ONKAR YUVARAJ,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1313,38721,10506,79.59,19116489,SOMVANSHI DHANRAJ KIRAN,M,SEBC,3,GOPEN,,302,ENTC,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1322,38730,13715,77.29,19126189,PATIL MRUNAL SUHAS,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1340,38748,28663,69.19,19118121,MANE PALLAVI ANNASO,F,SEBC,3,LSEBC,,301,Computer & IT,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",&,4.0
+1346,38754,39001,64.76,19126705,PATIL PRATIK ARUN,M,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1349,38757,45356,61.88,19120720,PATIL AKANKSHA RANJIT,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1357,40346,36961,65.59,19106552,DABHOLE PRATIKSHA RAMESH,F,SEBC,3,LOPEN,,302,ENTC,302,ENTC,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+1383,47616,4212,85.33,19126305,MORE SAKSHI HANMANT,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1385,47618,5601,83.88,19131464,PATIL TEJAS TANAJI,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1387,47620,5848,83.64,19146972,PATIL RUTUJA UTTAM,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1389,47622,8368,81.33,19119887,GAIKWAD POOJA DINKAR,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",*,3.0
+1393,47626,10856,79.33,19153363,NIKAM DIPALI TANAJI,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1396,47629,14001,77.09,19139400,MAGDUM OMKAR APPASO,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1402,47635,15876,75.82,19133725,PATIL ASHISH VILAS,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1403,47636,16229,75.64,19133755,LAD NILESH RAMESH,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1404,47637,17801,74.97,19121560,PATIL TEJAL UTTAM,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1405,47638,17989,74.97,19116323,SATVEKAR PRACHI SUNIL,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",#,2.0
+1409,47642,19610,73.64,19138789,MANGLEKAR SARVESHWAR NAMDEV,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1412,47645,20391,73.21,19138780,AMAN AMAR PATIL,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1417,47650,21876,72.42,19152482,INDULKAR SAMRUDDHI SATISH,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1418,47651,22242,72.24,19110924,SAWANT GANESH BALASO,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",#,2.0
+1435,47762,1029,90.3,19144004,PARAB YASHASHREE DIPAK,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1441,47768,3117,86.67,19152315,BHOSALE TEJAS POPAT,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1450,47831,1046,90.24,19131396,HARER SHAMRAO SHIVAJI,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1454,47835,1928,88.48,19126437,MANE NIKITA DHANANJAY,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1456,47837,2247,87.94,19126057,JADHAV SUKANYA SURYAKANT,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1457,47838,2312,87.82,19110008,MONALI JAYPRAKASH PATIL,F,SEBC,3,LST,,304,Electrical,304,Electrical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1467,47848,22940,71.88,19121997,PATIL VAISHNAVI BABURAO,F,SEBC,3,DFSEBC,,304,Electrical,304,Electrical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1482,48209,22488,72.12,19128457,POWALKAR SAKSHI MOHAN,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",#,2.0
+1486,48213,24463,71.15,19120304,VALAKE BHAKTI SAMBHAJI,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1488,48215,25507,70.67,19142509,BHOSALE SANGRAM PRAKASH,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1494,48221,28869,69.09,19116767,HEMANT LAXMAN PARAB,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1496,48223,33442,67.09,19143397,PRAJVAL SNAJYA PATIL,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",&,4.0
+1497,48224,34143,66.79,19121316,SNEHAL UTTAM PATIL,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",#,2.0
+1501,48228,36897,65.64,19146757,PATIL RUSHIKESH DEEPAK,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+1522,48249,5800,83.7,19117847,PATIL KOMAL RAVINDRA,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1523,48250,6458,83.09,19120132,APARNA AMAR KADAM,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+1540,49248,17954,74.97,19120808,PATIL GAURI SANJAY,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",&,4.0
+1542,49250,18009,74.97,19126905,JADHAV AKSHAY BALASO,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+1543,49251,18044,74.97,19128565,PATIL PRATIKSHA PRASHANT,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+1544,49252,20275,73.27,19115374,GAIKWAD SNEHAL BHASKAR,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+1545,49253,20745,73.03,19114785,PATIL PRANJAL ABASAHEB,F,SEBC,3,GOPEN,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",#,2.0
+1550,49258,25137,70.85,19122475,KARANDE PATIL MEENAL POPAT,F,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+1553,49261,28874,69.09,19142787,BHOSALE YASHODHAN RANJIT,M,SEBC,3,PHSEBC,,304,Electrical,304,Electrical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+1582,49386,23333,71.7,19126037,YADAV ADITYA VIJAY,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",*,3.0
+1601,49405,41622,63.64,19116143,MORBALE HARSHVARDHAN SANJAY,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",#,2.0
+1602,49406,42611,63.21,19143689,THANEKAR MANGESH RAMCHANDRA,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+1648,49453,42862,63.09,19155507,SHINDE OMKAR SHANKAR,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",&,4.0
+1669,62309,1567,89.12,19111924,ATKALE OMKAR CHANDRAKANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+1673,62313,3019,86.76,19148175,SOLANKE RUTUJA HANSRAJ,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+1676,62316,4518,85.0,19115055,DESAI PRUTHVIRAJ MAHADEV,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+1679,62319,5978,83.53,19105443,PATIL ABHISHEK ADHIKARO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+1682,62322,6821,82.75,19123028,WARKE RUSHIKESH SHIVAJI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+1685,62325,7190,82.41,19111577,KADAM UTKARSHA DADASAHEB,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+1699,62339,44218,62.47,19158857,KHAIRE SHRADHA SUNIL,F,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",^,1.0
+1704,65105,5836,83.65,19112829,CHETAN KRUSHNAT SHINDE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1714,65115,12789,77.94,19134850,PATIL SHUBHAM MADHUKAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",*,3.0
+1719,65120,17671,75.0,19122150,OMKAR VIJAY ADAKE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1736,65137,33084,67.24,19151882,CHOUGALE PRATHAMESH MARUTI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1744,65145,36451,65.82,19135864,PATIL PRAMOD SANJAY,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1751,65152,37534,65.35,19130842,KHOT MAYUR DHANAJI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",*,3.0
+1766,65167,44110,62.53,19148028,PATIL SANKET BHIMRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1791,65192,50447,58.88,19130007,PATIL AJAY JAYWANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1794,65195,50774,58.63,19121772,PATIL SATISH PANDURANG,M,SEBC,3,GSEBC,,302,ENTC,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+1814,65381,2147,88.12,19128611,SOURABH SURESH KHARADE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1815,65382,2330,87.81,19102718,PATIL OMRAJ SHASHIKANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+1816,65383,2351,87.76,19107394,SAWANT RUTIK UTTAM,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1818,65385,2831,87.0,19156317,JADHAV PRAMOD PRAKASH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",#,2.0
+1820,65387,3093,86.69,19143110,CHAVAN PRASAD RANJIT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1823,65390,3547,86.12,19142977,GOTAM MANSING BANDU,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1828,65395,5125,84.38,19117080,PATIL SANJANA TANAJI,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+1837,65493,2187,88.06,19114377,RANDIVE ABHAY BABASAHEB,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+1839,65495,3584,86.06,19135294,CHAVAN AVINASH VISHNU,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1841,65497,4521,85.0,19131284,TIBILE YASH MOHAN,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+1842,65498,5033,84.47,19121359,GAIKWAD PRANAV MAHADEV,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1845,65501,7005,82.59,19126219,HAJARE SHIVAM MANOHAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1846,65502,7867,81.75,19128839,POWAR SANKET SANJAY,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1848,65504,8143,81.5,19109495,TITVEKAR NITIN VIJAYRAO,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1850,65506,8397,81.29,19121439,BHANDIGARE SAHIL SANJAY,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1851,65507,8477,81.24,19102569,CHAVAN ATHARV AJAY,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1852,65508,8543,81.18,19138421,PAWAR SHUBHAM PURUSHOTTAM,M,SEBC,3,GST,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1855,65511,10220,79.82,19120023,AASAWARI RAJARAM YADAV,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",#,2.0
+1856,65512,10272,79.76,19109959,SHUBHAM LAXMAN GIDDE,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1870,65526,18580,74.24,19115043,THAMAKE ROHINI BABAN,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1874,65530,25326,70.76,19148892,PATIL SAYALI SANJAY,F,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",^,1.0
+1881,65566,692,91.29,19144216,KADAV MAHESH RANGRAO,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1883,65568,1609,89.0,19138723,PATIL PRAVIN PUNDLIK,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",#,2.0
+1886,65571,2048,88.29,19121248,JADHAV VISHWESH MILIND,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1889,65574,2769,87.09,19151516,DIVASE PRADNYA PANDIT,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1890,65575,2971,86.82,19145258,SURVE ASHWINI NAGNATH,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1891,65576,3866,85.71,19126139,YADAV ANAGHA AMAR,F,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",^,1.0
+1900,65585,3848,85.75,19116467,JADHAV SHEFALI CHETAN,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1901,65586,4294,85.24,19114885,HANDIBAG ABHISHEK MAHADEV,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1905,65590,6230,83.29,19119337,DHOKARE SOURABH SURESH,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1910,65595,9462,80.41,19145815,CHAVAN RUTURAJ SADASHIV,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",&,4.0
+1914,65599,12924,77.82,19131625,MENGANE SURAJ SANJAY,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1915,65600,13538,77.41,19151101,SHELAR KEDAR SHANKAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1918,65603,14718,76.59,19151169,DESAI ANIRUDHA CHANDRAKANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1920,65605,14982,76.41,19112516,PATIL OMKAR SHRIKANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1921,65606,15329,76.18,19150249,VARUTE ADVAIT MADHUKAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1924,65609,15965,75.76,19156942,PATIL SANKET SAMBHAJI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1932,65617,18229,74.44,19129787,PATIL SHREYASH SATISH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1933,65618,18930,74.0,19115610,PATIL GAURAV YASHWANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1935,65620,20441,73.18,19140325,FARAKTE SUSHANT JITENDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1936,65621,20447,73.18,19150993,PATIL ROHIT ASHOK,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",#,2.0
+1941,65626,21823,72.47,19134873,PADAVAL PRADIP MARUTI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1945,65630,22923,71.88,19142870,PATIL VINAYAK POPAT,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1947,65632,23047,71.82,19131345,SHELAR AVIRAJ JALINDAR,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",@,5.0
+1948,65633,23402,71.65,19135373,PATIL KEDAR BABASO,M,SEBC,3,LNTA,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1949,65634,24263,71.24,19133523,PATIL VAISHNAV SANJAY,M,SEBC,3,GNTD,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+1953,65638,26121,70.35,19143431,PATIL KIRAN VILAS,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",*,3.0
+1975,65922,3489,86.18,19114693,MANE ABHISHEK VILAS,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+1976,65923,4409,85.12,19116470,SHINDE SHREYASH BALASAHEB,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+1980,65927,6429,83.12,19135974,GAWADE GANGARAM GOPAL,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",#,2.0
+1982,65929,7522,82.12,19140329,SWAPNIL VIVEK BHOSALE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+1987,65934,10915,79.29,19152582,ARBUNE SANGRAM NANDKUMAR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",*,3.0
+1990,65937,12980,77.81,19126226,MANE ANIKET KRISHNAT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+1998,65945,16743,75.29,19137518,DIVATANKAR AKASH BAPURAO,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+2008,65955,23644,71.53,19149261,JADHAV AVADHUT TANAJI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+2010,65957,28279,69.35,19127423,CHAVAN ABHISHEK DEELIP,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+2015,65962,37562,65.35,19127661,MOHITE AVDHOOT SUBHASH,M,SEBC,3,PHSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",^,1.0
+2017,65964,39005,64.76,19155779,KHATAVE NIRANJAN ANIL,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6277,Kolhapur,"Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",*,3.0
+2033,66208,10375,79.69,19109594,SHREYAS MAHESH THAKUR,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2034,66209,12062,78.47,19105787,PASARE RAJESHWAR ASHOK,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2037,66212,14871,76.48,19115980,JADHAV YOGESH KIRAN,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2039,66214,16275,75.59,19111867,KHADE NAREN BHAGVAN,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",*,3.0
+2043,66218,17026,75.12,19110175,VANARE ABHINANDAN SAMBHAJI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2044,66219,17234,75.0,19102062,PHADTARE AKASH MARUTI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2046,66221,20320,73.24,19103888,BABAR DEVRAJ DUSHYANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2056,66231,26466,70.18,19144453,SURYAWANSHI OMKAR SUBHASH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2057,66232,26583,70.12,19133060,NALE ABHISHEK SAMBHAJI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",*,3.0
+2058,66233,26597,70.12,19134827,JADHAV AKSHAY ANANDA,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2065,66240,28299,69.35,19123282,PATIL VIRAJ BABASAHEB,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2068,66243,28494,69.27,19140717,SALUNKHE ADITYA ASHOK,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2076,66251,31128,68.06,19138533,MOHITE CHAITANYA PRAVIN,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2082,66257,33059,67.24,19101515,PATIL TEJAS VINAYAK,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2093,66268,35332,66.29,19142464,KHANDEKAR SHUBHAM SURYAKANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",#,2.0
+2096,66271,35731,66.12,19102814,KHOPADE ATHARV ARUN,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2109,66284,39267,64.65,19127300,DESHMUKH SWAROOP SANDIPRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2114,66289,40384,64.18,19115627,PATIL OMKAR SHIVAJI,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",^,1.0
+2115,66290,40658,64.06,19117816,MORE AVDHUT JAYWANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",@,5.0
+2120,66295,42823,63.12,19146691,MANE ASHISH MADHUKAR,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6288,Kolhapur,"Bharati Vidyapeeth's College of Engineering, Kolhapur",*,3.0
+2149,67274,53494,55.03,19118048,DESAI PARIKSHIT SANJIV,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+2193,67351,51617,57.82,19153370,PATIL PARTH AMAR,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6315,Kolhapur,"Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala",^,1.0
+2221,67379,18748,74.12,19105277,SAWANT ROHAN BALASAHEB,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2226,67384,21289,72.75,19116993,PATIL SHIVTEJ VIJAYKUMAR,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2234,67392,25882,70.47,19123204,RANADIVE ANISH SHASHANK,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2237,67395,26590,70.12,19138304,FARAKTE SUJIT JEEVAN,M,SEBC,3,GNTA,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",*,3.0
+2241,67399,28295,69.35,19118991,BHUJAWADKAR VAIBHAV PRAKASH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2244,67402,30650,68.29,19119942,MANE NIKITA SHITAL,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2245,67403,30883,68.18,19133954,PATIL SHRIRAJ HEMANT,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+2252,67410,34339,66.71,19104689,ADAMAPURE AMRUTA SATAPPA,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",#,2.0
+2254,67412,35536,66.18,19116826,PATIL RUTURAJ DHANAJI,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2258,67416,39156,64.71,19126952,PATANKAR MAHESH RAMCHANDRA,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",*,3.0
+2264,67422,52556,56.65,19132446,JADHAV PRATIK SAMBHAJI,M,SEBC,3,DFSEBC,,401,Machanical,401,Machanical,6317,Kolhapur,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)",^,1.0
+2267,71153,24530,71.12,19102955,SHEVALE RAHUL CHANDRAKANT,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+2270,71156,34238,66.76,19141128,PATIL ROHAN UTTAM,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+2282,71168,44876,62.13,19145053,PATIL SHUBHAM VISHWAS,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",&,4.0
+2283,71169,45635,61.76,19126574,PATIL KAILAS SHIVAJI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6780,Kolhapur,"D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.",^,1.0
+2314,71971,27386,69.76,19123151,DALAVI VIVEK RAMESH,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+2316,71973,27806,69.59,19147278,KADUKAR RAHUL MARUTI,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+2329,71986,44215,62.47,19133679,SHINDE OMKAR ANANDA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6803,Kolhapur,"Sant Gajanan Maharaj College of Engineering, Gadhinglaj",^,1.0
+2333,72442,15422,76.12,19149517,GENJAGE RAKESH RAVINDRA,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+2336,72445,18992,74.0,19132239,SURYAVANSHI ADITYA SHIVAJI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",*,3.0
+2341,72450,22440,72.13,19113946,POWAR KUBER ARVIND,M,SEBC,3,GSEBC,,404,Metallurgy (Foundry Technology),401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+2349,72458,31641,67.88,19117925,KUNAL SURESH SHINDE,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+2356,72465,37254,65.47,19127231,MHAMULKAR PRATHAMESH HINDURAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+2367,72476,42935,63.06,19147345,PATIL GAURAV GAJANAN,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+2375,72484,44806,62.18,19105534,PATIL KUNAL KIRAN,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",#,2.0
+2386,72495,47280,60.91,19150910,MANDLIK RANVEER VIKRAM,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",&,4.0
+2399,72508,52174,57.18,19149437,PATIL DEEPAK SATAPPA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",*,3.0
+2403,72512,53016,55.94,19139859,PAYMAL SUYASH SANJAY,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6839,Kolhapur,"Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",^,1.0
+2414,72568,21122,72.82,19108411,JAKATE RAHUL KRISHNA,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",^,1.0
+2417,72571,22399,72.18,19131434,MISAL UMESH SAMBHAJI,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",^,1.0
+2467,72621,47466,60.82,19154490,GHOTANE TUSHAR NANA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,6878,Kolhapur,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",&,4.0
+2496,72986,41581,63.65,19109047,TAMBADE ANIRUDDHA AJIT,M,SEBC,3,GOPEN,,401,Machanical,402,Production,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",&,4.0
+2500,73421,2126,88.16,19133809,SHINDE RUSHIKESH BHIMRAO,M,SEBC,3,GOPEN,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2502,73423,11274,79.05,19133321,RANANAVARE SHIVANI RANJIT,F,SEBC,3,LOPEN,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2505,73426,14867,76.48,19133498,KHUBIKAR SONALI DATTATRAY,F,SEBC,3,LSEBC,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2517,73438,9356,80.49,19136343,GITE RUTWIK DIPAK,M,SEBC,3,GSEBC,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2518,73439,10015,79.95,19101976,CHAVHAN TANVI RAJENDRA,F,SEBC,3,LOPEN,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2526,73447,8802,80.95,19104381,KHAMBE PATIL PURVA BABASAHEB,F,SEBC,3,GSEBC,,701,Knitting Technology,701,Knitting Technology,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0
+2532,73453,16946,75.18,19140960,SHINDE OMKAR ARJUN,M,SEBC,3,GSEBC,,702,Man made Textile Chemistry,702,Man made Textile Chemistry,6222,Kolhapur,"Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.",^,1.0

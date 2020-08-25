@@ -1,0 +1,61 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,2785,19,96.38,19130020,BADWAR SHRADDHA APPASAHEB,F,OBC,2,LOPEN,,201,Civil,201,Civil,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+2,2786,40,95.63,19134116,PAWAR SWAMIT AMARNATH,M,OBC,2,GOBC,,201,Civil,201,Civil,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+5,2789,298,92.94,19101957,KALE VAISHNAVI PRASAD,F,OBC,2,LOBC,,201,Civil,201,Civil,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+18,14799,70,95.0,19111735,PATIL PRATHAMESH PRAMOD,M,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+19,14800,129,94.13,19120978,DESHMUKH MANASI PRADIPRAO,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+27,14808,48,95.41,19100651,KHEDKAR SHRADDHA YASHAWANT,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+36,14894,1008,90.36,19131876,CHOUGALE RUPALI SHAHAJI,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+39,14897,1553,89.13,19124159,KUDALKAR NEHA DEEPAK,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+40,14898,1824,88.69,19105353,PATHARE MAHESH PRADEEP,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+53,14911,886,90.67,19103469,SHETYE RUTIKA SWAMIPRASAD,F,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+59,14917,1848,88.64,19111346,THAKUR ESHA ANIL,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+60,14918,2899,86.94,19126567,BHOR SIDDHI SHANKAR,F,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",&,4.0
+61,14919,2906,86.93,19124947,ARDEKAR HARSHALA RAVINDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+70,15262,1064,90.19,19104382,MOMIN NIDA JAKIRHUSEN,F,OBC,2,MI,,301,Computer & IT,301,Computer & IT,3183,Mumbai City,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",^,1.0
+85,15373,5134,84.38,19104133,KUMBHAR SIDDHESH RAMCHANDRA,M,OBC,2,PHOBC,,301,Computer & IT,301,Computer & IT,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+99,15387,6314,83.24,19132663,CHOUDHARI NITIN PRAMOD,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",#,2.0
+100,15388,6900,82.69,19103611,ADSUL RITESH GANPAT,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",#,2.0
+101,15389,7353,82.27,19100843,PANCHAL BHUSHAN PANDHARINATH,M,OBC,2,GOBC,,301,Computer & IT,301,Computer & IT,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+108,15396,20313,73.25,19107069,PATIL APURVA MAHENDRA,F,OBC,2,LOBC,,301,Computer & IT,301,Computer & IT,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+114,15890,9580,80.31,19125172,CHAVAN HARSHAD RAVINDRA,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3212,Mumbai City,"WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR",#,2.0
+115,15891,9700,80.24,19122888,ANSARI OSAMA ZULFIQUAR AHMED,M,OBC,2,GOPEN,,301,Computer & IT,301,Computer & IT,3212,Mumbai City,"WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR",#,2.0
+151,26765,180,93.69,19128733,BACHHAV CHETANA BHASKAR,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+152,26766,218,93.36,19105173,NAIK PRACHI KESHARINATH,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+155,26769,5,97.15,19112337,BHILARE OMKAR ANANDA,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+158,26772,297,92.94,19120072,DAREKAR POOJA DILIP,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+170,26942,2677,87.24,19113187,MALI SANKETA SANJAY,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+173,26945,3365,86.35,19113282,TIVREKAR SHREYA RAJAN,F,OBC,2,GOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+185,26957,7722,81.9,19121105,LAD KSHITIJA BALIRAM,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",#,2.0
+186,26958,8245,81.43,19100307,MAHAJAN SIDDHESH ASHOK,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+189,26961,10184,79.84,19120542,KOKATE NISHANT SANJAY,M,OBC,2,GNTA,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",*,3.0
+190,26962,13266,77.61,19115281,BAIKAR ROHIT RAVINDRA,M,OBC,2,GNTC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",*,3.0
+191,26963,13826,77.22,19103042,SANCHITA SANTOSH KHADTAR,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+192,26964,14563,76.71,19111205,PATIL RAJ VINAYAK,M,OBC,2,LSEBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",*,3.0
+203,26975,25474,70.69,19101924,SARVESH RAMESH MESTRY,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",#,2.0
+206,26978,27727,69.63,19145602,BHOWAD SIDDHANT SUNIL,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+207,26979,30822,68.2,19125974,JADHAV TANVI RAJENDRA,F,OBC,2,LOBC,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",#,2.0
+239,27646,18710,74.14,19122914,ZADE KIRAN SANJAY,F,OBC,2,MIMH,,302,ENTC,302,ENTC,3183,Mumbai City,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",^-,
+241,27648,41695,63.59,19121930,DIVYESH SUKHDEV HOLE,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3183,Mumbai City,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",^,1.0
+255,27836,21740,72.51,19107432,PATIL MANSI TULSHIRAM,F,OBC,2,LOPEN,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",*,3.0
+263,27844,35876,66.06,19116447,PARULEKAR SARVESH RAJAN,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+267,27848,37698,65.29,19139152,GAONKAR SHUBHAM SUNIL,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",@,5.0
+275,27856,46786,61.19,19139035,MHANKAR NACHIKET PRADEEP,M,OBC,2,LOBC,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+276,27857,47916,60.56,19100498,KAWAD SURAJ SHASHIKANT,M,OBC,2,GOBC,,301,Computer & IT,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",&,4.0
+280,27861,53141,55.76,19140384,GULEKAR PRASAD PRAMOD,M,OBC,2,GOBC,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",&,4.0
+282,28925,20840,73.0,19100812,BHOIR VAIBHAV TUKARAM,M,OBC,2,GOPEN,,302,ENTC,302,ENTC,3212,Mumbai City,"WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR",&,4.0
+301,40847,9063,80.75,19112818,SIDDHESH PANKAJ SHIMPI,M,OBC,2,GOPEN,,303, Medical Electronics,303, Medical Electronics,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+309,40855,24861,70.94,19109574,POPHALKAR PRASAD DILIP,M,OBC,2,GOBC,,301,Computer & IT,303, Medical Electronics,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",&,4.0
+310,40856,26815,70.06,19100160,MALI DIPESH GAJANAN,M,OBC,2,GOBC,,302,ENTC,303, Medical Electronics,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+320,40866,47113,61.0,19108252,HUMANE PRATIK SUNIL,M,OBC,2,GOBC,,301,Computer & IT,303, Medical Electronics,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",*,3.0
+325,42689,88,94.75,19115067,THETE AKANKSHA SHIVAJI,F,OBC,2,LOBC,,304,Electrical,304,Electrical,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+326,42690,95,94.69,19116068,WARUNGASE CHETAN UTTAM,M,OBC,2,GOBC,,304,Electrical,304,Electrical,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+332,53255,104,94.5,19140147,WANDALE NIVRUTTI VASANTA,M,OBC,2,GOBC,,401,Machanical,401,Machanical,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+335,53258,278,93.0,19120952,LAVHE SHUBHANGI VASANT,F,OBC,2,LOBC,,401,Machanical,401,Machanical,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+352,53636,3035,86.76,19102780,MULLA YUNUS HAIDAR,M,OBC,2,MI,,401,Machanical,401,Machanical,3183,Mumbai City,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",^,1.0
+360,72745,2482,87.56,19102709,PATIL HITESH CHANDRAKANT,M,OBC,2,GOBC,,402,Production,402,Production,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+361,72746,3256,86.47,19111385,GAIKWAD HEMANT SUNIL,M,OBC,2,GOBC,,402,Production,402,Production,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+373,73403,8190,81.47,19107362,PATIL NAMITA PRAVIN,F,OBC,2,LOBC,,701,Knitting Technology,701,Knitting Technology,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+377,73407,9265,80.56,19119687,SHIGVAN MOHIT KASHINATH,M,OBC,2,GOBC,,701,Knitting Technology,701,Knitting Technology,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+378,73408,9357,80.49,19144756,MAHAJAN NIRANJAN RAVINDRA,M,OBC,2,GOBC,,701,Knitting Technology,701,Knitting Technology,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+384,73414,18832,74.11,19108610,VINCHU NEEL NANDKUMAR,M,OBC,2,GOBC,,701,Knitting Technology,701,Knitting Technology,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",*,3.0

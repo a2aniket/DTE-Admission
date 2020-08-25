@@ -1,0 +1,58 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,358,145,94.0,19131953,DAHATONDE ROHIT RAOSAHEB,M,SEBC,3,GSEBC,,101,Chemical,101,Chemical,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+3,360,1481,89.27,19131453,SHINDE ARTI VASANT,F,SEBC,3,LOPEN,,101,Chemical,101,Chemical,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+8,365,183,93.67,19112141,SHINDE ABHISHEK KAKASAHEB,M,SEBC,3,GOPEN,,101,Chemical,101,Chemical,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+25,682,158,93.92,19133994,PAWAR DIGVIJAY JITENDRA,M,SEBC,3,GOPEN,,102,Plastic,102,Plastic,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+27,684,2024,88.33,19155028,DALVI AKASH LAKSHMAN,M,SEBC,3,GSEBC,,102,Plastic,102,Plastic,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+34,4654,2260,87.94,19141081,DHUMAL AKASH SANJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+76,4696,581,91.7,19124774,PUSHKAR VEERSINGH MULIK,M,SEBC,3,GOPEN,,201,Civil,201,Civil,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^,1.0
+167,4880,48633,60.17,19135303,CHAVAN VILAS BALVANTRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4133,Nagpur,"Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur",^,1.0
+209,4923,47918,60.56,19110548,MOREY ANIKET KISHORRAO,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+366,5206,19857,73.52,19132405,SAWANT PRATHAMESH UMESH,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+402,5261,3355,86.35,19101363,LIMBULE VIJAY RAGHOJI,M,SEBC,3,GOPEN,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",*,3.0
+413,5272,6328,83.21,19132979,KOKATE REVATI NITIN,F,SEBC,3,LOPEN,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",@,5.0
+421,5280,12769,77.94,19103696,KSHIRSAGAR KARNA SAMBHAJI,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+424,5283,15517,76.06,19114311,GHADGE SHREYAS NARENDRA,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+425,5284,15630,76.0,19125982,BORSE ASHWINI SUNIL,F,SEBC,3,GSEBC,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+426,5285,16790,75.27,19119542,AGLAWE BABARAO SANJAY,M,SEBC,3,GSEBC,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+430,5289,20157,73.33,19107084,SAWANT AKSHARI ASHROBA,F,SEBC,3,LSEBC,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",*,3.0
+438,5297,19938,73.45,19105005,PATANGE KALYANI NARAYANJI,F,SEBC,3,GOPEN,,201,Civil,201,Civil,4172,Nagpur,"Anjuman College of Engineering & Technology, Nagpur",^,1.0
+814,5996,24259,71.25,19106115,GHATE SUNIL BIMA,M,SEBC,3,GOPEN,,201,Civil,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+887,6091,38325,65.03,19150410,SHINDE GANESH KISHANRAO,M,SEBC,3,GOPEN,,201,Civil,201,Civil,4305,Nagpur,"G.H.Raisoni Academy of Engineering & Technology, Nagpur",*,3.0
+950,16803,4588,84.94,19151909,KANJALKAR POOJA KACHRAJI,F,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+1186,17157,45722,61.71,19148912,KOKATE DIVYANI CHANDRAKANT,F,SEBC,3,MIMH,,301,Computer & IT,301,Computer & IT,4139,Nagpur,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur",^-,
+1386,17571,25352,70.75,19124028,PATIL ANIKET CHANDRASHEKHAR,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1402,17587,15712,75.94,19122985,HRUCHA CHANDRASHEKHAR DESHMUKH,F,SEBC,3,LSEBC,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1403,17588,17301,75.0,19148800,KURUM NARAYAN JAYANT,M,SEBC,3,GSEBC,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",*,3.0
+1463,17706,40167,64.25,19136295,KHANDAGALE TANUJA RAVINDRA,F,SEBC,3,MIMH,,301,Computer & IT,301,Computer & IT,4177,Nagpur,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur",^-,
+1593,18307,14719,76.59,19110287,DHOBALE PRATIKSHA RAVINDRA,F,SEBC,3,LOPEN,,301,Computer & IT,301,Computer & IT,4304,Nagpur,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",#,2.0
+1617,18342,30726,68.25,19119600,TIBILE HARSHVARDHAN PRAKASH,M,SEBC,3,GOPEN,,301,Computer & IT,301,Computer & IT,4305,Nagpur,"G.H.Raisoni Academy of Engineering & Technology, Nagpur",&,4.0
+1638,18368,47922,60.55,19157837,MANE RAVI PARMESHWAR,M,SEBC,3,MIMH,,201,Civil,301,Computer & IT,4305,Nagpur,"G.H.Raisoni Academy of Engineering & Technology, Nagpur",*-,3.0
+1661,30004,5376,84.12,19135841,SONAWANE MAYURI KUMOD,F,SEBC,3,LSEBC,,302,ENTC,302,ENTC,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+1704,30176,41819,63.56,19114285,MANSI MANISH MORE,F,SEBC,3,MIMH,,302,ENTC,302,ENTC,4115,Nagpur,"Shri Ramdeobaba College of Engineering and Management, Nagpur",^-,
+1969,31515,21046,72.88,19133438,SAWALE PRATIKSHA KHANDOJI,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+1982,31528,22304,72.2,19132054,SHIRKE SAILI RAVINDRA,F,SEBC,3,GSEBC,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2047,43583,1559,89.12,19157423,LIPANE VAISHNAVI GANESH,F,SEBC,3,LOPEN,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",#,2.0
+2052,43588,3006,86.79,19156243,HAMBARDE UGVATA UTTAMRAO,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+2056,43592,6117,83.39,19106784,MARATHE SWAPNIL SANJAY,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",*,3.0
+2084,43649,15872,75.82,19129385,KALKEKAR GANESH DATTATRAYA,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,4116,Nagpur,"Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",*,3.0
+2299,44006,30052,68.55,19143138,DESHMUKH YUVRAJ EKNATH,M,SEBC,3,GOPEN,,304,Electrical,304,Electrical,4136,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",^,1.0
+2590,44474,8788,80.97,19111796,UGALE SAMIKSHA LAXMAN,F,SEBC,3,LSEBC,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2594,44478,16054,75.71,19149109,SOLANKE VAIBHAV VILASRAO,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2616,44500,14332,76.85,19101757,RAMESHWAR JAGANNATH BOBADE,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2619,44503,16436,75.5,19136828,JADHAV NITIN RAMESH,M,SEBC,3,LSEBC,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",#,2.0
+2624,44508,48903,60.0,19137765,AJINKYA SAHEBRAO DANGE,M,SEBC,3,GSEBC,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+2926,56025,2015,88.35,19119749,KADAM GANPAT UTTAMRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+2990,56268,31254,68.0,19123633,JADHAV TEJASWINI RANJIT,F,SEBC,3,LOPEN,,401,Machanical,401,Machanical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",*,3.0
+3354,56983,36183,65.94,19101068,MOHITE ANIKET DATTA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+3358,56987,38973,64.76,19148226,POL AKASH RAJESH,M,SEBC,3,LSEBC,,401,Machanical,401,Machanical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",&,4.0
+3501,57247,2884,86.94,19132887,DESHMUKH YOGESHWAR NARENDRA,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",#,2.0
+3507,57253,5966,83.53,19134434,NARWADE SHANTANU GULABRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+3511,57257,10246,79.8,19112134,ADHIRATH SUNIL MOHITE,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+3618,58062,39374,64.61,19157610,PATIL ANIKET BHIMARAO,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,4192,Nagpur,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",^,1.0
+3665,58247,5841,83.65,19156633,JADHAV AKASH GOVINDRAO,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+3674,58256,12065,78.47,19148260,VEER GANESH RAMESH,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",*,3.0
+3692,58274,19128,73.94,19158154,JADHAV VIJAYKUMAR VENKATRAO,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",*,3.0
+3735,58317,35238,66.35,19113728,JADHAV SUNIL SANJAY,M,SEBC,3,GSEBC,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+3762,58344,52369,56.94,19121642,DAPKEKAR PRASHANT BALAJI,M,SEBC,3,PHSEBC,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",&,4.0
+3803,58487,8474,81.24,19113368,LONDHE KUNDLIK KAILAS,M,SEBC,3,GOPEN,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0

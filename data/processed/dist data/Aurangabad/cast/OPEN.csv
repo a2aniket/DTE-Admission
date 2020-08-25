@@ -1,0 +1,814 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+1,104,30497,68.36,19115138,KUSHWAHA ANKIT SURYAPRATAP,M,OPEN,1,GOPEN,,101,Chemical,101,Chemical,2021,Aurangabad,"University Department of Chemical Technology, Aurangabad",#,2.0
+21,628,8620,81.1,19101543,SHINDE SIDDHESH ANIL,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+22,629,8763,81.0,19107289,CHAVAN ABHIJEET SAYAJI,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+26,633,9643,80.27,19113179,PATEL BHARGAV ASHOK,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+27,634,9645,80.26,19101311,PATEL HARESH DHIRAJ,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+30,637,11377,78.97,19102852,GHOGHARI ADARSH RAVJIBHAI,M,OPEN,1,LOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+32,639,13323,77.58,19134068,KULKARNI SHRINATH VINOD,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+35,642,15644,76.0,19148201,MHAMUNKAR RUTIK RAJESH,M,OPEN,1,GOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+36,643,16700,75.33,19115522,PARMAR MAYUR RAMBHAI,M,OPEN,1,LOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+42,649,23259,71.75,19116662,BHERE AMOL RAJU,M,OPEN,1,GSC,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+45,652,24681,71.06,19129417,CHOURE ASHWIN AVINASH,M,OPEN,1,GSC,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+51,658,31793,67.76,19105746,CHANDKOTI MOHAMMED MUJIB RIYAZ AHMED,M,OPEN,1,LSC,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+52,659,32351,67.54,19128858,JAGTAP AKASH BHAGWAN,M,OPEN,1,LSC,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+55,662,33767,66.94,19137956,ERANDE VAISHALI KESHAV,F,OPEN,1,LOPEN,,102,Plastic,102,Plastic,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+71,1587,208,93.44,19103129,SHAIKH ZAID NAWAZ,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+82,1606,33173,67.2,19142703,PARDESHI SHUBHAM NANDU,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+83,1607,44964,62.12,19153060,LAVHARE AJAY RAMAKANT,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+86,1610,49588,60.0,19157332,SHAIKH SHADAP SHAMSHODDIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+88,1612,50590,58.79,19154369,SHAIKH TAUFIQ AHMED,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+89,1613,51954,57.45,19130600,KAMBLE RAJSHEKHAR ANIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",#,2.0
+90,1614,53858,53.94,19158566,SINGALE YOGESH RAMDHAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+92,1618,27682,69.64,19137530,MOHD KAIF MOHD QUDDUS,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+93,1619,33013,67.27,19159201,PATHAN RAHIL RAJ MOHAMMED,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",#,2.0
+94,1620,35290,66.3,19133349,DURRANI ARFAT KHAN ASLAM KHAN,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+95,1621,36607,65.76,19146088,TOPWALE ABDULSAMEER ABDULMUNAF,M,OPEN,1,MI,,401,Machanical,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+96,1622,40826,64.0,19153867,FAIZAN ARIF ABDUL RASHEED,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+97,1623,44071,62.54,19148638,PATEL S SOHEL SALIM,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",#,2.0
+98,1624,46024,61.58,19147106,DANISH AHMED KADIR AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+99,1625,49984,59.27,19152239,SHAIKH MOHAMMED AHMED GULZAR ALAM,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+100,1626,50444,58.91,19155889,SAYYED ISMAIL ZULFKHERALI,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+102,1628,53118,55.76,19111439,SIDDIQUI MOHAMMED USMAN MOHAMMED AHMED,M,OPEN,1,MI,,201,Civil,201,Civil,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+104,1630,12230,78.36,19110314,THORAT ASHWINI GAJANAN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+105,1631,13134,77.7,19106659,DHULE VISHAL GANESHRAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+109,1635,20526,73.15,19146193,MULIKAR GIRISH RAMESHRAO,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+110,1636,23575,71.58,19140149,PATIL VAISHNAVI NARAYANRAO,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+112,1638,25114,70.85,19142204,CHOUHAN GOURAV NIHAL SINGH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+116,1642,27885,69.54,19159439,BHISE AKASH KAILASH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+117,1643,28071,69.47,19150961,MAKRANI MAHMADTOUFIK HASHAM,M,OPEN,1,GOBC,,401,Machanical,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+118,1644,28102,69.45,19145945,SAYEDA ARSHIN FATEMA MUJAHED ALI,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+120,1646,29137,68.97,19110096,SHINDE KRISHNA SANTOSH,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+125,1651,30491,68.36,19122213,ZARGER MAARIYA KAUSER WAJID AHMED,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+126,1652,30770,68.24,19123783,QUADRI IBAD ALI WAJED ALI,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+127,1653,31559,67.88,19121355,SANGOLE SNEHAL TUSHIKANT,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+130,1656,32435,67.52,19128432,PATIL DHEERAJ KIRAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+133,1659,32966,67.27,19123264,MUJAWAR IRSHAD KASHIM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+136,1662,33861,66.91,19135593,ABU AASIM SHAIKH AKHTAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+138,1664,34575,66.61,19110644,GAUR VISHWAJEET SUBHASHSING,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+139,1665,34804,66.5,19109776,SADHANA HARIBHAU PATOLE,F,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+144,1670,36404,65.82,19151420,PATHAN RUBINA GAFFAR,F,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+145,1671,36634,65.76,19106545,AVINASH GAJANAN KOTKAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+147,1673,37453,65.39,19121224,ARYA MOHIT ARVINDKUMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+148,1674,37604,65.33,19151434,SHAIKH FAIZAN SHAIKH AHMED PASHA,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+154,1680,39616,64.48,19146454,ZUNJE NEHA SHYAM,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+157,1683,40245,64.24,19123898,RAJE KARTIKESH DILIP,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+158,1684,40835,64.0,19158294,SHAH SURAJ CHANDRAVADAN,M,OPEN,1,PHO,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+160,1686,41357,63.76,19108049,SIDDIQUI SHAHEBAZ KALEEMOUDDIN,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+161,1687,41479,63.7,19159400,SYED BAQIR ALI SHAKIR ALI,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+166,1692,42222,63.38,19158458,KALE SHUBHAM MADHUKAR,M,OPEN,1,LOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+168,1694,43138,62.97,19120500,RATHOD SHITAL KISAN,F,OPEN,1,LOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+171,1697,44298,62.42,19157626,RATHOD SUMIT LAHU,M,OPEN,1,GSC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+172,1698,45440,61.88,19124636,LAHAJI SUFIYAN BIN OBED CHOUS,M,OPEN,1,GSC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+173,1699,45636,61.76,19157715,SANGAVE OMPRAKASH PREMKUMAR,M,OPEN,1,LOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+174,1700,45808,61.7,19159164,WANKHEDE SAKSHI BALASAHEB,F,OPEN,1,LOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+180,1706,47072,61.03,19128482,PATHAK SIDDHANT VINAY,M,OPEN,1,LSC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+185,1711,47623,60.73,19144749,QUADRI SD SAIF ALAM SYED MAQSOOD ALAM,M,OPEN,1,LOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+187,1713,47856,60.61,19109444,SHIMPI KAVITA MOTIRAM,F,OPEN,1,LSEBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+188,1714,48764,60.06,19108154,GHUGE AASHIRWAD ASHOKRAO,M,OPEN,1,GST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+194,1720,49666,60.0,19154982,KOWTAL SHRINIDHI VADIRAJ,M,OPEN,1,GST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+197,1723,50415,58.91,19159341,DHERE VARSHA JAGANNATH,F,OPEN,1,GST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+198,1724,50526,58.85,19151494,JOSHI NIKHIL NANDAKUMAR,M,OPEN,1,LST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+202,1728,51019,58.42,19152026,MOHAMMED IBRAHIM MOHAMMED MUSTAFA,M,OPEN,1,LST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+204,1730,51486,57.94,19155081,GANDGE RENUKA SHIVSHANKAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+207,1733,51807,57.64,19111442,SHROFF RUPESH SHIRISH,M,OPEN,1,GNTC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+209,1735,51995,57.41,19138899,GIRI SUMIT SUDAM,M,OPEN,1,GNTC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+210,1736,52284,57.03,19153819,KHILLARE VAIBHAV SAKHAHARI,M,OPEN,1,LSEBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+212,1738,52792,56.24,19138253,MUGDIYA AKSHAY MANOJKUMAR,M,OPEN,1,LNTC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+219,1745,54173,52.48,19136032,JOSHI OMKAR SATISH,M,OPEN,1,GOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+223,1749,54542,46.61,19156566,MANDAWARE AKASH DIPAKLAL,M,OPEN,1,PHOBC,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+224,1750,58,58.08,19109042,SAYYAD ASLAM ALI TAHERALI,M,OPEN,1,DFNTB,,0,,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+227,1754,5213,84.3,19131919,SHAIKH NISHAT BEGUM KAUSAR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",&,4.0
+228,1755,6188,83.33,19121392,GOPUWAR PRITI GANESH,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+230,1757,7253,82.36,19110657,SARA SADAF ABDUL SAYEED,F,OPEN,1,GOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+236,1763,8714,81.03,19120650,SHAIKH MUDDASIR YUNUS,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+238,1765,9537,80.36,19100551,BUNEWAD NIKITA MADHAVRAO,F,OPEN,1,LST,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+250,1777,7316,82.3,19110960,MD UBEDULLAH ASHRAFI MD ABDULLAH ASHRAFI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+255,1782,9209,80.61,19124857,AKHTARRAZAURRAHEMAN SAD UR RAHEMAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+259,1786,13670,77.33,19137203,JADHAV SIDDHESHWAR NAMDEVRO,M,OPEN,1,LST,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+284,1811,631,91.52,19131472,SHAIKH UMME ANAM FATEMA SHAKIL,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+291,1818,4622,84.91,19140092,SHAIKH ZAHEER AHMED KHAJAMOINODDIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+295,1822,5629,83.88,19108223,MOHAMMED ADNAN AHMED MOHIUDDIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+343,1922,5180,84.34,19118894,KUNTURKAR PRANJAL DHANANJAY,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+344,1923,6053,83.45,19103568,KHAN MOHD SHABAAZ SALIM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",*,3.0
+357,1936,11918,78.57,19101430,DANDE SHAILESH RAJABHAU,M,OPEN,1,PHST,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+359,1938,13657,77.33,19109845,QUADRI AHMED MAAZ AHMED TAQUI QUADRI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+365,1944,16894,75.21,19114252,PATEL FAIZAN IBRAHIM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+369,1948,18056,74.97,19137089,SYED ARSALAN SYED ARIF,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+370,1949,18454,74.29,19114930,SHEJUL SUYOG BALASAHEB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+393,2070,1009,90.36,19115179,THAKUR HEMANT RAJESHSING,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+407,2084,2724,87.15,19122737,QURAISHI SAIHLA MISHKWAT WASIQ ALI,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+409,2086,3660,86.0,19118716,KARWA TEJAS SUNIL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+410,2087,3741,85.88,19141936,SAYYAD JAWEDAHEFAZ MOULANA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+412,2089,4489,85.03,19131218,BHURE GURUNATH SHANKAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",#,2.0
+425,2102,6398,83.15,19129286,INGOLE SONALI DEVIDAS,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",*,3.0
+430,2128,6603,82.97,19110615,KHAN ARSALAN SAMAD KHAN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+431,2129,8999,80.79,19151264,SYED UMAIR AHMED SYED MUZAFFAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+441,2139,19067,73.94,19153457,ADHANE GOPAL BANDU,M,OPEN,1,PHO,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",@,5.0
+442,2140,19633,73.64,19155448,SYED NAWAZ ALI RAZA ALI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+443,2141,20285,73.27,19107946,SHAIKH ARBAZ SHAIKH GAFFAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+444,2142,21551,72.61,19110736,SHAIKH MD YASIN MD YUSUF,M,OPEN,1,GST,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+447,2145,22776,72.0,19145007,SHAIKH AWEZ SHAIKH AZEEZ,M,OPEN,1,GST,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+450,2148,23820,71.45,19130672,SYED ARFAT AHMED SYED RAFI AHMED,M,OPEN,1,LST,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+451,2149,24107,71.31,19156793,BOHARI TAHERA FAIYAZ,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+456,2154,27545,69.71,19101517,NIKAM SATYAM VITTHAL,M,OPEN,1,LOBC,,201,Civil,201,Civil,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+472,2170,5638,83.88,19150550,SHAIKH SAIMA FARHEEN SHAIKH MANSOOR,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+473,2171,7188,82.42,19143521,SHAIKH ATIK AHMED,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+475,2173,12753,78.0,19146953,SIDDIQUI TALIBUDDIN BILAL MOHD WAHIJUDDIN,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+476,2174,15333,76.18,19154907,MOHAMMADI OMER SALIM,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+477,2175,15978,75.76,19136154,SHEGADE SAMIKSHA RAJARAM,F,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+478,2176,16208,75.64,19150927,NEEL JAYASHREE RAMCHANDRA,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+479,2177,16608,75.39,19148944,SHAIKH MUSHFIQUE SHAIKH MOHD NISAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+482,2180,18435,74.3,19148918,SHAIKH SADDAM AYUB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+485,2183,18965,74.0,19114566,JADHAV AKSHAY DADA,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+487,2185,23840,71.45,19102030,ABDUL WAHED SAYEED AHMAD,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+489,2187,28100,69.45,19109889,SHAH SAUD ALI ALTAF ALI,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+490,2188,28244,69.39,19136419,BANKAR ANKUSH GOPEENATH,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+492,2190,28635,69.21,19156192,ABUJ BHADRAYU BALIRAM,M,OPEN,1,LNTA,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+493,2191,29696,68.73,19155938,SHAIKH SAMEER SHAIKH NAZEER,M,OPEN,1,GSC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+494,2192,30047,68.55,19133919,TEKALE HARISH ASHOKRAO,M,OPEN,1,GSC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+496,2194,32065,67.7,19156148,INZEMAM DESHMUKH SALEEM DESHMUKH,M,OPEN,1,GST,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+497,2195,32284,67.58,19143151,SHAIKH MUZAMMIL ANJUM PARVEZ,M,OPEN,1,GST,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+498,2196,32996,67.27,19155819,PATEL AKHIB MAHEBUB,M,OPEN,1,GST,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+499,2197,33019,67.27,19148392,PATEL ASHRAF SIRAJ,M,OPEN,1,LST,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+500,2198,33160,67.21,19148517,NIMONE SONALI RAJIV,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+501,2199,33866,66.91,19149205,SHAIKH MUJAHED JAVED,M,OPEN,1,GSC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+505,2203,39103,64.73,19159468,MOHAMMED ABDUR REHMAN ABDUL RAUF,M,OPEN,1,GNTB,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+506,2204,39107,64.73,19147477,KHAWAJA SIDDIQUR REHMAN KHAN LATEEFUR REHMAN KHAN,M,OPEN,1,GNTC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+507,2205,39370,64.61,19136567,SYED FAHAD UDDIN,M,OPEN,1,LNTD,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+508,2206,40714,64.06,19155945,PATHAN SALMAN KHAN ASAD KHAN,M,OPEN,1,GOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+510,2208,41345,63.76,19155445,SYED RIZWAN SYED NOOR ALI,M,OPEN,1,GOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+511,2209,42755,63.15,19155913,SAYED ALFIYA SALEEM,F,OPEN,1,GOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+512,2210,43243,62.91,19151319,SHAIKH MOHTASHIM SHAIKH DAUD,M,OPEN,1,GOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+513,2211,44313,62.42,19147484,MAZHAR KHAN MASOOD KHAN,M,OPEN,1,LOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",#,2.0
+514,2212,45166,62.0,19145509,KAREGAONKAR AMISHA GANESH,F,OPEN,1,LOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+515,2213,45174,62.0,19153862,SUBHANI MOHAMMAD ADIL MOHAMMAD AREF,M,OPEN,1,LOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",*,3.0
+516,2214,45190,62.0,19149489,MOHAMMED MEHROOZ FARHAN MOHAMMED MUNEER AHMED,M,OPEN,1,LOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+517,2215,45405,61.88,19155551,SIDDIQUI JUNED AZHAR AHEMAD,M,OPEN,1,LSEBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+519,2217,46745,61.21,19136078,BAWALE RAHUL RAMESH,M,OPEN,1,PHNTA,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+520,2218,47074,61.03,19148080,SHAIKH ABDUL KAIF SHAIKH ABDUL MAJEED,M,OPEN,1,DFSC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+521,2219,47168,60.97,19137771,AGHADE PRAVIN GANGADHAR,M,OPEN,1,DFNTC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+522,2220,47175,60.97,19151166,SHAIKH AADIL SHAIKH JAMEEL,M,OPEN,1,GSEBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+523,2221,47311,60.91,19156128,SHAIKH TAYYEB SHAIKH MOHIYODDIN,M,OPEN,1,PHOBC,,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+531,2229,54107,52.9,19154853,MUDASSIR AHMED KHAN MUJTABA AHMED KHAN,M,OPEN,1,PHO,Hard of Hearing,201,Civil,201,Civil,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+532,2405,971,90.46,19103725,SURASHE GEETA RAOSAHEAB,F,OPEN,1,LOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+533,2406,4563,84.97,19100950,VIGHNE MAHESH RAMDAS,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+536,2409,6980,82.61,19143918,BAHURE PRIYANKA JAWAHARLAL,F,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+537,2410,7503,82.12,19125328,JADHAV SATYAM POPAT,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+539,2412,12112,78.42,19130726,KULKARNI PRAJKTA HEMANT,F,OPEN,1,LOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+540,2413,16112,75.7,19116643,GAWHAD PRADIP KISAN,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+542,2415,16706,75.33,19154285,BUNDELE SALONI ANIL,F,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+544,2417,17820,74.97,19140450,KHADKE ABOLI PRADIPRAO,F,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+546,2419,18537,74.24,19125344,DAUD SAURABH SHIVAJI,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",*,3.0
+549,2422,19510,73.71,19137256,SHAIKH ASRAR NASEEMUDDIN,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+551,2424,21442,72.67,19120262,GAYKI BHARAT SURENDRA,M,OPEN,1,GST,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+552,2425,23008,71.88,19151149,SHAIKH EHTESHAM SHAIKH QUADEER,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+555,2428,25945,70.42,19153657,SHAIKH SHOEB FEROZ,M,OPEN,1,GST,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+557,2430,26209,70.3,19133934,SHAIKH SAMIR AMIR,M,OPEN,1,GOPEN,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+560,2434,27763,69.6,19113373,UMAR KHAN RASHEED KHAN,M,OPEN,1,LNTA,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+562,2436,29801,68.67,19159771,SHEGADE PALLAVI MADHUKAR,F,OPEN,1,GNTD,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+563,2437,31854,67.76,19152972,QUAZI ABDUL WASAY ABDUL AZIZ,M,OPEN,1,GOBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+564,2438,32449,67.52,19145072,JUNAID MOHAMMAD ABDUL MAJED,M,OPEN,1,LOBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+566,2440,35894,66.06,19151592,SAYYAD SHAHID SAYYAD RASHID,M,OPEN,1,LOBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+569,2443,37025,65.58,19149369,SHAIKH SAJID MAHEMUD,M,OPEN,1,PHNTA,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",#,2.0
+571,2445,38524,64.97,19151348,KHAN REHAN RASOOL KHAN,M,OPEN,1,DFOBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+573,2447,39905,64.36,19151417,SHAIKH FAHAD KHIZAR,M,OPEN,1,PHSC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+576,2450,41676,63.64,19153210,SHAIKH ABRAR MUZAMMIL MOHD AZHAR,M,OPEN,1,GOBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+577,2451,41692,63.6,19158897,DARADE RAJANI RAOSAHEB,F,OPEN,1,LSEBC,,201,Civil,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+593,2598,14423,76.79,19139231,MAGAR DIVYA BABASAHEB,F,OPEN,1,GOPEN,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+594,2599,18127,74.97,19157264,SONAL OMPRAKASH MANTRI,F,OPEN,1,GNTA,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",*,3.0
+596,2601,21081,72.85,19140528,SONUNE SOMESH ASHOK,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+600,2605,30077,68.55,19149698,WAHATULE VISHAL RAOSAHEB,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+601,2606,30845,68.18,19131161,PADALIKAR ADITYA SHRIPAD,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",#,2.0
+606,2611,35761,66.12,19156427,JADHAV VISHWAJEET RUPSING,M,OPEN,1,GNTB,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+608,2613,37446,65.39,19144439,BODKHE RUSHIKESH GOPINATH,M,OPEN,1,DFO,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+610,2615,38640,64.91,19153163,WAIKAR VAISHNAVI VINOD,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+611,2616,40331,64.18,19100170,GUPTA SHUBHAM DINESH,M,OPEN,1,GSC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+612,2617,40914,63.94,19141699,CHAVAN ANKITA VIJAY,F,OPEN,1,GNTD,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+613,2618,41432,63.71,19112172,SHEJVAL MUKESH SURESH,M,OPEN,1,PHOBC,,402,Production,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+614,2619,43374,62.85,19122259,NIKAM AKASH NAGORAO,M,OPEN,1,LSC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+617,2622,43946,62.61,19153291,ROHAN AMBIKA MALLAH,M,OPEN,1,LSC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+618,2623,44432,62.36,19144699,JADHAV RUSHIKESH AMBADAS,M,OPEN,1,GST,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+619,2624,0,62.18,19120202,SHIKILGAR AVEJ PASHA,M,OPEN,1,GOBC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+620,2625,46277,61.45,19130429,DESHMUKH SHUBHADA SURYKANT,F,OPEN,1,GOBC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+622,2627,46993,61.09,19144424,NIKAM NILESH KARBHARI,M,OPEN,1,LST,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+624,2629,48923,60.0,19143707,SHAIKH FAZAL MOH ZUBER,M,OPEN,1,LOBC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",*,3.0
+625,2630,49400,60.0,19128349,PAWAR ARVIND SAHEBRAO,M,OPEN,1,GSEBC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+626,2631,51478,57.94,19152895,MOHAMMAD REHAN SHAIKH FAROOQUE,M,OPEN,1,GSEBC,,201,Civil,201,Civil,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+628,2682,2734,87.15,19120953,SHAIKH ABRAR AZHAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+629,2683,5642,83.88,19133716,SHAIKH MOHD EHTESHAM MOHD UMAR,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+630,2684,5748,83.76,19116478,DAGWAL UMESH RAJAMAL,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+632,2686,8938,80.85,19131367,SIDDIQUI ZAID AHMED SIDDIQUI MAHMOOD AHMED,M,OPEN,1,GOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+634,2688,9707,80.23,19117512,SONAWANE SHUBHANGI ANANDRAO,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+639,2693,14426,76.79,19146330,LAKWAL USHA KALYAN,F,OPEN,1,LOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+643,2697,18015,74.97,19141811,MURADE MONIKA BHAGCHAND,F,OPEN,1,GOPEN,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+644,2698,18546,74.24,19143929,GHUGE AKASH PRAKASH,M,OPEN,1,GST,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",#,2.0
+657,2711,27012,69.94,19145546,SANGAVE AKSHATA PRAKASHRAO,F,OPEN,1,GNTB,,201,Civil,201,Civil,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",#,2.0
+672,13675,506,92.0,19120327,BULDAK MUKESHKUMAR KESHARRAM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+680,13683,763,91.06,19115782,SOMASE AKANKSHA APPASAHEB,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+690,13717,44383,62.38,19132968,BRAMECHA SUPRIYA SUNIL,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",#,2.0
+691,13726,40892,63.94,19117172,SHAIKH JIYAULHAQ M A WAHID,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+692,13727,42530,63.25,19146924,KHAN MOHAMMED SOHAIL MOHAMMED NAZEER KHAN,M,OPEN,1,MI,,301,Computer & IT,301,Computer & IT,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",#,2.0
+693,13728,54043,53.24,19145637,BINMAZI SULTAN SAUD,M,OPEN,1,MI,,302,ENTC,301,Computer & IT,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+694,13738,9805,80.13,19126677,TRIKOLIKAR VAIBHAV PRADIP,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+696,13740,22383,72.18,19126031,KATHOTIA PRATIK JAISINGH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+697,13741,23491,71.63,19109347,MAHAJAN AISHWARYA ARUN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+703,13747,32751,67.38,19126482,HAREL GEETANJALI BHAGWAN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+704,13748,33041,67.25,19140010,DESHMUKH MAHEFUJ SHAKII,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+707,13751,33909,66.88,19153014,BAKAL SRUSHTI BHIVASAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+712,13756,38103,65.12,19111428,ACHARYA AJINKYA NAYANKUMAR,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+713,13757,38859,64.82,19127103,JAGIRDAR SHARVARI JAYANT,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+718,13762,43559,62.76,19139754,GIRI ANKIT SUNIL,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+723,13767,51638,57.81,19138492,PANKANTI AMEY SUDHIR,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+726,13783,4787,84.71,19120845,KULKARNI KUNIKA PRADEEP,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+727,13784,5925,83.59,19147645,AAKANKSHA J TRIPATHI,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+728,13785,8765,81.0,19117392,CHAVAN GANESH RAMDAS,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+729,13786,8816,80.94,19142800,JADHAV CHETAN SHIVAJI,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+730,13787,9390,80.47,19110550,PATEL SIMRAN SUBHAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+731,13788,11750,78.71,19103271,MADESH SUNIL HEMANNA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+732,13789,12994,77.81,19145180,RATHOD MANASI NITIN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+733,13790,12997,77.81,19107013,PURANDARE RATNAPRABHA SANJAY,F,OPEN,1,LNTC,,301,Computer & IT,301,Computer & IT,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+752,13809,9350,80.5,19117488,KULKARNI PRATIK RAHUL,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",#,2.0
+759,13816,11927,78.56,19140655,TAYADE PRIYANKA DATTATRAY,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+770,13887,10883,79.31,19140357,MHASKE ASHWINI DNYANESHWAR,F,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+771,13888,10896,79.31,19141558,JOSHI PRATHAMESH NANDKUMAR,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+774,13891,13260,77.63,19108385,PATHAN ARBAZ KHAN SHAKIR KHAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+779,13896,14596,76.69,19129039,BHOSIWAD MANISHKUMAR POSHETTY,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+781,13898,14936,76.44,19105704,KUBRE VAIBHAV SATISH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+800,14119,1933,88.47,19115214,GARUD KALYANI NANDKISHOR,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+801,14120,2441,87.63,19120834,ZAIDI SYEDA MASARATH SYED RIYAZ HUSSAIN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+804,14123,4844,84.65,19121466,JOSHI DHANANJAY RAVINDRA,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+816,14135,5089,84.41,19116526,MUDIRAJ SAKSHI NARESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+817,14136,6011,83.5,19112768,SANKAYE MANSI SATISH,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+826,14169,8734,81.0,19106232,NABEELA TANZEEL GULAM MD NAZEERUDDIN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+829,14172,13263,77.63,19121210,KHAN ARBAZ RAFIQUE,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+830,14173,13947,77.13,19110776,CHOUDHARY TABARQUNNISA ABDULHAQUE,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+832,14175,17373,75.0,19121119,KANOJE YOGESHWARI DINESH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+833,14176,17579,75.0,19138342,GANDHI SHARON SUNIL,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+835,14178,19224,73.88,19130067,WASEEM AHMED ABDUL RAHIM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+837,14180,20307,73.25,19128113,PAWAR PRATIKSHA TULSHIRAM,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+839,14182,20913,72.94,19106099,BHOPE SANYUKTA RAVINDRA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+850,14193,24774,71.0,19158051,DAMALE ARTI SURESH,F,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+855,14198,27107,69.94,19149613,FAROOQUI MOHAMMED YOUSUF ASHFAQ,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+856,14199,27523,69.71,19104479,JOSHI PRATHMESH SANTOSH,M,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+858,14201,28827,69.12,19104250,UGALE PRABHANJAN RAJENDRA,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+860,14203,30302,68.44,19122263,KHAN FAISAL KHAN KHAN LIYAQAT KHAN,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+863,14206,32198,67.63,19119277,NIDA AFROZ IBRAHIM FARASH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+867,14210,34969,66.44,19142212,GAVHANE PRATIKSHA PRAKASH,F,OPEN,1,GNTD,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+869,14212,35127,66.38,19109916,SHAIKH AHSAN ABDUL SALEEM,M,OPEN,1,GOBC,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+876,14219,42692,63.18,19124708,SHAIKH JUNED ASLAM,M,OPEN,1,DFOBC,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+877,14220,43180,62.94,19148512,SATDIVE AMRAPALI KISHOR,F,OPEN,1,PHST,,301,Computer & IT,301,Computer & IT,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+886,14229,23865,71.44,19145170,ADHAV NEHA SANTOSH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+888,14231,29898,68.63,19158213,KHOSARE KIRAN YEDUBA,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+890,14233,34986,66.42,19136068,GOLAIT PRIYA DNYANESHWAR,F,OPEN,1,GOPEN,,201,Civil,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+891,14234,36235,65.94,19129878,NARWADE KALAYANI JANARDHAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",#,2.0
+894,14237,39314,64.63,19146381,SAPKAL ASHUTOSH HARISH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+895,14238,39981,64.35,19157709,KANTAK SHIVANI DILIP,F,OPEN,1,LOPEN,,302,ENTC,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+896,14239,42521,63.25,19159415,GHORAPADE NEHA VITTHAL,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+897,14240,42789,63.13,19118409,KUSHWAHA VIKAS MANOJKUMAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+899,14242,51599,57.82,19157586,TRINETRE PIYUSH SUDHIR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+900,14243,28,63.7,19152517,AGHADE AMOL BHASKAR,M,OPEN,1,GOPEN,,0,,301,Computer & IT,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+901,14471,6005,83.5,19146706,KACHWAH GAYATRI AJMATSINH,F,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",*,3.0
+902,14472,21410,72.69,19113404,MD ANWARUL HAQUE MD MUSTAQUEEM,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",#,2.0
+903,14473,22175,72.25,19114852,KALLOLE SAKSHI SHRINIVAS,F,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+904,14474,27087,69.94,19147099,THOMBRE ARJUN SURESH,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+905,14475,28531,69.25,19146873,KACHWAH AMARESHSINH AJMATSINH,M,OPEN,1,LST,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+906,14476,30022,68.56,19151852,KULKARNI RUTUJA RAJENDRA,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+910,14480,41832,63.56,19149521,SAYYED AADIL HUSSAIN JAHANGEER HUSSAIN,M,OPEN,1,GSEBC,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+911,14481,44267,62.44,19125229,SHAIKH MOHAMMAD AZFAR AZAM,M,OPEN,1,PHNTA,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+912,14482,45822,61.68,19137451,KHAN SOHEL RAFATULLAH,M,OPEN,1,DFNTC,,301,Computer & IT,301,Computer & IT,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+914,14619,11627,78.76,19146448,MULEY NIKITA KISAN,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+916,14621,15228,76.25,19149285,CHUNGADE UMA SUNIL,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+917,14622,19348,73.81,19100891,KEDIA CHIRAG RAJKUMAR,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+918,14623,21164,72.81,19149599,ADHAV ARCHANA SHAINATH,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+919,14624,22438,72.13,19149441,ADHAV KOMAL BHANUDAS,F,OPEN,1,LOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+921,14626,26447,70.19,19148867,CHAVAN ARATI ANKUSH,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+923,14628,29184,68.94,19148022,PAWAR KAVERI CHANDRAKANT,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+924,14629,31581,67.88,19139459,PAIKRAO ABOLI BABARAO,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+925,14630,32196,67.63,19104213,SHAIKH ALTAMASH FEROZ,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",@,5.0
+927,14632,36979,65.59,19155347,DORKE REVATI RAMDAS,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+929,14634,38021,65.18,19139267,JOSHI SARANG DHANANJAY,M,OPEN,1,DFO,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",*,3.0
+931,14636,41025,63.88,19149290,HADOLE RENUKA AABASAHEB,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+932,14637,42654,63.19,19104596,DABHADE SAGAR NIVRUTTI,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+933,14638,45062,62.06,19159114,JADHAV PRASAD SURYAKANT,M,OPEN,1,GSC,,301,Computer & IT,301,Computer & IT,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+939,14713,13166,77.69,19119909,KULKARNI RUTUJA BHAGWANRAO,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+941,14715,14126,77.0,19120364,HAWALE POOJA KAILAS,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+942,14716,15414,76.13,19113344,JIVARAG VIRENDRA TRIMBAKRAO,M,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+943,14717,15525,76.06,19132312,MASHAMIN FIRDOUS SHAIKH NADEEMUDDIN,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",#,2.0
+944,14718,16350,75.56,19101180,DESHPANDE REVATI PRASHANT,F,OPEN,1,GOPEN,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+945,14719,16557,75.41,19123652,JOSHI BHAKTI VIDYADHAR,F,OPEN,1,PHO,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+948,14722,18857,74.06,19126080,SHAIKH KARINA BASHIR,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+950,14724,19777,73.56,19116999,YEWALE RUCHA BALASAHEB,F,OPEN,1,GST,,301,Computer & IT,301,Computer & IT,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+966,25440,240,93.24,19122707,PAWAR GAURAV SURESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+974,25464,9471,80.41,19131398,SHEJWAL SAMPADA VILAS,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+977,25467,15448,76.12,19127675,BHAGAT BHASKAR PUNJARAM,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+978,25468,18133,74.97,19121777,SURASE AKSHAY BHAGWAT,M,OPEN,1,GSC,,304,Electrical,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+979,25469,21697,72.53,19157730,JADHAV NAMRATA SANJAY,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+980,25470,21721,72.53,19110079,SURASE ARJUN NAMDEV,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+981,25471,24188,71.29,19109781,SURASE AMOL DADARAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+982,25472,26161,70.35,19144324,SAMRUT PRAGATI RAJENDRA,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+985,25475,32781,67.35,19144280,BHAGADE KOMAL ANNABHAU,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+986,25476,34253,66.76,19146325,VETAL BHARTI RAJENDRA,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+987,25477,35240,66.35,19158027,MAGAR SHUBHAM BALAJI,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+988,25478,38424,65.0,19115572,BANKAR RAMESHWAR JAGANNATH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+990,25480,41072,63.88,19154429,SHAHA ANIS MUKHTAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+992,25482,46102,61.53,19126902,PASARE ABHISHEK SADASHIV,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+994,25484,48095,60.47,19146022,PAWAR BHUPEN BHARAT,M,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+995,25485,49053,60.0,19136563,DESHMUKH ADITYA VIJAYAMAND,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+997,25487,50160,59.12,19137042,WANDHEKAR SAURABH SUBHASH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+999,25489,51327,58.12,19143115,NAIK ROHIT MILINDRAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1000,25490,51876,57.53,19153449,DESHMUKH OMKAR DEEPAK,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1001,25491,51980,57.41,19136988,ADHUDE AKSHAYKUMAR LAXMAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1002,25492,52271,57.06,19151780,DHONGADE PRABHAKAR KISAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1006,25531,14825,76.53,19145198,GUJAR VAISHANAVI SUNIL,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1007,25532,18752,74.12,19117545,JOSHI NAMRATA PRAKASHRAO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1008,25533,19656,73.61,19111801,SHAIKH MOHAMMAD FURKAN MAHEBOOB,M,OPEN,1,GOPEN,,401,Machanical,302,ENTC,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+1013,25538,38776,64.85,19104443,LAHOTI PREM SANTOSH,M,OPEN,1,GOPEN,,304,Electrical,302,ENTC,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+1014,25539,39681,64.47,19134707,DANEKAR MAYURI DNYANESHWAR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1019,25651,431,92.29,19114232,CHIPATE GAURI GANESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1020,25652,4393,85.13,19136331,YEWALEKAR VAIBHAV KISHOR,M,OPEN,1,GSC,,401,Machanical,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1024,25656,7269,82.35,19141973,PAWAR POOJA WALMIK,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",*,3.0
+1038,25670,17257,75.0,19151282,FASATE VANDANA NAMDEO,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1039,25671,17678,75.0,19146178,NARWADE AKRUR LAXMAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1040,25672,18487,74.29,19141710,BIRADAR POOJA RAMESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1042,25674,25771,70.53,19101210,KULKARNI PRANAV MANOJ,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1043,25675,26399,70.24,19144027,CHOVHAN VAISHNAVI SURAJSINH,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1049,25681,31086,68.1,19108563,SHIKARE DHANANJAY EKNATH,M,OPEN,1,PHO,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",*,3.0
+1051,25683,31991,67.71,19149223,MOKASHE VIKAS LAXMAN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1056,25688,34144,66.79,19113944,KULKARNI MEERA SUDHAKAR,F,OPEN,1,GSC,,304,Electrical,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1057,25689,36707,65.71,19156950,GARUD RAMKISHAN PRALHADRAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1063,25695,40805,64.0,19121932,DESHMUKH RUCHA NAINESHSRAO,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1064,25696,48485,60.24,19118468,KHANDAL RAMDEV MAHESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",#,2.0
+1066,25725,13446,77.47,19101654,SUVARNAPATHAKI ANUJA AVDHUT,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1070,25729,38547,64.94,19121321,MORE SACHIN TULSHIRAM,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1071,25730,40322,64.18,19148661,BEDARKAR ABHIJEET RAJENDRA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1075,25734,53245,55.53,19118040,NERKAR SHUBHAM VISHWAMBHAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",*,3.0
+1087,26162,9923,80.06,19120954,WADHEKAR ASHWINI BADRINATH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1089,26164,10216,79.82,19107826,BHALE AKASH AJAYKUMAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",#,2.0
+1102,26177,22990,71.88,19124069,JAKHAD GANESH KAILAS,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",*,3.0
+1108,26183,26893,70.0,19124940,JADHAV ABHISHEK BHASKAR,M,OPEN,1,GST,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1113,26188,33367,67.12,19135364,SWAMI ABHISHEK MANMATH,M,OPEN,1,PHST,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1125,26200,43486,62.82,19133816,PATEL HARSHAD MADHUKAR,M,OPEN,1,PHNTA,,302,ENTC,302,ENTC,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",&,4.0
+1129,26270,48731,60.12,19139608,PATIL RUPALI PRAKASH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+1131,26400,36981,65.59,19146213,RAUT VAIBHAV MOHANLAL,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1133,26402,38583,64.94,19105317,PADUL AMRAPALI HANUMAN,F,OPEN,1,LOPEN,,301,Computer & IT,302,ENTC,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1134,26403,48740,60.11,19103060,DUBEY DARSHAN SUHAS,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1136,26433,6935,82.65,19151645,KHATIB ALTMASHUDDIN AZHARODDIN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1137,26434,10634,79.5,19157855,SARWADE SUSHANT SUNIL,M,OPEN,1,LOPEN,,401,Machanical,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+1138,26435,19163,73.88,19143869,SUNDARDE PRIYANKA KESARSING,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1139,26436,20180,73.32,19157457,SUFIYAN KHAN MUSHTAQUE KHAN,M,OPEN,1,GOPEN,,401,Machanical,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1140,26437,26983,69.94,19158278,BAJE PRATIKSHA DEEPAK,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1141,26438,28739,69.16,19157505,FARHAN KHAN IMDAD AHMED KHAN,M,OPEN,1,GOPEN,,401,Machanical,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1142,26439,52491,56.76,19142947,SHAIKH AMIR HUSAIN NISAR HUSAIN,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1143,26598,1346,89.56,19108250,CHAMLE RUTUJA RAJKUMAR,F,OPEN,1,GOPEN,,303, Medical Electronics,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1144,26599,5110,84.41,19157250,WANKHEDE ADITI RAVINDRA,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+1145,26600,8899,80.88,19153653,ANPAT SNEHAL SURESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1146,26601,11236,79.06,19150053,RAHANE PUJA KADUNATH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1149,26604,14655,76.65,19150050,THETE DIPALI RAJENDRA,F,OPEN,1,GOPEN,,304,Electrical,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1150,26605,19703,73.59,19150286,MALKAR ASHWINI GANESH,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1153,26608,26703,70.07,19133957,GAIKWAD SHIVANI SHANKAR,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1155,26610,36980,65.59,19148356,THETE SACHIN DNYANESHWAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+1156,26611,40477,64.12,19135779,GAIKWAD SANDIP BABURAO,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+1157,26612,46691,61.24,19148645,BHUMKAR SHIVAM CHANDRAKANT,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+1159,26614,46,61.14,19141692,SAUNDRMAL POOJA BHASKARRAO,F,OPEN,1,GOPEN,,0,,302,ENTC,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+1163,26702,8832,80.94,19105362,TAKE PUJA DIPAK,F,OPEN,1,GST,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1164,26703,8905,80.88,19112810,JADHAV SAURABH RAMESH,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1165,26704,9250,80.59,19118156,SHAIKH NAIM KHALIL,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1167,26706,14029,77.06,19153498,BAWASKAR POONAM DATTU,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1168,26707,15099,76.35,19116488,JADHAV POOJA DATTATRYA,F,OPEN,1,GST,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1169,26708,16941,75.18,19144190,BANSOD ARATI RATANAKAR,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1175,26714,20927,72.94,19137025,NIHAR DHANANJAY KANAKDANDE,F,OPEN,1,GST,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1176,26715,21708,72.53,19143976,SHETE SAMIKSHA MANOHAR,F,OPEN,1,GOPEN,,401,Machanical,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1180,26719,24429,71.18,19145195,MAHADIK MAYURI RAMDAS,F,OPEN,1,LOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1182,26721,25154,70.82,19121297,THALE MANOHAR MURLIDHAR,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1183,26722,26012,70.41,19143744,DESHMUKH DHANANJAY GAJANAN,M,OPEN,1,LST,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1185,26724,27401,69.76,19152390,GAYAKE ASHWINI DATTU,F,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1186,26725,27907,69.53,19114970,PATIL YOGESH GANGADHAR,M,OPEN,1,GNTB,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1188,26727,34279,66.75,19117686,DHARAMADHIKARI SAYALI SANJAY,F,OPEN,1,GOBC,,301,Computer & IT,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+1190,26729,38827,64.82,19101560,BALAP YOGESH SAWLAHARI,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1194,26733,41883,63.53,19127905,JOSHI SAYALI PRAMODRAO,F,OPEN,1,LNTC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1195,26734,42435,63.29,19146204,BORADE SHIVA SHRIMANTA,M,OPEN,1,GSC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1198,26737,45107,62.06,19112186,PATHAN AFJALKHAN HABIBKHAN,M,OPEN,1,GSC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1201,26740,47662,60.71,19149961,SAHANE NIKHIL PRABHAKAR,M,OPEN,1,GSC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1205,26744,49245,60.0,19145813,WAWRE PRAJWAL KAILAS,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1206,26745,50334,59.0,19132342,KAGNE ROHINI KASHINATH,F,OPEN,1,GSC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1207,26746,52089,57.29,19156390,SANGLE NAMDEO DATTA,M,OPEN,1,GOPEN,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1208,26747,53847,53.94,19110256,PAWAR KIRAN RAJU,M,OPEN,1,LSC,,302,ENTC,302,ENTC,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1221,41827,19783,73.54,19133752,WAIKAR SUCHITA SUBHASHRAO,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1222,41828,37730,65.27,19142039,LAHANE BHAUSAHEB AVACHIT,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1224,41841,48818,60.06,19129272,SHAIKH SHOEB JAMIL,M,OPEN,1,MI,,304,Electrical,304,Electrical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1225,41842,48957,60.0,19120196,SHAIKH FAZAL SHAIKH AKHTAR,M,OPEN,1,MI,,304,Electrical,304,Electrical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1227,41857,18603,74.23,19145816,MARKAD SIDDESHWAR KRUSHNA,M,OPEN,1,LSC,,102,Plastic,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+1228,41858,19936,73.45,19128365,JANJAL BHUPENDRA KESHAV,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1231,41861,26614,70.12,19107196,TARTE NAVNATH RAOSAHEB,M,OPEN,1,PHO,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1236,41866,31593,67.88,19140356,SHAIKH AREF SHAKKUR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1238,41868,32311,67.58,19120719,PATHADE VINOD BABASAHEB,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1239,41869,32601,67.45,19155766,KOLTE SHWETA KAILAS,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1241,41871,32970,67.27,19121346,GORADE VISHAL SANJAY,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1249,41879,37150,65.52,19145030,PATIL NIKITA DILIP,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1254,41884,41619,63.64,19143388,DESHMUKH ABHISHEK NARAYAN,M,OPEN,1,LSC,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+1259,41889,45288,61.94,19144812,NEMADE RAMESHWAR SHIVAJI,M,OPEN,1,LST,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+1260,41890,45506,61.82,19157235,RATHOD RAVINDRA RAMESHWAR,M,OPEN,1,GNTD,,301,Computer & IT,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+1261,41891,45561,61.82,19140977,DANISH SHAIKH,M,OPEN,1,LST,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1264,41894,48008,60.53,19145141,PANDE AMARESHWAR MANOHAR,M,OPEN,1,GOBC,,302,ENTC,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+1265,41895,48266,60.36,19109394,CHITNIS AVADHUT DATTATRAY,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1270,41900,50991,58.42,19146968,KALHAPURE SAKSHI MAHESH,F,OPEN,1,PHST,,304,Electrical,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+1274,41904,33,63.44,19131943,DESHMUKH AMAR DATTATRAYA,M,OPEN,1,LOBC,,0,,304,Electrical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1302,41984,3410,86.29,19132051,KAUSHAL PRABHJYOT KAUR RAJA SINGH,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+1307,41989,6614,82.94,19119559,DESHMUKH SAKSHI SUNIL,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1308,41990,8204,81.45,19119866,TOMAR VINOD MANGALSING,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+1315,41997,14433,76.79,19127617,RAMDASI JAYASHRI TUKARAM,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+1317,41999,16298,75.59,19150886,SAWANT SHWETA SHAILENDRA,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1354,42069,2143,88.12,19133270,SHETKAR RUTUJA DEVRAO,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1374,42183,22290,72.24,19107779,SYEDA SABEENA SYED ZAKIR,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1377,42186,23013,71.88,19129578,MIRAJGAONKAR RAGHWENDRA RAJKUMAR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+1378,42187,24205,71.27,19136395,SOMAIYYA NIKITA HARESH,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1384,42193,27701,69.64,19107708,RAZVI MINHAJ UL HASAN SYED ERSHAD ALI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1388,42197,28462,69.27,19134865,KAMODE PRATIKSHA KRUSHNA,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+1389,42198,28648,69.21,19117012,WANKHEDE SHUBHANGI SHANKARAO,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1393,42202,30611,68.3,19123293,PISE UDAY DINKAR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1400,42209,32271,67.58,19150859,SHAIKH MEHRUNISA RAJU,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1404,42213,34165,66.79,19138874,ANANDE VIKAS SARJERAO,M,OPEN,1,GST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+1408,42217,36612,65.76,19119189,PAGORE PRATIKSHA ANNASAHEB,F,OPEN,1,GST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+1412,42221,37488,65.39,19158352,SARKATE SNEHAL SATISH,F,OPEN,1,LST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+1414,42223,37745,65.27,19152635,MOHAMMED SAIFUDDIN MOHAMMED NAJIBBUDDIN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1416,42225,38201,65.09,19147417,BIRADAR KRISHNA JANARDHAN,M,OPEN,1,GNTC,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+1417,42226,38714,64.88,19132142,GADE DHANSHRI SANJAY,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1431,42240,44660,62.24,19126259,RAJHANS NITIN DIWAKAR,M,OPEN,1,GST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1432,42241,45306,61.94,19107805,ANSARI MOHAMMAD MUBASSHIR ABDUL SALAM,M,OPEN,1,LST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1433,42242,46382,61.39,19159012,BHAWAR AVINASH SUDAM,M,OPEN,1,LST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1434,42243,48476,60.24,19150656,DANDGE ANKIT RAJENDRA,M,OPEN,1,GST,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+1436,42245,49057,60.0,19127305,KAKADE RUPALI DEVIDAS,F,OPEN,1,GNTC,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+1442,42251,51508,57.94,19108575,SHAIKH IRFAN SHAIKH AZEEM,M,OPEN,1,GNTD,,304,Electrical,304,Electrical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+1452,42366,9279,80.55,19146461,PAWAR VIKAS AMBADAS,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+1453,42367,11799,78.67,19153086,SHINDE KARAN NAGESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1454,42368,16877,75.22,19150894,JOSHI YASH PRASAD,M,OPEN,1,LOBC,,401,Machanical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1458,42372,22491,72.12,19136135,BHOPE SANKET KIRANRAO,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+1459,42373,22598,72.06,19146432,GAWANDE AMOL ASHOK,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1461,42375,26043,70.4,19158620,WAGH SHUBHAM ANNASAHEB,M,OPEN,1,GSEBC,,401,Machanical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1463,42377,33018,67.27,19146940,KAWAL NIKET KISANSING,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1465,42379,34682,66.55,19139924,AKASH UTTAMRAO GAVHANE,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1468,42382,39657,64.48,19155355,NIKAM SATISH SHIVAJI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1470,42384,42026,63.47,19100694,CHIPADE ROHIT BHAGWAT,M,OPEN,1,GOBC,,302,ENTC,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1472,42386,42875,63.09,19107878,SONAWANE AKSHAYKUMAR DIGAMBARAO,M,OPEN,1,GSC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1473,42387,45617,61.76,19159689,UTAGE RUTUJA SANTOSH,F,OPEN,1,LSEBC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+1474,42388,45882,61.64,19155921,MOHAN PANDURANG CHHAGAN,M,OPEN,1,GSC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1475,42389,49369,60.0,19149182,CHINTAL GANESH SUNIL,M,OPEN,1,LSC,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1476,42390,52900,56.12,19156827,SHENDGE VIKAS UTTAM,M,OPEN,1,GST,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+1486,42433,19017,74.0,19110817,MOHAMMAD ARBAZ MOHAMMAD RAFIQUE,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1489,42436,21308,72.73,19140294,INDAPURE KUNAL HARISHCHANDRA,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1491,42438,22351,72.18,19129278,CHAVAN YOGITA NANDKISHOR,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+1492,42439,23039,71.82,19148368,MORE RAMESHWAR LAXMAN,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1493,42440,25177,70.82,19145607,WAGHULE POOJA CHANDRABHAN,F,OPEN,1,GOBC,,302,ENTC,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1496,42443,27824,69.58,19153901,PADUL ABHIJEET SURESH,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1498,42445,35586,66.18,19154872,CHAVAN RUSHIKESH VISHNU,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1500,42447,39205,64.67,19122747,JAMDAR DNYANESHWAR BADRINATH,M,OPEN,1,LST,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",*,3.0
+1501,42448,39918,64.36,19109654,KALE PRAGATI BALKRISHNA,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1502,42449,40952,63.94,19158581,KSHIRSAGAR VRUSHABH RAJENDRA,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1504,42451,41086,63.88,19111024,ANSARI MOHAMMAD WAIZ MOHAMMAD SHAKEEL,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1505,42452,41247,63.82,19150299,ABDUL BARI ABDUL RAHEMAN,M,OPEN,1,PHO,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1506,42453,42469,63.27,19157404,LALCHHOTE GOKUL ANANDSHING,M,OPEN,1,GSC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1508,42455,43689,62.73,19158613,JADHAV MAYUR EKNATH,M,OPEN,1,GSC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",#,2.0
+1509,42456,44081,62.53,19132248,GAIKWAD VARSHA DAMODHAR,F,OPEN,1,LOBC,,302,ENTC,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1512,42459,44885,62.12,19156588,ARSUDE ONKAR SUDAM,M,OPEN,1,LSC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1513,42460,45428,61.88,19132411,THAKARE ANAND DILIPRAO,M,OPEN,1,GST,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1516,42463,49144,60.0,19154641,PATIL SHITAL HARI,F,OPEN,1,GST,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1520,42467,51349,58.12,19138597,SIDHIKI AMRIN MASUDSAB,F,OPEN,1,LST,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1523,42470,52119,57.27,19137722,KHAN MUJTABA ALI SHUJAT KHAN,M,OPEN,1,GNTA,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1524,42471,52858,56.18,19143271,SHAIKH AFROZ AREF,M,OPEN,1,LNTC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1525,42472,52906,56.12,19131502,SYED RAFAY ALI SYED SHAKIR ALI,M,OPEN,1,GNTD,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1526,42473,53190,55.64,19120935,SHAIKH SAAD BAGWAN SHAIKH AKBAR BAGWAN,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1527,42474,53493,55.03,19137778,MOHD FURQANUDDIN MOHD NIYAZUDDIN,M,OPEN,1,GOBC,,304,Electrical,304,Electrical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+1529,42575,1867,88.59,19140969,TARAK NIKITA KAILASH,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1530,42576,4516,85.0,19143243,GADEKAR AKASH PRAKASHRAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+1531,42577,4677,84.85,19154823,GARAD ASHOK BALIRAM,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1535,42581,8289,81.39,19151312,SHAIKH PARVEJ ASEFALI,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1537,42583,9523,80.36,19116947,MOTE BHAUSAHEB DNYANESHWAR,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1539,42585,10647,79.47,19126171,DIGE RIMA SANJAY,F,OPEN,1,LOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1542,42588,11948,78.55,19128754,AMTE SACHIN VALUBA,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1548,42594,15685,75.94,19107181,HIWALE VIKAS DADARAO,M,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1549,42595,16521,75.45,19148945,SHELKE GAYATRI HARICHANDRA,F,OPEN,1,GOPEN,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1551,42597,16995,75.15,19149567,MANE POOJA DEVIDAS,F,OPEN,1,LST,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+1553,42599,19625,73.64,19125611,ROKADE RUTUJA MITTHU,F,OPEN,1,GST,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1559,42605,24452,71.15,19151918,GHODKE ROHIT SHIVAJIRAO,M,OPEN,1,PHNTB,,304,Electrical,304,Electrical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+1587,51299,53860,53.9,19139313,REHAN ALI AJMAL ALI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+1588,51324,10606,79.53,19103094,PATHAN ARSHIN RAZIULLAH,F,OPEN,1,MI,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1589,51325,23791,71.47,19109407,SHAIKH AFFAN SHAIKH BABA,M,OPEN,1,MI,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1590,51326,43570,62.76,19139794,PATHAN AZHARKHA JAHEDKHA,M,OPEN,1,MI,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1591,51327,53104,55.82,19152208,SHAIKH ARSHAD ABRAR,M,OPEN,1,MI,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",^,1.0
+1592,51328,54520,47.88,19149962,KHAN FAISAL FAYAZ,M,OPEN,1,MI,,401,Machanical,401,Machanical,2111,Aurangabad,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar",&,4.0
+1595,51354,5431,84.06,19123759,MODHE POOJA GANESH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1599,51358,12331,78.29,19124974,SHEKH FARDIN FARUKH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1601,51360,13024,77.76,19146542,SAWANT PRAVIN MAHADEV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",#,2.0
+1602,51361,14044,77.06,19134923,CHAUDHARI ADARSH NARAYANRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1604,51363,14283,76.88,19159644,CHAVAN SWARAJ NANASAHEB,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1609,51368,16375,75.53,19115442,KULKARNI MANSI SUNIL,F,OPEN,1,LOPEN,,402,Production,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1612,51371,16484,75.47,19136589,SHUBHAM BAPU PAWAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1613,51372,16669,75.35,19144617,BAWALE YASHWANT SATISH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1614,51373,17251,75.0,19124015,JOSHI ATHARVA VINAYAK,M,OPEN,1,GSEBC,,304,Electrical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1615,51374,18156,74.78,19153220,SUNDGE SHIVLING DEVIDASRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1616,51375,18203,74.53,19115431,WADEKAR RAJU ARUN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1617,51376,18472,74.29,19151257,JUMBAD DHANSHREE BHAGWAN,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1622,51381,21241,72.76,19102749,DESHPANDE PRANAV VIVEK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1623,51382,21354,72.71,19151308,JUMBAD MANISHA GAJANAN,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1626,51385,22659,72.06,19121996,PINGLE SAMADHAN BALASAHEB,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1628,51387,23189,71.76,19143523,THAKUR VAISHNAVI SHIVAJI,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1630,51389,24936,70.94,19136139,PAWAR KRISHNA SUBHASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1632,51391,26117,70.35,19143392,THOTE AARTI SACHIN,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1633,51392,26623,70.12,19139015,KULKARNI PRASAD AVINASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1635,51394,27536,69.71,19147082,JADHAV RUSHIKESH SHRIDHAR,M,OPEN,1,GSEBC,,402,Production,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1637,51396,0,69.08,19136688,JADHAV SHUBHAM RAVASAHEB,M,OPEN,1,LSEBC,,102,Plastic,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1638,51397,29166,68.94,19131893,WABLE PANKAJ VISHNU,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1640,51399,30512,68.35,19121803,PRAJAPATI AKASH RAMDARAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1641,51400,30659,68.29,19158481,KAMTIKAR RAHUL BABULAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",*,3.0
+1642,51401,31884,67.76,19127930,CHAVAN KAIVLYA CHANDRASHEKHAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1644,51403,33910,66.88,19123630,PAWAR MAYURI MOHAN,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1645,51404,33918,66.88,19139611,CHAVAN NIRAJKUMAR ARVIND,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1649,51408,37392,65.41,19143496,SHAIKH ARSHAD ISAK,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1650,51409,37855,65.24,19128814,KACHKURE KRUSHNA DHURAJI,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1651,51410,37963,65.18,19137616,KALE SARANG SUNIL,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1652,51411,37978,65.18,19141993,GADEKAR RUSHIKESH TRYAMBAKRAO,M,OPEN,1,GST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1653,51412,37999,65.18,19142619,ZADE AKASH BHARAT,M,OPEN,1,GST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1654,51413,39551,64.53,19154377,SONAVANE VANITA SHARAVAN,F,OPEN,1,GST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1658,51417,40967,63.94,19158111,PANDAV SACHIN SANJAY,M,OPEN,1,GST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1659,51418,40980,63.94,19145062,REVANWAR SOMESH SANJAYRAO,M,OPEN,1,GST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1662,51421,41871,63.53,19153495,KHAN FEROZ MAHEMOOD,M,OPEN,1,LST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1663,51422,41994,63.47,19139125,NAVALE AMOL MOTHABHAU,M,OPEN,1,LST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1664,51423,42412,63.29,19141458,KULKARNI ROHAN ASHOKRAO,M,OPEN,1,LST,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1665,51424,42678,63.18,19123364,LAHANE SWAPNIL CHETAN,M,OPEN,1,LNTB,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1670,51429,45370,61.88,19123615,MOINE SUYOG SANJAY,M,OPEN,1,GNTC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1672,51431,45983,61.59,19151002,JOSHI SOMESH PRAKASH,M,OPEN,1,LNTC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1673,51432,47361,60.88,19137206,BARBAILE AJAY BHAUSAHEB,M,OPEN,1,DFO,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1676,51435,48125,60.47,19147634,MOHD IRFAN MOHD RAFIQUE,M,OPEN,1,GNTB,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1679,51438,48774,60.06,19157702,PATHAN FARUKH NAJEER,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1681,51440,49305,60.0,19105747,RATHOD PREMSING DAYALSING,M,OPEN,1,LNTD,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1682,51441,49356,60.0,19137141,MURME SATISH DNYNESHWAR,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1684,51443,49455,60.0,19149663,ANSARI TAUSIF MOHD HAROON,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1685,51444,49667,60.0,19136705,SHAIKH ZISHAN BASHIR,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1686,51445,49939,59.29,19133294,BANKAR VICKY DATTATRAI,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1687,51446,50307,59.0,19150846,JOSHI SAURABH GANESH,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1689,51448,50758,58.65,19140928,MULAY NIKHIL NANDKUMAR,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1691,51450,51037,58.41,19151245,KHADKE POPAT RAVAN,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1692,51451,51313,58.12,19150983,JADHAV SHUBHAM SANTOSH,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1694,51453,51923,57.47,19152837,SINGAL VISHAL SAHEBLAL,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1695,51454,52045,57.35,19129251,JOGDAND RAHUL DHONDIRAM,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1696,51455,52226,57.12,19156773,METE KIRAN VITTHAL,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1697,51456,52381,56.94,19123165,ACHARE VILAS VITHAL,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1698,51457,52527,56.71,19143905,THOTE GANESH VIJAY,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1699,51458,52627,56.53,19154239,BAGAL SWAPNIL ACHAL,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1700,51459,52875,56.18,19139290,DAFLAPURKAR SHUBHAM SANJAY,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1701,51460,52991,56.0,19152633,TAMBEKAR NIKHIL NIVRUTTI,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1705,51464,53364,55.29,19146659,LANDGE AKSHAY SIDRAM,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1707,51466,53590,54.73,19157651,KENJALE NITIN BABAN,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1713,51480,11907,78.59,19146603,MOHAMMED AIJAZ MOHAMMED RAUF,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1716,51483,15142,76.3,19120656,KHARADKAR GOPAL SHYAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1717,51484,15271,76.24,19139641,KHAN ADIL ANWAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1719,51486,16762,75.29,19141785,SAYYED AMER SALAUDDIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+1724,51491,19916,73.47,19157523,PALASPURE SHUBHAM YASHAWANTRAO,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1727,51494,22240,72.24,19145278,KHANDELWAL PRANAV RAJESHKUMAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",@,5.0
+1733,51500,24524,71.12,19126246,SURYAWANSHI MAHESH PRALHAD,M,OPEN,1,GST,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1738,51505,26123,70.35,19127137,VITTHALU ROHIT BHIMRAO,M,OPEN,1,PHO,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",@,5.0
+1741,51508,27517,69.71,19153352,SYED GAUS ASRAR,M,OPEN,1,LST,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+1754,51521,33066,67.24,19145186,SINGH PRANAV AJAYKUMAR,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+1770,51537,19899,73.47,19106678,KANGIRE SIDDHESH GANESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1771,51538,21709,72.53,19146824,UMBARKAR SHUBHAM KISAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1772,51539,22424,72.18,19107800,SHAHEBAZ KHAN YAHYA KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1774,51541,23290,71.71,19148966,S A SOHEL S A MANNAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1776,51543,24139,71.29,19153752,DAUND AKASH PRABHAKAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1779,51546,32209,67.59,19157202,PATHAK SHRIKANT NARAYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1781,51548,34252,66.76,19108020,MOHAMMED WAJAHAT KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1782,51549,34373,66.71,19144071,GARGE PRATIK SANJAYRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",*,3.0
+1783,51550,34642,66.59,19158139,BHALEKAR RAVINDRA RAJU,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+1787,51554,38302,65.06,19124260,GAWANDE AKSHAY PRABHAKAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1788,51555,39821,64.41,19137540,SHAIKH IRSHAD FAIYAJ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",@,5.0
+1791,51558,43313,62.88,19119854,SINGH YASHWANT GUPTESHWAR,M,OPEN,1,LST,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1793,51560,44942,62.12,19111553,SHAIKH SAHIL SHAIKH KALEEM,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1800,51567,49374,60.0,19104998,GOSWAMI VIKASPURI OMPURI,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1801,51568,49491,60.0,19102974,KHAN WAQAR AHMED IRFAN AHMED,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",#,2.0
+1802,51569,51177,58.29,19128765,BHALKIKAR ADITYA MILIND,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1803,51570,51985,57.41,19153966,PRADHAN SUNIL SUDHAKAR,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",&,4.0
+1809,51576,53907,53.71,19107212,MAHIMI MD YASEER ANWAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1814,51591,4251,85.29,19126552,PARDESHI CHAKRADHAR SANJAYSINHA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1829,51606,9829,80.12,19141073,MULEY SHUBHANKAR RENUKADAS,M,OPEN,1,GST,,401,Machanical,401,Machanical,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",#,2.0
+1834,51611,11302,79.0,19120339,JADHAV MONIKADEVI SANJAY SINGH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1839,51616,12776,77.94,19121624,NIMBALKAR GAJANAN BALIRAM,M,OPEN,1,LST,,401,Machanical,401,Machanical,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1858,51761,5531,83.94,19155229,SONTAKKE AKSHAY RAMESHRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+1859,51762,5913,83.59,19106940,SHAIKH SAAD KHAYAMUDDIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1860,51763,8256,81.41,19101422,KULKARNI VAISHNAV ASHOK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",#,2.0
+1863,51766,10930,79.29,19110038,JAI SANDEEP DOSHI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1871,51774,13459,77.47,19148288,BAGADE PRITISHA VIJAYANAND,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1874,51777,15438,76.12,19138806,NEEL AKASH NARAYAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1878,51781,16830,75.24,19108329,DANGE UTKARSH SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1883,51786,18869,74.06,19103992,SHEIKH SHAKIR KADIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1885,51788,19177,73.88,19105537,GHODEKAR RUSHIKESH TULSHIRAM,M,OPEN,1,GST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1890,51793,20923,72.94,19104899,WAGH SHUBHAM ATMARAM,M,OPEN,1,LST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1891,51794,21051,72.88,19109558,PATIL KIRAN RAJENDRA,M,OPEN,1,LNTC,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1932,51835,8472,81.24,19116054,SAMDANI AKSHAT PRALHADRAI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",&,4.0
+1933,51836,11155,79.12,19156977,DARUWALE AKSHAY SHIVNATHAPPA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1937,51840,18380,74.35,19106780,PATIL HARSHAL RAVINDRAKUMAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",*,3.0
+1938,51841,20560,73.12,19153608,KALE SUDHIR BHARAT,M,OPEN,1,GST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",*,3.0
+1941,51844,21724,72.53,19155381,SHIRODE SANKET HIRALAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1942,51845,21726,72.53,19122826,PATHAN SAMEER KHAN ZAHED KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1943,51846,23100,71.82,19112124,DESHPANDE UTKARSH SACHIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1949,51852,26488,70.18,19108124,SAYED RASHED LIYAKAT,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1950,51853,27210,69.88,19105748,UGLE SUMEDH MANOJ,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1952,51855,27931,69.53,19155139,DAKE SOMINATH SURESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1955,51858,29584,68.76,19126726,TAWARE AKSHAY JYOTIRAM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1957,51860,34046,66.82,19117218,BHARSWADKAR SHREEVALLABH AMBADAS,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1961,51864,41209,63.82,19141896,SHARMA POOJA BHARAT,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1962,51865,41306,63.76,19118998,CHAK DEVANSHU SUDHIRBABU,M,OPEN,1,LST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1964,51867,42944,63.06,19138211,BIRAJDAR SHUBHAM PRABHU,M,OPEN,1,PHNTC,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1967,51870,44053,62.55,19102765,ADNAN KASHIF MUSTUFA KHAN,M,OPEN,1,DFSC,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1970,51873,45384,61.88,19111422,AWARE ANKUSH VISHNU,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1982,52101,753,91.12,19129365,NUPUR SURESH JOSHI,F,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1983,52102,1048,90.24,19100721,KHANDELWAL SANKET KISHOR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1995,52114,4245,85.29,19137797,KULKARNI KAUSTUBH RAMCHANDRA,M,OPEN,1,LST,,401,Machanical,401,Machanical,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+1996,52115,4915,84.59,19109870,GHAZI ASIYA ALI MOHAMMED TARIQUE,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+2010,52184,14996,76.41,19122746,SAYYAD FAISAL MAJID,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2011,52185,17396,75.0,19109157,KHAN SALMAN KHALED,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2012,52186,19674,73.59,19106682,SALARI WAJAHAT ALI SALARI SHAUKAT ALI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+2013,52187,22142,72.29,19138395,AFTAB RAZI SHAIKH KALEEM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+2015,52189,23537,71.59,19109036,MOHAMMED MOHTASHIM MOHAMMED IQBAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2018,52192,24766,71.0,19137951,SHAIKH AREEB ABDULLAH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2021,52195,27443,69.76,19128790,KAKDE SAGAR RAMDAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2022,52196,27785,69.59,19133777,SANDIP MANSUB CHAVAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2026,52200,28715,69.18,19113525,MOHD SHABAZ MOHD AFSAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2034,52208,33784,66.94,19131169,CHANDRAMORE LALIT MANGESH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2041,52215,37983,65.18,19110347,SUFIYAN KASMI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",*,3.0
+2042,52216,38266,65.06,19144742,PATHAN MAQBOOL NAZEER,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2043,52217,38887,64.82,19110082,SABIR M A FAIZAN M A KHADEER,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2046,52220,39412,64.59,19148163,SALVE SURAJ ANGAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2054,52228,42395,63.29,19115629,KULKARNI ADITYA VITTHALRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2057,52231,44836,62.18,19136514,CHAVAN RUSHIKESH SANJAY,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+2058,52232,44901,62.12,19147668,MIR YASUM ALI MIR TURAB ALI,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2059,52233,45023,62.06,19143108,SYED UMAIR SYED AKBAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+2061,52235,45853,61.65,19147539,NAIKWADI PRADYUMAN SHIVAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2062,52236,46093,61.53,19109879,KHAN ABDUL RAHMAN ABULALA MOHSIN UR RAHMAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",#,2.0
+2063,52237,46404,61.39,19154801,MOHAMMED MOHTASID ABDUL GANI,M,OPEN,1,LSC,,304,Electrical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+2066,52240,48390,60.29,19124499,OLIVER ARNOLD SAM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",^,1.0
+2068,52242,37,62.41,19134551,JAISWAL SHRENIK VIVEK,M,OPEN,1,LSC,,0,,401,Machanical,2134,Aurangabad,"Peoples Education Society's College of Engineering, Aurangabad",&,4.0
+2071,52291,6303,83.24,19152530,ROHIT MARUTI PATIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2072,52292,8468,81.24,19117443,SHAIKH SURAJ SHAMASHODIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2077,52297,14209,76.94,19144974,KAPATE KISAN MANIKBUVA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2079,52299,14709,76.6,19151913,CHANDANE SHAILESH BHIMRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2080,52300,14983,76.41,19147807,TIWARI SHIVAM SHYAM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2081,52301,15102,76.35,19144169,DHANVIJ PRAYAG VINODRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2082,52302,15767,75.88,19141408,SURYAWANSHI BHAGWAT LAKSHAMANRAO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2083,52303,15991,75.76,19144873,WAHATULE BADRINATH SUDHAKAR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2084,52304,16836,75.24,19100876,CHAVAN GOVINDSING KACHRUSING,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2085,52305,17027,75.12,19150615,MORE RAMESHWAR BALASAHEB,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2086,52306,18881,74.06,19156289,LAHANE SANTOSH BALU,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2087,52307,20792,73.0,19150423,MORE INDRAJEET NAGNATH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2088,52308,22453,72.12,19138870,TAMBOLI SAMEER PIRAHMAD,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2092,52312,22950,71.88,19158968,BHANKHEDE SUDHIR DILIP,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2093,52313,24272,71.24,19155406,POTE PRATIK KANTARAO,M,OPEN,1,DFO,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2095,52315,26724,70.06,19151401,LAHANE VIKAS DNYANESHWAR,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2096,52316,26832,70.05,19127075,DABHADKAR ATUL RAMACHANDRA,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2097,52317,26928,70.0,19157037,DIVEKAR MANDAR RAVINDRA,M,OPEN,1,GST,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2098,52318,27409,69.76,19148849,LAHANE KRISHNA EKNATH,M,OPEN,1,GST,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2099,52319,27956,69.52,19143597,MULLA CHANDPASHA ISMAILSAB,M,OPEN,1,GST,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2101,52321,29974,68.59,19155254,BORSE PRATIK ASHOK,M,OPEN,1,LST,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2102,52322,30230,68.47,19148057,LENDE KRISHNA KANHOJI,M,OPEN,1,GNTD,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2103,52323,30661,68.29,19153171,HUSAIN AMJAD AHTESHAM,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2104,52324,30898,68.18,19156701,KHILLARI DNYANESHWAR BABURAO,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2108,52328,32649,67.41,19142170,MAHALKAR NAVNATH TRIMBAK,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",@,5.0
+2109,52329,32930,67.29,19147853,SHAIKH SHAHZEB SHAIKH MANSOOR,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",*,3.0
+2110,52330,34648,66.59,19147268,MESHRAM HRISHIKESH NARENDRA,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2118,52338,38822,64.82,19158089,SURYAWANSHI SUGRIV LAXMAN,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2119,52339,40135,64.29,19148123,KAZI TANZIL AHMED KAZI MUKHTAR AHMED,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2121,52341,41271,63.76,19111055,SHINDE YOGESH KESHVRAO,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",*,3.0
+2123,52343,43839,62.65,19154875,MORE GOKUL SANJAY,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",^,1.0
+2124,52344,44352,62.41,19129626,POTULWAR KRISHNA PARMESHWAR,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+2126,52346,45364,61.88,19158978,SHAH PARTH HARSHADKUMAR,M,OPEN,1,PHST,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+2128,52348,46713,61.24,19145264,MORE ANIL KAKASAHEB,M,OPEN,1,PHNTC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+2129,52349,47247,60.94,19144870,SAYYED ASLAM CHAND,M,OPEN,1,DFSEBC,,401,Machanical,401,Machanical,2135,Aurangabad,"Hi-Tech Institute of Technology, Aurangabad",&,4.0
+2133,52534,2689,87.21,19158067,RANDHAVE SUDARSHAN RAMDAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2135,52536,9708,80.22,19133820,SHUBHAM ASHOK NIKAM,M,OPEN,1,LOPEN,,402,Production,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2136,52537,10107,79.88,19155916,SAYYAD TAZEEN GAZIPASHA,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2141,52542,18464,74.29,19122880,VIKHE MAHESH KARBHARI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",#,2.0
+2142,52543,19875,73.5,19150549,AGRAWAL GAURAV SANDEEP,M,OPEN,1,LOPEN,,402,Production,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2143,52544,21105,72.85,19158229,PATEKAR SHAHAJI TANAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2144,52545,21624,72.57,19158556,GAWALI SHUBHAM POPAT,M,OPEN,1,DFO,,402,Production,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2151,52552,34466,66.65,19145171,KHARAD AMBADAS BABASAHEB,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2153,52554,35662,66.15,19115714,BHALE RUSHIKESH SAMADHAN,M,OPEN,1,LSC,,402,Production,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2154,52555,38400,65.0,19153879,SOLAT SHUHBAM PRATAPRAO,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+2159,52560,41978,63.47,19112195,RAJPUT ATUL KAILAS,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+2162,52563,43752,62.71,19116615,KHAN ARBAZ SALEEM KHAN,M,OPEN,1,GST,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+2164,52565,47808,60.65,19130541,TAYADE NAVAL SATYADEO,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2167,52568,51403,58.06,19146209,NAWALE YOGESH SADASHIV,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2172,52573,53888,53.82,19157224,KHAN MOJEZ GULAM MOHAMMED KHAN,M,OPEN,1,GST,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",&,4.0
+2173,52574,54367,50.9,19133401,DESHMUKH GANESH DATTATREYA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+2174,52626,4088,85.47,19131635,PATHAN NAMIDA TILAVAT,F,OPEN,1,LOPEN,,402,Production,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",*,3.0
+2177,52629,8122,81.53,19156269,PAYGAVHAN DWARAKADAS ANNA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2179,52631,11985,78.53,19139437,SAPAKAL NITIN PRATAP,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2181,52633,13881,77.18,19156422,GAIKE KARTIKEY JANARDHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2182,52634,13964,77.12,19101649,AGHADE SHAILESH KAILAS,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2184,52636,15875,75.82,19159308,PIMPLE SAKSHI MANGESH,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2185,52637,15964,75.76,19143076,INGLE SHIVESHWAR SANJAY,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2186,52638,16057,75.71,19151006,SAKRIWALA SAKINA SHABBIR HUSSAIN,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",#,2.0
+2187,52639,17007,75.14,19138480,SHAIKH ZAKIR SHAIKH MUNSHI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2189,52641,18366,74.35,19132606,ABUL FURQUAN PATHAN IRFAN KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2191,52643,20899,72.94,19146065,BIRADAR VYANKATESH MADHAV,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2192,52644,21138,72.82,19147164,GHANDGE HANUMAN PRAKASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2195,52647,23627,71.53,19131926,SHEDAGE SHIVAJI SOMINATH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2196,52648,25181,70.82,19139542,GORE YOGESH DIGAMBAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2198,52650,27042,69.94,19148181,BHALE VISHAL ARUN,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2199,52651,27642,69.65,19139473,PAWAR AJAY ASHOKRAO,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2200,52652,27649,69.65,19147370,SHAIKH IRSHAD IQBAL,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2202,52654,29044,69.0,19146024,SAHANE BHAGWAT RAMESH,M,OPEN,1,GST,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2203,52655,30319,68.43,19159426,CHAUDHARI PRITESH PRAMOD,M,OPEN,1,GST,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2204,52656,31002,68.12,19145764,BURANGE DINESH NATUBA,M,OPEN,1,LST,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2205,52657,32639,67.41,19154318,SIRSATH NARAYAN PRALHAD,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2206,52658,35417,66.24,19137747,SHAIKH RAEES SATTAR,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2207,52659,36130,65.94,19138526,GAVHANE AKASH BHASKAR,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2208,52660,37554,65.35,19135264,KULKARNI GOVIND ASHOK,M,OPEN,1,PHNTA,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",#,2.0
+2210,52662,39000,64.76,19135015,GAIKWAD SANDIP RAMDAS,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2211,52663,39380,64.6,19132999,JAIN PARIMAL VILAS,M,OPEN,1,DFST,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2212,52664,39863,64.41,19152275,SYED FAYAZ GANI,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2213,52665,41735,63.59,19155105,MOHAMMED SAAD MOHAMMED ABDUL SATTAR,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2216,52668,42949,63.06,19136647,KAZI NUMAN KAZI MOIZUDDIN,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2218,52670,46681,61.25,19138578,SHAIKH SHOIAB SAEED,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2219,52671,46825,61.18,19155107,SYED FARAZ ALI MIR AMJAD ALI,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2220,52672,46920,61.12,19157424,PAWAR SHRIRAM NARAYAN,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2221,52673,47794,60.65,19149001,KANHERE KISHOR DNYANESHWAR,M,OPEN,1,LSEBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",*,3.0
+2222,52674,48201,60.41,19138653,MUAZ ASIF MOHAMMED SAYED,M,OPEN,1,PHSEBC,,401,Machanical,401,Machanical,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",&,4.0
+2227,52880,1743,88.82,19146170,BAMBRATKAR SIDHANSHU DNYANESHWAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2228,52881,3304,86.41,19143705,CHAUDHARI JAY MAHENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2230,52883,6106,83.41,19150800,CHIRE VISHWAJEET INDRAJEET,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",*,3.0
+2236,52889,8830,80.94,19150760,KORSALE VAIBHAV MAHALING,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2237,52890,9554,80.35,19151733,TANDALE RAVINDRA RANGNATH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2238,52891,10213,79.82,19157877,KAMBLE KIRAN BHIKAJI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2239,52892,10668,79.47,19149583,SHIRALE SHUBHAM SANJAY,M,OPEN,1,GSEBC,,402,Production,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2241,52894,11264,79.06,19134782,DHULIYAWALA TAHA HUSSAIN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2242,52895,12320,78.29,19144799,DOMBE KOMAL BABURAO,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2246,52899,13518,77.44,19140947,PADALWAR RISHIKESH NAGNATHRAO,M,OPEN,1,GSEBC,,402,Production,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2247,52900,13706,77.29,19145277,JADHAV PRADIP SHIVRAJ,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2254,52907,19273,73.82,19153494,LOKHANDE SHUBHAM GANESH,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2258,52911,19691,73.59,19134596,DEBARE VIPUL GAJANAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2259,52912,20205,73.29,19154863,JANJAL ROHIT BHAGWAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2260,52913,21816,72.47,19140211,MANDAL ABHAY PARMESHWAR,M,OPEN,1,GSEBC,,402,Production,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2262,52915,22992,71.88,19123033,AWALEKAR KARNESH VILAS,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2263,52916,23503,71.6,19144811,GANESH SHEVRAO BHABAD,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2265,52918,25555,70.65,19156313,MUSHARRF MOHD KHAN GULAM MOHD KHAN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2266,52919,25778,70.53,19150941,KHANDAGALE ANAND DILIP,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2268,52921,26127,70.35,19150023,LAMBOLE YASHWANT PRAKASH,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2271,52924,27667,69.65,19159480,RAHEEM KHAN ASLAM KHAN,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2273,52926,28146,69.41,19123390,SANGOLE RAM PRAMOD,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2278,52931,29864,68.65,19103903,SHAIKH SAILANI MAGDUM,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2281,52934,32220,67.59,19156844,AWEZ MUJAWAR MOHD ISHAQ MUJAWAR,M,OPEN,1,PHO,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2282,52935,32379,67.53,19149827,CHAVAN VISHAL GULABRAO,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2283,52936,32507,67.47,19129873,BHAGURE PRATIKSHA TARACHAND,F,OPEN,1,GSC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2291,52944,39189,64.69,19159335,WAGH ESHWAR SATYAVIJAY,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2293,52946,42813,63.12,19153527,DOUD AKSHAY SHESHRAO,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2294,52947,43206,62.94,19150353,NAVTHAR SACHIN ROHIDAS,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2295,52948,43275,62.9,19154692,BHARAD PRAKASH HARICHANDRA,M,OPEN,1,GOBC,,301,Computer & IT,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2296,52949,44008,62.58,19126595,RAJEBHOSALE MANGESH SUBHASHRAO,M,OPEN,1,GOBC,,402,Production,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2298,52951,44513,62.3,19127401,GHULE MANGESH SANJAY,M,OPEN,1,GST,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2300,52953,45305,61.94,19123793,SHELKE VIVEK ASHOK,M,OPEN,1,GST,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2304,52957,50466,58.88,19131135,GAIKWAD JAGDISH SANJAY,M,OPEN,1,LST,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2305,52958,50947,58.48,19111247,KULKARNI SIDDHESH RAJKUMAR,M,OPEN,1,LNTA,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2306,52959,52262,57.06,19118455,RAJPUT SHUDIP YADVENDRASINGH,M,OPEN,1,GNTB,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2307,52960,52410,56.88,19156889,KOTKAR SATISH JIVNAJI,M,OPEN,1,LNTB,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2308,52961,52474,56.76,19149636,SHAIKH NAEEM ABDULRAHEMAN,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2310,52963,53249,55.53,19142294,BIRAJDAR MAHESH DAYANAND,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2311,52964,53372,55.29,19157107,MALUSARE SACHIN RAMESH,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+2312,52965,53908,53.71,19128411,TAMBOLIYA AKASH DEEPAK,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",*,3.0
+2314,52967,50,60.25,19129828,NANWATE SUNIL MADHUKAR,M,OPEN,1,GSEBC,,0,,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2315,52968,78,51.36,19139320,HIVALE PRAVIN SUDHAKAR,M,OPEN,1,LSEBC,,0,,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",&,4.0
+2316,53021,1674,88.94,19110423,MISHRA ADHITYA DHARMENDRA,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2317,53022,1876,88.59,19110257,MRUTYUNJAY ASHOK PATIL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2318,53023,4465,85.06,19131606,SYED AFTAB NOORI SYED ZAFAR NOORI,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+2319,53024,4535,85.0,19107798,KALE RAHUL PRALHAD,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2325,53030,15985,75.76,19121013,PATHAN FAISAL AFZAL,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2327,53032,16096,75.71,19120267,SHAIKH KALIM SHAIKH NASIR,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2333,53038,18586,74.24,19151120,AMAAN KHAN,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2337,53042,24665,71.06,19154169,RATHOD JAYA SHIVAJI,F,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2343,53048,28862,69.12,19141779,SHAIKH IMRAN IBRAHIM,M,OPEN,1,GOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2346,53051,29830,68.67,19142970,CHAUDHARY YASH SANJAY,M,OPEN,1,LNTC,,102,Plastic,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+2349,53054,31520,67.88,19124413,MAGAR SHUBHAM SANJAY,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2352,53057,33609,67.0,19143407,RAUT GANESH ARJUN,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2354,53059,34200,66.76,19151546,INDORE NIKHIL SURESHCHANDRA,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2355,53060,34481,66.65,19122495,PARASHAR ROHAN KISHOR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2356,53061,34900,66.47,19154990,TEKALE SACHIN SUBHASH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2357,53062,35079,66.41,19151413,JADHAV VAIBHAV ASHOK,M,OPEN,1,GST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+2358,53063,35571,66.18,19149282,DESHMUKH RUSHIKESH DINESH,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2360,53065,36566,65.76,19142173,KUMBHAR SHUBHAM SHRIRAM,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2361,53066,36586,65.76,19145511,PAWAR PRITESH RAJENDRA,M,OPEN,1,GST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+2363,53068,37263,65.47,19121987,SEVEKAR GAURAV NANDKUMAR,M,OPEN,1,LOPEN,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2367,53072,37832,65.24,19120947,SHAIKH SAMEER ASHFAK,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2368,53073,38467,65.0,19121055,BENKUNDE VIJAYNAND DHANRAJ,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2369,53074,39006,64.76,19114924,GHAN ADITYA DATTATREYA,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2371,53076,39810,64.41,19112663,THAKUR RAGHAVENDRA VIVEK,M,OPEN,1,GSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2372,53077,39851,64.41,19146039,TIWARI SUMIT SUSHIL,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2376,53081,41862,63.53,19146860,BAINADE PAVAN VITTHAL,M,OPEN,1,LSC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2380,53085,44801,62.18,19135186,PATIL SHUBHAM RAJARAM,M,OPEN,1,GST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",&,4.0
+2383,53088,47457,60.82,19125126,BOMBLE BHAGWAT ABASAHEB,M,OPEN,1,GST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",#,2.0
+2386,53091,47982,60.53,19127644,BENKUNDE AMIT SIDRAM,M,OPEN,1,GSEBC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",*,3.0
+2389,53094,48645,60.12,19145873,DHOLE OMKAR SARANGDHAR,M,OPEN,1,GST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2394,53099,49524,60.0,19130811,THORAT TUKARAM APPASAHEB,M,OPEN,1,LST,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2395,53100,49840,59.35,19156584,JADHAV ADITYA MACHHINDRA,M,OPEN,1,LNTC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2396,53101,50157,59.12,19147907,SHELKE KARTIK PARMESHWAR,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2397,53102,50162,59.12,19106658,SATPUTE SUMIT VILAS,M,OPEN,1,GOBC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2398,53103,50486,58.88,19108716,KHUNTEFALKAR ATHARWA GEETAVILAS,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2406,53111,53069,55.88,19119532,NIDHE MUKUL SANJAY,M,OPEN,1,GSEBC,,402,Production,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0
+2408,53113,53429,55.18,19108684,NAIR PRANIT DINESH,M,OPEN,1,LOBC,,401,Machanical,401,Machanical,2533,Aurangabad,"CSMSS Chh. Shahu College of Engineering, Aurangabad",^,1.0

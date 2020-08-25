@@ -1,0 +1,425 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+52,524,46296,61.44,19157296,MORKHANDE NILESH ASHOK,M,OPEN/EWS,5,EWS,,102,Plastic,101,Chemical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+61,583,147,94.0,19108456,GUNJAL AKSHAY DILIP,M,OPEN/EWS,5,EWS,,101,Chemical,101,Chemical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+97,620,39904,64.36,19110492,KALE SHRUTI SUDHANSHU,F,OPEN/EWS,5,EWS,,101,Chemical,101,Chemical,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+105,8179,1111,90.11,19123836,SHAIKH SOFIYAN SHAIKH YUSUF,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+114,8196,142,94.06,19149534,GHONGADE ARTI VAIJINATH,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6006,Pune,"College of Engineering, Pune",^,1.0
+191,8309,38045,65.15,19118113,DESHMUKH PRATIKSHA SUNILRAO,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",^,1.0
+192,8310,38365,65.03,19109140,HARADGE SURAJ RAMESHWAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",^,1.0
+321,8482,5858,83.64,19145726,SHAIKH ANIS FAKRODDI N,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",*,3.0
+331,8492,8217,81.45,19109684,KHEDKAR ROHIT MAHESH,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+431,8592,50114,59.15,19128518,BULBULE MANGESH MAHARUDRA,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+433,8594,50497,58.85,19138853,PATIL ARIHANT ANIL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",#,2.0
+547,8743,10267,79.76,19102947,DESHMUKH AVES AJWAD PARVEZ AHEMAD,M,OPEN/EWS,5,MIMH,,201,Civil,201,Civil,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^-,
+553,8749,10962,79.27,19131126,SHAIKH ARIF ADAM,M,OPEN/EWS,5,MIMH,,201,Civil,201,Civil,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^-,
+607,8803,25940,70.42,19144713,JOSHI ATHARVA MILIND,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",#,2.0
+609,8805,26996,69.94,19115037,SAYYED SHAGUFA MUSTAAK,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+639,8835,15380,76.18,19119276,AKRAM AKBAR KHAN,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",#,2.0
+679,8875,13910,77.15,19110164,WAGDARE NAGESH RAJSHEKHAR,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",^,1.0
+687,8883,16424,75.52,19118062,BHUTADA GOVIND SHYAMSUNDAR,M,OPEN/EWS,5,MIMH,,201,Civil,201,Civil,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",^-,
+726,8922,5751,83.76,19130767,SAKHARE OMKAR BASWARAJ,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+747,8943,7769,81.88,19133740,MANANI AKSHAY SHANTILAL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",#,2.0
+758,8954,18743,74.12,19109895,PATIL SWARADA BHAGWAN,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6179,Pune,"Indira College of Engineering & Management, Pune",^,1.0
+897,9093,25734,70.55,19130939,THESE RATIKANT RAMLING,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",^,1.0
+906,9102,30743,68.24,19108535,AMBEGAVE SNEHAL SHIVAPRASAD,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",&,4.0
+998,9194,9667,80.24,19143885,UKARDE UDAYKUMAR UMAKANT,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",#,2.0
+1050,9246,29280,68.91,19121375,MAKNE SWAPNIL BALAJI,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",*,3.0
+1061,9257,2691,87.2,19142391,DESHMUKH ATHARV LAXMIKANT,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",#,2.0
+1064,9260,3882,85.7,19108798,JETHAVE ISHWAR SUNIL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+1096,9750,1767,88.79,19118796,HAMPALLE AISHWARYA RAJESHWAR,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+1101,9755,2086,88.24,19139033,JAIN SANKET RAMESH,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",#,2.0
+1163,9817,47205,60.97,19126662,SAKOLE ANIKET VIJAYKUMAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6275,Pune,"Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",^,1.0
+1175,9890,1368,89.5,19118369,EKBOTE KHUSHALI PRADIP,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+1180,9895,2636,87.27,19120557,SAGARE KIRAN KASHINATH,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+1190,9925,1387,89.45,19122045,KAZI TALHA SHAHID,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+1215,9995,1602,89.03,19144426,SHAIKH JUNAID ZAKIR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+1223,10003,7568,82.06,19127021,KULKARNI SNEHAL NITIN,F,OPEN/EWS,5,LOPEN,,201,Civil,201,Civil,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",@,5.0
+1243,10023,31497,67.94,19110704,BOBADE VYANKTESH SHARADKUMAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",#,2.0
+1265,10147,37734,65.27,19153708,SHAIKH FEROJ PASHAMIYA,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6307,Pune,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",^,1.0
+1317,10341,37058,65.58,19123448,PATHAN TANVIRAVEJ JABBARKHAN,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6320,Pune,"K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli",^,1.0
+1523,10836,8628,81.09,19120282,PATIL RITESH DATTATRAYA,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,6620,Pune,"D. Y. Patil Institute of Engineering and Technology, Ambi",*,3.0
+1540,10853,26384,70.24,19106931,SHAIKH SIKANDAR SHAKIL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6620,Pune,"D. Y. Patil Institute of Engineering and Technology, Ambi",^,1.0
+1640,10980,19186,73.88,19141411,SHAIKH MUHAMMAD AZEEM A GAFFAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6634,Pune,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",^,1.0
+1771,11218,18011,74.97,19120455,PATIL VISHAL YUVRAJ,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",^,1.0
+1804,11251,29919,68.61,19105671,KANADE SHREYASHRI BABANRAO,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",#,2.0
+1811,11258,32023,67.7,19124740,SANGVE PRATIK DEVIDAS,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",#,2.0
+1857,11304,29424,68.85,19136372,SHASTRI SHAUNAK MORESHWAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",#,2.0
+1896,11343,13584,77.39,19114586,KAZI TAHEER KHALIL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6755,Pune,"JSPM Narhe Technical Campus, Pune.",#,2.0
+1901,11348,15336,76.18,19144178,JOSHI TANMAY VINOD,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6755,Pune,"JSPM Narhe Technical Campus, Pune.",#,2.0
+1967,11490,28201,69.39,19146809,BHASKARWAR MAYURI SANTOSHRAO,F,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,6759,Pune,"Shree Ramchandra College of Engineering, Lonikand,Pune",^,1.0
+2064,11715,5859,83.64,19121275,PATIL SOMNATH DNYANESHWAR,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",*,3.0
+2097,11748,18344,74.36,19145891,SHRIRANG NANDKISHOR PATIL,M,OPEN/EWS,5,GST,,201,Civil,201,Civil,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",#,2.0
+2124,11775,28026,69.47,19113143,RASIKA RAVINDRA DESHMUKH,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+2145,11796,35276,66.3,19116379,DEOKAR VIJAY BALU,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+2184,11987,19114,73.94,19122740,SHAIKH UMAR RAJUDDIN,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6786,Pune,"Dr. D. Y. Patil School of Engineering & Technology, Charholi(Bk), Via Lohgaon, Pune",^,1.0
+2234,12037,36103,66.0,19118226,PATIL BHIMRAJ SHARAD,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6786,Pune,"Dr. D. Y. Patil School of Engineering & Technology, Charholi(Bk), Via Lohgaon, Pune",^,1.0
+2337,12140,41282,63.76,19135890,BAGAL AKSHAYKUMAR POPAT,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",^,1.0
+2398,12201,27842,69.58,19126541,SHIVPUJE NILESH MADHAV,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6796,Pune,"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",#,2.0
+2426,12259,3769,85.82,19132586,SHAIKH RUBY BASHIR,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+2452,12285,6764,82.79,19100533,ALSULKAR MOHAMMED JIBRAIL MUZAFFAR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+2502,12422,3522,86.13,19136179,AKOLKAR OJASWI PRASHANT,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+2569,12489,37607,65.33,19128853,PATIL OMKAR RAVINDRA,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",*,3.0
+2614,12534,47537,60.79,19119728,SHAIKH SHADULLA RAHEMAN,M,OPEN/EWS,5,GOBC,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",*,3.0
+2632,12552,52056,57.33,19140174,BHATLAWANDE PRASAD VITHAL,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",#,2.0
+2650,20142,2989,86.81,19110044,PACHADE SWAPNALI SUDHIRRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+2655,20155,44,95.53,19104675,PETHE NACHIKET ANAND,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6006,Pune,"College of Engineering, Pune",^,1.0
+2660,20160,76,94.88,19115994,RATHI HARSHA SURESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6006,Pune,"College of Engineering, Pune",^,1.0
+2676,20222,15286,76.2,19101865,KULKARNI VAISHNAVI TUKARAM,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",^,1.0
+2752,20298,36233,65.94,19101532,VYANKATESH MANOHAR KULKARNI,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6138,Pune,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",*,3.0
+2775,20321,5906,83.59,19110700,KULKARNI AKANKSHA SUDHIR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+2801,20347,6723,82.82,19104956,DESHMUKH GAURI RAJENDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+2811,20357,5763,83.75,19144305,SHIVANE SHUBHAM SANTOSH,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+2823,20369,8589,81.13,19123843,KANAKDANDE NARENDRA SANTOSHRAO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+2824,20370,10302,79.75,19111323,JOSHI PUSHKAR AJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+2841,20387,14315,76.88,19128649,RAGHAMWAR SAMIKSHA PRAVIN,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",#,2.0
+2898,20444,34524,66.63,19116719,KULKARNI VAISHNAVI SUNILRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",#,2.0
+2928,20474,13600,77.38,19126026,LOKHANDE GAYATRI VIJAYKUMAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",#,2.0
+2929,20475,13955,77.13,19107334,SAKHARE HRUTUJA BASAVARAJ,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",^,1.0
+2946,20492,17098,75.06,19151226,BHALERAO PRATIKSHA MAHESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",^,1.0
+2958,20504,4827,84.69,19152638,ABOTI PRAGATI MAHENDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",#,2.0
+2976,20522,13093,77.75,19116562,PAWAR POOJA KALURAM,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6149,Pune,"Choudhary Attar Singh Yadav Memorial Trust,Siddhant College of Engineering, Maval",^,1.0
+2998,20544,31587,67.88,19142948,GAIKWAD HARSHADA HANUMANT,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6149,Pune,"Choudhary Attar Singh Yadav Memorial Trust,Siddhant College of Engineering, Maval",^,1.0
+3071,20697,10028,79.94,19101282,KULKARNI SAHIL SANTOSH,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+3072,20698,10377,79.69,19119499,BHILEGAONKAR SAKSHI JAGDISH,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+3074,20700,11167,79.12,19122685,JOSHI RUTUJA SHIRISH,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",#,2.0
+3091,20717,7266,82.35,19121833,VIPRADAS SNEHAL SANJAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+3092,20718,8513,81.19,19118406,UPASANI APURVA SHRIPAD,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+3103,20729,8402,81.29,19134407,SHAIKH MUSKAN MUNAWWAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+3112,20738,9648,80.25,19111574,GHENAND AKANKSHA MARUTI,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+3119,20745,705,91.25,19110747,BHANDARI DHANASHREE MAHENDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+3136,20762,1626,89.0,19106852,KULKARNI MAITHILI MUKUND,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+3176,20802,18620,74.19,19106095,VARAD HANUMANT DESHMUKH,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",^,1.0
+3206,20832,3800,85.81,19121487,TOSHNIWAL ABHISHEK MANOJ,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",#,2.0
+3208,20834,4361,85.18,19131353,AKKANAVRU ANKITA GANGADHAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+3218,20844,6069,83.44,19122319,SHAIKH FARHEEN SALIM,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+3245,20871,8022,81.63,19124407,CHHANGANI MUSKAN DILIP,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+3246,20872,8969,80.81,19121598,RUPANI AKASH JAYKUMAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+3283,20909,6571,83.0,19102871,GOSAVI VARAD,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",#,2.0
+3287,20913,9048,80.75,19105765,BOTHARA PRASHANT AJAYKUMAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+3288,20914,10626,79.5,19140715,JOSHI MANSI SANJAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+3310,20936,13164,77.69,19138192,KULKARNI PRIYANKA PRADIP,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",#,2.0
+3340,20966,15071,76.35,19107311,KULKARNI SHRADDHA SHRIKANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+3371,20997,15627,76.0,19124826,JOSHI ANUSHKA PRASAD,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6179,Pune,"Indira College of Engineering & Management, Pune",^,1.0
+3373,20999,16392,75.53,19104567,KULKARNI TANVI RAJESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6179,Pune,"Indira College of Engineering & Management, Pune",^,1.0
+3484,21110,31604,67.88,19137211,BHALERAO PRATIKSHA SUBHASH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",#,2.0
+3528,21212,43899,62.63,19100240,INAMDAR MOHAMMED ALI MOHAMMED TAHIR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",#,2.0
+3579,21263,51103,58.35,19104119,MOTE PRAJWAL UDDHAV,M,OPEN/EWS,5,EWS,,401,Machanical,301,Computer & IT,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",#,2.0
+3590,21274,11510,78.88,19124222,CHAVAN SHUBHAM RAJENDRA,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6185,Pune,"Sinhagad Institute of Technology, Lonavala",&,4.0
+3639,21323,23037,71.82,19114139,DESHMUKH ADITYA ARUNRAO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6185,Pune,"Sinhagad Institute of Technology, Lonavala",#,2.0
+3644,21328,24631,71.06,19122585,KHAN HAAMID ABDULSAMAD,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,6185,Pune,"Sinhagad Institute of Technology, Lonavala",#,2.0
+3659,21343,16304,75.59,19105357,KOLAWALE BHAGYASHREE MOHAN,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6185,Pune,"Sinhagad Institute of Technology, Lonavala",&,4.0
+3679,21363,26839,70.0,19100947,PATIL SHANTANU SHASHIKANT,M,OPEN/EWS,5,EWS,,302,ENTC,301,Computer & IT,6185,Pune,"Sinhagad Institute of Technology, Lonavala",#,2.0
+3736,21420,13192,77.65,19139299,KARANJE PUNAM PRADEEP,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+3744,21428,18504,74.27,19152368,SHARDUL SATISH GADHAVE,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+3768,21452,15396,76.13,19103881,AFTAB MIRSAB SAYYAD,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+3814,21498,22589,72.06,19103605,KHAROSEKAR VIKRANT GURURAJ,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+3844,21528,24132,71.31,19103275,SHELKE SHUBHAM BALASAHEB,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6203,Pune,"Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune",#,2.0
+3869,21553,20609,73.1,19132070,SHETH AISHWARYA PRASHANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6206,Pune,"Pune District Education Association's College of Engineering, Pune",#,2.0
+3909,21593,4818,84.69,19100021,BAKSHI SHIKHAR GIRISH,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+3910,21594,5303,84.19,19114432,VAIDYA PURUSHOTTAM DHANANJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",#,2.0
+3923,21607,6959,82.63,19106714,KOTHARI JANHAVI AJAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+3935,21619,11779,78.69,19109909,KAWATIKAWAR ANKITA GANESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+3950,21908,276,93.05,19104801,THAKUR SARITA DASHRATH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+3952,21910,292,92.95,19119048,KULKARNI VAISHNAVI RAM,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+3965,21923,300,92.94,19101471,JAIN ROHIT PARAS,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+3974,21932,416,92.31,19102600,CHOUGULE POOJA RAJKUMAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+3975,21933,452,92.2,19116462,JOSHI AVANTI RAVINDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+4004,21962,3600,86.06,19128558,KAZI SAYAMA SIRAJUDDIN,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",#,2.0
+4005,21963,3978,85.59,19115382,BIRADAR PRATIBHA BASWARAJ,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+4011,21969,2287,87.88,19120544,LALWANI NIKITA RAJESH,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+4022,21980,4936,84.56,19109022,KANNADKAR ADITI VIVEK,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+4023,21981,4993,84.5,19100941,NAVADE SAMRUDHI SHIVAJIRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",#,2.0
+4036,21994,723,91.19,19100772,SHRIVASTAV PARTH SARVESHKUMAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+4039,21997,800,90.94,19127792,PADMAWAR VAISHNAVI RAMDAS,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+4055,22013,1063,90.19,19106344,KULKARNI VAISHNAVI BALASAHEB,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+4062,22020,1072,90.18,19121164,KANKURTI TASMIYA TAMREEN NOOR AHMED,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+4072,22030,2380,87.71,19121347,KARANJIKAR SNEHAL SUHAS,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+4081,22039,4598,84.94,19122894,KULKARNI CHAITANYA CHANDRAKANT,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+4098,22056,18318,74.38,19137175,MENGJI MANMANTH RAJENDRA,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6275,Pune,"Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",^,1.0
+4118,22076,2840,87.0,19122316,KULKARNI MANASI VIVEK,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+4128,22086,3430,86.25,19127910,DESHMUKH UTKARSHA UMESH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+4144,22120,5542,83.94,19119827,SHELGAONKAR PRAGATI PRAKASHRAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+4165,22141,5757,83.75,19103583,KHARDEKAR ATHARVA VIKAS,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+4175,22151,7241,82.38,19105651,DESHPANDE RANJEET SANDIP,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+4184,22160,3530,86.13,19111748,PARANDKAR SHRIYASH ARUN,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",#,2.0
+4192,22168,6148,83.38,19133821,AMBEKAR ANIRUDDHA ANILRAO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",^,1.0
+4202,22178,7479,82.13,19116695,PATHAK JAYESH PRAMOD,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",#,2.0
+4210,22194,5844,83.65,19134785,RANKHAMBE PRAJAKTA SATISH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+4218,22202,6217,83.31,19101633,JOSHI ANIKET LAXMANRAO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+4241,22225,7435,82.18,19131847,WAKODKAR PRANOTI PRASHANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6285,Pune,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",^,1.0
+4269,22253,10706,79.44,19110183,NARLAWAR SAKSHI DATTATRAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6285,Pune,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",^,1.0
+4282,22282,1347,89.56,19100320,VEDANT PRASHANT JAJOO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+4295,22295,2611,87.31,19129811,SAGARE AVDHUT ASHOK,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",#,2.0
+4312,22312,3348,86.35,19103136,RAOJAJJY LAVANYA J CHINNA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+4329,22329,3896,85.69,19118249,SHARMA SIDDHI RAJDEEP,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+4346,22398,13873,77.19,19129697,SHELKE SAMARTH,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+4366,22418,19117,73.94,19105334,KULKARNI NEHA YASHWANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+4379,22431,22988,71.88,19103224,KULKARNI SHREYAS SHRIDHAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+4385,22537,13177,77.69,19111889,ASIF SHAIKH ISHAQUE SHAIKH,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6307,Pune,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",^,1.0
+4400,22552,44877,62.13,19130227,LABHSETWAR TEJASHRI GAJENDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6307,Pune,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",#,2.0
+4406,22570,8379,81.31,19114394,PANDAV DHANSHREE LAXMIKANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6310,Pune,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",^,1.0
+4414,22578,13101,77.71,19151242,AAJURE NAGRAJ BASAVRAJ,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6310,Pune,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",#,2.0
+4451,22615,14993,76.41,19116902,GAMBHIR ROHAN ANIL,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",#,2.0
+4453,22617,15936,75.81,19142934,DIVATE TRUPTI RAVINDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",^,1.0
+4490,22654,27366,69.81,19115317,KULKARNI ADITYA GOVIND,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",^,1.0
+4607,22880,41963,63.5,19146578,PATIL SUPRIYA SAMADHAN,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6320,Pune,"K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli",#,2.0
+4630,22931,28038,69.47,19155074,AKSHAY ANIL BELHAVARE,M,OPEN/EWS,5,GSC,,301,Computer & IT,301,Computer & IT,6322,Pune,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",^,1.0
+4644,22945,41156,63.82,19105717,LOHOTE PRATHAMESH YASHWANT,M,OPEN/EWS,5,GSEBC,,301,Computer & IT,301,Computer & IT,6322,Pune,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",^,1.0
+4651,22952,11940,78.56,19100534,AKSHIT ANURAG AGRAWAL,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6323,Pune,"D. Y. Patil College of Engineering, Ambi, Talegaon, Maval",#,2.0
+4671,22972,26699,70.07,19132989,SITAPATI BHAGYESH SANJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6323,Pune,"D. Y. Patil College of Engineering, Ambi, Talegaon, Maval",*,3.0
+4787,23110,20316,73.25,19113914,BORGAONKAR SAMRUDDHI NANDKISHOR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6419,Pune,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune",*,3.0
+4818,23141,38271,65.06,19124910,GOSALIYA JAINAM SANJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6419,Pune,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune",^,1.0
+4845,23249,16715,75.31,19114430,BHOR SHUBHAM SANJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6609,Pune,"Jaihind College Of Engineering,Kuran",^,1.0
+4957,23370,26279,70.29,19104239,KAILAS SHIVSHANKAR DHUMAL,M,OPEN/EWS,5,GSEBC,,401,Machanical,301,Computer & IT,6632,Pune,Navsahyadri Education Society's Group of Institutions,^,1.0
+4999,23413,23472,71.63,19111369,RATHI GOVIND HANUMANDAS,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6634,Pune,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",&,4.0
+5048,23522,22955,71.88,19142987,SANAS PUJA RAJENDRA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",^,1.0
+5052,23526,6426,83.13,19107081,OPALKAR PALLAVI SUBASHRAO,F,OPEN/EWS,5,GST,,301,Computer & IT,301,Computer & IT,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",*,3.0
+5056,23530,8521,81.19,19125027,OSWAL PRATYAKSH RAHUL,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",#,2.0
+5060,23534,17212,75.0,19101045,KULKARNI ANURAG KISHOR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",#,2.0
+5071,23545,5953,83.56,19104594,SHAIKH SADIYA RAFIQ,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6754,Pune,"International Institute of Information Technology (I2IT), Pune.",^,1.0
+5078,23552,7415,82.19,19105716,KHOPKAR SAKET SUDHARM,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6754,Pune,"International Institute of Information Technology (I2IT), Pune.",^,1.0
+5090,23564,10884,79.31,19147804,SHAIKH AMANULLAH ZAMIR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+5133,23671,17287,75.0,19100999,TAGARE DAIVAT SHRIKANT,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6759,Pune,"Shree Ramchandra College of Engineering, Lonikand,Pune",*,3.0
+5270,23853,7870,81.75,19117261,SOHALE SWAPNIL RAJESH,M,OPEN/EWS,5,GST,,301,Computer & IT,301,Computer & IT,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",#,2.0
+5283,23866,13862,77.19,19106532,PATIL RUTUJA VIJAYKUMAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",#,2.0
+5293,23876,17352,75.0,19115116,DESHPANDE ATHARV SANJAY,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+5320,23903,23406,71.65,19111202,RANDALE SIDDHARTH SOMESHWAR,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+5453,24038,36577,65.76,19139860,TAKTWALE SUPRIYA SOMNATH,F,OPEN/EWS,5,PHO,,301,Computer & IT,301,Computer & IT,6770,Pune,"SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune.",#,2.0
+5491,24076,19577,73.65,19141260,PATIL PRASAD VINODRAO,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+5509,24094,21184,72.81,19142165,JOSHI SHASHANK PRASHANT,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+5523,24199,35912,66.06,19105065,POOJA MARUTI BORKAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6786,Pune,"Dr. D. Y. Patil School of Engineering & Technology, Charholi(Bk), Via Lohgaon, Pune",^,1.0
+5530,24206,23146,71.81,19138965,LANGDE ATMJA APPARAO,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6787,Pune,"Dr. D. Y. Patil Educational Academy's, D.Y.Patil School of Engineering Academy, Ambi",&,4.0
+5546,24222,24635,71.06,19111840,KHAN NASREEN ABDULLAH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",#,2.0
+5583,24259,46460,61.35,19147598,MARATHE GAUTAM MADHAV,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",^,1.0
+5612,24299,17094,75.06,19137241,PANDE ATHARVA ASHOK,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6796,Pune,"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",^,1.0
+5628,24327,4481,85.06,19114295,DOSHI PALASH NITIN,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+5629,24328,4929,84.56,19146630,NAKATE VAIBHAVI VILAS,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+5696,24435,3845,85.75,19123206,LUNAWAT SEJAL PRASHANT,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+5709,34616,4909,84.59,19130225,KULKARNI DHANANJAY MILIND,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+5719,34641,62,95.13,19116212,GOTE VISHAL KEDARNATH,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6006,Pune,"College of Engineering, Pune",^,1.0
+5798,34844,32540,67.47,19110418,DEOSHETWAR NISHA DNYANESHWAR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+5864,34993,6412,83.13,19106867,MAMDE AKSHATA DATTATRAY,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",#,2.0
+5879,35008,9969,80.0,19149123,SAYYAD FARHEEN FAHIMODDIN,F,OPEN/EWS,5,PHO,,302,ENTC,302,ENTC,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",^,1.0
+5895,35024,11168,79.12,19131489,PATTEWAR SAMRUDDHI GANESH,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",^,1.0
+5898,35027,17521,75.0,19136126,ZADE SARTHAK NARAYAN,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",^,1.0
+5949,35194,12727,78.0,19114954,KULKARNI PRANAV VIJAYRAO,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+5968,35222,35275,66.31,19129919,DOMKUNDWAR BHANUPRIYA BALKRISHNA,F,OPEN/EWS,5,MIMH,,301,Computer & IT,302,ENTC,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",&-,4.0
+6042,35380,537,91.88,19101322,KULKARNI KAUSHAL KISHOR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+6053,35391,2794,87.06,19130885,PATIL MAHIMA MAHAVIR,F,OPEN/EWS,5,GST,,302,ENTC,302,ENTC,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",*,3.0
+6066,35404,2162,88.12,19100548,YASH SACHIN NAROLE,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+6132,35520,31794,67.76,19122756,SAYYAD SANA GAFUR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+6133,35521,32686,67.41,19119963,VAIDYA VISHAKHA VIVEK,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+6144,35532,15758,75.88,19112440,RAGHUWANSHI RITESH RAJENDRASINGH,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",*,3.0
+6154,35542,26558,70.13,19100523,AINCHWAR PARINAY SATISH,M,OPEN/EWS,5,EWS,,301,Computer & IT,302,ENTC,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+6186,35574,17930,74.97,19129953,RAMDASI TEJAS SHEKHAR,M,OPEN/EWS,5,EWS,,304,Electrical,302,ENTC,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+6295,36573,37792,65.25,19135125,SHAIKH MATEEN MASUD,M,OPEN/EWS,5,EWS,,303, Medical Electronics,302,ENTC,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",#,2.0
+6296,36574,37813,65.24,19142497,MAHAJAN PURVA SAGAR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+6302,37266,303,92.94,19114328,SHAIKH SUMAIYA IBRAHIM,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+6303,37267,325,92.76,19118980,PATIL ANUJA JAYANT,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+6305,37269,377,92.5,19103325,SHARMA TUSHAR SURESH,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+6330,37294,797,90.94,19130616,MALLADE DIVYA VIJAYKUMAR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+6351,37315,6800,82.76,19134642,PATIL PRAMOD SUDHAKAR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",*,3.0
+6360,37324,26849,70.0,19154262,ABROL YASH JAGDISHCHANDRA,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+6363,37327,109,94.44,19123357,CHANDAK RUSHIKESH RAMPRASADJI,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+6377,37341,368,92.53,19109821,DESHMUKH AMBERISH SHANKARRAO,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+6387,37351,989,90.41,19101734,PATIL SURAJ RAMCHANDRA,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",#,2.0
+6392,37356,1722,88.87,19142092,NALAMWAR SAMIKSHA SANJAY,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+6410,37374,4045,85.53,19150297,SHAIKH ALISHA BILAL,F,OPEN/EWS,5,LOPEN,,302,ENTC,302,ENTC,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+6423,37387,7280,82.35,19104732,PATEL MAHAMMADKALAM MANSUR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",#,2.0
+6425,37389,8194,81.47,19138092,DESHPANDE KRISHNA LAXMIKANT,M,OPEN/EWS,5,GNTA,,302,ENTC,302,ENTC,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+6434,37398,9575,80.34,19121802,PRABHUNE CHINMAY VIJAY,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",*,3.0
+6435,37399,9711,80.2,19102896,NOORJAHAN KAMAL SHAIKH,F,OPEN/EWS,5,GST,,302,ENTC,302,ENTC,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",*,3.0
+6471,37475,1275,89.73,19115789,SHRINIWAR MADHURI GANESH,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+6490,37494,2578,87.35,19143196,BABHULGAONKAR DIVYA UMAKANT,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+6509,37654,33097,67.24,19135677,BANDE ABHISHEK NANDKUMAR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",*,3.0
+6512,37657,3794,85.82,19135944,KULKARNI SWATI RAGHVENDRA,F,OPEN/EWS,5,LOPEN,,302,ENTC,302,ENTC,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+6522,37667,13345,77.56,19120631,PAWAR SAHIL JAYPALSING,M,OPEN/EWS,5,EWS,,301,Computer & IT,302,ENTC,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+6555,37700,11434,78.94,19112832,GANJEWAR AMRUTA DHANANJAY,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",*,3.0
+6596,37741,50404,58.94,19131529,DASALKAR RUCHA DILIPRAO,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",*,3.0
+6643,37821,27186,69.88,19119563,RAMDASI RENUKA RAVINDRA,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+6661,37880,12372,78.24,19136426,WALE SAKSHI JEEVAN,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6285,Pune,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",^,1.0
+6680,37899,36968,65.59,19159505,HONMALE MAYURI SHIVKUMAR,F,OPEN/EWS,5,LOPEN,,302,ENTC,302,ENTC,6285,Pune,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",^,1.0
+6686,37905,48753,60.06,19154218,DESHMUKH PRATIKSHA SANJAY,F,OPEN/EWS,5,DFO,,304,Electrical,302,ENTC,6285,Pune,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",^,1.0
+6689,38023,1305,89.65,19118186,DUBE YASH SANTOSH,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",#,2.0
+6696,38030,2381,87.71,19137754,PANDAV VAISHNAVI RAVINDRA,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+6698,38032,2803,87.06,19105077,KULKARNI PRATIKSHA PRASHANTRAO,F,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+6699,38033,2845,87.0,19136820,CHANDAK RAM RAJENDRA,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+6719,38053,2739,87.13,19132964,RAGHUWANSHI SAHIL KISHORSINGH,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",#,2.0
+7044,40282,4982,84.53,19104297,MARDIKAR GANADHISH NITIN,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+7092,40753,13543,77.41,19130950,KOTURWAR SAMIKSHA SHRIDHAR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+7121,40842,8471,81.24,19131101,PATIL MANALI MAHAVIR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",#,2.0
+7154,47307,5665,83.82,19121308,GAVAI MEDHAVI VENKATESH,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+7182,47335,6702,82.85,19135579,CHAVAN NISHA ANIL,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+7205,47358,8283,81.39,19104779,LATHI SHUBHAM DEEPAK,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",#,2.0
+7237,47390,24579,71.09,19130363,KHOBARE YOGESH MAHADEV,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",#,2.0
+7244,47397,6391,83.15,19137148,PATHAK AVINASH ANIL,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+7262,47415,7923,81.7,19109324,JOSHI SHRIPAD DATTATRAYA,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",^,1.0
+7271,47424,12656,78.06,19115468,KULKARNI ATHARVA ANIRUDDH,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",^,1.0
+7320,47473,27037,69.94,19107769,KHAN AAMIR ASIF,M,OPEN/EWS,5,GOPEN,,304,Electrical,304,Electrical,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",^,1.0
+7333,47486,36898,65.64,19142501,REKULGE NRASINHA SOMNATH,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",#,2.0
+7345,47498,41693,63.6,19101077,SHAIKH SAIF FAYAJ,M,OPEN/EWS,5,LST,,304,Electrical,304,Electrical,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",^,1.0
+7366,47519,49276,60.0,19141632,MIRKALE SWAPNIL RANGIT,M,OPEN/EWS,5,GSC,,304,Electrical,304,Electrical,6184,Pune,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",#,2.0
+7391,47544,29118,68.97,19147526,PATHAK TEJAS SHARAD,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6185,Pune,"Sinhagad Institute of Technology, Lonavala",^,1.0
+7442,47595,7842,81.76,19115296,CHEREKAR OMKAR DHANANJAY,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+7458,47887,560,91.76,19102027,NAIK YUKTA BHAGWAN,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+7473,47902,21438,72.67,19122797,SHAIKH MUSTQIM SALIM,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6275,Pune,"Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",^,1.0
+7508,47937,5364,84.12,19102264,AITAWADE ANIKET APPASO,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+7528,47957,6463,83.09,19116167,BABAR MAHESHWARI MAHENDRA,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",^,1.0
+7540,48001,7314,82.3,19106606,PAWAR AMAR NANDKUMAR,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+7576,48095,20040,73.39,19128087,CHIKTE ATHARVA RUPENDRA,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+7701,48402,53035,55.93,19138320,PANDE KALYANI MADHAV,F,OPEN/EWS,5,LOBC,,304,Electrical,304,Electrical,6320,Pune,"K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli",#,2.0
+7920,48918,28230,69.39,19127250,GANGAPURE RUTUJA SHIVKANT,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",#,2.0
+8016,49138,42881,63.09,19145674,KODWANI JAYESH HARNAMDAS,M,OPEN/EWS,5,GST,,304,Electrical,304,Electrical,6770,Pune,"SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune.",^,1.0
+8035,49188,7576,82.06,19127056,SAYYAD FAISAL BABASAHEB,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+8059,49212,16515,75.45,19154866,SHAIKH SHARIK ABDULGANI,M,OPEN/EWS,5,LST,,304,Electrical,304,Electrical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+8109,49930,3362,86.35,19104522,SHAIKH MUSKAN RAJU,F,OPEN/EWS,5,EWS,,305,Instrumentation,305,Instrumentation,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+8135,49956,1168,89.94,19107640,BADVE RUTUJA SANTOSH,F,OPEN/EWS,5,EWS,,305,Instrumentation,305,Instrumentation,6006,Pune,"College of Engineering, Pune",^,1.0
+8155,50068,10873,79.31,19131903,SANGVIKAR SAKSHI UMAKANT,F,OPEN/EWS,5,GSC,,303, Medical Electronics,305,Instrumentation,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+8170,50083,40630,64.06,19144221,LOHARE PURNANAND SATISH,M,OPEN/EWS,5,LNTA,,303, Medical Electronics,305,Instrumentation,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",*,3.0
+8193,50106,12594,78.06,19116040,KULKARNI CHAITANYA RAMCHANDRA,M,OPEN/EWS,5,EWS,,305,Instrumentation,305,Instrumentation,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+8200,50113,42245,63.35,19108545,KASETWAR ROHAN TUKARAM,M,OPEN/EWS,5,EWS,,305,Instrumentation,305,Instrumentation,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+8208,50121,4866,84.64,19126196,DESHPANDE MAITHILI JAYANTRAO,F,OPEN/EWS,5,EWS,,401,Machanical,305,Instrumentation,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+8271,62253,5253,84.25,19137717,DABALE SUMEDH PRASHANT,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+8301,62292,123,94.24,19100341,WANGIKAR AKSHAY PRAMOD,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6006,Pune,"College of Engineering, Pune",^,1.0
+8305,62296,308,92.88,19119515,SHETE PRATIK SUBHASH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6006,Pune,"College of Engineering, Pune",^,1.0
+8329,62360,21383,72.71,19147512,SHETKAR SHIVAM RAMESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",^,1.0
+8341,62372,27495,69.73,19103347,BHUTADA ADARSH SHARADKUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",#,2.0
+8532,62675,3650,86.0,19100576,SHAIKH MUSHIR MUNIR,M,OPEN/EWS,5,LST,,401,Machanical,401,Machanical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",*,3.0
+8543,62686,4845,84.65,19123722,KONARDE ADVAIT PRAVIN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+8544,62687,5682,83.82,19123313,KULKARNI PRASAD DIGAMBAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+8573,62716,6725,82.82,19117540,MOHD AAQUIB MOHD HAFEEZ,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+8603,62746,4290,85.24,19141999,KAWARE RAJAT RAJENDRA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+8609,62752,8670,81.06,19123886,JOGWAR SHRAVAN RAJENDRA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+8611,62754,8823,80.94,19107773,AGRAWAL ROHAN AJAYKUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",#,2.0
+8742,62915,9545,80.35,19112554,JOSHI SUMIT BALASAHEB,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",*,3.0
+8747,62920,10906,79.29,19123910,PRITESH LATISH AGRAWAL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",^,1.0
+8753,62926,14899,76.47,19107242,BALDOTA YASH SATISH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",#,2.0
+8779,62952,12490,78.18,19136505,ANNADATE ANKET VIJAYKUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",#,2.0
+8789,62962,16367,75.53,19143783,KHAIRNAR PRATHAMESH HIRALAL,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",*,3.0
+8818,62991,2496,87.53,19103185,MOHD MUSHARAF HUSSAIN SARWARI M AJMAL HUSSAIN SARWARI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",#,2.0
+8890,63063,3542,86.12,19145716,INDANI NANDAN RAJENDRA,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+8892,63065,5161,84.35,19103305,MUMTAJIB ULLA KHAN MUJEEB ULLA KHAN,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",*,3.0
+8902,63075,7429,82.18,19114786,TENDULKAR KAUSTUBH CHANDRASHEKHAR,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",*,3.0
+8908,63081,10484,79.59,19107419,KULKARNI ABHAY ASHOKRAO,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+8916,63089,43171,62.94,19124986,TRIVEDI HIMANSHU GOPAL,M,OPEN/EWS,5,MI,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",^,1.0
+8917,63090,9159,80.65,19132567,MOHAMMAD FAISALELAHI MOHAMMAD ARIF,M,OPEN/EWS,5,MIMH,,401,Machanical,401,Machanical,6155,Pune,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",*-,3.0
+8958,63131,5899,83.59,19107666,KULKARNI SAMARTH DATTATRAYA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+8977,63150,7873,81.75,19132971,SUFAL SANDESH JAIN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+9007,63180,11885,78.6,19140574,PATIL ROHAN MAHESH,M,OPEN/EWS,5,PHO,,401,Machanical,401,Machanical,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",@,5.0
+9017,63190,21723,72.53,19132685,SHAIKH AYAZ SHAIKH PASHA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",&,4.0
+9053,63226,17430,75.0,19131535,PATTEWAR AJIT GANESH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",#,2.0
+9097,63270,25059,70.88,19107645,DESHMUKH SHRINIKETAN DINESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+9100,63273,25786,70.53,19130796,KADGE MAHESH VIRBHADRA,M,OPEN/EWS,5,GST,,401,Machanical,401,Machanical,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+9133,63306,1608,89.0,19119023,JOSHI ATHARVA SHYAM,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+9146,63319,1654,88.94,19110867,LATKAR SARVESH DATTATRAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+9155,63328,17723,75.0,19141368,KAMTHEKAR SHIVAM SANTOSH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",#,2.0
+9166,63339,24806,71.0,19128942,BIRADAR SHAILESH RAMAKANT,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",@,5.0
+9169,63342,27018,69.94,19133823,INAMDAR SAQLAIN DANISH SHAIKH AHEMAD,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",&,4.0
+9172,63345,31803,67.76,19118004,DOSHI KEVAL JITENDRA,M,OPEN/EWS,5,MIMH,,401,Machanical,401,Machanical,6176,Pune,"G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune",#-,
+9228,63401,4243,85.29,19144844,KALE MANTHAN RAVINDRA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",#,2.0
+9235,63408,5746,83.76,19115894,BASET VAIBHAV BHAGESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+9236,63409,6373,83.18,19107582,SHAIKH WAJAHAT ABDUL BARI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+9255,63428,16079,75.71,19122383,APEKSHA BORGAONKAR,F,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+9280,63453,8386,81.29,19144482,SHAIKH AHAMAD RASUL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",#,2.0
+9361,63534,8653,81.06,19112649,KULKARNI MAYURESH MUKUND,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9366,63539,8848,80.94,19139364,MOTWANI AYUSH MAHENDRA KUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9373,63546,9740,80.18,19123398,SHASTRI VISHWAJIT VINAYAK,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9392,63565,26632,70.12,19107207,HARIPRIYA GURUNATH BAHIRAT,F,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9441,63614,10286,79.76,19118496,BORLEPAWAR GAJANAN VIJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9474,63647,12842,77.88,19118884,LAMTURE SHUBHAM SHIVRAJ,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6178,Pune,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",^,1.0
+9584,63867,22017,72.35,19133693,JOSHI OMKAR ATUL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",^,1.0
+9600,63883,30261,68.47,19135838,BANGAD SAURABH ANILKUMARJI,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",&,4.0
+9659,63942,48386,60.29,19129783,HERLEKAR SANKET SANJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6182,Pune,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",^,1.0
+9766,64621,21704,72.53,19117938,JOSHI VAIBHAV RANGNATH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9779,64634,28174,69.41,19133789,SARVESH BANDUPANT KULKARNI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9807,64662,34898,66.47,19118218,PATIL SAGAR KEVALSING,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9820,64675,41701,63.59,19129244,JOSHI RUSHIKESH VINOD,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9854,64709,51920,57.47,19137621,KULKARNI MANGESH MUKUND,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",*,3.0
+9866,64783,19375,73.76,19129348,CHAUDHARI RAHUL RATANSING,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9996,65023,4975,84.53,19116332,ANDURKAR CHAITANYA PRASHANTRAO,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+9998,65025,6172,83.35,19128538,RAYEWAR NIKHIL SANDEEP,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+10018,65045,5718,83.76,19127847,MUNGIKAR VARAD JAYANT,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+10035,65756,2664,87.24,19150721,TIWARI PAVAN RAVINDRAPRASAD,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+10037,65758,2981,86.82,19124605,SONTAKKE ROHAN RAVINDRAKUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+10057,65778,3669,85.95,19105866,KETKAR KALPESH MUKUND,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+10079,65800,430,92.29,19114688,AMLE PRATHMESH GANESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+10086,65807,786,91.0,19125041,GADWAL FURQAN MALANG,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",#,2.0
+10103,65824,1228,89.82,19109970,PIMPLE VARAD PRASHANT,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+10104,65825,1274,89.73,19112008,JOSHI KSHITIJA VIJAY,F,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+10114,65835,1873,88.59,19114754,KALANTRI HRITIK VIJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+10181,65914,2618,87.29,19108873,RUCHA JITENDRA KININGE,F,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+10198,65987,3573,86.06,19101245,RANJEET SHIVGONDA PATIL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+10208,65997,4134,85.41,19104529,KHANDELWAL SURAJ NANDKISHOR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+10236,66025,7058,82.53,19151028,PATIL ONKAR SHRIPADRAO,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+10237,66026,7334,82.29,19126117,ARAB ABULHASAN ALIM,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+10254,66199,13037,77.76,19111257,KANDE KEDAR SOMNATH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6284,Pune,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",^,1.0
+10276,66324,1801,88.71,19118604,DESHMUKH GAJANAN NANDKUMAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+10280,66328,3034,86.76,19140184,MOHAMMAD BILAL KHAN PATHAN AZEEZ KHAN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",*,3.0
+10297,66345,2321,87.82,19123824,KASTURE SARVESH SHASHANK,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+10298,66346,4359,85.18,19123554,KALE VARADA SHRIPAD,F,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+10314,66488,12706,78.0,19100242,RAWOOT FAIZAN MOOSA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",#,2.0
+10368,66542,40002,64.35,19127446,BIRAJDAR VISHAL ANIL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+10402,66576,43702,62.71,19147213,SASTIKAR ABHIRAM SHRIKANT,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",#,2.0
+10406,66580,45018,62.06,19139080,PADSALGE SWAPNIL KALGONDA,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",#,2.0
+10419,66593,49422,60.0,19100672,BHALE ASHWIN JITENDRA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6298,Pune,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",^,1.0
+10434,66914,19748,73.58,19115835,KHAN MOHAMMED MUSTAKIM FEROZ,M,OPEN/EWS,5,LSEBC,,401,Machanical,401,Machanical,6307,Pune,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",*,3.0
+10515,67045,10070,79.94,19103323,ROHIT UDDHAV PATIL,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6310,Pune,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",#,2.0
+10543,67073,20822,73.0,19127463,INAMDAR GAURAV ARUN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6310,Pune,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",#,2.0
+10594,67125,26621,70.12,19127191,KULKARNI PRASAD YESHWANT,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",*,3.0
+10628,67159,38407,65.0,19122439,PATHAN MUKTAR ALLAUDDIN,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",^,1.0
+10641,67172,45258,61.94,19150871,SONTAKKE ATUL DNYANOBA,M,OPEN/EWS,5,GST,,401,Machanical,401,Machanical,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",#,2.0
+10773,67819,31594,67.88,19144627,PATIL SURAJ SHARAD,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6323,Pune,"D. Y. Patil College of Engineering, Ambi, Talegaon, Maval",^,1.0
+10797,67843,44329,62.41,19146264,NAVADE SANKET SHRIPAD,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6323,Pune,"D. Y. Patil College of Engineering, Ambi, Talegaon, Maval",^,1.0
+10998,68507,30120,68.53,19123778,BAMHANE PRATIK NAVNATH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6609,Pune,"Jaihind College Of Engineering,Kuran",^,1.0
+11041,68603,11270,79.06,19121124,PATIL RUSHIKESH DATTATRAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6620,Pune,"D. Y. Patil Institute of Engineering and Technology, Ambi",*,3.0
+11294,68977,34065,66.82,19150007,SHAIKH MEHBUB ALI ASHPAK,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6634,Pune,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",^,1.0
+11300,68983,52695,56.41,19102865,KHAN ARBAZ ZUBAIR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6634,Pune,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",#,2.0
+11363,69584,20480,73.18,19136557,MAMIDWAR AKASH SATISH,M,OPEN/EWS,5,GOPEN,,401,Machanical,401,Machanical,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",*,3.0
+11388,69609,36272,65.88,19109450,CHETAN DEEPAK BAJPAI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",^,1.0
+11400,69621,41602,63.65,19109454,WALE ATHARVA SUJIT,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",^,1.0
+11425,69646,52216,57.12,19135652,GORTHEKAR ANIKET ARVIND,M,OPEN/EWS,5,PHNTD,,401,Machanical,401,Machanical,6649,Pune,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",#,2.0
+11546,69771,9098,80.71,19124287,KULKARNI VARAD VIVEK,M,OPEN/EWS,5,LST,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",&,4.0
+11561,69786,15867,75.82,19133865,BHALERAO PRATHMESH MAHESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11577,69802,35848,66.06,19145793,JOSHI JAYANT VINAYAK,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",*,3.0
+11609,69834,24012,71.35,19110267,BHALERAO DIVAKAR DHANANJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11629,69854,29092,69.0,19140248,KULAKARNI AVADHUT NARSINH,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",@,5.0
+11630,69855,29116,68.97,19129035,CHOUDHARI RUSHIKESH RAJENDRA,M,OPEN/EWS,5,LST,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11639,69864,30381,68.41,19132699,KULKARNI PRATHAMESH YAMUNADAS,M,OPEN/EWS,5,PHSC,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",#,2.0
+11652,69877,33495,67.06,19103585,SHAIKH SAQLAIN ABID,M,OPEN/EWS,5,GSC,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11667,69892,44185,62.47,19109068,JAMADAR ZULKARNAIN ASLAM,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11749,70150,51260,58.18,19157790,PATIL SAGAR BALAJI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6759,Pune,"Shree Ramchandra College of Engineering, Lonikand,Pune",*,3.0
+11856,70476,29622,68.76,19119651,JADHAV PRAMOD VITTHAL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6768,Pune,"P.K. Technical Campus, Pune.",^,1.0
+11896,70516,15602,76.0,19122952,BIRADAR GANESH SHIVAJI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",#,2.0
+11897,70517,16078,75.71,19100775,PRAYAG AKASH DHANANJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+11960,70580,50158,59.12,19123185,PRAYAG SADANAND SUDHIR,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+12006,70979,17534,75.0,19144277,JOSHI VYANKATESH SUNILRAO,M,OPEN/EWS,5,PHO,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+12036,71009,24627,71.06,19148094,THIGLE VISHAL SHIVRAJ,M,OPEN/EWS,5,GST,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+12082,71055,35748,66.12,19103404,DESHPANDE RUSHIKESH GOVINDRAO,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+12133,71106,36669,65.71,19141490,MANDWADKAR RUTVIJ PANDURANG,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+12134,71107,37233,65.47,19119358,PATEL MAAJ SANAULLA,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+12143,71116,41552,63.65,19138917,SHIVGAR SMIT SAMEER,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+12164,71137,47645,60.71,19127817,SHAIKH JUNAID HAMID,M,OPEN/EWS,5,PHSC,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",#,2.0
+12166,71139,47778,60.65,19133134,FARDIN KHAN QUTUBUDDIN KHAN,M,OPEN/EWS,5,PHNTC,,401,Machanical,401,Machanical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+12355,71721,35222,66.35,19105738,BUDDHISAGAR ANANT SURESH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",^,1.0
+12427,71810,28380,69.31,19104514,KHUMSE ROHAN RAVISHANKAR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6796,Pune,"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",#,2.0
+12462,71914,6350,83.19,19131841,KIMBAHUNE GAURAV RAVINDRA,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12465,71917,8165,81.47,19117788,VIRDHE AAKASH ATUL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12490,71942,9565,80.35,19128504,PATHAK PARTH SANJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12568,72230,1903,88.53,19100987,SARAF PRATHAMESH SHAMRAO,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+12575,72237,5472,84.0,19101593,PATIL YASH DHANANJAY,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",&,4.0
+12651,72313,45519,61.82,19113661,SAGARE SANKET MAHALINGAPPA,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",^,1.0
+12673,72927,6156,83.36,19117097,KULKARNI VENKATESH RAJENDRA,M,OPEN/EWS,5,EWS,,402,Production,402,Production,6006,Pune,"College of Engineering, Pune",^,1.0
+12682,72936,29967,68.59,19105346,AGRAWAL ANUJ PRADEEP,M,OPEN/EWS,5,GOPEN,,401,Machanical,402,Production,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",#,2.0
+12716,73073,31943,67.71,19119112,KASTURE DINESH PRAKASH,M,OPEN/EWS,5,LOPEN,,402,Production,402,Production,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+12728,73085,3803,85.81,19105231,JOSHI VAIBHAVI GANESH,F,OPEN/EWS,5,LOPEN,,302,ENTC,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+12731,73088,8660,81.06,19156172,AWALWAR VAISHNAVI SURESH,F,OPEN/EWS,5,GOPEN,,402,Production,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",&,4.0
+12740,73097,17643,75.0,19101798,CHANDAK KUMAR RAJESH,M,OPEN/EWS,5,EWS,,401,Machanical,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+12764,73121,12462,78.18,19122262,JOSHI BHARAT ASHOKRAO,M,OPEN/EWS,5,EWS,,402,Production,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+12774,73131,1561,89.12,19117519,JUNDALE RAJNISH APPASAHEB,M,OPEN/EWS,5,GOPEN,,401,Machanical,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",#,2.0
+12781,73138,9377,80.47,19103740,SOMOSHI SHUBHAM VILAS,M,OPEN/EWS,5,LOPEN,,401,Machanical,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+12785,73142,15584,76.0,19136850,AWALWAR SNEHA SUNIL,F,OPEN/EWS,5,LOPEN,,402,Production,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",&,4.0
+12787,73144,17022,75.12,19105192,REJA MANAV TUSHARKANT,M,OPEN/EWS,5,GST,,401,Machanical,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+12788,73145,17106,75.06,19130799,BHARASWADKAR MANTHAN SATISH,M,OPEN/EWS,5,EWS,,402,Production,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",#,2.0
+12799,73156,29389,68.87,19103955,SOMOSHI AKSHAY RAKHMAJI,M,OPEN/EWS,5,GNTA,,401,Machanical,402,Production,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",*,3.0
+12812,73169,524,91.93,19133909,PATHAN HABIB KADARKHA,M,OPEN/EWS,5,EWS,,404,Metallurgy (Foundry Technology),404,Metallurgy (Foundry Technology),6006,Pune,"College of Engineering, Pune",^,1.0
+12844,73373,53698,54.42,19135900,KULKARNI ONKAR SURESHRAO,M,OPEN/EWS,5,EWS,,601,Printing Technology,601,Printing Technology,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0

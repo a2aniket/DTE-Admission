@@ -1,0 +1,57 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+6,6,2185,88.06,19110299,DIVYA KEDIA,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+33,875,2185,88.06,19110299,DIVYA KEDIA,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+44,896,3039,86.75,19106209,MULEY DHANASHREE RAJESH,F,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+74,926,6616,82.94,19131612,BURSE ISHANT NITIN,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+97,949,13313,77.58,19150465,SAMEER MULLA ANEES MULLA,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+117,969,23313,71.71,19118767,MOHAMMAD SOHEL MOHAMMAD SABIR,M,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+176,1169,36508,65.82,19116129,JUNAID AHMAD ABDUL JAMEEL,M,OPEN/EWS,5,EWS,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",#,2.0
+209,1202,42899,63.06,19117827,MOHAMMAD SAQUIB RAZA MOHAMMAD AFSAR,M,OPEN/EWS,5,EWS,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+217,1210,44066,62.55,19154885,ASOPA ANAND PRABHUDAYAL,M,OPEN/EWS,5,PHST,,1,,201,Civil,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+248,1241,37067,65.56,19134842,MATHE ABHISHEK RAJESH,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+327,1372,25373,70.73,19129639,KATEKAR RUCHA SANTOSH,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+330,1406,5914,83.59,19129094,LOYA YUKTI MANOJ,F,OPEN/EWS,5,EWS,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+336,1412,10295,79.76,19129248,BAIS DINESH GOPALSINGH,M,OPEN/EWS,5,GOPEN,,201,Civil,201,Civil,1148,Amravati,"P. R. Pote Patil Institute of Engineering & Research, At Kathora, Amravati",^,1.0
+356,12797,1116,90.06,19100829,MISHRA TRUNIKA PRAVINKUMAR,F,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+363,12804,1921,88.5,19107876,PANDEY SHRADDHA PREMKUMAR,F,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+372,12837,3802,85.81,19147172,MORYANI NAINA ASHOK,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+376,12841,5066,84.44,19125729,SHAH ZAHABIYA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+379,12844,6633,82.94,19108533,DESHPANDE SHARVARI SHRIKANT,F,OPEN/EWS,5,LST,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+394,12859,10881,79.31,19105858,NEMADE RADHIKA DIGAMBAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+396,12861,11359,79.0,19104852,FARHAN SHEIKH,M,OPEN/EWS,5,LNTC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+428,12893,19182,73.88,19124516,DAVE YASHASWINI RAJESH,F,OPEN/EWS,5,PHO,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",*,3.0
+440,12905,23977,71.38,19126776,KUKADI VAIBHAV GAJANAN,M,OPEN/EWS,5,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+443,12908,26058,70.38,19148478,ADATIYA YASH KAMLESH,M,OPEN/EWS,5,GSEBC,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+459,12924,33951,66.88,19103985,FAISAL RAZA KHAN FIROZ KHAN,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+460,12925,34118,66.81,19126512,JAJU SAKSHI UMESHKUMAR,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+468,12933,9804,80.13,19147877,KUKREJA SHRUTI SUNIL,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+491,12956,29168,68.94,19120744,GULWADE SAMIKSHA SANJAY,F,OPEN/EWS,5,DFNTD,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+494,12959,36602,65.76,19109080,JOSHI OMKAR SOMESHWAR,M,OPEN/EWS,5,PHO,,301,Computer & IT,301,Computer & IT,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+495,12960,2131,88.13,19133553,KALE RENUKA SANJAY,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+502,12967,8232,81.44,19109229,PATHE DHANASHREE PRASANNA,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+520,12985,15305,76.19,19134174,SHARMA KAPIL PRAMOD,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+529,12994,21623,72.58,19145464,VISHAL KANHAIYALAL LEKHARAJANI,M,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",#,2.0
+532,12997,23129,71.81,19136587,SHEIKH ABDUL TAUKIR ABDUL KADIR,M,OPEN/EWS,5,GOPEN,,301,Computer & IT,301,Computer & IT,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+563,13189,4069,85.5,19122182,KHAN SHIBA SALIMKHAN,F,OPEN/EWS,5,LOPEN,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",#,2.0
+575,13201,33764,66.94,19128196,SHARMA MUKESH NARESH,M,OPEN/EWS,5,GST,,301,Computer & IT,301,Computer & IT,1121,Amravati,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",^,1.0
+648,13398,23978,71.38,19129566,TIWARI SANSKRUTI JAGDISH,F,OPEN/EWS,5,EWS,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+702,24526,480,92.06,19132053,SHIRADKAR SAKSHI NANDKUMAR,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+719,24629,7813,81.81,19119670,ZANWAR MINANK NAVALKISHOR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+756,24666,53799,54.12,19149079,MOHAMMED SUFIYAN MOHAMMED MUSHABBAR,M,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",&,4.0
+764,24749,8608,81.12,19112573,SAYYADA ADEEBA FIRDOUS SYED SAEED AHMAD,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+770,24755,23307,71.71,19119783,BHUTADA MONALI VIJAYKUMAR,F,OPEN/EWS,5,LOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+776,24761,31519,67.88,19144267,PASARKAR RUDRESH RAVINDRA,M,OPEN/EWS,5,GOPEN,,302,ENTC,302,ENTC,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+791,24803,21283,72.76,19122767,CHHANGANI JIGYASA KALYAN,F,OPEN/EWS,5,EWS,,302,ENTC,302,ENTC,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+870,40976,2722,87.15,19134535,DRON RITIK KIRANKUMAR,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+928,41054,26080,70.36,19145905,WAJPE MANDAR SHRIPAD,M,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+993,41332,27029,69.94,19109258,SAMEERA SIDDIQUA KHAN,F,OPEN/EWS,5,EWS,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1067,49488,9009,80.76,19111834,SAYYADA ITRAT FATEMA SYED BABER ALI,F,OPEN/EWS,5,GOPEN,,302,ENTC,305,Instrumentation,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1079,50174,493,92.05,19103473,SHAIKH MOHD JUNAID M ISMAIL,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+1092,50214,3533,86.13,19143427,THAKUR MOHIT GOPALSINGH,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1093,50215,3724,85.88,19111772,AGRAWAL RISHABH KISHOR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",#,2.0
+1135,50257,7905,81.71,19117708,MISAR GANESH JUGALKISHOR,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+1195,50317,39313,64.63,19156919,SYED AATIF SOHEL NUSRATALI,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1209,50331,48752,60.06,19154053,KHANDALIKAR DIGVIJAY BALASAHEB,M,OPEN/EWS,5,GST,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1215,50337,50229,59.06,19130883,KULKARNI MAYURESH DHANANJAY,M,OPEN/EWS,5,GSEBC,,401,Machanical,401,Machanical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",*,3.0
+1236,50367,35245,66.35,19131085,KASHIB AHMED,M,OPEN/EWS,5,LOPEN,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",@,5.0
+1276,50671,31663,67.82,19157597,ISHRAN KHAN SADIQUE KHAN,M,OPEN/EWS,5,EWS,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",*,3.0

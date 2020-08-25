@@ -1,0 +1,851 @@
+,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+7,8635,81.09,19115650,KOKATE SATYABHAMA PRALHAD,F,ST,6,LST,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+132,51740,57.7,19146979,KUMARE AKSHAY SHYAM,M,ST,6,GST,,101,Chemical,101,Chemical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+238,50509,58.85,19124447,HANDE SURAJ KISAN,M,ST,6,GST,,101,Chemical,101,Chemical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+283,49332,60.0,19124142,GAMBHIRE KRUSHNA RAMDAS,M,ST,6,GST,,101,Chemical,101,Chemical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+364,43789,62.67,19142442,MOKASHE AVINASH ARUN,M,ST,6,LST,,101,Chemical,101,Chemical,4005,Nagpur,"Laxminarayan Institute of Technology, Nagpur",^,1.0
+408,50933,58.48,19133342,BORASE DEEPESH TUSHAR,M,ST,6,GST,,101,Chemical,101,Chemical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+692,6024,83.5,19156877,RAJGADE NAMRATA MANOJ,F,ST,6,GNTC,,103,Food Technology,103,Food Technology,1005,Amravati,"Sant Gadge Baba Amravati University,Amravati",*,3.0
+766,5291,84.2,19156954,RAJGADE NATASHA MANOJ,F,ST,6,GOPEN,,103,Food Technology,103,Food Technology,6028,Kolhapur,"Department of Technology, Shivaji University, Kolhapur",#,2.0
+876,8635,81.09,19115650,KOKATE SATYABHAMA PRALHAD,F,ST,6,LST,,201,Civil,201,Civil,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+886,14009,77.09,19118755,KARHALE TEJSVINI BRAMHAJI,F,ST,6,GST,,201,Civil,201,Civil,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+907,29399,68.85,19124048,CHAVHAN PALLAVI RAMESH,F,ST,6,LST,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+931,8147,81.5,19118081,CHAVAN SHIRISH MADHUKAR,M,ST,6,GST,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",^,1.0
+936,22819,71.94,19110538,ZALAKE PRATIKSHA NARAYAN,F,ST,6,GST,,201,Civil,201,Civil,1105,Amravati,"Prof. Ram Meghe Institute of Technology & Research, Amravati",&,4.0
+971,41189,63.82,19122327,JAWARKAR RAJEEV CHOTELAL,M,ST,6,GST,,201,Civil,201,Civil,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+988,38792,64.85,19106919,CHAVHAN SAGAR PRATAP,M,ST,6,GST,,201,Civil,201,Civil,1116,Akola,"Shri Shivaji Education Society's College of Engineering and Technology, Akola",^,1.0
+1023,43392,62.85,19142044,BHISE NEHA SAMBHAJI,F,ST,6,LOPEN,,201,Civil,201,Civil,1117,Yavatmal,"Janata Shikshan Prasarak Mandal's Babasaheb Naik College Of Engineering, Pusad",^,1.0
+1111,52839,56.18,19150126,MESHRAM ADARSH SANJAY,M,ST,6,MIMH,,201,Civil,201,Civil,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^-,
+1252,46048,61.56,19155981,MASRAM CHETAN ANILKUMAR,M,ST,6,GST,,201,Civil,201,Civil,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+1291,10275,79.76,19126202,WAGHADE PRAVIN VITTHAL,M,ST,6,GOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1294,12215,78.36,19133339,BHOSALE MADHURI KAWANE,F,ST,6,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1303,24316,71.21,19145784,NEHARE SHWETA VITTHAL,F,ST,6,LOPEN,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1322,49325,60.0,19131028,MARAPE VISHAL MAROTI,M,ST,6,GST,,201,Civil,201,Civil,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+1373,37478,65.39,19151499,GAJLEKAR KAJAL GANESH,F,ST,6,LST,,201,Civil,201,Civil,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+1468,32242,67.59,19120764,SOLANKE AKSHAY BABUSING,M,ST,6,LST,,302,ENTC,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1490,49343,60.0,19150238,PAWAR MAYUR MURLIDHAR,M,ST,6,GST,,201,Civil,201,Civil,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+1518,23946,71.39,19117179,SODE RIYA NARENDRA,F,ST,6,GST,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1533,47524,60.79,19149812,RATHOD BHAKTI GAJANAN,F,ST,6,GST,,201,Civil,201,Civil,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+1597,4496,85.03,19118149,TADAVI MUSKAN SURAJKUMAR,F,ST,6,LST,,201,Civil,201,Civil,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+1696,43797,62.67,19158842,PAWARA SAGAR AHANJYA,M,ST,6,GOPEN,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",^,1.0
+1746,54219,52.18,19121616,PAWARA AMUL GAMERSING,M,ST,6,GST,,201,Civil,201,Civil,2112,Aurangabad,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",&,4.0
+1762,8429,81.27,19129930,GATTUWAR ABHISHEK ANJAN,M,ST,6,GOPEN,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1774,19634,73.64,19105633,GAVIT RASHID SHANTYA,M,ST,6,GST,,201,Civil,201,Civil,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+1842,37043,65.58,19120131,SONAWANE RISHI RAJESH,M,ST,6,GST,,201,Civil,201,Civil,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1843,49910,59.33,19124100,GAIKWAD SNEHA TULSHIRAM,F,ST,6,LST,,201,Civil,201,Civil,2114,Aurangabad,"Deogiri Institute of Engineering and Management Studies, Aurangabad",^,1.0
+1915,17066,75.09,19122656,PARADKE JAGAN GANPAT,M,ST,6,GST,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1921,40638,64.06,19104379,DUBHALKAR PRALHAD ANKUSH,M,ST,6,GST,,201,Civil,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1970,46228,61.47,19155343,NILAPWAD NITIN MAROTRAO,M,ST,6,GST,,401,Machanical,201,Civil,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+1983,48568,60.18,19113042,PRAGATI BALAJI GHORPADE,F,ST,6,LST,,201,Civil,201,Civil,2127,Nanded,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",^,1.0
+2031,13232,77.64,19142003,LAGGAD JAYSHRI DNYANESHWAR,F,ST,6,LST,,201,Civil,201,Civil,2131,Osmanabad,"Shree Tuljabhavani College of Engineering, Tuljapur",^,1.0
+2080,3564,86.11,19108274,SONAWANE MAHESH RAJENDRA,M,ST,6,GST,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",^,1.0
+2105,12632,78.06,19155400,VASAVE PRASHANT CHINTAMAN,M,ST,6,GST,,201,Civil,201,Civil,2132,Aurangabad,"M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad",&,4.0
+2355,50597,58.79,19158759,BHANGARE PORNIMA SHANTARAM,F,ST,6,LST,,201,Civil,201,Civil,2138,Jalna,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna",^,1.0
+2421,19485,73.71,19134855,YOGITA AMRUT VASAVE,F,ST,6,LST,,1,,201,Civil,2250,Aurangabad,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad",^,1.0
+2498,48624,60.18,19150162,VANJARE PREETI NAMDEV,F,ST,6,LST,,201,Civil,201,Civil,2252,Parbhani,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani",^,1.0
+2790,8937,80.85,19109620,MUKANE TEJAL MANOHAR,F,ST,6,LST,,201,Civil,201,Civil,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+2799,3196,86.55,19130704,JADHAV SHRIKANT SUBHASH,M,ST,6,GST,,201,Civil,201,Civil,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+2816,35834,66.06,19111622,GATTUWAR RAJESH BALAJI,M,ST,6,GST,,201,Civil,201,Civil,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+2885,19853,73.52,19106627,BAMBLE HRUTIK JAIRAM,M,ST,6,GST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2888,22120,72.3,19132677,GAIKWAD ROHIT JAGANNATH,M,ST,6,GST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2896,38761,64.85,19124746,JOSHI VISHAKHA GANPAT,F,ST,6,LST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2897,39512,64.55,19107431,REENA DHANSUKH GAVIT,F,ST,6,LST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2898,42052,63.45,19109674,DIWATE MAYURESH BALU,M,ST,6,GST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2899,44868,62.14,19145628,MEMANE KETAN KISAN,M,ST,6,GST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+2946,42637,63.21,19133055,THAKUR MAYUR BHAGWAN,M,ST,6,LST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2947,42979,63.03,19111573,VALVI RAHUL MAHENDRASING,M,ST,6,LST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+2949,51965,57.45,19140746,TATALE YOGESH RAMDAS,M,ST,6,GST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",&,4.0
+2950,53522,54.91,19110922,SALUNKHE AKSHADA VILAS,F,ST,6,PHST,,201,Civil,201,Civil,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",*,3.0
+2968,16891,75.21,19128339,ANIL SONU IDE,M,ST,6,GST,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+2978,38041,65.15,19125189,LANGHI MADHURI DNYANESHWAR,F,ST,6,GST,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",#,2.0
+3019,50788,58.61,19132310,MADAGE GANESH SUDAM,M,ST,6,GST,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+3020,53037,55.92,19140981,CHAUDHARI SHANTARAM RAMDAS,M,ST,6,GST,,201,Civil,201,Civil,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",*,3.0
+3089,10764,79.39,19103629,SABLE SIDDHI LAXMAN,F,ST,6,LST,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+3090,15651,76.0,19103620,PADVI VIVEK RAJENDRA,M,ST,6,GST,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+3091,22795,72.0,19123523,DHUM DARSHAN ARUN,M,ST,6,GST,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+3116,22907,71.92,19113558,VASAVE DEEPKUMAR BHANUDAS,M,ST,6,GST,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+3117,25096,70.85,19122655,SISODE NIKHIL PRAVIN,M,ST,6,GST,,201,Civil,201,Civil,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+3129,30860,68.18,19105318,SISODE KOMAL SATISH,F,ST,6,LST,,201,Civil,201,Civil,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+3135,4323,85.21,19128318,BHAWARI JANARDAN RAOSAHEB,M,ST,6,GST,,201,Civil,201,Civil,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+3212,30474,68.36,19157262,CHAUDHARI NIKHIL SITARAM,M,ST,6,GST,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",#,2.0
+3215,35567,66.18,19110925,MENGAL NIKHIL SANJAY,M,ST,6,GST,,201,Civil,201,Civil,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+3233,16328,75.58,19140449,RAUT VISHAL VINAYAK,M,ST,6,GOPEN,,201,Civil,201,Civil,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+3311,43169,62.96,19100833,DAMSE DINESH GANPAT,M,ST,6,MIMH,Physical impairment,201,Civil,201,Civil,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+3331,10458,79.64,19127390,KHARPADE ARCHANA RAGHUNATH,F,ST,6,LOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3345,13933,77.15,19114362,MADHA RAMESH KANTU,M,ST,6,GOPEN,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3376,25138,70.85,19126428,CHOTHE SUJIT BABU,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3395,31093,68.07,19116837,ASHISH ROHIDAS SHINGADE,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3397,31404,67.94,19127489,MATERA RAJU SUGAN,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3401,33750,66.97,19114744,HADAL MANOJ KAKADYA,M,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3416,50435,58.91,19142736,KAMADI PUJA KISAN,F,ST,6,GST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+3419,50926,58.48,19105687,SHELKE SUSHANT BUDHAJI,M,ST,6,LST,,201,Civil,201,Civil,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+3600,47188,60.97,19117167,CHAUDHARI SACHIN GORAKH,M,ST,6,GST,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+3607,50939,58.48,19118836,MOSE RUSHIKESH CHINTAMAN,M,ST,6,GST,,201,Civil,201,Civil,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",#,2.0
+3649,42850,63.09,19138477,VALVI NIKHIL MUKESH,M,ST,6,GST,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+3664,48825,60.06,19104467,LOHAKARE PURUSHOTTAM GANESH,M,ST,6,GST,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",#,2.0
+3666,49297,60.0,19123102,GHANE SHUBHANGI BHAU,F,ST,6,LST,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+3677,54254,51.94,19107413,KATHE YOGESH SUBHASH,M,ST,6,GST,,201,Civil,201,Civil,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+3710,33564,67.03,19123958,CHAPTE SNEHAL CHANDRAKANT,F,ST,6,GSEBC,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",#,2.0
+3721,37316,65.45,19135528,DESHMUKH PRIYANKA GULABRAO,F,ST,6,LST,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+3728,41959,63.52,19144217,PADVI ANISHA SUNIL,F,ST,6,GST,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+3739,50869,58.55,19102196,SOLANKE AMOL MADHUKAR,M,ST,6,GST,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+3740,51955,57.45,19119295,KIRKIRA RUCHITA MANGALDAS,F,ST,6,GST,,201,Civil,201,Civil,3353,Raigad,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai",^,1.0
+3994,48287,60.36,19151828,VASAVE SUDIP ROHIDAS,M,ST,6,GST,,201,Civil,201,Civil,3440,Sindhudurg,"Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.",&,4.0
+4050,30616,68.3,19154092,MHASKAR DHIRAJ YASHAVANT,M,ST,6,GOPEN,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+4056,40319,64.18,19151131,MALAVKAR HARISHCHANDRA SHANTARAM,M,ST,6,GST,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+4079,48756,60.06,19134343,GHARE KARTIK LAXMAN,M,ST,6,GST,,201,Civil,201,Civil,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+4115,48603,60.18,19108016,PARADHI YOGESH GANGARAM,M,ST,6,GST,,1,,201,Civil,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+4327,47432,60.85,19112719,KADU AKSHAY BALKRUSHNA,M,ST,6,GST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4332,54099,52.91,19102510,PAWAR ABHIJEET RAJARAM,M,ST,6,GST,,201,Civil,201,Civil,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+4339,17833,74.97,19129423,WARGUDE NAYAN GANPAT,M,ST,6,GOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",&,4.0
+4355,29149,68.97,19119029,HAMBIR JANARDAN JANU,M,ST,6,GOPEN,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+4360,31046,68.12,19106802,WAGHAMARE RAJESH GANPAT,M,ST,6,GNTB,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",&,4.0
+4421,53187,55.64,19113497,THAIL HEMANT APINATH,M,ST,6,GST,,201,Civil,201,Civil,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+4466,25496,70.67,19127838,PARAD PRANIT RAMU,M,ST,6,GST,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+4472,36428,65.82,19103047,BURUD SAURABH SUDAM,M,ST,6,GST,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+4473,41071,63.88,19113799,SANCHITA DATTATRAY BAMBLE,F,ST,6,LST,,201,Civil,201,Civil,3471,Thane,"New Horizon Institute of Technology & Management, Thane",^,1.0
+4606,43513,62.79,19109451,BHALA MAHESH NAMDEV,M,ST,6,LST,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",&,4.0
+4633,51136,58.3,19156801,TADVI AMAN RAJKHA,M,ST,6,GST,,201,Civil,201,Civil,3477,Raigad,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",^,1.0
+4647,32602,67.45,19132684,KURSUNGE SURESHCHANDRA CHANDRASHEKHAR,M,ST,6,GST,,201,Civil,201,Civil,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+4656,8299,81.39,19125932,UIEKEY HARSHID ARJUN,M,ST,6,GST,,201,Civil,201,Civil,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+4716,15824,75.88,19158990,SONWANE RAHUL DEVIDAS,M,ST,6,GOPEN,,201,Civil,201,Civil,4118,Wardha,"Bapurao Deshmukh College of Engineering, Sevagram",^,1.0
+4730,33708,66.97,19113897,CHETAKKUMAR SHRAVAN SALAM,M,ST,6,GST,,201,Civil,201,Civil,4118,Wardha,"Bapurao Deshmukh College of Engineering, Sevagram",^,1.0
+4733,38534,64.94,19156520,MANGAM APARNA ANANDRAO,F,ST,6,LOPEN,,201,Civil,201,Civil,4118,Wardha,"Bapurao Deshmukh College of Engineering, Sevagram",^,1.0
+4741,50905,58.53,19115465,KARNAKE MONALI TEJRAO,F,ST,6,LST,,201,Civil,201,Civil,4118,Wardha,"Bapurao Deshmukh College of Engineering, Sevagram",^,1.0
+4906,38667,64.91,19122179,MADAVI ABHISHEK RAJU,M,ST,6,GOPEN,,201,Civil,201,Civil,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+5092,44854,62.18,19131302,SHRIRAME ASHWINA DEODAS,F,ST,6,LST,,201,Civil,201,Civil,4143,Bhandara,"Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara,Nagpur",^,1.0
+5218,35714,66.12,19139004,MUKADE OMKAR BHAGWAN,M,ST,6,GST,,201,Civil,201,Civil,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+5247,34280,66.75,19134789,TELAMI SHRIKANT SOMAJI,M,ST,6,LST,,301,Computer & IT,201,Civil,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+5279,11614,78.79,19111465,PENDHARKAR PAYAL VIJAY,F,ST,6,LST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+5287,17967,74.97,19132535,PENDAM SHUBHANGI GANESH,F,ST,6,GST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+5288,19959,73.45,19111262,BHALAWE SAKSHI UMESH,F,ST,6,GST,,201,Civil,201,Civil,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+5439,50987,58.44,19107799,SALAME SHASHANK PRABHAKAR,M,ST,6,GST,,201,Civil,201,Civil,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",^,1.0
+5490,30483,68.36,19108589,SHENDE ANIKET BHALCHANDRA,M,ST,6,MIMH,,201,Civil,201,Civil,4179,Nagpur,"Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur",^-,
+5656,8708,81.03,19153908,WADHAWE PRAJWAL DASHARATH,M,ST,6,GOPEN,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+5686,35868,66.06,19146231,DHARANE PRASHANT BALIRAM,M,ST,6,GST,,201,Civil,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+5687,45089,62.06,19155714,PARCHAKE PAVAN SANTOSH,M,ST,6,LST,,401,Machanical,201,Civil,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+5699,21224,72.79,19129726,KANNAKE RITIKA DEVRAV,F,ST,6,LOPEN,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+5718,29128,68.97,19145754,MADAVI RAVINA KARTARSINGH,F,ST,6,LST,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+5723,32559,67.47,19158409,KULMETHE LAXMAN MADHUKAR,M,ST,6,GST,,401,Machanical,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+5734,36210,65.94,19126479,MADAVI BHAGYASHREE DEWANAND,F,ST,6,GST,,201,Civil,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+5742,44625,62.29,19158860,MESHRAM LALIT MAHADEO,M,ST,6,DFST,,401,Machanical,201,Civil,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+5778,47822,60.63,19157138,BHANDARI SHUBHAM DASHRATH,M,ST,6,GOPEN,,201,Civil,201,Civil,4192,Nagpur,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",^,1.0
+6016,33323,67.15,19104621,SHUBHAM UIKEY,M,ST,6,GST,,201,Civil,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+6022,35866,66.06,19105562,WADVE AMIT RAMESH,M,ST,6,GST,,201,Civil,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+6037,47260,60.94,19151333,TEKAM MUKTANAND LIKHIRAM,M,ST,6,LST,,301,Computer & IT,201,Civil,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+6334,6996,82.61,19122069,CHAVAN DIPALI PRABHAKAR,F,ST,6,GST,,201,Civil,201,Civil,5004,Jalgaon,"Government College of Engineering, Jalgaon",^,1.0
+6347,18447,74.3,19106444,KOKANI AISHWARYA SHIRISHKUMAR,F,ST,6,GST,,201,Civil,201,Civil,5103,Dhule,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",^,1.0
+6383,22188,72.25,19137038,PAWARA SANGITA SETA,F,ST,6,LST,,301,Computer & IT,201,Civil,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",^,1.0
+6389,26664,70.12,19158558,MORE NIKHIL BHAGWAN,M,ST,6,GST,,201,Civil,201,Civil,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",^,1.0
+6411,24697,71.03,19114976,TADAVI ALISHA AJITKHA,F,ST,6,LOPEN,,201,Civil,201,Civil,5105,Jalgaon,"G.H. Raisoni Institute of Engineering and Management, Jalgaon",^,1.0
+6439,41225,63.82,19106871,TADAVI KU KARISHMA MUSTUFA,F,ST,6,MIMH,,201,Civil,201,Civil,5105,Jalgaon,"G.H. Raisoni Institute of Engineering and Management, Jalgaon",^-,
+6452,46860,61.15,19127508,PAWARA DIPAK ROHIDAS,M,ST,6,MIMH,,201,Civil,201,Civil,5105,Jalgaon,"G.H. Raisoni Institute of Engineering and Management, Jalgaon",^-,
+6469,11814,78.67,19127605,JADHAV KIRAN PUNDLIK,M,ST,6,GST,,201,Civil,201,Civil,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+6486,19010,74.0,19109330,GAIKWAD ROSHAN WAMAN,M,ST,6,GST,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",#,2.0
+6488,19844,73.52,19145800,GAVIT PUSHPANJALI SHANTARAM,F,ST,6,LST,,201,Civil,201,Civil,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+6510,8007,81.64,19142063,KENG BHAGYASHRI BHASKAR,F,ST,6,GST,,201,Civil,201,Civil,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+6526,9287,80.55,19136304,PALVE ROHIT BHAGWAN,M,ST,6,GST,,201,Civil,201,Civil,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+6575,44817,62.18,19133289,BHOYE DEVIDAS RAMA,M,ST,6,LST,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",*,3.0
+6580,48982,60.0,19121061,SONAWANE ROHIT YASHAWANT,M,ST,6,GST,,201,Civil,201,Civil,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+6591,16343,75.58,19155946,PATEKAR KUNAL SUHAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6595,21100,72.85,19103348,AVINASH ARUN CHAVAN,M,ST,6,GOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6601,27963,69.52,19157008,NAIK PRIYANKA NETAJI,F,ST,6,LOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6602,28221,69.39,19131167,BAGUL GANESH SHIVARAM,M,ST,6,GOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6609,33014,67.27,19146495,GAVIT GAURAV JIBHAU,M,ST,6,GST,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6613,35156,66.36,19148905,DHUM HEMANGI BHAU,F,ST,6,LOPEN,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6614,35538,66.18,19143029,RAUT HEMANT MADHUKAR,M,ST,6,GST,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6616,36481,65.82,19158413,THOMARE MADHURI HARISHCHANDRA,F,ST,6,LST,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6622,40315,64.18,19134307,GUMBADE UMESH RANGNATH,M,ST,6,PHST,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6623,40516,64.12,19103359,MADHURI BHAGWAT BHOYE,F,ST,6,LST,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6626,40920,63.94,19122052,PAWAR DYANDEV KALU,M,ST,6,LSEBC,,201,Civil,201,Civil,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+6666,37754,65.27,19115730,PIMPALE SHWETA SUKHDEV,F,ST,6,GST,,201,Civil,201,Civil,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+6682,11962,78.55,19116317,UMBARSADA SONALI LAXMAN,F,ST,6,LST,,201,Civil,201,Civil,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+6683,13145,77.7,19149434,CHAURE DAMINI VALU,F,ST,6,GST,,201,Civil,201,Civil,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+6725,24831,70.97,19115495,GAVIT GAYATRI BHAGWAN,F,ST,6,LST,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+6727,45596,61.76,19140620,NADEKAR HARSHADA LAXMAN,F,ST,6,GST,,201,Civil,201,Civil,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",*,3.0
+6741,42599,63.21,19125572,GHIGE SANDHYA UTTAM,F,ST,6,LST,,201,Civil,201,Civil,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+6760,16136,75.69,19127224,BHANGARE PRAGATI DAMU,F,ST,6,GST,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+6764,20146,73.33,19112816,RAHUL PRAVIN PAWAR,M,ST,6,GST,,201,Civil,201,Civil,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+6769,22602,72.06,19135429,PAWARA NIKITA SATTARSING,F,ST,6,LOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6773,35286,66.3,19129184,PAWARA MOHINI VIJAY,F,ST,6,LOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6774,36051,66.0,19128909,PADVI AMRUTA FULSING,F,ST,6,LOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6777,39077,64.73,19148275,PAWARA ARUN FATTESING,M,ST,6,GOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6781,43253,62.91,19140842,VALVI LULYA RAMA,M,ST,6,GOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6782,44039,62.55,19158671,PADVI RAJANI HURYA,F,ST,6,LOPEN,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+6791,45897,61.64,19130206,PADVI ALPESH RAJENDRA,M,ST,6,MIMH,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^-,
+6799,48689,60.12,19146359,PATALE HIMMAT NAMDEV,M,ST,6,MIMH,,201,Civil,201,Civil,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",&-,4.0
+6821,40069,64.3,19147890,TADVI MEHTAB KHALIL,F,ST,6,LST,,201,Civil,201,Civil,5168,Jalgaon,"T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur",^,1.0
+6822,41039,63.88,19157770,TADAVI JAVED MAHEMUD,M,ST,6,GOPEN,,201,Civil,201,Civil,5168,Jalgaon,"T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur",^,1.0
+6834,49481,60.0,19154985,TADVI AMIN IBRAHIM,M,ST,6,GST,,201,Civil,201,Civil,5168,Jalgaon,"T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur",^,1.0
+6835,49969,59.27,19134839,AAMIN CHANDKHA TADAVI,M,ST,6,PHST,,201,Civil,201,Civil,5168,Jalgaon,"T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur",^,1.0
+6858,13662,77.33,19122783,KOKANI SINDHU JIVALU,F,ST,6,LOPEN,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+6863,23322,71.7,19128238,MORE RAHUL RAJENDRA,M,ST,6,GOPEN,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+6873,30472,68.36,19128699,CHAURE PRANJALI RAVINDRA,F,ST,6,LST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+6883,35301,66.3,19107588,GAWLI REENA JAGAN,F,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+6916,48867,60.0,19153249,SABALE KARTIKKUMAR CHINTAMAN,M,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+6918,49889,59.33,19135483,PAWAR GAYATRI ANIL,F,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",&,4.0
+6994,29678,68.73,19130089,PAWAR SHAILENDRA SUNIL,M,ST,6,MIMH,,201,Civil,201,Civil,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",*-,3.0
+7096,15510,76.06,19103991,GAVIT KARAN CHIMANRAO,M,ST,6,GOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7097,16420,75.52,19133108,BHOYE ANUJA GIRIDHAR,F,ST,6,LOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7106,25956,70.42,19146345,BHOYE JAGRUTI KADU,F,ST,6,LOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7110,27829,69.58,19158528,BAGUL TRUPTI SAIRAM,F,ST,6,LOPEN,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7114,28500,69.27,19133795,BAGUL CHETANA FAKIRA,F,ST,6,LST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7158,41516,63.7,19133745,PALAVI JAYSHRI HAUSHIRAM,F,ST,6,LST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7161,42058,63.45,19134054,KOKANI GOPAL PRAKASH,M,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7172,45130,62.0,19141818,KAHANDOLE SUNIL VASANT,M,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7173,45140,62.0,19115503,AHER VISHAL RAJARAM,M,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7179,46907,61.13,19109465,GAWARI YOGITA DINKAR,F,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7180,46964,61.09,19131203,CHAUDHARI PARAG KESHAV,M,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7187,48158,60.42,19149928,GAIKWAD DHANANJAY SOPAN,M,ST,6,PHST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7188,48353,60.3,19145894,GAIKWAD ROHINI BALKRUSHNA,F,ST,6,GST,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7190,48526,60.21,19107974,BHANGARE SUVARNA NANDIRAM,F,ST,6,LSEBC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7196,48991,60.0,19125920,BHOYE BHALCHANDRA CHANDRAKANT,M,ST,6,GSEBC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7200,49792,59.39,19137378,SAHARE LALITA UTTAM,F,ST,6,GSC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7201,50138,59.15,19121472,DHUM SACHIN CHINTAMAN,M,ST,6,LSEBC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+7203,50653,58.73,19149251,MONDHE PRAKASH SHANTARAM,M,ST,6,LNTC,,201,Civil,201,Civil,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+7292,6761,82.79,19123066,JADHAV NIKHIL ASHOK,M,ST,6,GST,,201,Civil,201,Civil,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+7295,13033,77.76,19136802,JOPLE HEMLATA SADASHIV,F,ST,6,LST,,201,Civil,201,Civil,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+7306,28661,69.19,19111019,JAGALE RUPALI BAPURAO,F,ST,6,LOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",*,3.0
+7317,42494,63.27,19131106,DALVI AJINKYA SURESH,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7318,42620,63.21,19112294,MAHALE ROSHAN TUSHAR,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7330,47107,61.01,19153634,LAGARE SACHIN NARAYAN,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7334,48235,60.36,19142908,GAVIT DANIEL PRABHAKAR,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+7335,48247,60.36,19140206,PAWAR SANDIP JAYRAM,M,ST,6,GST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7340,48971,60.0,19126894,MAVALI AVINASH BAJYA,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",^,1.0
+7342,49117,60.0,19115510,DESHMUKH HARSHAL BHARAT,M,ST,6,GST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7343,49233,60.0,19148588,CHAVAN SUSHANT RAMDAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+7345,49891,59.33,19136332,JAGTAP DEVENDRA DATTU,M,ST,6,GST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",*,3.0
+7349,50534,58.85,19133404,PAWARA SAVAN MADAN,M,ST,6,GST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",^,1.0
+7350,51062,58.37,19115742,CHAURE SULOCHANA DILIP,F,ST,6,LOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7352,51401,58.06,19116920,ZHOLE PRIYANKA YADAV,F,ST,6,LOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7357,52005,57.39,19130533,PAWARA PRADIP JAMSING,M,ST,6,GST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7359,52200,57.15,19159094,KADALE AMOL RAMDAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+7360,52206,57.15,19135783,GAIKWAD ROHAN DEVIDAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",#,2.0
+7361,52501,56.73,19134125,BHOYE HEENA CHHOTU,F,ST,6,LST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7366,53191,55.64,19109621,THAKARE PIYUSH BALU,M,ST,6,LST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7372,54552,45.76,19149520,BAGUL MAYUR ASHOK,M,ST,6,LST,,201,Civil,201,Civil,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+7437,37168,65.52,19137494,SUTAR VIRAJ KISHOR,M,ST,6,GOPEN,,201,Civil,201,Civil,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+7442,37768,65.27,19129637,GHARE YOGESH SURESH,M,ST,6,MIMH,,201,Civil,201,Civil,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^-,
+7449,46141,61.52,19158538,PATIL SANTOSH DINKAR,M,ST,6,MIMH,,201,Civil,201,Civil,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^-,
+7513,31344,68.0,19152435,VALVI MAYAVATI HARICHANDRA,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7514,31446,67.94,19127222,GAVIT KARTIK KAILAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7516,32152,67.64,19151941,VALVI PRITESH VIKRAM,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7517,32707,67.39,19133299,VALVI RAHUL MAHENDRA,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7519,34015,66.85,19143385,GAVIT RAKESH KARMA,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7522,40592,64.06,19120308,PADVI DIKSHA DIPAK,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7526,42072,63.45,19142488,PADVI VILAS VANSING,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7527,43133,62.97,19140886,GAVIT PRATIBHA BHIMSING,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7528,43388,62.85,19100926,VALVI PRAMIT VIVEK,M,ST,6,GOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7529,44271,62.42,19148299,PADAVI LAXMI AMASHYA,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7531,49598,60.0,19141516,TADVI GEETA BABURAO,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",#,2.0
+7532,49712,59.52,19147443,SURYAWANSHI MONALI MUKESH,F,ST,6,LOPEN,,201,Civil,201,Civil,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+7564,4895,84.61,19142310,CHAUDHARI MAYURI BAPU,F,ST,6,LOPEN,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+7576,8573,81.15,19158617,DESHMUKH SANGITA SHAMRAO,F,ST,6,LOPEN,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+7592,14519,76.73,19141259,BHARSAT KHUSHAL MANOJ,M,ST,6,GST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+7594,14771,76.55,19114525,PAWAR SUJATA RAMDAS,F,ST,6,GST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+7597,16896,75.21,19152313,VALVI PALLAVI BHIMSING,F,ST,6,LST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+7613,21205,72.79,19145231,JOPALE POONAM SOMNATH,F,ST,6,LST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+7619,23700,71.52,19127484,KHURKUTE NITIN YASHVANT,M,ST,6,GST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+7620,24202,71.27,19106635,BHOYE SURAJ NAMDEO,M,ST,6,GST,,201,Civil,201,Civil,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+7690,50589,58.79,19158585,MALI MONALI UTTAM,F,ST,6,LST,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+7692,53743,54.3,19154716,DAGALE SANTOSH MADHUKAR,M,ST,6,GST,,201,Civil,201,Civil,5380,Ahmednagar,"Adsul's Technical Campus, Chas Dist. Ahmednagar",^,1.0
+7708,34872,66.48,19120806,RAMESHWARKAR HARSHANAD KAILAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",&,4.0
+7712,36785,65.7,19146912,KAMADE SHANKAR ATIRAM,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+7729,43549,62.79,19146899,PAWARA YOGESH LALSING,M,ST,6,GSEBC,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+7734,44151,62.48,19143634,SURYAWANSHI ROSHAN SHIVDAS,M,ST,6,GSEBC,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+7735,44391,62.36,19140424,VALVI RUSHIKESH RAMU,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+7745,47932,60.55,19117065,PAWARA NILESH NAVALSING,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+7747,50027,59.21,19136618,TADVI PRIYA ARJUN,F,ST,6,LST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+7799,14285,76.88,19123387,AHIRE RAJNANDINI POPAT,F,ST,6,LOPEN,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+7813,25369,70.73,19116060,TOPALE PRASHANT MURLIDHAR,M,ST,6,GST,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+7819,27825,69.58,19114875,TOPALE NILESH VISHNU,M,ST,6,GST,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+7835,33699,66.97,19114310,CHAUDHARI DEVENDRA HIRAMAN,M,ST,6,DFST,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+7840,39076,64.73,19134720,BAGUL DIPALI NANA,F,ST,6,LST,,201,Civil,201,Civil,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+7873,47617,60.73,19143265,MORE DIPAK HARSING,M,ST,6,GST,,201,Civil,201,Civil,5396,Jalgaon,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon",&,4.0
+7879,49787,59.39,19141876,JITENDRA SURVE,M,ST,6,LST,,201,Civil,201,Civil,5396,Jalgaon,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon",&,4.0
+7883,50923,58.48,19128384,PAWAR SAGAR AMARSING,M,ST,6,GST,,201,Civil,201,Civil,5396,Jalgaon,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon",^,1.0
+7892,53909,53.7,19159148,AHIRE PARAG BHARAT,M,ST,6,LST,,201,Civil,201,Civil,5396,Jalgaon,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon",&,4.0
+7928,36910,65.64,19150242,JADHAV SAGAR GULAB,M,ST,6,GST,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+7932,39898,64.36,19129402,PAWAR GANESH ASHOK,M,ST,6,GSEBC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+7936,42335,63.33,19143538,VASAVE DARPAN MUKESH,M,ST,6,LSEBC,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+7937,44404,62.36,19108388,SONALI FATTESING GAVIT,F,ST,6,LST,,201,Civil,201,Civil,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+7947,28487,69.27,19101409,MORE SARANG ANIL,M,ST,6,GOPEN,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",#,2.0
+7958,33602,67.03,19145796,RAUT NUTAN DEVRAM,F,ST,6,GST,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+7975,43813,62.67,19145345,CHAVAN RAHUL SUNATILAL,M,ST,6,GST,,201,Civil,201,Civil,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+7992,35434,66.24,19124663,SABALE PRASAD VISHNU,M,ST,6,LST,,201,Civil,201,Civil,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+8082,19616,73.64,19107870,PAWARA PALLAVI GULAB,F,ST,6,GOPEN,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8084,20052,73.39,19123275,PALVI VAIBHAV RAMRAO,M,ST,6,GST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8093,22596,72.06,19110786,PALAVI SUJATA SUKRAM,F,ST,6,GOPEN,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",*,3.0
+8119,27549,69.7,19158058,CHAUDHARI KAVITA HIRAMAN,F,ST,6,DFNTA,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8122,27969,69.52,19126752,BHOYE GAURI MOTIRAM,F,ST,6,LST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8130,32699,67.39,19106493,RANE PRAJAKTA ANIL,F,ST,6,GST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8132,34421,66.67,19111561,VALVI SHUBHAMKUMAR JITENDRASING,M,ST,6,GST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8135,36942,65.64,19126653,ANKITA KHANDVI,F,ST,6,GST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8137,38071,65.15,19136743,PALVI RAJAN JAGANNATH,M,ST,6,GST,,201,Civil,201,Civil,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+8182,8033,81.6,19143577,KATHE MAHESH GUNWANT,M,ST,6,DFST,,201,Civil,201,Civil,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",#,2.0
+8198,1418,89.39,19127074,LILAKE YOGESH DATTATRAYA,M,ST,6,GST,,201,Civil,201,Civil,6006,Pune,"College of Engineering, Pune",^,1.0
+8207,7395,82.24,19142343,WALKO PRANAY SHIVRAM,M,ST,6,GST,,201,Civil,201,Civil,6007,Sangli,"Walchand College of Engineering, Sangli",^,1.0
+8333,51852,57.58,19135321,GAVALI SHUBHAM VASANT,M,ST,6,GST,,201,Civil,201,Civil,6122,Pune,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",^,1.0
+8356,31857,67.76,19141925,BHALCHIM DIPALI BAJIRAO,F,ST,6,LOPEN,,201,Civil,201,Civil,6138,Pune,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",^,1.0
+8371,39368,64.61,19128182,VIRNAK SHAM HONA,M,ST,6,GOPEN,,201,Civil,201,Civil,6138,Pune,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",^,1.0
+8391,46663,61.27,19103011,BARDE AVINASH GORAKSHNATH,M,ST,6,GOPEN,,201,Civil,201,Civil,6138,Pune,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",^,1.0
+8497,52807,56.24,19158494,SANKET CHAVHAN,M,ST,6,GST,,201,Civil,201,Civil,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+8498,54528,47.58,19145556,GAGARE SHUBHAM ASHOK,M,ST,6,LST,,201,Civil,201,Civil,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",#,2.0
+8540,31868,67.76,19118574,GANGURDE VISHAL BHAGWAN,M,ST,6,GOPEN,,201,Civil,201,Civil,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+8546,34302,66.73,19135619,MADAGE BHUSHAN GANPAT,M,ST,6,GST,,201,Civil,201,Civil,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+8610,53492,55.03,19111087,PAWAR SAURABH VISHWANATH,M,ST,6,GST,,201,Civil,201,Civil,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+8772,8003,81.64,19114529,MALI NITIN SUDAM,M,ST,6,GST,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+8801,22789,72.0,19112039,WAJE ASHISH SURESH,M,ST,6,GST,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+8807,41958,63.52,19149309,KANAKE NIKHIL AMBADAS,M,ST,6,GST,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",#,2.0
+8808,52197,57.15,19103237,DAMSE VAIBHAV EKNATH,M,ST,6,LST,,201,Civil,201,Civil,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",#,2.0
+8857,13337,77.56,19102453,KEDARE VIJAY BABAN,M,ST,6,GST,,201,Civil,201,Civil,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+8926,19629,73.64,19107744,VALVI DARSHANA PRAKASH,F,ST,6,GST,,201,Civil,201,Civil,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+8927,27143,69.88,19125898,BHANDARI JANVI ANANTRAO,F,ST,6,GST,,201,Civil,201,Civil,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+8946,28744,69.15,19107136,PAWAR VARSHA SURESH,F,ST,6,GST,,201,Civil,201,Civil,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+8958,23114,71.82,19115845,BAGUL RUTUJA SAHEBRAO,F,ST,6,LOPEN,,201,Civil,201,Civil,6179,Pune,"Indira College of Engineering & Management, Pune",^,1.0
+9240,24339,71.21,19139704,PAWARA SANDIP REHANJYA,M,ST,6,GST,,201,Civil,201,Civil,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9254,41485,63.7,19110543,KAWATE KALPANA DHARMA,F,ST,6,LST,,201,Civil,201,Civil,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9256,54384,50.67,19102021,ROSHAN RAVIDAS VASAVE,M,ST,6,GST,,201,Civil,201,Civil,6187,Pune,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune",^,1.0
+9276,11966,78.55,19133843,MENGAL AJAY THAKAJI,M,ST,6,GST,,201,Civil,201,Civil,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+9511,19110,73.94,19105665,KALE DEEPALI RAJESH,F,ST,6,LST,,201,Civil,201,Civil,6223,Solapur,"Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",^,1.0
+9575,46573,61.29,19142189,KUVAR BHUSHAN DHANRAJ,M,ST,6,GST,,201,Civil,201,Civil,6250,Kolhapur,"D.Y. Patil College of Engineering and Technology, Kolhapur",&,4.0
+9653,36133,65.94,19117950,BANDE SWAPNIL BALU,M,ST,6,LST,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+9687,37170,65.52,19133629,SALMAKHE SHIVANI SANJAY,F,ST,6,LST,,201,Civil,201,Civil,6268,Kolhapur,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",^,1.0
+9768,17995,74.97,19110250,SULE SALONI PAVAN,F,ST,6,GST,,201,Civil,201,Civil,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+9769,18960,74.0,19147781,PANKAJ THASEN WAJE,M,ST,6,GST,,201,Civil,201,Civil,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+9903,18049,74.97,19105808,RAJENDRA VITTHAL BAHIRAM,M,ST,6,GST,,201,Civil,201,Civil,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+9904,32309,67.58,19102198,MAHALE RITESH DATTATRAY,M,ST,6,GST,,201,Civil,201,Civil,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+9924,52760,56.3,19129932,PAWARA SANDIP VIKALA,M,ST,6,LST,,201,Civil,201,Civil,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",&,4.0
+9999,20499,73.15,19121062,GAVIT KALYANI RAJENDRA,F,ST,6,GST,,201,Civil,201,Civil,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+10034,11378,78.97,19132068,KOKANI SHRIDHAR TUKARAM,M,ST,6,GST,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+10041,18253,74.42,19116059,DIWATE KUNAL NARAYAN,M,ST,6,GOPEN,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+10066,52467,56.79,19149562,SAPKAL AVINASH SURESH,M,ST,6,GST,,201,Civil,201,Civil,6303,Satara,"Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad",^,1.0
+10582,39106,64.73,19143788,LOKHANDE RITESH ASHOK,M,ST,6,GOPEN,,201,Civil,201,Civil,6325,Pune,"Alard Charitable Trust's Alard College of Engineering and Management, Pune",^,1.0
+10762,39771,64.42,19105487,MECHKAR ASHITOSH ASHOK,M,ST,6,GST,,201,Civil,201,Civil,6545,Satara,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.",^,1.0
+10784,7715,81.94,19142511,YOGESH BHIMA DOLAS,M,ST,6,GOPEN,,201,Civil,201,Civil,6609,Pune,"Jaihind College Of Engineering,Kuran",^,1.0
+10809,40261,64.24,19142957,GODE TUSHAR BALU,M,ST,6,GST,,201,Civil,201,Civil,6609,Pune,"Jaihind College Of Engineering,Kuran",^,1.0
+10830,54160,52.55,19128590,RAWATE YOGESH RAMDAS,M,ST,6,GST,,201,Civil,201,Civil,6609,Pune,"Jaihind College Of Engineering,Kuran",^,1.0
+10859,51894,57.52,19127942,CHAVAN KAUSTUBH MAHESH,M,ST,6,GST,,201,Civil,201,Civil,6620,Pune,"D. Y. Patil Institute of Engineering and Technology, Ambi",^,1.0
+11306,42743,63.15,19138010,JADHAV SUVARNA EKNATH,F,ST,6,LST,,201,Civil,201,Civil,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",#,2.0
+11307,44684,62.24,19138261,BHANGARE ANITA RANGANATH,F,ST,6,GST,,201,Civil,201,Civil,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",^,1.0
+11365,29503,68.81,19131985,THAKARE VISHAL SHANTARAM,M,ST,6,GST,,201,Civil,201,Civil,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11366,39069,64.73,19101980,JADHAV KAILAS ASHOK,M,ST,6,GST,,201,Civil,201,Civil,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11367,44406,62.36,19106989,DAWKHAR AKSHATA BALU,F,ST,6,GST,,201,Civil,201,Civil,6755,Pune,"JSPM Narhe Technical Campus, Pune.",^,1.0
+11474,46765,61.21,19115173,BORHADE SAURABH VITTHAL,M,ST,6,GST,,201,Civil,201,Civil,6758,Pune,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",^,1.0
+11795,35016,66.42,19117189,KENGALE RAJENDRA NAMDEV,M,ST,6,GST,,201,Civil,201,Civil,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",&,4.0
+12092,34155,66.79,19144129,MATE PRAKASH RAGHUNATH,M,ST,6,GST,,201,Civil,201,Civil,6787,Pune,"Dr. D. Y. Patil Educational Academy's, D.Y.Patil School of Engineering Academy, Ambi",#,2.0
+12137,37738,65.27,19130253,VASAVE UMESH RAMESH,M,ST,6,GST,,201,Civil,201,Civil,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",^,1.0
+12138,37919,65.21,19120272,GHUTE DAMINI VINAYAK,F,ST,6,LST,,201,Civil,201,Civil,6794,Pune,"Anantrao Pawar College of Engineering & Research, Pune",^,1.0
+12291,9695,80.24,19112990,GHIGE NIKHIL KRISHNA,M,ST,6,GST,,201,Civil,201,Civil,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12297,42329,63.33,19112471,DUTE DIPAK APNATH,M,ST,6,GST,,201,Civil,201,Civil,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12299,50286,59.03,19136542,ZANJARE ANJALI ROHIDAS,F,ST,6,LST,,201,Civil,201,Civil,6802,Pune,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",^,1.0
+12440,52286,57.03,19120550,KHURKUTE KIRAN PANDIT,M,ST,6,GST,,201,Civil,201,Civil,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",#,2.0
+12468,29790,68.67,19112335,LOKHANDE NEHA DNYANDEV,F,ST,6,LST,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",&,4.0
+12503,39784,64.42,19116000,MAHALE GEETANJALI BHAURAO,F,ST,6,LOPEN,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",^,1.0
+12518,42775,63.15,19101458,KARBHAL KAJAL BALU,F,ST,6,LOPEN,,201,Civil,201,Civil,6834,Pune,"Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon",^,1.0
+12802,21965,72.38,19136696,WAGHADE PRATIK KASHINATH,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",#,2.0
+12810,28740,69.16,19153388,MAVASKAR RAKHI RAM,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+12818,35270,66.31,19143792,KOLWATE SHITAL GANESHRAO,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+12826,25826,70.5,19133494,JUGNAKE SHRIKANT LAHOO,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+12834,50398,58.94,19144285,PENDAM AMIT ANIL,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",#,2.0
+13423,36056,66.0,19145124,SHUBHAM VIJAY MESHRAM,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",#,2.0
+13681,33342,67.13,19129757,MADAVI APEKSHA SURESH,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+13707,28820,69.13,19113070,MAYURI DILIP MADAVI,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+13715,39196,64.69,19130016,PAWAR NEHA NAVALSING,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,2020,Nanded,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",^,1.0
+14804,10182,79.85,19128764,RAUT ABHIJEET MAHENDRA,M,ST,6,DFST,,301,Computer & IT,301,Computer & IT,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+14878,35692,66.13,19121238,TADAVI AASIF KALANDAR,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+14905,15040,76.38,19101712,SAPKALE HARSHADA PRADEEPKUMAR,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+14923,22915,71.9,19101578,THAIL AJINKYA APINATH,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+15339,34668,66.56,19137968,KADU CHAITANYA PANDURANG,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+15365,30412,68.41,19100424,WAJE ASHWINI BHARAT,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+15366,38121,65.12,19137661,HINDOLE DARSHANA VIJAY,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+15444,39274,64.65,19157188,MAHALE LATIKA VIJAY,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+15536,21221,72.79,19110319,PATIL SHUBHAM MANOJ,M,ST,6,LST,,201,Civil,301,Computer & IT,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",^,1.0
+15666,44017,62.56,19142975,VALVI PRIYANKA DILIP,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+15930,4281,85.25,19112678,LAHANGE SIDDHI ANIL,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,3215,Mumbai Suburban,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai",^,1.0
+16806,11409,78.94,19153975,KUMRE SHRIECHHA RAMGOPAL,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+17080,23921,71.41,19103034,YERMA SUSHIL NAMDEO,M,ST,6,MIMH,,301,Computer & IT,301,Computer & IT,4136,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",*-,3.0
+17310,45818,61.69,19151589,UIKEY LALITA BABULAL,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,4143,Bhandara,"Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara,Nagpur",^,1.0
+17311,47601,60.75,19154735,SEWATA MANKUWAR GOWARDHAN,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,4143,Bhandara,"Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara,Nagpur",^,1.0
+17416,47367,60.88,19114811,TEKAM PRITI YADORAO,F,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,4145,Nagpur,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",^,1.0
+17490,27332,69.82,19129708,DOHTARE PRAFUL PANDURANG,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+17570,19047,74.0,19104565,UIKEY VAISHNAVI,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+17589,19519,73.7,19133031,SHRIRAME GIRISH DILIP,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+17640,20549,73.13,19120233,SURPAN SUYOG SAHEBRAO,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,4175,Wardha,"JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",^,1.0
+17743,29761,68.71,19128245,CHAUDHARI NEHA CHATRUGAN,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",^,1.0
+17754,38495,64.97,19118846,PURAM MEGHA LAHU,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4178,Nagpur,"Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur",*,3.0
+17768,13382,77.53,19119784,KHANDATE BHAWANA MANIKRAO,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,4179,Nagpur,"Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur",^,1.0
+17943,39595,64.53,19144547,PENDOR BHAWANA RAMDAS,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+18201,48632,60.17,19139319,GEDAM DHIRAJ JANARDHAN,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+18404,27357,69.81,19118885,GAVALI HARSHALI RAMESH,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5004,Jalgaon,"Government College of Engineering, Jalgaon",^,1.0
+18451,28007,69.5,19108602,PADVI DIPIKA UDESING,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",^,1.0
+18634,14050,77.06,19136188,GAYATRI SANJAY JADHAV,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+18648,25673,70.59,19158734,GANGURDE SAKSHI JIVRAJ,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+18668,28799,69.13,19127992,DESHMUKH SWAPNIL SHRAVAN,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+18704,4473,85.06,19142483,KORDE SHITAL MACHINDRANATH,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+18717,50812,58.59,19120056,PALKHEDKAR SIDDHI RAJENDRA,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+18864,28132,69.44,19149701,RUTUJA WAMAN CHARASKAR,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+18940,9345,80.5,19110194,ZIRWAL PREETI SHALIGRAM,F,ST,6,DFST,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+18951,23026,71.88,19127012,KAJAL VISHNU KHARATE,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+18964,38614,64.94,19109933,RANE JITENDRA NANDLAL,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+18981,27073,69.94,19154364,MORE SANDIP ANIL,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+19017,16143,75.69,19146037,KHOKLAE KASHABAI BABU,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+19474,37707,65.29,19124101,BENDKULE SANYUKTA KAMLAKAR,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+19475,39186,64.69,19107462,SAPTE MAYUR CHIMA,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+19510,43586,62.76,19107866,RAUT KUNAL SUDAM,M,ST,6,PHST,,301,Computer & IT,301,Computer & IT,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",*,3.0
+19533,43093,63.0,19155804,MALAVKAR LADKYA SAVJI,M,ST,6,MIMH,,301,Computer & IT,301,Computer & IT,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^-,
+19745,30954,68.13,19149337,BHAWARI SAMPADA MARUTI,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+19805,36816,65.69,19116434,GAVALI YOGESH SUBHASH,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+19809,46218,61.47,19117929,PAWARA VIJAYA AAPSING,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+19918,33938,66.88,19147593,GAWARI VANITA DATTU,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+19922,41851,63.53,19139443,THAKUR MAYURI SUNIL,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+19925,52127,57.25,19120635,CHAVHAN PUSHPA ZINA,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+19984,50918,58.5,19116800,GAWANDHE DAKSHATA RAMESH,F,ST,6,GST,,701,Knitting Technology,301,Computer & IT,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+20098,21966,72.38,19152932,SONAWANE AJINKYA RAMDAS,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,5449,Dhule,"Shri. Vile Parle Kelavani Mandal's Institute of Technology, Dhule",^,1.0
+20165,555,91.81,19144341,SONAWANE PRIYA SUBHASH,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,6006,Pune,"College of Engineering, Pune",^,1.0
+20323,35679,66.13,19107628,VEENA KISAN DOLAS,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+20407,25077,70.88,19157266,MATE RAVINDRA BHARAT,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+20510,31556,67.88,19137432,PHASALE DEVRAJ HIRAMAN,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",^,1.0
+20741,39327,64.63,19143682,VETTI AJAY BHASKAR,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6160,Pune,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",^,1.0
+20756,12647,78.06,19110232,GENGAJE NEHA SUBHASH,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+20757,24611,71.06,19107459,BARELA PRITESH VISHWAS,M,ST,6,DFST,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+20765,17490,75.0,19118814,AMBEKAR PRIYANKA RAJENDRA,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+20773,45581,61.81,19126124,GODE PRASHANT AAHILU,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",#,2.0
+21600,32615,67.44,19113667,KATHE MAYURI SAKHARAM,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+21918,2446,87.63,19118503,PAWARA SHUBHAM SURESH,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+21950,8487,81.21,19103610,GODE CHAKSHUTA PANDHARINATH,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+21951,19467,73.73,19121147,BHAWARI POONAM GENBHAU,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+21967,26194,70.31,19114812,BHALEKAR ABHIJEET HARISHCHANDRA,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+21984,40957,63.94,19154541,CHAUDHARI MADHURANI SAINATH,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+22006,17485,75.0,19139384,NANGARE ADITYA BALASAHEB,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+22008,42797,63.13,19124886,SAPANA KULMETHE,F,ST,6,DFST,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+22024,30838,68.19,19149813,TODASAM AKSHAY BHASKAR,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+22079,6823,82.75,19118859,DAMALE DIPALI SURESH,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+22129,53650,54.56,19114114,PATHAVE AKSHAY SOMNATH,M,ST,6,LST,,301,Computer & IT,301,Computer & IT,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+22181,49153,60.0,19106751,YUGAL JAGTAP,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",^,1.0
+22303,18139,74.95,19105828,KHANDATE MAYUR RAMDAS,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+22304,25718,70.56,19142715,INGLE SAGAR MANIKRAO,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+22336,34092,66.82,19139971,NEWARE HARSHADA BANDU,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",*,3.0
+22928,24777,71.0,19118246,SUREKHA HARI MADHE,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6322,Pune,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",^,1.0
+23134,33541,67.06,19154659,BHOSALE AMRUTA ANAND,F,ST,6,LST,,301,Computer & IT,301,Computer & IT,6419,Pune,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune",^,1.0
+23547,37564,65.35,19133403,GHANTE PRERNA VINOD,F,ST,6,GST,,301,Computer & IT,301,Computer & IT,6754,Pune,"International Institute of Information Technology (I2IT), Pune.",*,3.0
+23700,44367,62.41,19140243,UIKEY SURAJ SHRAWAN,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6759,Pune,"Shree Ramchandra College of Engineering, Lonikand,Pune",^,1.0
+24438,54452,49.69,19110147,MUTHE RAHUL NATHU,M,ST,6,GST,,301,Computer & IT,301,Computer & IT,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+24537,40571,64.07,19142978,PATEL SNEHALATA HARIRAM,F,ST,6,LST,,302,ENTC,302,ENTC,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+24586,37711,65.29,19121571,RAUT SHROTI ONKARRAO,F,ST,6,LST,,305,Instrumentation,302,ENTC,1012,Yavatmal,"Government Engineering College, Yavatmal",#,2.0
+25014,36885,65.65,19156364,YERMEKAR TRUPTI MADHUKARRAO,F,ST,6,LST,,302,ENTC,302,ENTC,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+25073,46491,61.35,19155839,SURATNE ADARSH RAJENDRA,M,ST,6,GOPEN,,302,ENTC,302,ENTC,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+25447,13559,77.41,19131524,KANNAKE VAISHNAVI MAHADEORAO,F,ST,6,GST,,302,ENTC,302,ENTC,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+26778,4715,84.8,19120232,KAMADE PUJA SUBHASH,F,ST,6,LOPEN,,302,ENTC,302,ENTC,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+26932,37659,65.3,19100652,GARASIA VAIBHAVI SANJAY,F,ST,6,GST,,302,ENTC,302,ENTC,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+26955,20538,73.14,19139891,SATKAR SUSHANT NANDARAM,M,ST,6,LST,,302,ENTC,302,ENTC,3139,Mumbai City,"Vidyalankar Institute of Technology,Wadala, Mumbai",^,1.0
+27362,9068,80.74,19107172,TADAVI SURAIYA AYUB,F,ST,6,LST,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+27364,10164,79.88,19113066,MALCHE MEENA SHAMKUMAR,F,ST,6,GST,,302,ENTC,302,ENTC,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+27758,31341,68.0,19103743,TADVI ASLAM KHATIN,M,ST,6,GOPEN,,302,ENTC,302,ENTC,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+27833,17835,74.97,19119492,HILE NISHANT SOMNATH,M,ST,6,GST,,302,ENTC,302,ENTC,3188,Mumbai City,"Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai",^,1.0
+28105,28304,69.35,19137889,GAVIT SUSHMA JAYANT,F,ST,6,LOPEN,,302,ENTC,302,ENTC,3196,Thane,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",^,1.0
+29072,24300,71.24,19142024,LOHAKARE MANISHA BHIMAJI,F,ST,6,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+29076,38318,65.04,19128667,BHOIR SHITAL DNYANDEO,F,ST,6,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",&,4.0
+29077,38586,64.94,19142229,GAVIT ASHWINI RAMA,F,ST,6,LOPEN,,302,ENTC,302,ENTC,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+29676,27651,69.65,19110510,NIKHANDE PRASHANT LAXMAN,M,ST,6,GOPEN,,302,ENTC,302,ENTC,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+30005,17711,75.0,19146259,RAUT PRIYANKA NARENDRA,F,ST,6,GST,,302,ENTC,302,ENTC,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+30713,17113,75.06,19126261,KUMBHARE JETAL RISHI,F,ST,6,LOPEN,,302,ENTC,302,ENTC,4136,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",^,1.0
+30908,42844,63.12,19129739,DHURVE SHRAWAN RAMESH,M,ST,6,GOPEN,,302,ENTC,302,ENTC,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+31176,52507,56.73,19123099,SHRIRAME PANKAJ HIRALAL,M,ST,6,GOPEN,,401,Machanical,302,ENTC,4145,Nagpur,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",^,1.0
+31335,39194,64.69,19110600,SONWANE RUPALI YUVRAJ,F,ST,6,LST,,302,ENTC,302,ENTC,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+31519,51560,57.88,19129209,AJAY SABULAL MAWASKAR,M,ST,6,GST,,302,ENTC,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+31544,48321,60.35,19144719,YELKE KISHOR ARUNRAO,M,ST,6,GOPEN,,401,Machanical,302,ENTC,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+32167,24037,71.35,19122400,MAYURI DHANRAJ NAITAM,F,ST,6,LOPEN,,302,ENTC,302,ENTC,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+32905,9322,80.53,19107471,KARATE RUTUJA KESHAV,F,ST,6,GOPEN,,302,ENTC,302,ENTC,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",@,5.0
+33226,10597,79.53,19127654,PAWAR SHIVANI SUBHASH,F,ST,6,LOPEN,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+33237,23877,71.41,19108237,KHANDVI POOJA ASHOK,F,ST,6,GOPEN,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+33245,39553,64.53,19110320,RAUT ASHWINI DHARMENDRA,F,ST,6,LST,,302,ENTC,302,ENTC,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+33348,28030,69.47,19123583,DALVI SHALINI HARIRAM,F,ST,6,LST,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+33371,41226,63.82,19159495,BAMBALE SAGAR KISAN,M,ST,6,LST,,302,ENTC,302,ENTC,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+33521,31862,67.76,19157022,PAWAR BHIMRAJ ARUN,M,ST,6,GOPEN,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+33523,34263,66.76,19154023,AHIRE RUPALI HIRAMAN,F,ST,6,LST,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+33534,47684,60.71,19111044,BAGUL VARSHA CHHAINATH,F,ST,6,LST,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+33703,44355,62.41,19127752,PAWARA DINESH AABASHA,M,ST,6,GOPEN,,302,ENTC,302,ENTC,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",^,1.0
+33876,49935,59.29,19140446,GAVIT ROSHAN DEVIDAS,M,ST,6,GOPEN,,302,ENTC,302,ENTC,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+34207,30567,68.35,19153591,CHAUDHARI LEELA EKNATH,F,ST,6,LST,,302,ENTC,302,ENTC,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+34441,23903,71.41,19135896,MAHALE YOGITA ANNAJI,F,ST,6,LOPEN,,302,ENTC,302,ENTC,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+34621,32237,67.59,19147827,BURUD RAMESH SHANKAR,M,ST,6,LST,,302,ENTC,302,ENTC,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+34635,26433,70.19,19118624,PAWAR TUSHAR PRAKASH,M,ST,6,GST,,302,ENTC,302,ENTC,6005,Satara,"Government College of Engineering, Karad",^,1.0
+34644,9049,80.75,19132724,DHADWAD SANJANA SHIVDAS,F,ST,6,LST,,302,ENTC,302,ENTC,6006,Pune,"College of Engineering, Pune",^,1.0
+36752,18501,74.29,19153258,DHADVAD ARATI SHANTARAM,F,ST,6,LST,,302,ENTC,302,ENTC,6220,Solapur,"Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",^,1.0
+37285,39417,64.59,19134075,SALUNKE RUSHIKESH SANJAY,M,ST,6,LST,,302,ENTC,302,ENTC,6271,Pune,"Pune Institute of Computer Technology, Dhankavdi, Pune",^,1.0
+37334,2296,87.88,19104642,DAMASE SAWAN GANPAT,M,ST,6,GST,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+37347,20200,73.31,19118275,BISNE CHAITANYA PRABHAKAR,M,ST,6,GST,,302,ENTC,302,ENTC,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+38042,5649,83.88,19117942,MORE SHYAM SADBAJI,M,ST,6,GST,,302,ENTC,302,ENTC,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",#,2.0
+38956,36511,65.82,19116970,JADHAV VIKAS BHIMAJI,M,ST,6,GST,,302,ENTC,302,ENTC,6322,Pune,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",^,1.0
+39603,21722,72.53,19154964,SAROKTE VAISHALI DAMODHAR,F,ST,6,LST,,302,ENTC,302,ENTC,6635,Pune,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune",^,1.0
+39607,27519,69.71,19150953,GADEKAR RAHUL VITTHAL,M,ST,6,GOPEN,,302,ENTC,302,ENTC,6635,Pune,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune",^,1.0
+40033,40380,64.18,19138613,SAGBHOR ROHIT TANHAJI,M,ST,6,GST,,302,ENTC,302,ENTC,6758,Pune,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",^,1.0
+40888,31442,67.94,19109315,WAYAL PRATIMA BALASAHEB,F,ST,6,GST,,303, Medical Electronics,303, Medical Electronics,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+40978,16037,75.75,19133507,MARASKOLHE KASTURI PRAKASH,F,ST,6,GST,,304,Electrical,304,Electrical,1002,Amravati,"Government College of Engineering, Amravati",^,1.0
+40988,46642,61.27,19149955,UIKE RANI NARAYAN,F,ST,6,LST,,304,Electrical,304,Electrical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+40998,42053,63.45,19144881,TEKAM LAXMIKANT VASANT,M,ST,6,GST,,304,Electrical,304,Electrical,1101,Buldhana,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon",^,1.0
+41019,28676,69.19,19112751,CHAVAN SARIKA SANJAY,F,ST,6,GST,,304,Electrical,304,Electrical,1107,Amravati,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",^,1.0
+41257,35806,66.12,19121499,CHANDEKAR PALLAVI BABURAO,F,ST,6,LOPEN,,304,Electrical,304,Electrical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+41307,49113,60.0,19131014,MARAPE ANIKET MAROTI,M,ST,6,GST,,304,Electrical,304,Electrical,1127,Yavatmal,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",^,1.0
+41320,14669,76.63,19155660,YUNO VRUSHABH SOMLAL,M,ST,6,GOPEN,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",^,1.0
+41352,42462,63.27,19137995,TUMRAM ASHWINI LAXMAN,F,ST,6,GSEBC,,304,Electrical,304,Electrical,1128,Amravati,"Prof Ram Meghe College of Engineering and Management, Badnera",*,3.0
+41600,38512,64.97,19155635,MORE ANITA ANIRUDDHA,F,ST,6,LOPEN,,304,Electrical,304,Electrical,1180,Washim,"Sanmati Engineering College, Sawargaon Barde, Washim",^,1.0
+41713,36241,65.94,19114951,DABERAO SUNIL EKNATH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,1265,Buldhana,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon.",^,1.0
+41756,40745,64.0,19152576,SOLANKE KISHOR YASHVANT,M,ST,6,GOPEN,,304,Electrical,304,Electrical,1268,Buldhana,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile",#,2.0
+41821,9186,80.63,19138964,CHAVAN HEMANT SOMNATH,M,ST,6,GST,,304,Electrical,304,Electrical,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+42024,37381,65.41,19115302,SASANE ARVIND NAMDEV,M,ST,6,GST,,304,Electrical,304,Electrical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",*,3.0
+42383,39903,64.36,19151034,ASOLE JYOTI MAROTI,F,ST,6,GST,,304,Electrical,304,Electrical,2141,Aurangabad,"Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad",^,1.0
+42702,29937,68.61,19107375,SASANE VIJAY BIBISHAN,M,ST,6,GST,,304,Electrical,304,Electrical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",*,3.0
+42717,28864,69.1,19113216,SANGALE SHIVANI VISHNU,F,ST,6,LST,,304,Electrical,304,Electrical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+42744,9300,80.54,19118380,CHAUDHARI DIPTI DATTATRAY,F,ST,6,LST,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+42751,12573,78.1,19124938,KUNDE VAISHNAVI NATHU,F,ST,6,GST,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+42776,23708,71.52,19108392,ANIKET ANIL BORDEKAR,M,ST,6,GST,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+42777,25088,70.85,19111905,KHANDAVE ADITI SADANAND,F,ST,6,GST,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",^,1.0
+42785,53672,54.48,19157907,RAVINA EKNATH DALVI,F,ST,6,PHST,,304,Electrical,304,Electrical,3146,Raigad,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",*,3.0
+42828,44409,62.36,19121408,DHODI BHAVESH DATTATRAY,M,ST,6,GST,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+42832,49791,59.39,19144321,DHUM PRADIP SHYAM,M,ST,6,GST,,304,Electrical,304,Electrical,3175,Raigad,"M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai",^,1.0
+42913,36034,66.0,19109513,TADAVI JAVED SARFARAJ,M,ST,6,GST,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+42919,38585,64.94,19113781,BHAVARI SANKET TUKARAM,M,ST,6,LST,,302,ENTC,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+42924,47963,60.54,19152302,UGALE NIKESH KESHAV,M,ST,6,DFST,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+42926,50133,59.15,19114534,BHADANGE KUNAL HARI,M,ST,6,GST,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+42930,53524,54.91,19118394,MAHALE MANOJ RAGHUNATH,M,ST,6,GST,,304,Electrical,304,Electrical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",^,1.0
+42982,25954,70.42,19128619,PAWAR ANAND MADHUKAR,M,ST,6,GST,,304,Electrical,304,Electrical,3200,Ratnagiri,"Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri",^,1.0
+42993,10964,79.27,19111583,RATHOD TANMAY VIJAY,M,ST,6,GST,,304,Electrical,304,Electrical,3203,Mumbai Suburban,"Atharva College of Engineering,Malad(West),Mumbai",^,1.0
+43084,29803,68.67,19106551,KUNDE RAVI RAJARAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^,1.0
+43125,4688,86.12,19121866,BHANDARI PRADIP PRAKASH,M,ST,6,LNTA,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",&,4.0
+43141,15736,75.94,19115036,BHUSARA JITESH ANIL,M,ST,6,GST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43146,18637,74.18,19135019,SHANVAR CHINTU DHAKATYA,M,ST,6,GST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43151,20524,73.15,19158203,PARADHI SHARAD GANESH,M,ST,6,LSEBC,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43154,28779,69.15,19110098,VELPADA SUREKHA CHINTAMAN,F,ST,6,LST,,304,Electrical,304,Electrical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+43168,27702,69.64,19135056,DHODI SANDIP SHANKAR,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",&,4.0
+43171,34704,66.55,19116520,UMTOL AKSHAY AVINASH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+43176,37909,65.21,19103876,KAMBDI PRAGATI ASHOK,F,ST,6,LOPEN,,304,Electrical,304,Electrical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",#,2.0
+43339,0,58.97,19149004,PRATIKSHA SUBHASH JADHAV,F,ST,6,LOPEN,,304,Electrical,304,Electrical,3436,Thane,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.",^,1.0
+43460,40960,63.94,19119072,DHODI PARAG JAYRAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43461,42635,63.21,19119028,PARADHI NIKHIL PRAKASH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43462,44408,62.36,19139366,KALE TEJAS ARJUN,M,ST,6,GOPEN,,304,Electrical,304,Electrical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",^,1.0
+43562,50376,58.97,19146357,WAGH UMESH BABAN,M,ST,6,GST,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+43565,52167,57.2,19107227,CHAUDHARI NAYAN KACHARU,M,ST,6,GST,,304,Electrical,304,Electrical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+43581,35318,66.3,19134325,MADAVI ADITYA SHANKAR,M,ST,6,GST,,304,Electrical,304,Electrical,4004,Chandrapur,"Government College of Engineering, Chandrapur",&,4.0
+43594,11616,78.79,19140397,SALAME KESHAV DHANRAJ,M,ST,6,GST,,304,Electrical,304,Electrical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+43765,46664,61.27,19124477,ABHISHEK RAMESH ATRAM,M,ST,6,MIMH,,304,Electrical,304,Electrical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^-,
+43959,31316,68.0,19151177,MADAVI SHILPA DHARAMLAL,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+43989,48017,60.5,19128849,KANGALE NIKHIL SURESH,M,ST,6,GST,,304,Electrical,304,Electrical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+44064,28109,69.45,19141146,UIKEY SAMIKSHA GYANCHAND,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+44065,28371,69.33,19152913,GATE SARANG GANESH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+44071,33862,66.91,19135010,SATPUTE JYOSNA RAMESH,F,ST,6,GOPEN,,304,Electrical,304,Electrical,4138,Nagpur,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",^,1.0
+44239,33997,66.85,19144233,KURMATE RAKHI RAMAJI,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",^,1.0
+44253,47322,60.91,19137919,BHALAVI ANIKET BALWANT,M,ST,6,LST,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",#,2.0
+44258,51896,57.52,19133677,DHURVE LALIT SHUKRACHARYA,M,ST,6,GST,,304,Electrical,304,Electrical,4144,Nagpur,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",^,1.0
+44375,36587,65.76,19154595,KHURSE SHUBHAM SAKHARAM,M,ST,6,GST,,304,Electrical,304,Electrical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+44404,50373,58.97,19125914,SIMRAN RAMKRUSHN PARCHAKE,F,ST,6,LST,,304,Electrical,304,Electrical,4147,Nagpur,"K.D.K. College of Engineering, Nagpur",^,1.0
+44448,44856,62.18,19147594,PANDHARE NISHIKANT YOGESHWAR,M,ST,6,LST,,304,Electrical,304,Electrical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+44459,27261,69.82,19137632,MADAVI SANKET SHANKARRAO,M,ST,6,GST,,304,Electrical,304,Electrical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+44482,32743,67.39,19131123,DHURWE DHIRAJ RAMESHRAO,M,ST,6,GST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+44506,40031,64.3,19124742,KHANDATE AISHWARYA RAMDAS,F,ST,6,LST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+44507,46519,61.33,19122226,KODAPE ASHA JIVANLAL,F,ST,6,GST,,304,Electrical,304,Electrical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+44574,42030,63.47,19141321,IDPATE AMIT SHIVCHARAN,M,ST,6,MIMH,,302,ENTC,304,Electrical,4172,Nagpur,"Anjuman College of Engineering & Technology, Nagpur",^-,
+44849,37330,65.45,19150448,YERME KANCHAN NARAYAN,F,ST,6,LSEBC,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",&,4.0
+44865,49341,60.0,19150161,DADMAL AJAY ANNAJI,M,ST,6,GST,,304,Electrical,304,Electrical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+45074,24705,71.03,19126314,KUMBHARE MOHIT RAJKUMAR,M,ST,6,GOPEN,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+45100,36912,65.64,19122570,MASARAM PRATIKSHA SUDHAKAR,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+45103,36943,65.63,19116101,KORAM SWAPNIL VILASRAO,M,ST,6,GST,,304,Electrical,304,Electrical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+45166,22967,71.88,19155663,MASRAM SAPANA HARIDAS,F,ST,6,LOPEN,,304,Electrical,304,Electrical,4197,Wardha,"Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)",^,1.0
+45174,41635,63.64,19129563,UIKEY JAYA SUDHAKAR,F,ST,6,LST,,304,Electrical,304,Electrical,4197,Wardha,"Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)",^,1.0
+45407,26205,70.3,19135316,PAWARA YOGESHWAR PRATAP,M,ST,6,GST,,304,Electrical,304,Electrical,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",^,1.0
+45411,41626,63.64,19152810,PAWAR YOGESH SOMA,M,ST,6,LST,,304,Electrical,304,Electrical,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",*,3.0
+45540,15382,76.18,19109023,DOBADE RAVINDRA VISHNU,M,ST,6,GST,,304,Electrical,304,Electrical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+45551,22569,72.06,19105593,THAKARE SACHIN SITARAM,M,ST,6,GST,,304,Electrical,304,Electrical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+45575,8781,80.97,19144468,MORE ROHINI RAMDAS,F,ST,6,LST,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+45597,8793,80.97,19115185,HARSHADA PUNDLIK PAWAR,F,ST,6,LST,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+45599,22711,72.0,19102313,CHAUDHARI PRASHANT PANDURANG,M,ST,6,GST,,304,Electrical,304,Electrical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",*,3.0
+45622,17952,74.97,19130328,CHAURE ANIL NARAYAN,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+45650,36562,65.76,19149125,MAHALE GOVIND YASHWANT,M,ST,6,GST,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+45666,50280,59.03,19128982,MAHALE KIRAN BEBILAL,M,ST,6,GST,,304,Electrical,304,Electrical,5124,Nashik,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",^,1.0
+45758,10127,79.88,19133139,BENDKULE SACHIN SITARAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+45768,31620,67.88,19137646,KAWATE ASHWINI DEORAM,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+45771,34996,66.42,19119016,BAGUL NAMRATA MADHUKAR,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+45772,35023,66.42,19141372,MAHALA SHARAD KISAN,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+45775,40902,63.94,19131223,BAGUL GANESH KARBHARI,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+45788,50740,58.67,19148228,PAWAR NITIN DASHRATH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",#,2.0
+45793,53371,55.29,19153843,BAGUL VIJAY BALU,M,ST,6,GST,,304,Electrical,304,Electrical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",&,4.0
+45835,11374,78.97,19134413,GAVLI MAYUR SHANKAR,M,ST,6,PHO,,304,Electrical,304,Electrical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+45842,14349,76.85,19137280,GAIKWAD SWATI KIRAN,F,ST,6,GST,,304,Electrical,304,Electrical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+45864,20386,73.21,19128122,CHAVAN PAYAL MAHARU,F,ST,6,GST,,304,Electrical,304,Electrical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+45905,46633,61.27,19137920,BHOIR NIVRUTTINATH RAVINDRA,M,ST,6,GST,,304,Electrical,304,Electrical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+45907,30863,68.18,19104385,NAIK AAKASHDIP BRIJLAL,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+45914,43779,62.67,19136776,GAVIT MOSHE RAMESH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+45915,45879,61.64,19126148,PADAVI ANJALI ELESH,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+45916,49478,60.0,19114958,VALVI SAPANIL SHIVRAM,M,ST,6,LOPEN,,401,Machanical,304,Electrical,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+45936,11459,78.91,19143549,GAWALI VISHALKUMAR SUKRAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+45958,37598,65.33,19149289,KAMDE PRAKASH SUKLAL,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+45966,41466,63.71,19154103,BAGUL NIKITA PRAKASH,F,ST,6,LST,,302,ENTC,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+46061,25592,70.61,19114449,PAWARA KESHAV PHOPA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5171,Jalgaon,"Godavari Foundation's Godavari College Of Engineering, Jalgaon",^,1.0
+46084,42060,63.45,19111547,VASAVE DINESH DHARMA,M,ST,6,GST,,304,Electrical,304,Electrical,5171,Jalgaon,"Godavari Foundation's Godavari College Of Engineering, Jalgaon",^,1.0
+46088,42882,63.09,19143286,PAWARA TEGA RANYA,M,ST,6,GST,,304,Electrical,304,Electrical,5171,Jalgaon,"Godavari Foundation's Godavari College Of Engineering, Jalgaon",^,1.0
+46118,27973,69.52,19115753,GAYAKWAD SAGAR RATILAL,M,ST,6,MIMH,,304,Electrical,304,Electrical,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",^-,
+46198,17004,75.15,19137485,BHOJANE RACHANA SURESH,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+46221,29691,68.73,19130169,BADADE MADHURA LALU,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+46222,30629,68.3,19130887,BASTE KOMAL RATNAKAR,F,ST,6,LST,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+46236,36931,65.64,19123854,WAGH SHREYASH AABA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",*,3.0
+46254,44739,62.24,19111565,BHARASAT MURALIDHAR KRISHNA,M,ST,6,GST,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",*,3.0
+46259,46621,61.27,19142434,SARUKTE PRASHANT KALU,M,ST,6,GST,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+46268,49898,59.33,19159306,BHOIR DNYANESHWAR DATTU,M,ST,6,GST,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",^,1.0
+46274,51017,58.42,19157682,KHURKUTE YOGESH VIJAY,M,ST,6,GST,,304,Electrical,304,Electrical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",#,2.0
+46349,11456,78.91,19122404,GANGURDE RAHUL KAILAS,M,ST,6,GST,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+46358,12627,78.06,19108596,PAWAR AARTI SAHEBRAO,F,ST,6,LST,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+46364,14195,76.97,19108478,KENG SWAPNIL DYANESHWAR,M,ST,6,GST,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+46366,14606,76.67,19127096,LAHANGE AKSHAY SANJAY,M,ST,6,GST,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+46371,15148,76.3,19110545,BHAVAR SAYALI BHASKAR,F,ST,6,LST,,304,Electrical,304,Electrical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+46459,14695,76.61,19150252,HANDAVA KAILAS BHIVANJYA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+46466,25607,70.61,19158274,SONAWALA SWAPNIL SURESH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+46470,29951,68.61,19157947,BHANGARE ASHWINI SANJAY,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+46471,41253,63.81,19152046,CHAVHAN KAMLESH RAJENDRA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",&,4.0
+46543,31308,68.0,19109165,PADVI JAYESH ISHWAR,M,ST,6,GOPEN,,302,ENTC,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46545,35150,66.36,19146746,PAWARA RAKESH SUBHASH,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46546,38218,65.09,19129654,GAVIT ARUN NAGINDAS,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46548,43248,62.91,19138733,VALVI SANDIP FULSING,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46549,44047,62.55,19130069,VALVI DHARMESH JITENDRA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46552,52815,56.24,19158257,PARADKE ANIRUDDHA VANYA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46553,54514,48.18,19131003,AMIT PAWAR,M,ST,6,GOPEN,,201,Civil,304,Electrical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+46616,14003,77.09,19115335,VALVI PRATIBHA GARDYA,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+46636,21890,72.42,19104251,RAUT PRIYANKA RAJU,F,ST,6,LST,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",&,4.0
+46651,25753,70.55,19110369,GHANGALE REKHA PANDURANG,F,ST,6,LST,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+46666,29428,68.85,19111597,CHAURE BHAVANA KASHINATH,F,ST,6,GST,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+46672,30496,68.36,19110837,KHANDVI MAYA MADHUKAR,F,ST,6,PHO,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",&,4.0
+46680,32280,67.58,19119039,PAWAR JAYSHREE BALASAHEB,F,ST,6,GSC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",*,3.0
+46689,35158,66.36,19114370,GAVIT SUMESH VINOD,M,ST,6,GST,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+46710,39350,64.61,19127885,GAVIT NILESH JAYRAM,M,ST,6,LSEBC,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",&,4.0
+46718,53060,55.88,19138097,MALI DIVYANSHU RAJU,M,ST,6,GST,,304,Electrical,304,Electrical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",#,2.0
+46777,22621,72.06,19135479,VASAVE NIKITA SHARAD,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+46778,29339,68.88,19134758,MAVCHI JANESH DILIP,M,ST,6,GST,,302,ENTC,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+46795,47440,60.85,19150697,MALIS SURAJ SHYAMJI,M,ST,6,GST,,304,Electrical,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+46804,49347,60.0,19129484,THAKARE DINESH MADHUKAR,M,ST,6,GST,,302,ENTC,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+46837,11382,78.97,19150179,BAHIRAM YOGESH DHANLAL,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46844,20392,73.21,19126064,CHETNA UTTAM VALVI,F,ST,6,GOPEN,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46855,26206,70.3,19141373,GAVIT SUNIL MOTIRAM,M,ST,6,PHST,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",*,3.0
+46861,30211,68.48,19143997,BOMBALE SHRADDHA SANJAY,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46863,30895,68.18,19147057,RAUT MOHAN SHANTARAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46874,37741,65.27,19102768,CHAUDHAREE RAMU SURESH,M,ST,6,GST,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46879,39243,64.67,19136452,DAMBALE SUYOG KALURAM,M,ST,6,LSEBC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+46881,40065,64.3,19136192,GANGURDE RAHUL SUBHASH,M,ST,6,PHNTC,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46883,41304,63.76,19138841,SABALE DIPAK TEJMAL,M,ST,6,GST,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46895,46385,61.39,19133276,CHAUDHARI TWINKAL HIRAMAN,F,ST,6,LST,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",#,2.0
+46896,47525,60.79,19143327,GAVALI JIGISHA HARISHCHANDRA,F,ST,6,LST,,304,Electrical,304,Electrical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+46916,49936,59.29,19120108,RANE SAGAR LAXMAN,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5396,Jalgaon,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon",^,1.0
+46972,13851,77.21,19119226,CHAUDHARI KAVITA PANDHARINITH,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+46973,16907,75.21,19118195,CHAUDHARI KALPANA PANDHARINATH,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+46987,31400,67.94,19141289,GAVIT TUSHAR GANGARAM,M,ST,6,GSEBC,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+46988,31579,67.88,19139503,BHOYE NARENDRA ANANDA,M,ST,6,LSEBC,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",#,2.0
+46994,42341,63.33,19120612,GAVIT MINAL GULAB,F,ST,6,LST,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+46996,47101,61.03,19133572,MAHALE DHANRAJ TRAMBAK,M,ST,6,GST,,304,Electrical,304,Electrical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",*,3.0
+47019,47726,60.67,19158175,GAVIT DIPALI SITARAM,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",*,3.0
+47188,16983,75.15,19122764,SABALE YOGESH UTTAM,M,ST,6,GST,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+47190,17897,74.97,19145751,GAIKWAD VIVEK HARICHANDRA,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",*,3.0
+47192,18778,74.12,19125591,MALEKAR YASHODA BUDHA,F,ST,6,LST,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+47200,24821,70.97,19108501,AHIRE SAIPRASAD SUBHASH,M,ST,6,GST,,304,Electrical,304,Electrical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+47269,27975,69.52,19115059,TUMDAM NITIN SHANKARRAO,M,ST,6,GST,,304,Electrical,304,Electrical,6005,Satara,"Government College of Engineering, Karad",^,1.0
+47277,7945,81.7,19121107,TADVI PARVEJ NAWAB,M,ST,6,GST,,304,Electrical,304,Electrical,6006,Pune,"College of Engineering, Pune",*,3.0
+47316,41613,63.64,19130519,VASAVE AAMAS KASHIRAM,M,ST,6,GST,,304,Electrical,304,Electrical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+47342,49738,59.44,19147114,GHODE DIPALI SUNIL,F,ST,6,GST,,304,Electrical,304,Electrical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+47361,11361,79.0,19100627,GANGURDE AJIT GOMA,M,ST,6,LST,,401,Machanical,304,Electrical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",#,2.0
+47367,31488,67.94,19138075,PARDHI VISHAL VASANT,M,ST,6,GST,,304,Electrical,304,Electrical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+47391,25814,70.5,19101285,PADVI KALPESH DHARMRAJ,M,ST,6,GST,,304,Electrical,304,Electrical,6145,Pune,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",&,4.0
+47603,30351,68.42,19111228,KOKATE LATA BUDHA,F,ST,6,LST,,304,Electrical,304,Electrical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+47604,32262,67.58,19124348,JAGTAP NIRAJ RAGHUNATH,M,ST,6,GST,,304,Electrical,304,Electrical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+47614,49646,60.0,19155770,CHAURE MANOHAR SUBHASH,M,ST,6,GST,,304,Electrical,304,Electrical,6214,Sangli,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",^,1.0
+47889,14685,76.63,19112717,TITKARE PRAMOD DATTATRAY,M,ST,6,PHST,,304,Electrical,304,Electrical,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+47940,13045,77.76,19129995,BHOYE PRAVIN VASANT,M,ST,6,PHST,,304,Electrical,304,Electrical,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+47941,19350,73.81,19110284,SUPE ASHWINI SHIVAJI,F,ST,6,LST,,304,Electrical,304,Electrical,6278,Pune,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",^,1.0
+47962,34586,66.6,19119646,PAWARA PRAJAKTA BABAN,F,ST,6,GST,,304,Electrical,304,Electrical,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",^,1.0
+49236,41336,63.76,19114167,PENDAM ROHIT RAMUJI,M,ST,6,GST,,304,Electrical,304,Electrical,6772,Pune,"NBN Sinhgad Technical Institutes Campus, Pune",^,1.0
+49595,26378,70.24,19106008,BHOIR PURVA VIJAY,F,ST,6,LOPEN,,305,Instrumentation,305,Instrumentation,3174,Thane,"Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai",^,1.0
+49841,38872,64.82,19147778,CHAUDHARI HARSHAL GIRISH,M,ST,6,GST,,302,ENTC,305,Instrumentation,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+50161,38157,65.12,19121523,MARSKOLHE SUDESHNA CHINTAMANRAO,F,ST,6,LOPEN,,305,Instrumentation,305,Instrumentation,6282,Pune,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",^,1.0
+50180,7079,82.53,19131421,NEWARE CHETAN ONKAR,M,ST,6,PHST,,401,Machanical,401,Machanical,1002,Amravati,"Government College of Engineering, Amravati",#,2.0
+50195,31715,67.82,19122649,KOTJAWARE SUMIT RAMAJI,M,ST,6,GST,,401,Machanical,401,Machanical,1012,Yavatmal,"Government Engineering College, Yavatmal",^,1.0
+50377,43582,62.76,19102187,SOLANKE ABHINANDAN SUNIL,M,ST,6,GST,,401,Machanical,401,Machanical,1114,Amravati,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",^,1.0
+50574,53368,55.29,19131729,SAURABH SANTOSH MASRAM,M,ST,6,GOPEN,,401,Machanical,401,Machanical,1120,Yavatmal,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",^,1.0
+50679,37552,65.35,19156348,BHASKAR VIKI WAMAN,M,ST,6,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+50686,42921,63.06,19155914,BHOYAR AVINASH SANJAY,M,ST,6,GOPEN,,401,Machanical,401,Machanical,1123,Amravati,"Dr.Rajendra Gode Institute of Technology & Research, Amravati",^,1.0
+50860,43479,62.82,19147197,DONGRE HIMANSHU DNYANESHWARRAO,M,ST,6,GOPEN,,401,Machanical,401,Machanical,1126,Amravati,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati",^,1.0
+51151,35325,66.29,19146301,MAHALE PRASHANT VASANT,M,ST,6,GST,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51161,42100,63.45,19128208,PARDHI AKSHAY BHATU,M,ST,6,GST,,401,Machanical,401,Machanical,1182,Buldhana,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana",^,1.0
+51288,4971,84.53,19115961,AMBADARE ROHAN RAJU,M,ST,6,GST,,401,Machanical,401,Machanical,2008,Aurangabad,"Government College of Engineering, Aurangabad",^,1.0
+51512,29266,68.91,19102064,KHILLARE ANKUSH DEVIDAS,M,ST,6,GST,,401,Machanical,401,Machanical,2113,Aurangabad,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",^,1.0
+51817,34615,66.59,19143777,BORKAR SANTOSH NAMDEV,M,ST,6,GST,,401,Machanical,401,Machanical,2126,Aurangabad,"Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad",^,1.0
+52438,40982,63.94,19131997,SONULE VIJAY UDHAVRAO,M,ST,6,GST,,401,Machanical,401,Machanical,2137,Beed,"Nagnathappa Halge Engineering College, Parli, Beed",^,1.0
+52708,43120,63.0,19153686,LAKHADE TUKARAM HANVANTRAO,M,ST,6,GST,,401,Machanical,401,Machanical,2252,Parbhani,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani",^,1.0
+52933,30519,68.35,19140268,TEKAM RAMJI LAKSHMAN,M,ST,6,GST,,401,Machanical,401,Machanical,2516,Aurangabad,"International Centre of Excellence in Engineering & Management, Aurangabad.",^,1.0
+53260,11172,79.12,19111135,MEMANE ASHUTOSH NAMDEO,M,ST,6,GST,,401,Machanical,401,Machanical,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+53267,6292,83.25,19124277,DABERAO ABHISHEK JITENDRA,M,ST,6,GST,,401,Machanical,401,Machanical,3014,Mumbai Suburban,"Sardar Patel College of Engineering, Andheri",^,1.0
+53285,45830,61.65,19125646,LAHARE PRAVIN ARUN,M,ST,6,GST,,401,Machanical,401,Machanical,3033,Raigad,"Dr. Babasaheb Ambedkar Technological University, Lonere",^,1.0
+53304,34331,66.71,19122560,KAROTE PRITI PANDURANG,F,ST,6,LST,,401,Machanical,401,Machanical,3135,Mumbai Suburban,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",^,1.0
+53451,27515,69.71,19141820,DHABSA UDAY DEVLYA,M,ST,6,GST,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",#,2.0
+53464,46176,61.48,19109590,KHUTIKAR GANESH CHANDRAKANT,M,ST,6,GST,,401,Machanical,401,Machanical,3154,Raigad,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",^,1.0
+53658,8251,81.41,19103259,ERNAK MAYUR CHINTAMAN,M,ST,6,GST,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+53661,13019,77.76,19126967,SURYAWANSHI MAYUR SANJAY,M,ST,6,GST,,401,Machanical,401,Machanical,3187,Thane,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",^,1.0
+53720,42973,63.04,19122940,DANGAT SAMIR YAMNAJI,M,ST,6,GST,,401,Machanical,401,Machanical,3190,Thane,"Terna Engineering College, Nerul, Navi Mumbai",^,1.0
+53764,48703,60.12,19107352,AWARI ATISH VISHNU,M,ST,6,LST,,401,Machanical,401,Machanical,3192,Thane,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",*,3.0
+53790,32536,67.47,19112760,VALVI MANGESH UMARSING,M,ST,6,GST,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+53794,39283,64.65,19112419,MAHALE ROHIT RAGHUNATH,M,ST,6,GST,,401,Machanical,401,Machanical,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",^,1.0
+53806,26280,70.29,19141800,MERE PRATIK CHANDRAKANT,M,ST,6,GST,,401,Machanical,401,Machanical,3194,Palghar,"Vidyavardhini's College of Engineering and Technology, Vasai",&,4.0
+54047,54114,52.88,19117915,CHAURE GITESH BALU,M,ST,6,GST,,401,Machanical,401,Machanical,3202,Ratnagiri,Rajendra Mane College of Engineering & Technology Ambav Deorukh,^,1.0
+54275,24162,71.29,19136147,KHADE GANESH KISAN,M,ST,6,GST,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+54312,39689,64.47,19103361,THAKARE ROHIT RAJENDRA,M,ST,6,GST,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+54321,54214,52.24,19145671,PATEKAR SANDEEP DEORAM,M,ST,6,GST,,401,Machanical,401,Machanical,3217,Thane,"Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",^,1.0
+54345,25440,70.71,19103553,BHOYE MEGHA GOVIND,F,ST,6,LOPEN,,401,Machanical,401,Machanical,3218,Palghar,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",^,1.0
+54408,44481,62.35,19138329,JADHAV SUNIL DAGAJI,M,ST,6,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",&-,4.0
+54414,49318,60.0,19101372,BHOIR PRASAD BHAU,M,ST,6,MIMH,,401,Machanical,401,Machanical,3219,Thane,"Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",^-,
+54468,27053,69.94,19129723,HARPALE SANDIP VANSHA,M,ST,6,GST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54473,30981,68.12,19102460,JADHAV BHAVESH ASHOK,M,ST,6,GST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54475,32513,67.47,19114519,DONGARKAR MAHESH SUBHASH,M,ST,6,LST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54478,36036,66.0,19110606,VARTHE PRATIK ANIL,M,ST,6,LST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54481,38459,65.0,19112928,KENI MILIND GOVIND,M,ST,6,DFST,,401,Machanical,401,Machanical,3221,Palghar,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon",^,1.0
+54538,6363,83.18,19105164,DHODI SHUBHAM VIJU,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3222,Palghar,"Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar",^,1.0
+54666,9633,80.29,19126093,UGHADA SANJAY HIRAMAN,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3223,Raigad,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",^,1.0
+54771,29597,68.76,19113798,SHINDE RAHUL RAJENDRA,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3224,Raigad,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat",^,1.0
+54908,27811,69.59,19119520,YOGESH GANESH WAGH,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3351,Thane,"Bharat College of Engineering, Kanhor, Badlapur(W)",^,1.0
+55479,43285,62.88,19105073,KHANJODE SHUBHAM SURESH,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3445,Thane,"Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.",^,1.0
+55534,35263,66.31,19127681,GAVIT AMOL NETHU,M,ST,6,GOPEN,,401,Machanical,401,Machanical,3447,Raigad,"G.M.Vedak Institute of Technology, Tala, Raigad.",^,1.0
+55668,38686,64.88,19122406,GORWALA AJAY PRAKASH,M,ST,6,GST,,401,Machanical,401,Machanical,3465,Palghar,"Ideal Institute of Technology, Wada, Dist.Thane",#,2.0
+55727,29628,68.76,19115984,DIVEKAR PRAMOD TUKARAM,M,ST,6,GST,,401,Machanical,401,Machanical,3467,Raigad,"Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad",^,1.0
+56017,19191,73.88,19100798,KUMBHARE RAKESH GANESH,M,ST,6,GST,,401,Machanical,401,Machanical,4004,Chandrapur,"Government College of Engineering, Chandrapur",^,1.0
+56030,21270,72.76,19105836,RAUT YOGENDRA MAHESH,M,ST,6,LST,,401,Machanical,401,Machanical,4025,Nagpur,"Government College of Engineering, Nagpur",^,1.0
+56308,33395,67.12,19124645,NEWARE JITENDRA SHIVSHANKAR,M,ST,6,LOPEN,,401,Machanical,401,Machanical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^,1.0
+56313,37238,65.47,19102698,KURSUNGE TILAKCHAND RAMESH,M,ST,6,MIMH,,401,Machanical,401,Machanical,4123,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",^-,
+56462,34777,66.53,19154450,DHURVE ASEEK SEWAKRAM,M,ST,6,GST,,401,Machanical,401,Machanical,4135,Nagpur,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",^,1.0
+56562,52191,57.18,19122875,MASRAM YASH SUNIL,M,ST,6,MIMH,,401,Machanical,401,Machanical,4137,Nagpur,"Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur",&-,4.0
+57109,39576,64.53,19149029,KULSANGE KAJAL ARUNRAO,F,ST,6,LOPEN,,401,Machanical,401,Machanical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+57134,47243,60.94,19151268,MADAVI SWAPNIL VINODRAO,M,ST,6,GST,,401,Machanical,401,Machanical,4151,Nagpur,"Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur",^,1.0
+57195,42709,63.18,19144469,TALANDE KAPIL AMRASINGH,M,ST,6,GST,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+57198,44477,62.35,19141029,CHAUDHARI CHETAN DILIP,M,ST,6,GST,,401,Machanical,401,Machanical,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+57258,24810,71.0,19152285,VAIBHAV KUMAR UIKEY,M,ST,6,GST,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",#,2.0
+57260,32666,67.41,19151994,DEHARE ABHIJIT CHARANDAS,M,ST,6,GST,,401,Machanical,401,Machanical,4167,Nagpur,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur",^,1.0
+57279,50473,58.88,19136813,UIKEY SWAPNIL LAV,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4171,Nagpur,"Lokmanya Tilak Jankalyan Shikshan Sanstha's , Priyadarshini Institute of Engineering and Technology, Nagpur",#,2.0
+57372,21378,72.71,19107722,PARASGAYE SACHIN SUNILRAO,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4175,Wardha,"JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",^,1.0
+57995,14077,77.06,19151927,SURPAM ROSHAN LAXMAN,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+58013,32416,67.53,19144350,UIKEY TUSHAR DNYANESHWAR,M,ST,6,GST,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+58015,32428,67.53,19128807,GEDAM SHITRU DHARMARAO,M,ST,6,GST,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+58042,41738,63.59,19147130,TEKAM NAYANKUMAR HAUSU,M,ST,6,LST,,401,Machanical,401,Machanical,4190,Chandrapur,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati",^,1.0
+58282,22033,72.35,19152185,YESNE SHREYASH BHUMESH,M,ST,6,GST,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+58343,52142,57.24,19106805,CHAUDHARI ARVIND SUKARAM,M,ST,6,GST,,401,Machanical,401,Machanical,4195,Nagpur,"Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad � Patil College of Engineering, Nagpur",^,1.0
+58361,41473,63.71,19144877,VILAS YETIKUMBHARE,M,ST,6,GOPEN,,401,Machanical,401,Machanical,4196,Nagpur,"Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",^,1.0
+58535,47476,60.82,19158525,CHETAN KHANDATE,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",^,1.0
+58541,48330,60.35,19121374,DRUSHANT SANJAY MASRAM,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",&,4.0
+58569,54005,53.35,19153324,MATLAM DILIP LAXMAN,M,ST,6,GST,,401,Machanical,401,Machanical,4285,Nagpur,"V M Institute of Engineering and Technology, Dongargaon, Nagpur",&,4.0
+58976,8595,81.13,19123522,UIKEY GAURAV RAMESHWAR,M,ST,6,GST,,401,Machanical,401,Machanical,5004,Jalgaon,"Government College of Engineering, Jalgaon",^,1.0
+58996,50249,59.06,19132260,CHAVHAN KUNDAN ANIL,M,ST,6,GST,,401,Machanical,401,Machanical,5103,Dhule,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",^,1.0
+59017,14648,76.65,19110605,SONAWANE AAKASH GULABRAO,M,ST,6,GST,,401,Machanical,401,Machanical,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",^,1.0
+59057,50895,58.53,19151135,CHAVAN KAMLESH JAYDEV,M,ST,6,GST,,401,Machanical,401,Machanical,5104,Jalgaon,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon",#,2.0
+59396,25855,70.48,19116320,THAVIL AVINASH RAMDAS,M,ST,6,GST,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",^,1.0
+59401,39599,64.5,19128721,JADHAV PRAJAKTA UTTAM,F,ST,6,LST,,401,Machanical,401,Machanical,5108,Nashik,"Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik",#,2.0
+59408,6619,82.94,19133796,KUNWAR HITESH SHANTILAL,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+59451,31381,67.94,19102378,DAKHORE PRAKASH PRABHAKAR,M,ST,6,LST,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",*,3.0
+59457,44190,62.47,19142828,WAGHMARE MADHUKAR PUNDALIK,M,ST,6,GST,,401,Machanical,401,Machanical,5109,Nashik,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",^,1.0
+59481,16377,75.53,19154025,LAGARE SAGAR SANJAY,M,ST,6,GST,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+59494,11655,78.76,19131561,GOND SUSHIL SHIVMUNI,M,ST,6,GST,,401,Machanical,401,Machanical,5121,Nashik,"K. K. Wagh Institute of Engineering Education and Research, Nashik",^,1.0
+59723,51190,58.27,19151816,WAYKHINDE BHAGVAN ANIL,M,ST,6,GST,,401,Machanical,401,Machanical,5125,Nashik,"Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik",^,1.0
+59781,22389,72.18,19136998,CHAUDHARI RAJESH CHHOTURAM,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+59791,30698,68.29,19134717,BHOYE CHAITALI JAGNNATH,F,ST,6,LOPEN,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+59798,32422,67.53,19141426,ROHIT BHALCHANDRA BHOIR,M,ST,6,GST,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+59799,32495,67.47,19127944,GAVANDE TUSHAR SURESH,M,ST,6,GST,,401,Machanical,401,Machanical,5130,Nashik,"Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik",^,1.0
+59927,27821,69.59,19121621,MADHE VISHAL NANA,M,ST,6,GST,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+59937,40478,64.12,19103210,PATHAVE SURAJ WALU,M,ST,6,GST,,401,Machanical,401,Machanical,5139,Ahmednagar,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",^,1.0
+59962,13716,77.29,19147945,DALVI SHYAM VITTHAL,M,ST,6,GST,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+59974,24278,71.24,19119144,RAUT PADMAKAR TUKARAM,M,ST,6,GST,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+59980,30901,68.18,19130218,SHINDE ROHIT JIBHAU,M,ST,6,LST,,401,Machanical,401,Machanical,5151,Nashik,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",^,1.0
+60002,40602,64.06,19136119,PAWAR MAYA DILIP,F,ST,6,GST,,401,Machanical,401,Machanical,5160,Ahmednagar,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",^,1.0
+60037,40111,64.29,19104905,BARDE GANESH RAJENDRA,M,ST,6,GST,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+60042,42911,63.06,19125501,GHODE RESHMA TUKARAM,F,ST,6,LOPEN,,401,Machanical,401,Machanical,5161,Ahmednagar,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",^,1.0
+60080,16061,75.71,19118451,BHARMAL KISAN KALU,M,ST,6,GST,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+60087,37696,65.29,19131888,VARTHA ROSHAN RAMESH,M,ST,6,LST,,401,Machanical,401,Machanical,5162,Ahmednagar,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",^,1.0
+60095,48677,60.12,19116563,VASAVE VIRSINGH MADHAV,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5164,Nandurbar,"P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar",^,1.0
+60278,25034,70.88,19143854,PAWAR BHUSHAN BABAN,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+60312,43314,62.88,19156396,PAWARA SUNIL KOKARYA,M,ST,6,GST,,401,Machanical,401,Machanical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+60540,46431,61.38,19135092,BARELA MOHAN SUTAR,M,ST,6,GST,,401,Machanical,401,Machanical,5171,Jalgaon,"Godavari Foundation's Godavari College Of Engineering, Jalgaon",^,1.0
+60755,45728,61.71,19118610,CHAVAN HARISH DAGA,M,ST,6,MIMH,,401,Machanical,401,Machanical,5173,Nashik,"SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)",^-,
+60843,27639,69.65,19130080,BASTE POOJA RATNAKAR,F,ST,6,LST,,401,Machanical,401,Machanical,5177,Nashik,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik",&,4.0
+61135,23784,71.47,19107632,BHUSAR NITIN SURESH,M,ST,6,GST,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+61137,24192,71.29,19145296,DHURVE DIKSHANT VISHWANATH,M,ST,6,GST,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+61141,26778,70.06,19142038,SAPTE RAJESH GANPAT,M,ST,6,GST,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",#,2.0
+61151,36112,65.94,19121022,GAIKWAD JAYRAM PRAKASH,M,ST,6,LST,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+61153,46468,61.35,19157695,BENDKULE SHUBHAM KHANDU,M,ST,6,LST,,401,Machanical,401,Machanical,5181,Nashik,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",^,1.0
+61159,42963,63.06,19120065,SUTAR ASHVIN DILIP,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5182,Nashik,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik",&,4.0
+61294,24413,71.18,19156167,JADHAV DHIRESH BALIRAM,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5184,Nashik,"Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar",^,1.0
+61368,49499,60.0,19126758,GAVIT HARISH DAVID,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",^,1.0
+61369,50401,58.94,19130710,VALVI PRASHANT MURAJI,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5322,Nandurbar,"Jamia Institute Of Engineering And Management Studies, Akkalkuwa",&,4.0
+61427,40220,64.24,19142337,JADHAV SAWPNIL DILIP,M,ST,6,GST,,401,Machanical,401,Machanical,5330,Nashik,"Pune Vidyarthi Griha's College Of Engineering, Nashik",^,1.0
+61547,33235,67.18,19149417,GAIKWAD AKASH SAHEBRAO,M,ST,6,GST,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+61562,48948,60.0,19121892,MADAVI SUSHANT SANJAY,M,ST,6,GST,,401,Machanical,401,Machanical,5331,Nashik,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",^,1.0
+61648,46112,61.53,19147990,MAVACHI RANAJIT VILAS,M,ST,6,GST,,401,Machanical,401,Machanical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+61655,49536,60.0,19117644,VASAVE KUNTAN FARAMJI,M,ST,6,LST,,401,Machanical,401,Machanical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+61771,47556,60.76,19104882,PAWARA SUNIL RAJALA,M,ST,6,GST,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+61772,47804,60.65,19145881,PAWARA SURESH MUNIRAM,M,ST,6,GST,,401,Machanical,401,Machanical,5390,Nashik,"K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.",^,1.0
+61852,29082,69.0,19133984,WAYKANDE SHUBHAM MANGESH,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+61868,47883,60.59,19148984,KIRAN DINKAR CHAUDHARI,F,ST,6,LOPEN,,401,Machanical,401,Machanical,5399,Nashik,"Sanghavi College of Engineering, Varvandi, Nashik.",^,1.0
+61922,40483,64.12,19114152,CHAUDHARI ROSHAN LAXMAN,M,ST,6,GST,,401,Machanical,401,Machanical,5401,Nashik,"Jawahar Education Society's Institute of Technology, Management & Research, Nashik.",^,1.0
+61958,25148,70.82,19152738,MUTHE NILESH BHIMA,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5408,Ahmednagar,"Vidya Niketan College of Engineering, Bota Sangamner",^,1.0
+62069,44202,62.47,19129496,BHANGARE GAURI PRAKASH,F,ST,6,LOPEN,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+62077,53000,56.0,19148505,KHANDVI MANOJ CHATUR,M,ST,6,GST,,401,Machanical,401,Machanical,5409,Ahmednagar,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar",^,1.0
+62168,17480,75.0,19137583,JADHAV MANGESH SANJAY,M,ST,6,GST,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+62209,51368,58.06,19123953,GAWARE ABHISHEK DEVIDAS,M,ST,6,GST,,401,Machanical,401,Machanical,5418,Nashik,"Guru Gobind Singh College of Engineering & Research Centre, Nashik.",^,1.0
+62262,15179,76.29,19119567,BHUTAMBARE SANKET SANTOSH,M,ST,6,GST,,401,Machanical,401,Machanical,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+62263,17524,75.0,19117624,PALVI MAHESH PANDIT,M,ST,6,DFST,,401,Machanical,401,Machanical,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+62273,12162,78.41,19136564,SOYAM RAHUL ANIL,M,ST,6,GST,,401,Machanical,401,Machanical,6004,Pune,"Government College of Engineering & Research, Avasari Khurd",^,1.0
+62281,13059,77.76,19151299,KULSANGE KOMAL DATTAJI,F,ST,6,PHST,,401,Machanical,401,Machanical,6005,Satara,"Government College of Engineering, Karad",#,2.0
+62298,1268,89.75,19117323,GAWALI SHUBHAM KAILAS,M,ST,6,GST,,401,Machanical,401,Machanical,6006,Pune,"College of Engineering, Pune",^,1.0
+62307,13172,77.69,19138270,HARSHAD CHANDRASHEKHAR SHRIRAME,M,ST,6,DFST,,401,Machanical,401,Machanical,6007,Sangli,"Walchand College of Engineering, Sangli",#,2.0
+62699,24141,71.29,19116764,JOSHI SWAPNIL SANTOSH,M,ST,6,GST,,401,Machanical,401,Machanical,6139,Pune,"Progressive Education Society's Modern College of Engineering, Pune",^,1.0
+62764,41080,63.88,19111765,BELE SURAJ KESHAV,M,ST,6,GST,,401,Machanical,401,Machanical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",^,1.0
+62765,51209,58.24,19101751,SHINDE RUCHIR MANOJ,M,ST,6,GST,,401,Machanical,401,Machanical,6141,Pune,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",#,2.0
+62797,31091,68.07,19127535,ADHARI SUNIL SUBHASH,M,ST,6,GST,,401,Machanical,401,Machanical,6144,Pune,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",^,1.0
+63006,30871,68.18,19113123,GODE ASHUTOSH ROHIDAS,M,ST,6,LST,,401,Machanical,401,Machanical,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",^,1.0
+63008,37286,65.47,19127945,NANDE PRUTHVIRAJ VASANTA,M,ST,6,PHST,,401,Machanical,401,Machanical,6146,Pune,"MIT Academy of Engineering,Alandi, Pune",#,2.0
+63155,43597,62.76,19141345,NARWATKAR RUSHIKESH PANDURANG,M,ST,6,GST,,401,Machanical,401,Machanical,6156,Pune,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",^,1.0
+63313,13426,77.5,19125815,THAIL ANKUSH YASHWANT,M,ST,6,LST,,401,Machanical,401,Machanical,6175,Pune,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",^,1.0
+63427,15635,76.0,19131132,PARAG SHRIRANG KUMRE,M,ST,6,GST,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+63437,39675,64.47,19104799,PAWAR VISHAL VINAYAK,M,ST,6,GST,,401,Machanical,401,Machanical,6177,Pune,"Sinhgad College of Engineering, Vadgaon (BK), Pune",^,1.0
+65036,30560,68.35,19115767,NILESH SUKHADEO CHAURE,M,ST,6,GST,,401,Machanical,401,Machanical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+65051,40260,64.24,19129041,PAWARA SANDIP VIJAYSING,M,ST,6,GST,,401,Machanical,401,Machanical,6207,Pune,"Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune",^,1.0
+65153,38704,64.88,19136962,BHANGARE PANKAJ NIVRUTTI,M,ST,6,GST,,401,Machanical,401,Machanical,6217,Kolhapur,"Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur",^,1.0
+65584,37245,65.47,19114784,SABALE ROSHAN NAMDEV,M,ST,6,GST,,401,Machanical,401,Machanical,6267,Kolhapur,"Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",*,3.0
+65767,21810,72.47,19133079,BHOYE AKASH SANJAY,M,ST,6,LST,,401,Machanical,401,Machanical,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+65787,47132,61.0,19149913,KHADE SACHIN MANGALA,M,ST,6,GST,,401,Machanical,401,Machanical,6272,Pune,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",^,1.0
+65816,9082,80.73,19122650,NEHARE ANIKET BHASHKARRAO,M,ST,6,GST,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+65818,12090,78.44,19128912,NEWARE SHUBHAM KAMLESHWAR,M,ST,6,GST,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+65827,34299,66.73,19132230,VANDANA DEVIDAS PATALE,F,ST,6,LST,,401,Machanical,401,Machanical,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+65842,29049,69.0,19101686,BAREKAR SHREEYASH MAHADEORAO,M,ST,6,GST,,401,Machanical,401,Machanical,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+65920,17101,75.06,19153658,RAJWADE SAKSHI RAJENDRA,F,ST,6,LST,,401,Machanical,401,Machanical,6276,Pune,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",^,1.0
+66033,40738,64.0,19141241,BHURKE ANIL AMBADAS,M,ST,6,GST,,401,Machanical,401,Machanical,6281,Pune,"Modern Education Society's College of Engineering, Pune",^,1.0
+66162,26973,70.0,19106604,CHAVAN NILESH SHASHIKANT,M,ST,6,GST,,401,Machanical,401,Machanical,6283,Sangli,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",^,1.0
+66336,13343,77.56,19108953,BAGUL RITESH KANTILAL,M,ST,6,GST,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+66338,36388,65.88,19146417,KUDMETHE SHWETA ARUN,F,ST,6,LST,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",#,2.0
+66348,29526,68.8,19130467,GONDAKE TEJAS RAJARAM,M,ST,6,GST,,401,Machanical,401,Machanical,6289,Pune,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",^,1.0
+67089,48077,60.47,19112962,SABLE YASHRAJ VIGHNESH,M,ST,6,GST,,401,Machanical,401,Machanical,6310,Pune,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune",^,1.0
+67152,35612,66.18,19130909,JADHAV PRADIP RAMCHANDRA,M,ST,6,GST,,401,Machanical,401,Machanical,6311,Pune,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",^,1.0
+67745,28152,69.41,19138739,BHANGARE SHOBHA LAXMAN,F,ST,6,LOPEN,,401,Machanical,401,Machanical,6322,Pune,"Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi",^,1.0
+68130,21002,72.91,19135346,KENGLE RAHUL TUKARAM,M,ST,6,GOPEN,,401,Machanical,401,Machanical,6419,Pune,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune",^,1.0
+68525,42822,63.12,19115948,DIGHE PANKAJ VISHVANATH,M,ST,6,GST,,401,Machanical,401,Machanical,6609,Pune,"Jaihind College Of Engineering,Kuran",*,3.0
+69139,43707,62.71,19146511,JADHAR DASHARATH SOMAJI,M,ST,6,GST,,401,Machanical,401,Machanical,6635,Pune,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune",^,1.0
+69144,49694,59.65,19145997,GAWARI YOGESH LAXMAN,M,ST,6,GST,,401,Machanical,401,Machanical,6635,Pune,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune",^,1.0
+69748,47861,60.61,19133035,BHANGE SANJU MOHAN,M,ST,6,GST,,401,Machanical,401,Machanical,6732,Pune,"Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune",&,4.0
+70145,46830,61.18,19131327,VALVI SADANAND PITAMBAR,M,ST,6,GST,,401,Machanical,401,Machanical,6759,Pune,"Shree Ramchandra College of Engineering, Lonikand,Pune",^,1.0
+70356,19998,73.41,19113886,BAMBALE ATUL SANJAY,M,ST,6,GOPEN,,401,Machanical,401,Machanical,6767,Pune,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune.",^,1.0
+70568,45433,61.88,19115747,RENGADE NILANJAN LAXMIKANT,M,ST,6,GST,,401,Machanical,401,Machanical,6769,Pune,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",^,1.0
+71685,53362,55.29,19140272,CHAURE PRIYANKA SUKRAM,F,ST,6,LST,,401,Machanical,401,Machanical,6787,Pune,"Dr. D. Y. Patil Educational Academy's, D.Y.Patil School of Engineering Academy, Ambi",^,1.0
+72039,50328,59.0,19129733,KUWAR JEKAB RAJESH,M,ST,6,GST,,401,Machanical,401,Machanical,6808,Pune,"Keystone School of Engineering, Pune",^,1.0
+72244,25520,70.65,19135647,GHANE NIKHIL SANTU,M,ST,6,GST,,401,Machanical,401,Machanical,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+72245,37126,65.53,19157018,ADARSH TARACHAND MESHRAM,M,ST,6,GST,,401,Machanical,401,Machanical,6822,Pune,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",^,1.0
+72753,37360,65.44,19103603,VIKRANT VASANTRAO TEKAM,M,ST,6,LST,,401,Machanical,402,Production,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0
+72792,52357,56.96,19138702,NIKET VINAYAK TOPALE,M,ST,6,GST,,401,Machanical,402,Production,3193,Thane,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai",&,4.0
+72929,30713,68.27,19138307,KATHE VIJAY LAHU,M,ST,6,LST,,401,Machanical,402,Production,6006,Pune,"College of Engineering, Pune",^,1.0
+73104,33843,66.91,19134143,KACHARE VINAY GANPAT,M,ST,6,GST,,401,Machanical,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",^,1.0
+73108,49304,60.0,19135604,VASAVE VIKAS RAMESH,M,ST,6,LST,,401,Machanical,402,Production,6273,Pune,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",&,4.0
+73174,1765,88.8,19107113,RANADE DAYANAND SANJAY,M,ST,6,GST,,404,Metallurgy (Foundry Technology),404,Metallurgy (Foundry Technology),6006,Pune,"College of Engineering, Pune",^,1.0
+73191,31508,67.92,19146280,NETAM CHANDRASHEKHAR RAGHUVIR,M,ST,6,GST,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+73193,33840,66.92,19154727,DHURVE ANUJ SANDIP,M,ST,6,LST,,501,Mining,501,Mining,4163,Chandrapur,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,^,1.0
+73233,43426,62.83,19145229,BHALAVI SOURABH RADHESHYAM,M,ST,6,GOPEN,,501,Mining,501,Mining,4188,Chandrapur,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",^,1.0
+73372,52145,57.23,19152221,BHOJANE SATISH GOPINATH,M,ST,6,GST,,601,Printing Technology,601,Printing Technology,6274,Pune,"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",^,1.0
+73419,41782,63.58,19107075,SAPATE SADANAND ASHOK,M,ST,6,LST,,701,Knitting Technology,701,Knitting Technology,3012,Mumbai City,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",^,1.0

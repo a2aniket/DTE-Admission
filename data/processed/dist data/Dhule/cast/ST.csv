@@ -1,0 +1,36 @@
+,Unnamed: 0,Merit No,Marks,Application ID,Name of Candidate,Gender,Category,Category id,Seat Type,PWD/DEF,Sub Group,sub group name,cource_code,cource code name,college_code,Institute dict,Institute Name,Seat conformation,Seat conformation id
+12,6347,18447,74.3,19106444,KOKANI AISHWARYA SHIRISHKUMAR,F,ST,6,GST,,201,Civil,201,Civil,5103,Dhule,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",^,1.0
+18,6858,13662,77.33,19122783,KOKANI SINDHU JIVALU,F,ST,6,LOPEN,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+23,6863,23322,71.7,19128238,MORE RAHUL RAJENDRA,M,ST,6,GOPEN,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+33,6873,30472,68.36,19128699,CHAURE PRANJALI RAVINDRA,F,ST,6,LST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+43,6883,35301,66.3,19107588,GAWLI REENA JAGAN,F,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+76,6916,48867,60.0,19153249,SABALE KARTIKKUMAR CHINTAMAN,M,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+78,6918,49889,59.33,19135483,PAWAR GAYATRI ANIL,F,ST,6,GST,,201,Civil,201,Civil,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",&,4.0
+99,6994,29678,68.73,19130089,PAWAR SHAILENDRA SUNIL,M,ST,6,MIMH,,201,Civil,201,Civil,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",*-,3.0
+116,7708,34872,66.48,19120806,RAMESHWARKAR HARSHANAD KAILAS,M,ST,6,GOPEN,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",&,4.0
+120,7712,36785,65.7,19146912,KAMADE SHANKAR ATIRAM,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+137,7729,43549,62.79,19146899,PAWARA YOGESH LALSING,M,ST,6,GSEBC,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+142,7734,44151,62.48,19143634,SURYAWANSHI ROSHAN SHIVDAS,M,ST,6,GSEBC,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+143,7735,44391,62.36,19140424,VALVI RUSHIKESH RAMU,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+153,7745,47932,60.55,19117065,PAWARA NILESH NAVALSING,M,ST,6,GST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",#,2.0
+155,7747,50027,59.21,19136618,TADVI PRIYA ARJUN,F,ST,6,LST,,201,Civil,201,Civil,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+272,19805,36816,65.69,19116434,GAVALI YOGESH SUBHASH,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+276,19809,46218,61.47,19117929,PAWARA VIJAYA AAPSING,F,ST,6,LOPEN,,301,Computer & IT,301,Computer & IT,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+300,20098,21966,72.38,19152932,SONAWANE AJINKYA RAMDAS,M,ST,6,GOPEN,,301,Computer & IT,301,Computer & IT,5449,Dhule,"Shri. Vile Parle Kelavani Mandal's Institute of Technology, Dhule",^,1.0
+356,33521,31862,67.76,19157022,PAWAR BHIMRAJ ARUN,M,ST,6,GOPEN,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+358,33523,34263,66.76,19154023,AHIRE RUPALI HIRAMAN,F,ST,6,LST,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+369,33534,47684,60.71,19111044,BAGUL VARSHA CHHAINATH,F,ST,6,LST,,302,ENTC,302,ENTC,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+386,33703,44355,62.41,19127752,PAWARA DINESH AABASHA,M,ST,6,GOPEN,,302,ENTC,302,ENTC,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",^,1.0
+390,45936,11459,78.91,19143549,GAWALI VISHALKUMAR SUKRAM,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+412,45958,37598,65.33,19149289,KAMDE PRAKASH SUKLAL,M,ST,6,GOPEN,,304,Electrical,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+420,45966,41466,63.71,19154103,BAGUL NIKITA PRAKASH,F,ST,6,LST,,302,ENTC,304,Electrical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+445,46118,27973,69.52,19115753,GAYAKWAD SAGAR RATILAL,M,ST,6,MIMH,,304,Electrical,304,Electrical,5172,Dhule,"R. C. Patel Institute of Technology, Shirpur",^-,
+456,46777,22621,72.06,19135479,VASAVE NIKITA SHARAD,F,ST,6,LOPEN,,304,Electrical,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+457,46778,29339,68.88,19134758,MAVCHI JANESH DILIP,M,ST,6,GST,,302,ENTC,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+474,46795,47440,60.85,19150697,MALIS SURAJ SHYAMJI,M,ST,6,GST,,304,Electrical,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+483,46804,49347,60.0,19129484,THAKARE DINESH MADHUKAR,M,ST,6,GST,,302,ENTC,304,Electrical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+537,58996,50249,59.06,19132260,CHAVHAN KUNDAN ANIL,M,ST,6,GST,,401,Machanical,401,Machanical,5103,Dhule,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",^,1.0
+553,60278,25034,70.88,19143854,PAWAR BHUSHAN BABAN,M,ST,6,GOPEN,,401,Machanical,401,Machanical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+587,60312,43314,62.88,19156396,PAWARA SUNIL KOKARYA,M,ST,6,GST,,401,Machanical,401,Machanical,5169,Dhule,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",^,1.0
+693,61648,46112,61.53,19147990,MAVACHI RANAJIT VILAS,M,ST,6,GST,,401,Machanical,401,Machanical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
+700,61655,49536,60.0,19117644,VASAVE KUNTAN FARAMJI,M,ST,6,LST,,401,Machanical,401,Machanical,5381,Dhule,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha.",^,1.0
