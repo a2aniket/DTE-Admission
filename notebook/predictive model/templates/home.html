@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact form</title>
+
+    <style>
+      html, body {
+      min-height: 100%;
+      padding: 0;
+      margin: 0;
+      font-family: Roboto, Arial, sans-serif;
+      font-size: 14px;
+      color: #666;
+      }
+      h1 {
+      margin: 0 0 20px;
+      font-weight: 400;
+      color: #1c87c9;
+      }
+      p {
+      margin: 0 0 5px;
+      }
+      .main-block {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+       background-repeat: no-repeat;
+      }
+      form {
+      padding: 25px;
+      margin: 25px;
+      box-shadow: 0 2px 5px #f5f5f5; 
+      background: #f5f5f5; 
+      }
+      .fas {
+      margin: 25px 10px 0;
+      font-size: 72px;
+      color: #fff;
+      }
+      .fa-envelope {
+      transform: rotate(-20deg);
+      }
+      .fa-at , .fa-mail-bulk{
+      transform: rotate(10deg);
+      }
+      input, textarea,select{
+      width: calc(100% - 18px);
+      padding: 8px;
+      margin-bottom: 20px;
+      border: 1px solid #1c87c9;
+      outline: none;
+      }
+      input::placeholder {
+      color: #666;
+      }
+      button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      background: #1c87c9; 
+      font-size: 16px;
+      font-weight: 400;
+      color: #fff;
+      }
+      button:hover {
+      background: #2371a0;
+      }    
+      @media (min-width: 568px) {
+      .main-block {
+      flex-direction: row;
+      }
+      .left-part, form {
+      width: 50%;
+      }
+      .fa-envelope {
+      margin-top: 0;
+      margin-left: 20%;
+      }
+      .fa-at {
+      margin-top: -10%;
+      margin-left: 65%;
+      }
+      .fa-mail-bulk {
+      margin-top: 2%;
+      margin-left: 28%;
+      }
+
+      .item:hover p, .item:hover i, .question:hover p, .question label:hover, input:hover::placeholder {
+      color: #892e9b;
+      }
+      .item input:hover, .item select:hover, .item textarea:hover {
+      border: 1px solid transparent;
+      box-shadow: 0 0 6px 0 #892e9b;
+      color: #892e9b;
+      }
+      .item {
+      position: relative;
+      margin: 10px 0;
+      }
+            @media (min-width: 568px) {
+      .name-item, .city-item {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      }
+      .name-item input, .city-item input {
+      width: calc(50% - 20px);
+      }
+      .city-item select {
+      width: calc(50% - 8px);
+      }
+ 
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main-block">
+      <form action="/all" method="post">
+        <h1>all</h1>
+        <div class="info">
+          <input class="Marks" type="text" name="marks" placeholder="Marks">
+          <label>Gender</label>
+          <select required name="gender" >
+                <option value="0">Male</option>
+             	<option value="1">femail</option>
+           </select>
+          <label>Categery</label>
+          <select required name="cast">
+              	<option value="OPEN">OPEN</option>
+                <option value="OBC.">OBC</option>
+		<option value="SEBC">SEBC</option>
+	        <option value="SC.c">SC</option>
+		<option value="OPEN/EWS">OPEN/EWS</option>
+		<option value="ST.c">ST</option>
+		<option value="NT1.">NT1</option>
+		<option value="NT2.">NT2</option>
+		<option value="NT3.">NT3</option>
+		<option value="SBC/OBC">SBC/OBC</option>
+		<option value="DT/VJNT(A)">DT/VJNT(A)</option>
+		<option value="SBC">SBC</option>
+
+            </select>
+
+             <label>Course Code</label>
+          <select required name="course">
+              	<option value="101">Chemical</option>
+                <option value="201">Civil</option>
+		<option value="301">Computer & IT</option>
+		<option value="304">Electrical</option>
+		<option value="302">ENTC</option>
+		<option value="401">Machanical</option>
+            </select>
+        <button type="submit" href="/">Submit</button>
+       <Br>
+       <H1>{{prediction}}<H1>
+   
+      </form>
+      </div>
+      <form action="/dist" method="post">
+        <h1>dist</h1>
+        <div class="info">
+          <input class="Marks" type="text" name="distmarks" placeholder="Marks">
+          <label>Gender</label>
+          <select required name="distgender" >
+                <option value="0">Male</option>
+             	<option value="1">femail</option>
+           </select>
+		
+           <label>dist</label>
+          <select required name="dist">
+              	<option value="Pune">Pune</option>
+
+            </select>
+
+          <label>Categery</label>
+          <select required name="distcast">
+              	<option value="OPEN">OPEN</option>
+                <option value="OBC.">OBC</option>
+		<option value="SEBC">SEBC</option>
+	        <option value="SC.c">SC</option>
+		<option value="OPEN/EWS">OPEN/EWS</option>
+		<option value="ST.c">ST</option>
+		<option value="NT1.">NT1</option>
+		<option value="NT2.">NT2</option>
+		<option value="NT3.">NT3</option>
+		<option value="SBC/OBC">SBC/OBC</option>
+		<option value="DT/VJNT(A)">DT/VJNT(A)</option>
+		<option value="SBC">SBC</option>
+
+            </select>
+
+             <label>Course Code</label>
+          <select required name="distcourse">
+              	<option value="101">Chemical</option>
+                <option value="201">Civil</option>
+		<option value="301">Computer & IT</option>
+		<option value="304">Electrical</option>
+		<option value="302">ENTC</option>
+		<option value="401">Machanical</option>
+            </select>
+        <button type="submit" href="/">Submit</button>
+	<Br>
+       <H1>{{distprediction}}<H1>
+   
+      </form>
+    </div>
+  </body>
+</html>
